@@ -88,7 +88,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990ea0f0cc8ea15f1dba011?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Feb 14 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990e9970cc8ea15f1db9fe6?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Feb 14 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6990e9790f6f7e7a2ced50d7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 14 |
-| **[Columbus Crew](https://www.columbuscrew.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/6990e6280cc8ea15f1db9cca?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 14 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Color, Material, and Finish (CMF) Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/6990d9be6ea51a7610f34494?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 14 |
 | **[Lyft](https://www.lyft.com/)** | **[Architecture Design Intern (Summer 2026)](https://jobright.ai/jobs/info/693b6c67d4054a2bc0255bd3?utm_campaign=1049&utm_source=git)** | San Francisco County, CA | Hybrid | Feb 14 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Summer Architectural Intern (Chicago Region)](https://jobright.ai/jobs/info/69899b220f6f7e7a2ce49deb?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Feb 14 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900c0d6ea51a7610f278be?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901cb80cc8ea15f1dac3d4?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69900d090f6f7e7a2cec5f18?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Feb 13 |
-| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699015a76ea51a7610f27fef?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | Feb 13 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69901d370f6f7e7a2cec6e0b?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699011f10cc8ea15f1dab993?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699012030f6f7e7a2cec63ba?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 13 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/699013c90cc8ea15f1dabb7c?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 13 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc3270f6f7e7a2cec10d8?utm_campaign=1049&utm_source=git)** | USA-NC - Raleigh Office | Hybrid | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2f40f6f7e7a2cec1096?utm_campaign=1049&utm_source=git)** | USA-VA - Virginia Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2c76ea51a7610f22f24?utm_campaign=1049&utm_source=git)** | USA-AZ - Tempe Office | Hybrid | Feb 13 |
+| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2a00cc8ea15f1da603f?utm_campaign=1049&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
