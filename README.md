@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b13df4b53a1551f94c9e6?utm_campaign=1049&utm_source=git)** | Wilmington, North Carolina, United States | On Site | Feb 15 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 15 |
 | **[Swedish Falls LLC](www.swedishfalls.com)** | **[设计实习生](https://jobright.ai/jobs/info/69929559e0bddb6acac0ba6d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 15 |
 | **[En Face Magazine](https://enfacemagazine.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/699269260f6f7e7a2cee71fe?utm_campaign=1049&utm_source=git)** | Portland, OR | Remote | Feb 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc3f30f6f7e7a2cec11d1?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc3270f6f7e7a2cec10d8?utm_campaign=1049&utm_source=git)** | USA-NC - Raleigh Office | Hybrid | Feb 13 |
 | ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2f40f6f7e7a2cec1096?utm_campaign=1049&utm_source=git)** | USA-VA - Virginia Remote | Remote | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2c76ea51a7610f22f24?utm_campaign=1049&utm_source=git)** | USA-AZ - Tempe Office | Hybrid | Feb 13 |
-| ↳ | **[Intern, Design](https://jobright.ai/jobs/info/698fc2a00cc8ea15f1da603f?utm_campaign=1049&utm_source=git)** | USA-NY - New York Remote | Remote | Feb 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
