@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FasterOutcomes](https://fasteroutcomes.com/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69949402ce78e77b4fd89522?utm_campaign=1049&utm_source=git)** | Greater Boston | Remote | Feb 17 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Kansas City)](https://jobright.ai/jobs/info/68d510e12ed36439e51e4820?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 17 |
 | **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69947d4b81476f6176ac3f95?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
 | **[Skyryse](https://www.skyryse.com)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Feb 17 |
+| **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design Intern](https://jobright.ai/jobs/info/69949260e0bddb6acac30550?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 17 |
 | **[LOFT](https://www.loft.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c8624f1f8465b79f2aa7f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977d33a52f3c27ec643f798?utm_campaign=1049&utm_source=git)** | Westlake, TX | On Site | Feb 17 |
 | **[GPD Group](http://gpdgroup.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69781dde52f3c27ec6444a40?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 17 |
@@ -89,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 17 |
 | **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/699435e8ce78e77b4fd8296d?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Feb 17 |
-| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/6994802ae0bddb6acac2ef87?utm_campaign=1049&utm_source=git)** | Nashville Showroom - Nashville, TN 37204 | On Site | Feb 17 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
+| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6994802ae0bddb6acac2ef87?utm_campaign=1049&utm_source=git)** | Nashville Showroom - Nashville, TN 37204 | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Intern to Support Systems UX/UI Design and Communications](https://jobright.ai/jobs/info/699426a2ce78e77b4fd81b95?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/69940a11e0bddb6acac26602?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 16 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993b930ce78e77b4fd78f0f?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/69939bde81476f6176ab2fdc?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993a039ce78e77b4fd77376?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
-| ↳ | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993aab081476f6176ab44aa?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993b265e0bddb6acac1fa76?utm_campaign=1049&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
+| ↳ | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993aab081476f6176ab44aa?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Graphic Coordinator Intern - Chicago Region 2026](https://jobright.ai/jobs/info/698f1b630cc8ea15f1d97abf?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Unicef CHAD](http://www.unicef.org/chad)** | **[Design & Branding Intern, Amman, Jordan Country Office, (3 months), Full time on-site, (Open for Jordanian Nationals Only)](https://jobright.ai/jobs/info/6993745ce0bddb6acac1b9b1?utm_campaign=1049&utm_source=git)** | Jordan, PA | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - UX/UI Design](https://jobright.ai/jobs/info/69938858ce78e77b4fd75ba6?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Feb 16 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/699364f281476f6176ab0546?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[Design Intern](https://jobright.ai/jobs/info/699363e181476f6176ab04a9?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 16 |
-| **[NAC](http://nacarchitecture.com)** | **[Student Intern - Interior Design](https://jobright.ai/jobs/info/699396a0e0bddb6acac1dda1?utm_campaign=1049&utm_source=git)** | Spokane,WA,US | On Site | Feb 16 |
-| **[Cooper Carry](https://www.coopercarry.com/)** | **[Student Intern (Boulder, CO)](https://jobright.ai/jobs/info/6993bb3281476f6176ab58e3?utm_campaign=1049&utm_source=git)** | Boulder, Colorado, United States | On Site | Feb 16 |
-| **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/69937c11ce78e77b4fd74caf?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
