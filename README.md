@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Print Designer, Graphics Intern](https://jobright.ai/jobs/info/6993f5f6e0bddb6acac24625?utm_campaign=1049&utm_source=git)** | Waterford, CT | Remote | Feb 16 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Digital Visual Design (Sculptor)](https://jobright.ai/jobs/info/6993ee7681476f6176ab8fc6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Feb 16 |
+| **[Daimler Truck North America](https://northamerica.daimlertruck.com)** | **[UX UI Design Intern](https://jobright.ai/jobs/info/6993e0e5ce78e77b4fd7b542?utm_campaign=1049&utm_source=git)** | Portland, OR | Hybrid | Feb 16 |
 | **[Resmed](https://www.resmed.com.au)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6993d0fa81476f6176ab6c4b?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | Remote | Feb 16 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/6993ca6f81476f6176ab6677?utm_campaign=1049&utm_source=git)** | Lincoln, NE, United States | On Site | Feb 16 |
+| **[UNDP Careers](https://www.undp.org)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993e6e8ce78e77b4fd7bbc5?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[UNDP in the Arab States region](https://www.arabstates.undp.org/content/rbas/en/home.html)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993c71a81476f6176ab637b?utm_campaign=1049&utm_source=git)** | Utica-Rome Area | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993c534ce78e77b4fd79b76?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 16 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[UNDP](http://www.undp.org)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993b930ce78e77b4fd78f0f?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/69939bde81476f6176ab2fdc?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993a039ce78e77b4fd77376?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
-| ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993b265e0bddb6acac1fa76?utm_campaign=1049&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
 | ↳ | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993aab081476f6176ab44aa?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
+| ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993b265e0bddb6acac1fa76?utm_campaign=1049&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
 | **[The Walsh Group - Walsh Construction & Archer Western](http://www.walshgroup.com/)** | **[Graphic Coordinator Intern - Chicago Region 2026](https://jobright.ai/jobs/info/698f1b630cc8ea15f1d97abf?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Unicef CHAD](http://www.unicef.org/chad)** | **[Design & Branding Intern, Amman, Jordan Country Office, (3 months), Full time on-site, (Open for Jordanian Nationals Only)](https://jobright.ai/jobs/info/6993745ce0bddb6acac1b9b1?utm_campaign=1049&utm_source=git)** | Jordan, PA | On Site | Feb 16 |
@@ -113,10 +117,10 @@ For a complete list, click the following sortable link below:
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/69937c11ce78e77b4fd74caf?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 16 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/69935451ce78e77b4fd720c2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | **[RW Thrive](https://rwthrive.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6993527dce78e77b4fd71eed?utm_campaign=1049&utm_source=git)** | Eau Claire, WI, US | On Site | Feb 16 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936abece78e77b4fd73f5e?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936d6581476f6176ab09bb?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936abece78e77b4fd73f5e?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69937ce1e0bddb6acac1c1a2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 16 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936d6581476f6176ab09bb?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Program Internship Opportunity](https://jobright.ai/jobs/info/69936ec6ce78e77b4fd7421b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Creative Content Creator Intern (Flexible Schedule)](https://jobright.ai/jobs/info/699363e9ce78e77b4fd7370f?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Feb 16 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Industrial Design/User Experience - Michigan](https://jobright.ai/jobs/info/6993450681476f6176aadf21?utm_campaign=1049&utm_source=git)** | Portage, Michigan | On Site | Feb 16 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 15 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6991a31e0cc8ea15f1dc46ad?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6974e15dbc8e722e7b19e04a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 15 |
-| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 15 |
-| **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69917d1d0f6f7e7a2cedd8a7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6991775a0cc8ea15f1dc2407?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6991666f6ea51a7610f3c605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
