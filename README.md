@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Weyco Group, Inc.](http://www.weycogroup.com/)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69947d4b81476f6176ac3f95?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 17 |
+| **[Skyryse](https://www.skyryse.com)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Feb 17 |
 | **[LOFT](https://www.loft.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/695c8624f1f8465b79f2aa7f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 17 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977d33a52f3c27ec643f798?utm_campaign=1049&utm_source=git)** | Westlake, TX | On Site | Feb 17 |
 | **[GPD Group](http://gpdgroup.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69781dde52f3c27ec6444a40?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Feb 17 |
@@ -87,7 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 17 |
 | **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/699435e8ce78e77b4fd8296d?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Feb 17 |
-| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
+| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/6994802ae0bddb6acac2ef87?utm_campaign=1049&utm_source=git)** | Nashville Showroom - Nashville, TN 37204 | On Site | Feb 17 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Intern to Support Systems UX/UI Design and Communications](https://jobright.ai/jobs/info/699426a2ce78e77b4fd81b95?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/69940a11e0bddb6acac26602?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 16 |
@@ -122,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993cbc2e0bddb6acac2134a?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Feb 16 |
 | ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 16 |
 | **[SanStone Health & Rehabilitation](https://sanstonehealth.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/6993d09e81476f6176ab6bf9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Feb 16 |
-| **[Urban Canvas](https://urbancanvas.com/)** | **[Design Internship](https://jobright.ai/jobs/info/6993c827ce78e77b4fd79d17?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 16 |
 | **[RIOS](https://www.rios.com/)** | **[Landscape Architecture Internship Summer 2026](https://jobright.ai/jobs/info/69818d0c49964d25b5e4a6ec?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 16 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Feb 16 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69939d30e0bddb6acac1e499?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern - Interior Design](https://jobright.ai/jobs/info/699396a0e0bddb6acac1dda1?utm_campaign=1049&utm_source=git)** | Spokane,WA,US | On Site | Feb 16 |
 | **[Cooper Carry](https://www.coopercarry.com/)** | **[Student Intern (Boulder, CO)](https://jobright.ai/jobs/info/6993bb3281476f6176ab58e3?utm_campaign=1049&utm_source=git)** | Boulder, Colorado, United States | On Site | Feb 16 |
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/69937c11ce78e77b4fd74caf?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 16 |
-| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/69935451ce78e77b4fd720c2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
-| **[RW Thrive](https://rwthrive.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6993527dce78e77b4fd71eed?utm_campaign=1049&utm_source=git)** | Eau Claire, WI, US | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
