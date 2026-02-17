@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 17 |
+| **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/699435e8ce78e77b4fd8296d?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Feb 17 |
+| **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Intern to Support Systems UX/UI Design and Communications](https://jobright.ai/jobs/info/699426a2ce78e77b4fd81b95?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/69940a11e0bddb6acac26602?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 16 |
 | **[RLF](https://www.rlfarchitects.com)** | **[Interior Designer Summer Intern](https://jobright.ai/jobs/info/69940985e0bddb6acac26517?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
@@ -81,8 +84,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b93f81476f6176ab5656?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b53581476f6176ab51b7?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b3a4ce78e77b4fd78878?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
-| **[RLF](https://www.rlfarchitects.com)** | **[Interior Designer Summer Intern](https://jobright.ai/jobs/info/6993d5face78e77b4fd7a92d?utm_campaign=1049&utm_source=git)** | Orlando, Fl | On Site | Feb 16 |
-| ↳ | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6993d67de0bddb6acac21cc0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
+| **[RLF](https://www.rlfarchitects.com)** | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6993d67de0bddb6acac21cc0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
+| ↳ | **[Interior Designer Summer Intern](https://jobright.ai/jobs/info/6993d5face78e77b4fd7a92d?utm_campaign=1049&utm_source=git)** | Orlando, Fl | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993d2bdce78e77b4fd7a691?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[Design Intern](https://jobright.ai/jobs/info/6993b112ce78e77b4fd78584?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Store Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6993a99dce78e77b4fd77d30?utm_campaign=1049&utm_source=git)** | Kearney, NE | On Site | Feb 16 |
@@ -107,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6993a605e0bddb6acac1ed01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 16 |
 | **[UNDP](http://www.undp.org)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993b930ce78e77b4fd78f0f?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/69939bde81476f6176ab2fdc?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
-| **[RLF](https://www.rlfarchitects.com)** | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6994045981476f6176abb20f?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993a039ce78e77b4fd77376?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | ↳ | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993aab081476f6176ab44aa?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993b265e0bddb6acac1fa76?utm_campaign=1049&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[G2](https://www.g2.com)** | **[Summer Intern - Product Experience Design](https://jobright.ai/jobs/info/6993c3b0ce78e77b4fd79a78?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | Feb 15 |
 | **[Balance Now](https://www.balance.ca)** | **[Graphic Designer Team Member](https://jobright.ai/jobs/info/699247690f6f7e7a2cee649b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 15 |
-| **[Baker Barrios Architects](http://bakerbarrios.com)** | **[Intern](https://jobright.ai/jobs/info/69922f440cc8ea15f1dc9f75?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
