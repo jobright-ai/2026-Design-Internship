@@ -107,8 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6993a605e0bddb6acac1ed01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 16 |
 | **[UNDP](http://www.undp.org)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/6993b930ce78e77b4fd78f0f?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[TICAD Unit HQ Communications Intern](https://jobright.ai/jobs/info/69939bde81476f6176ab2fdc?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 16 |
-| **[RLF](https://www.rlfarchitects.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69940affe0bddb6acac26783?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Feb 16 |
-| ↳ | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6994045981476f6176abb20f?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
+| **[RLF](https://www.rlfarchitects.com)** | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6994045981476f6176abb20f?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
 | **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993a039ce78e77b4fd77376?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | ↳ | **[Men's Apparel Design Intern](https://jobright.ai/jobs/info/6993aab081476f6176ab44aa?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Feb 16 |
 | ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993b265e0bddb6acac1fa76?utm_campaign=1049&utm_source=git)** | Commerce, California, United States | On Site | Feb 16 |
@@ -128,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/69935451ce78e77b4fd720c2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | **[RW Thrive](https://rwthrive.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6993527dce78e77b4fd71eed?utm_campaign=1049&utm_source=git)** | Eau Claire, WI, US | On Site | Feb 16 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69937ce1e0bddb6acac1c1a2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 16 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936d6581476f6176ab09bb?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936abece78e77b4fd73f5e?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Program Internship Opportunity](https://jobright.ai/jobs/info/69936ec6ce78e77b4fd7421b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Creative Content Creator Intern (Flexible Schedule)](https://jobright.ai/jobs/info/699363e9ce78e77b4fd7370f?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Feb 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Balance Now](https://www.balance.ca)** | **[Graphic Designer Team Member](https://jobright.ai/jobs/info/699247690f6f7e7a2cee649b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 15 |
 | **[Baker Barrios Architects](http://bakerbarrios.com)** | **[Intern](https://jobright.ai/jobs/info/69922f440cc8ea15f1dc9f75?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 15 |
+| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Feb 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
