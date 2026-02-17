@@ -70,6 +70,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b93f81476f6176ab5656?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b53581476f6176ab51b7?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b3a4ce78e77b4fd78878?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
+| **[RLF](https://www.rlfarchitects.com)** | **[Interior Designer Summer Intern](https://jobright.ai/jobs/info/6993d5face78e77b4fd7a92d?utm_campaign=1049&utm_source=git)** | Orlando, Fl | On Site | Feb 16 |
+| ↳ | **[Architectural Internship - Student Summer Intern](https://jobright.ai/jobs/info/6993d67de0bddb6acac21cc0?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 16 |
+| **[ALO](https://www.aloyoga.com/)** | **[Store Design Intern](https://jobright.ai/jobs/info/6993d2bdce78e77b4fd7a691?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | **[Unlock Health](https://www.unlockhealthnow.com)** | **[Design Intern](https://jobright.ai/jobs/info/6993b112ce78e77b4fd78584?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Feb 16 |
 | **[The Buckle, Inc.](http://www.buckle.com)** | **[Store Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6993a99dce78e77b4fd77d30?utm_campaign=1049&utm_source=git)** | Kearney, NE | On Site | Feb 16 |
 | **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993cbc2e0bddb6acac2134a?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Feb 16 |
@@ -110,10 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/69937c11ce78e77b4fd74caf?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 16 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/69935451ce78e77b4fd720c2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 16 |
 | **[RW Thrive](https://rwthrive.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6993527dce78e77b4fd71eed?utm_campaign=1049&utm_source=git)** | Eau Claire, WI, US | On Site | Feb 16 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936abece78e77b4fd73f5e?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936abece78e77b4fd73f5e?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69936d6581476f6176ab09bb?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 | ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69937ce1e0bddb6acac1c1a2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 16 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 16 |
 | **[Avalon Apparel](https://www.avalonapparel.com/)** | **[Gen Z Fashion Board Program Internship Opportunity](https://jobright.ai/jobs/info/69936ec6ce78e77b4fd7421b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 16 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Creative Content Creator Intern (Flexible Schedule)](https://jobright.ai/jobs/info/699363e9ce78e77b4fd7370f?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Feb 16 |
 | **[Stryker](http://www.stryker.com/en-us/index.htm)** | **[2026 Summer Intern - Industrial Design/User Experience - Michigan](https://jobright.ai/jobs/info/6993450681476f6176aadf21?utm_campaign=1049&utm_source=git)** | Portage, Michigan | On Site | Feb 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Industrial Designers Society of America (IDSA)](http://www.idsa.org/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69917d1d0f6f7e7a2cedd8a7?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 15 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6991775a0cc8ea15f1dc2407?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 14 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6991666f6ea51a7610f3c605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 14 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/699165d90f6f7e7a2cedb9a0?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 14 |
-| **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/699138f30f6f7e7a2ced79bc?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Feb 14 |
-| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/696aa8c55fc862418539a07c?utm_campaign=1049&utm_source=git)** | Exeter, NH, US | On Site | Feb 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
