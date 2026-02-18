@@ -57,12 +57,21 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/69962fbee0bddb6acac48f82?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Feb 18 |
+| **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
 | **[Crowley Webb](http://crowleywebb.com)** | **[Route 86 Design, Copywriting, or Video Production Intern](https://jobright.ai/jobs/info/6995fa7ae0bddb6acac45ff1?utm_campaign=1049&utm_source=git)** | Buffalo, NY, US | On Site | Feb 18 |
-| **[pep, LLC.](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69960aa1e0bddb6acac46b34?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Feb 18 |
+| **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 18 |
+| **[Palm Springs Power Baseball](https://palmspringspowerbaseball.com)** | **[Social Media / Graphics Intern](https://jobright.ai/jobs/info/699625b681476f6176ade193?utm_campaign=1049&utm_source=git)** | Palm Springs, CA | Hybrid | Feb 18 |
+| **[pep, LLC.](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69961d82ce78e77b4fda12ac?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 18 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69960aa1e0bddb6acac46b34?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Feb 18 |
+| **[Ballinger](http://ballinger.com)** | **[Architecture Summer Intern](https://jobright.ai/jobs/info/69825edb0a9e07331f8d608f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 18 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Feb 18 |
+| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996151fe0bddb6acac47441?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | Feb 18 |
+| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996225fe0bddb6acac481c2?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Feb 18 |
+| **[NetApp](http://netapp.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6996219881476f6176addd0d?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 18 |
 | **[Keystone Education Group](https://www.keg.com)** | **[Internship in Graphic Design & Video Creation (m/f/d)](https://jobright.ai/jobs/info/6995f259ce78e77b4fd9eee9?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d428ffbd62a0a6565ca4d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[NetApp](http://netapp.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6995f528e0bddb6acac45d39?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
-| **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6995174ae0bddb6acac3a17a?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69421e5d14ee092a6900480a?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 18 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/6995bdc181476f6176ad91e6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
@@ -90,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[UX Content Strategist Intern](https://jobright.ai/jobs/info/6940be1f50bbaf765052bcaf?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 18 |
 | **[Kimball International](https://www.kimballinternational.com)** | **[Industrial Design Intern- Jasper, IN](https://jobright.ai/jobs/info/6979276052f3c27ec6456eaa?utm_campaign=1049&utm_source=git)** | Jasper, IN | On Site | Feb 18 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Feb 18 |
-| **[Burns Engineering, Inc.](http://burns-group.com)** | **[Proposal Intern - Summer 2026](https://jobright.ai/jobs/info/6979481b88e2b47213bd7ec6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 18 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Visual Merchandising](https://jobright.ai/jobs/info/69793d1b52f3c27ec64591a6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
 | ↳ | **[Fall 2026: Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995b2ff81476f6176ad8c6f?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
@@ -122,12 +130,12 @@ For a complete list, click the following sortable link below:
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Design Internship - Architect/Landscape Architect -  Summer 2026](https://jobright.ai/jobs/info/69953099e0bddb6acac3b883?utm_campaign=1049&utm_source=git)** | New Orleans, LA, US | On Site | Feb 17 |
 | **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Marketing Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69952ae381476f6176ad089b?utm_campaign=1049&utm_source=git)** | Houston, TX 77041, USA | On Site | Feb 17 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/699522fe81476f6176ad0089?utm_campaign=1049&utm_source=git)** | Jacksonville, Florida, United States | On Site | Feb 17 |
-| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69952c6681476f6176ad0a29?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 17 |
-| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69952609ce78e77b4fd93e2b?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Feb 17 |
-| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69954251ce78e77b4fd95f63?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 17 |
-| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/699543be81476f6176ad26b9?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 17 |
 | ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69954361e0bddb6acac3cf31?utm_campaign=1049&utm_source=git)** | Coral Gables, Florida, United States | On Site | Feb 17 |
+| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69952609ce78e77b4fd93e2b?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Feb 17 |
+| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/699543be81476f6176ad26b9?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 17 |
+| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69952c6681476f6176ad0a29?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Feb 17 |
 | ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/699526d1e0bddb6acac3ae78?utm_campaign=1049&utm_source=git)** | Birmingham, Alabama, United States | On Site | Feb 17 |
+| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69954251ce78e77b4fd95f63?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 17 |
 | **[JUNK Brands](https://junkbrands.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/699528fece78e77b4fd94080?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 17 |
 | **[Legendary Headwear](https://www.legendaryheadwear.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/69952696ce78e77b4fd93e89?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 17 |
 | **[NextPort.AI](http://www.nextport.ai)** | **[Design Internship - Architect/Landscape Architect -  Summer 2026](https://jobright.ai/jobs/info/699532a6e0bddb6acac3bab2?utm_campaign=1049&utm_source=git)** | New Orleans, LA, US | On Site | Feb 17 |
@@ -147,14 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (Auburn University - Students)](https://jobright.ai/jobs/info/6995066fe0bddb6acac38de9?utm_campaign=1049&utm_source=git)** | Birmingham, Birmingham, AL, US | On Site | Feb 17 |
 | ↳ | **[Landscape Architecture Intern (MSU - Students)](https://jobright.ai/jobs/info/69950e70ce78e77b4fd925eb?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 17 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Direct-to-Customer Innovation and Digital Health – CLL Navigator Intern (Remote)](https://jobright.ai/jobs/info/6994f76f81476f6176acd00d?utm_campaign=1049&utm_source=git)** | Remote (US) | Remote | Feb 17 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
-| ↳ | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
-| ↳ | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974317cbc8e722e7b1927f1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
-| **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6994ef49ce78e77b4fd90346?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
-| **[Benco Dental](https://www.benco.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6994e2e6e0bddb6acac36323?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Feb 17 |
-| **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Summer 2026](https://jobright.ai/jobs/info/6977ca0352f3c27ec643eb5c?utm_campaign=1049&utm_source=git)** | Greater Orlando | On Site | Feb 17 |
-| **[Deeplocal](http://deeplocal.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/6994db7581476f6176acaf58?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 17 |
-| **[WindowsWear](http://www.windowswear.com)** | **[Coach - Mentorship Program - Paid Summer Internship](https://jobright.ai/jobs/info/6994d88781476f6176acabad?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6994d6fc81476f6176aca9e4?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | Feb 17 |
-| **[Bryant & Stratton College](https://www.bryantstratton.edu)** | **[Intern-Athletics](https://jobright.ai/jobs/info/6994f29dce78e77b4fd9072b?utm_campaign=1049&utm_source=git)** | Wauwatosa, Wisconsin, United States | On Site | Feb 17 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
+| ↳ | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
