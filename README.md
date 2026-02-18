@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cover Genius](http://www.covergenius.com)** | **[Design Intern - Marketing / Brand](https://jobright.ai/jobs/info/69951db5ce78e77b4fd9352b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 17 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69951ad4e0bddb6acac3a3e2?utm_campaign=1049&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Feb 17 |
 | **[Denton House Design Studio](http://dentonhouse.com)** | **[Planning & Landscape Architecture Intern](https://jobright.ai/jobs/info/6994f91c81476f6176acd28b?utm_campaign=1049&utm_source=git)** | Holladay, UT | On Site | Feb 17 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6995174ae0bddb6acac3a17a?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 17 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (Auburn University - Students)](https://jobright.ai/jobs/info/6995066fe0bddb6acac38de9?utm_campaign=1049&utm_source=git)** | Birmingham, Birmingham, AL, US | On Site | Feb 17 |
 | ↳ | **[Landscape Architecture Intern (MSU - Students)](https://jobright.ai/jobs/info/69950e70ce78e77b4fd925eb?utm_campaign=1049&utm_source=git)** | Birmingham, AL, US | On Site | Feb 17 |
 | **[BeiGene](https://www.beigene.com)** | **[Summer Internship: Direct-to-Customer Innovation and Digital Health – CLL Navigator Intern (Remote)](https://jobright.ai/jobs/info/6994f76f81476f6176acd00d?utm_campaign=1049&utm_source=git)** | Remote (US) | Remote | Feb 17 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
-| ↳ | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Aviation Student Intern - Interior Design](https://jobright.ai/jobs/info/697439d837785856350e345e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
+| ↳ | **[Life and Work Places Student Intern - Interior Design](https://jobright.ai/jobs/info/69742bc1bc8e722e7b1921b5?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Feb 17 |
 | ↳ | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/6974317cbc8e722e7b1927f1?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6994ef49ce78e77b4fd90346?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | Feb 17 |
 | **[Benco Dental](https://www.benco.com/)** | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6994e2e6e0bddb6acac36323?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Feb 17 |
@@ -133,8 +135,8 @@ For a complete list, click the following sortable link below:
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/6905203d63502c0aded785cc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 17 |
 | **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/699435e8ce78e77b4fd8296d?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Feb 17 |
-| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/6994802ae0bddb6acac2ef87?utm_campaign=1049&utm_source=git)** | Nashville Showroom - Nashville, TN 37204 | On Site | Feb 17 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
+| **[Alfred Williams & Company](http://www.alfredwilliams.com)** | **[Design Intern](https://jobright.ai/jobs/info/69946ce8ce78e77b4fd86537?utm_campaign=1049&utm_source=git)** | Charlotte Showroom - Charlotte, NC 28202 | On Site | Feb 17 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6994802ae0bddb6acac2ef87?utm_campaign=1049&utm_source=git)** | Nashville Showroom - Nashville, TN 37204 | On Site | Feb 17 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Intern to Support Systems UX/UI Design and Communications](https://jobright.ai/jobs/info/699426a2ce78e77b4fd81b95?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 17 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 16 |
 | **[Hudl](http://www.hudl.com)** | **[Intern, Partnerships](https://jobright.ai/jobs/info/69940a11e0bddb6acac26602?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Feb 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6993c1d9e0bddb6acac20b44?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 16 |
 | ↳ | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993beede0bddb6acac207f4?utm_campaign=1049&utm_source=git)** | Commerce, CA | On Site | Feb 16 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern - Interior Design](https://jobright.ai/jobs/info/6993bcf8e0bddb6acac205df?utm_campaign=1049&utm_source=git)** | Spokane, WA | On Site | Feb 16 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b9a881476f6176ab56e2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 16 |
-| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b93f81476f6176ab5656?utm_campaign=1049&utm_source=git)** | Waukegan, IL | On Site | Feb 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
