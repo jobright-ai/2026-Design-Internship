@@ -67,7 +67,8 @@ For a complete list, click the following sortable link below:
 | **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design and Development Intern](https://jobright.ai/jobs/info/6997616d81476f6176af81e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Zebrosys](www.zebrosys.com)** | **[Graphic Design Mentee](https://jobright.ai/jobs/info/699779b481476f6176af96dd?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69977255e0bddb6acac62aea?utm_campaign=1049&utm_source=git)** | Rogers, AR | On Site | Feb 19 |
-| **[Rural King](https://www.ruralking.com)** | **[Internship - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/699781b481476f6176af9bd3?utm_campaign=1049&utm_source=git)** | US-IL-Mattoon | On Site | Feb 19 |
+| **[Rural King](https://www.ruralking.com)** | **[Internship - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/6997872ee0bddb6acac63970?utm_campaign=1049&utm_source=git)** | Mattoon, IL, US | On Site | Feb 19 |
+| ↳ | **[Internship - Graphic Design - Summer 2026](https://jobright.ai/jobs/info/699781b481476f6176af9bd3?utm_campaign=1049&utm_source=git)** | US-IL-Mattoon | On Site | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997528bce78e77b4fdbb2ca?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Feb 19 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Costume Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69945b0881476f6176ac151f?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
 | **[Atlantic Health](http://www.atlantichealth.org)** | **[Website Consumer Experience Intern](https://jobright.ai/jobs/info/69974f8881476f6176af779a?utm_campaign=1049&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RE/DONE](https://shopredone.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/6996538e81476f6176ae1bc3?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Feb 18 |
 | **[High Five Media](http://www.highfivemedia.com/)** | **[Graphic Design Associate](https://jobright.ai/jobs/info/69966dffe0bddb6acac4e493?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Feb 18 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69964e5cce78e77b4fda4e58?utm_campaign=1049&utm_source=git)** | Calgary | Hybrid | Feb 18 |
-| **[Stoltz Marketing Group](https://www.stoltzgroup.com/)** | **[Creative Internship 2026](https://jobright.ai/jobs/info/69964abee0bddb6acac4b41d?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
