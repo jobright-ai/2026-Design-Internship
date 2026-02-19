@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69963302e0bddb6acac4946e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 18 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/69965b91e0bddb6acac4cbce?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Feb 18 |
+| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6996636fe0bddb6acac4d73d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69963302e0bddb6acac4946e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
+| **[Book Depot](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
 | **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/6996537381476f6176ae1b94?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
@@ -83,6 +87,7 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Feb 18 |
 | **[Renovis Design](https://renovisdesign.com)** | **[Design Intern](https://jobright.ai/jobs/info/6996544981476f6176ae1ce8?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69964afae0bddb6acac4b46b?utm_campaign=1049&utm_source=git)** | Cedar City, Utah, United States | On Site | Feb 18 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Feb 18 |
 | **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
 | **[Crowley Webb](http://crowleywebb.com)** | **[Route 86 Design, Copywriting, or Video Production Intern](https://jobright.ai/jobs/info/6995fa7ae0bddb6acac45ff1?utm_campaign=1049&utm_source=git)** | Buffalo, NY, US | On Site | Feb 18 |
 | **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 18 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fresenius Kabi USA](http://www.fresenius-kabi.us)** | **[Intern - Communications](https://jobright.ai/jobs/info/6995324ace78e77b4fd94c85?utm_campaign=1049&utm_source=git)** | Lake Zurich, IL | On Site | Feb 17 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Digital Design Internship](https://jobright.ai/jobs/info/6995a4c0ce78e77b4fd9c17b?utm_campaign=1049&utm_source=git)** | Bellevue, Washington | On Site | Feb 17 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content & Digital Assets, Photo Operations](https://jobright.ai/jobs/info/69952d16ce78e77b4fd9455c?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Hybrid | Feb 17 |
-| **[ARM Institute](http://arminstitute.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6996520ece78e77b4fda547f?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Remote | Feb 17 |
-| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Design Internship - Architect/Landscape Architect -  Summer 2026](https://jobright.ai/jobs/info/69953099e0bddb6acac3b883?utm_campaign=1049&utm_source=git)** | New Orleans, LA, US | On Site | Feb 17 |
-| **[Toshiba International Corporation](http://www.toshiba.com/tic)** | **[Marketing Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69952ae381476f6176ad089b?utm_campaign=1049&utm_source=git)** | Houston, TX 77041, USA | On Site | Feb 17 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69952609ce78e77b4fd93e2b?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | Feb 17 |
-| ↳ | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/699543be81476f6176ad26b9?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
