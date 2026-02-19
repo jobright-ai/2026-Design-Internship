@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996d4adce78e77b4fdb0b14?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
+| **[Fliption](https://www.fliption.com)** | **[Creative Intern (Credited Internship)](https://jobright.ai/jobs/info/6996c9c3e0bddb6acac56a4c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Feb 18 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 18 |
 | **[Zendesk](http://zendesk.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996cb3381476f6176aeca79?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 18 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6996a7d2ce78e77b4fdad496?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/6996af6ece78e77b4fdae36f?utm_campaign=1049&utm_source=git)** | Utah, United States | Hybrid | Feb 18 |
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Interior Design](https://jobright.ai/jobs/info/6996b677ce78e77b4fdaed7c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
@@ -85,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Regional Creative](https://jobright.ai/jobs/info/699674d3e0bddb6acac4ed5c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
 | ↳ | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699682e281476f6176ae5bab?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern - Graphic Design Job ID : 272437](https://jobright.ai/jobs/info/69967a8ece78e77b4fda8ab7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/6996537381476f6176ae1b94?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Feb 18 |
 | **[Fendi](http://www.fendi.com)** | **[Intern, Visual Merchandising](https://jobright.ai/jobs/info/69793d1b52f3c27ec64591a6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
-| ↳ | **[Fall 2026: Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995b2ff81476f6176ad8c6f?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
-| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/6995a68fe0bddb6acac42fcf?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
