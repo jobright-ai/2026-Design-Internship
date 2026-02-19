@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997528bce78e77b4fdbb2ca?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Feb 19 |
+| **[Stewart Title](https://www.stewart.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69975198e0bddb6acac61391?utm_campaign=1049&utm_source=git)** | USA TX Houston - 1360 Post Oak Blvd | Hybrid | Feb 19 |
+| **[Atlantic Health](http://www.atlantichealth.org)** | **[Website Consumer Experience Intern](https://jobright.ai/jobs/info/69974f8881476f6176af779a?utm_campaign=1049&utm_source=git)** | 475 South St, Morristown, NJ, 07960, US | On Site | Feb 19 |
+| **[Skyryse](https://www.skyryse.com)** | **[3D Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6970479151f7264771827eea?utm_campaign=1049&utm_source=git)** | Greater Los Angeles Area, CA | On Site | Feb 19 |
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: UX/UI Design Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/699747cdce78e77b4fdba5a7?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Feb 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69974427e0bddb6acac5fb71?utm_campaign=1049&utm_source=git)** | Frisco, Texas | On Site | Feb 19 |
 | **[PathSpark](https://pathspark.co)** | **[User Experience Internship for New Career App - High School/College Students Only](https://jobright.ai/jobs/info/6997432de0bddb6acac5f88c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
+| **[Hustle Magazine](www.thehustlemagazine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6997546fe0bddb6acac61581?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Feb 19 |
 | **[Valiant 3 Communications](http://www.valiant3communications.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6997415781476f6176af56cc?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 19 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699744cece78e77b4fdb9c30?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, UX Research](https://jobright.ai/jobs/info/697a9bf98dbbf73badc7d815?utm_campaign=1049&utm_source=git)** | Oregon, United States | Remote | Feb 19 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/6996411be0bddb6acac4a671?utm_campaign=1049&utm_source=git)** | Lowell, MA | Hybrid | Feb 18 |
 | ↳ | **[Designer Intern 2026](https://jobright.ai/jobs/info/69965126ce78e77b4fda52f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
 | ↳ | **[AI‑First Transformation - Intern (Undergraduate – Summer Internship)](https://jobright.ai/jobs/info/699657e981476f6176ae22bd?utm_campaign=1049&utm_source=git)** | Armonk, NY | Hybrid | Feb 18 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/69963315e0bddb6acac4949e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026 POK](https://jobright.ai/jobs/info/69964146ce78e77b4fda3a9c?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Feb 18 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Feb 18 |
-| **[Renovis Design](https://renovisdesign.com)** | **[Design Intern](https://jobright.ai/jobs/info/6996544981476f6176ae1ce8?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 18 |
-| **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69964afae0bddb6acac4b46b?utm_campaign=1049&utm_source=git)** | Cedar City, Utah, United States | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
