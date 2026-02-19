@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Student Intern - Interiors](https://jobright.ai/jobs/info/695ede4a0badca5763af5803?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 19 |
+| **[Little Buddy Agency](http://www.littlebuddy.co)** | **[ART DIRECTOR INTERNSHIP: REMOTE, PAID](https://jobright.ai/jobs/info/69970bdee0bddb6acac5c384?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
+| **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, Product Design - Content Tooling](https://jobright.ai/jobs/info/697a96888dbbf73badc7cfa4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699702b581476f6176af0dbd?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/697a7e7e8dbbf73badc7a46b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/697a8f508dbbf73badc7bfc3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Intern - Tech Design, Apparel - NYC](https://jobright.ai/jobs/info/697a7e44f6fc293b0a2c5100?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[pep, LLC.](http://www.peppromotions.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69961d82ce78e77b4fda12ac?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/69960aa1e0bddb6acac46b34?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio | Hybrid | Feb 18 |
 | **[Ballinger](http://ballinger.com)** | **[Architecture Summer Intern](https://jobright.ai/jobs/info/69825edb0a9e07331f8d608f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 18 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern -Summer 2026](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Feb 18 |
-| **[Terracon](https://www.terracon.com/about/foundation/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996151fe0bddb6acac47441?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | Feb 18 |
-| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996225fe0bddb6acac481c2?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Feb 18 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
