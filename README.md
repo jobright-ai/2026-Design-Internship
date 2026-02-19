@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/697a7e7e8dbbf73badc7a46b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/697a8f508dbbf73badc7bfc3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| ↳ | **[Intern - Tech Design, Apparel - NYC](https://jobright.ai/jobs/info/697a7e44f6fc293b0a2c5100?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/697a76938dbbf73badc79aaa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a85d0f6fc293b0a2c5bdd?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 19 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6996f94081476f6176af020a?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear/Factory - LIC](https://jobright.ai/jobs/info/697a90739d60e431a16c1e23?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| ↳ | **[Intern - Design, Handbags Mainline - NYC](https://jobright.ai/jobs/info/697a783df6fc293b0a2c49cd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/697a85e7f6fc293b0a2c5c0b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a79758dbbf73badc79e4c?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Feb 19 |
 | **[Mouser Electronics](http://mouser.com)** | **[Technical Content Intern](https://jobright.ai/jobs/info/697adcc717b11b1c2e41aad8?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Feb 19 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/695ec5b20badca5763af3c14?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 19 |
@@ -77,6 +86,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/697a77a9f6fc293b0a2c4906?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69881b2d0f6f7e7a2ce35ec5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Peter Marino Architect](http://petermarinoarchitect.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6996df94e0bddb6acac57894?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
+| **[Activision](https://www.activision.com/)** | **[Stagiaire artiste UI / UI Artist Intern - Été 2026](https://jobright.ai/jobs/info/697ac4da9d60e431a16c6d29?utm_campaign=1049&utm_source=git)** | Québec, Quebec, Canada | On Site | Feb 19 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996d4adce78e77b4fdb0b14?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
 | **[Fliption](https://www.fliption.com)** | **[Creative Intern (Credited Internship)](https://jobright.ai/jobs/info/6996c9c3e0bddb6acac56a4c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 19 |
@@ -106,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 18 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6996636fe0bddb6acac4d73d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/69963302e0bddb6acac4946e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
-| **[Book Depot](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
+| **[Book Depot Inc.](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
 | **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Regional Creative](https://jobright.ai/jobs/info/699674d3e0bddb6acac4ed5c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
 | ↳ | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699682e281476f6176ae5bab?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Terracon](https://www.terracon.com/about/foundation/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996151fe0bddb6acac47441?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | Feb 18 |
 | ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/6996225fe0bddb6acac481c2?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Feb 18 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Feb 18 |
-| **[NetApp](http://netapp.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6996219881476f6176addd0d?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 18 |
-| **[Keystone Education Group](https://www.keg.com)** | **[Internship in Graphic Design & Video Creation (m/f/d)](https://jobright.ai/jobs/info/6995f259ce78e77b4fd9eee9?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Color Raw Materials Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d428ffbd62a0a6565ca4d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[NetApp](http://netapp.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/6995f528e0bddb6acac45d39?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
-| **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/6995bdc181476f6176ad91e6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Feb 18 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6941ce7250bbaf76505398c3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 18 |
-| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694219f6bdcf884a5adddd44?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Feb 18 |
-| **[MongoDB](https://www.mongodb.com/)** | **[2026 - Design Strategist Intern, NYC](https://jobright.ai/jobs/info/6930f086ef4b48533d150ea6?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Feb 18 |
-| **[Price Industries](https://www.priceindustries.com)** | **[Intern - Creative Specialist - Summer 2026](https://jobright.ai/jobs/info/69459fe463141d1884552cdb?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
