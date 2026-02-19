@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 18 |
 | **[Zendesk](http://zendesk.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996cb3381476f6176aeca79?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 18 |
-| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6996a7d2ce78e77b4fdad496?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/6996af6ece78e77b4fdae36f?utm_campaign=1049&utm_source=git)** | Utah, United States | Hybrid | Feb 18 |
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Interior Design](https://jobright.ai/jobs/info/6996b677ce78e77b4fdaed7c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69969fa881476f6176ae89f4?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Feb 18 |
 | **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
 | **[Crowley Webb](http://crowleywebb.com)** | **[Route 86 Design, Copywriting, or Video Production Intern](https://jobright.ai/jobs/info/6995fa7ae0bddb6acac45ff1?utm_campaign=1049&utm_source=git)** | Buffalo, NY, US | On Site | Feb 18 |
+| **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
