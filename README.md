@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maverik, Inc.](https://maverik.com/)** | **[Marketing – Graphic Design Intern](https://jobright.ai/jobs/info/69969247ce78e77b4fdaaefb?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/699688aae0bddb6acac5067f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 18 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69968b6ee0bddb6acac50a3d?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Feb 18 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699679fa81476f6176ae50fc?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 18 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69968ef481476f6176ae6f56?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 18 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6b?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
+| **[City Collective](https://citycollective.com.au)** | **[Junior Designer (Intern) - Urban Design and Architecture](https://jobright.ai/jobs/info/69969700e0bddb6acac51b89?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69967462ce78e77b4fda819b?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Feb 18 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 18 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6996636fe0bddb6acac4d73d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995e64b81476f6176adaa9a?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 17 |
 | **[Weaver Brands](https://www.weaverleather.com/)** | **[Photography & Graphic Design Intern](https://jobright.ai/jobs/info/69957cc981476f6176ad6b5a?utm_campaign=1049&utm_source=git)** | Mount Hope, OH | On Site | Feb 17 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 17 |
-| **[Li & Fung](http://www.lifung.com)** | **[Knitwear Design Intern](https://jobright.ai/jobs/info/69958edae0bddb6acac4219c?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 17 |
-| **[the community](https://www.thecommunityagency.com/)** | **[The Community - Art Direction Intern (NYC or Miami)](https://jobright.ai/jobs/info/69953c36ce78e77b4fd95833?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
