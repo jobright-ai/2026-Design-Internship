@@ -59,12 +59,16 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/69965b91e0bddb6acac4cbce?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Feb 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699679fa81476f6176ae50fc?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 18 |
+| **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6b?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69967462ce78e77b4fda819b?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Feb 18 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 18 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6996636fe0bddb6acac4d73d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/69963302e0bddb6acac4946e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[Book Depot](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
 | **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Regional Creative](https://jobright.ai/jobs/info/699674d3e0bddb6acac4ed5c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
+| **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern - Graphic Design Job ID : 272437](https://jobright.ai/jobs/info/69967a8ece78e77b4fda8ab7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/6996537381476f6176ae1b94?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Feb 18 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com)** | **[A.I & Motion Design Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69953df581476f6176ad1faf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 17 |
 | **[Estes Industries, LLC](http://www.estesrockets.com/)** | **[Video/Motion Graphics Intern](https://jobright.ai/jobs/info/699553b4ce78e77b4fd972ce?utm_campaign=1049&utm_source=git)** | Penrose, CO | On Site | Feb 17 |
 | **[Ideas United](http://ideasunited.com)** | **[Design Intern](https://jobright.ai/jobs/info/699555b481476f6176ad3c17?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
-| **[Cover Genius](http://www.covergenius.com)** | **[Design Intern - Marketing / Brand](https://jobright.ai/jobs/info/69951db5ce78e77b4fd9352b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 17 |
-| **[BeOne Medicines](www.beonemedicines.com)** | **[Summer Internship: Direct-to-Customer Innovation and Digital Health – CLL Navigator Intern (Remote)](https://jobright.ai/jobs/info/699541bbce78e77b4fd95e1e?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 17 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Healthcare Student Intern - Interior Design](https://jobright.ai/jobs/info/69951ad4e0bddb6acac3a3e2?utm_campaign=1049&utm_source=git)** | Denver, Colorado, United States | On Site | Feb 17 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
