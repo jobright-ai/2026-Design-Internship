@@ -57,13 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Feb 18 |
+| **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 18 |
+| **[Zendesk](http://zendesk.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 18 |
+| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6996a7d2ce78e77b4fdad496?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 18 |
+| **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/6996af6ece78e77b4fdae36f?utm_campaign=1049&utm_source=git)** | Utah, United States | Hybrid | Feb 18 |
+| **[PGAL](http://pgal.com)** | **[Summer Internship-Interior Design](https://jobright.ai/jobs/info/6996b677ce78e77b4fdaed7c?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
+| ↳ | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69969fa881476f6176ae89f4?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
+| **[Zendesk](http://zendesk.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/6996b54781476f6176aeb08d?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States of America | Hybrid | Feb 18 |
+| **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996a3f081476f6176ae9153?utm_campaign=1049&utm_source=git)** | Lewisville | On Site | Feb 18 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Marketing – Graphic Design Intern](https://jobright.ai/jobs/info/69969247ce78e77b4fdaaefb?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 18 |
 | **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/699688aae0bddb6acac5067f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 18 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69968b6ee0bddb6acac50a3d?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Feb 18 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/69965b91e0bddb6acac4cbce?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Feb 18 |
-| **[PGAL](http://pgal.com)** | **[Summer Internship-Interior Design](https://jobright.ai/jobs/info/69968f6de0bddb6acac5105b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
+| **[BWBR](https://www.bwbr.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/6996a059e0bddb6acac52fb3?utm_campaign=1049&utm_source=git)** | St. Paul, MN, US | On Site | Feb 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699679fa81476f6176ae50fc?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 18 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69968ef481476f6176ae6f56?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 18 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6b?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
 | ↳ | **[Fall 2026: Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995b2ff81476f6176ad8c6f?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 18 |
 | **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/6995a68fe0bddb6acac42fcf?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 18 |
-| **[Cobalt Fashion](https://www.cobaltknitwear.com/)** | **[Knitwear Design Intern](https://jobright.ai/jobs/info/6995b44481476f6176ad8d46?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 17 |
-| **[Pratt & Whitney](https://www.rtx.com/prattwhitney)** | **[Intern: Summer 2026 - 3D Graphics & Game Art (Unity Engine) (Onsite)](https://jobright.ai/jobs/info/69958e54e0bddb6acac42152?utm_campaign=1049&utm_source=git)** | East Hartford, CT | On Site | Feb 17 |
-| **[Boulder Heavy Industries](https://boulderheavyindustries.com/)** | **[Creative/UX Intern (IMM)](https://jobright.ai/jobs/info/6995ae01ce78e77b4fd9c5c6?utm_campaign=1049&utm_source=git)** | Boulder, Colorado, United States | On Site | Feb 17 |
-| **[Haworth](http://www.haworth.com/)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/69958e49e0bddb6acac4214e?utm_campaign=1049&utm_source=git)** | Holland, MI | On Site | Feb 17 |
-| **[LMCU](https://www.lmcu.org/)** | **[Member Experience Analyst Intern](https://jobright.ai/jobs/info/69957aa281476f6176ad68c5?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Feb 17 |
-| **[Prometheus Real Estate Group](https://prometheusapartments.com/)** | **[Prometheus Summer Internship - Design](https://jobright.ai/jobs/info/69717fe451f726477183dc82?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Feb 17 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6995e64b81476f6176adaa9a?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | On Site | Feb 17 |
-| **[Weaver Brands](https://www.weaverleather.com/)** | **[Photography & Graphic Design Intern](https://jobright.ai/jobs/info/69957cc981476f6176ad6b5a?utm_campaign=1049&utm_source=git)** | Mount Hope, OH | On Site | Feb 17 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
