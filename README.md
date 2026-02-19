@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: UX/UI Design Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/699747cdce78e77b4fdba5a7?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Feb 19 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69974427e0bddb6acac5fb71?utm_campaign=1049&utm_source=git)** | Frisco, Texas | On Site | Feb 19 |
+| **[PathSpark](https://pathspark.co)** | **[User Experience Internship for New Career App - High School/College Students Only](https://jobright.ai/jobs/info/6997432de0bddb6acac5f88c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
+| **[Valiant 3 Communications](http://www.valiant3communications.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6997415781476f6176af56cc?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 19 |
+| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699744cece78e77b4fdb9c30?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, UX Research](https://jobright.ai/jobs/info/697a9bf98dbbf73badc7d815?utm_campaign=1049&utm_source=git)** | Oregon, United States | Remote | Feb 19 |
 | **[HOK](http://www.hok.com/)** | **[Student Intern - Interiors](https://jobright.ai/jobs/info/695ede4a0badca5763af5803?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Feb 19 |
 | **[Little Buddy Agency](http://www.littlebuddy.co)** | **[ART DIRECTOR INTERNSHIP: REMOTE, PAID](https://jobright.ai/jobs/info/69970bdee0bddb6acac5c384?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
@@ -64,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699702b581476f6176af0dbd?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/697a7e7e8dbbf73badc7a46b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/697a8f508dbbf73badc7bfc3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
-| ↳ | **[Intern - Tech Design, Apparel - NYC](https://jobright.ai/jobs/info/697a7e44f6fc293b0a2c5100?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/697a76938dbbf73badc79aaa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a85d0f6fc293b0a2c5bdd?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 19 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Set Decorator Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/6996f94081476f6176af020a?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Feb 18 |
 | **[Renovis Design](https://renovisdesign.com)** | **[Design Intern](https://jobright.ai/jobs/info/6996544981476f6176ae1ce8?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69964afae0bddb6acac4b46b?utm_campaign=1049&utm_source=git)** | Cedar City, Utah, United States | On Site | Feb 18 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Feb 18 |
-| **[Analog Devices](http://www.analog.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/695c844c9a87b95a9397d5ed?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 18 |
-| **[Crowley Webb](http://crowleywebb.com)** | **[Route 86 Design, Copywriting, or Video Production Intern](https://jobright.ai/jobs/info/6995fa7ae0bddb6acac45ff1?utm_campaign=1049&utm_source=git)** | Buffalo, NY, US | On Site | Feb 18 |
-| **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/698bb6d2c5761b521a9b475b?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
