@@ -57,9 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/699688aae0bddb6acac5067f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 18 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69968b6ee0bddb6acac50a3d?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Feb 18 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6983d6ef348f733a5c374a44?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Feb 18 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Communications Intern - Sutherland Institute](https://jobright.ai/jobs/info/69965b91e0bddb6acac4cbce?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Feb 18 |
+| **[PGAL](http://pgal.com)** | **[Summer Internship-Interior Design](https://jobright.ai/jobs/info/69968f6de0bddb6acac5105b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Feb 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699679fa81476f6176ae50fc?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 18 |
+| **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69968ef481476f6176ae6f56?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | On Site | Feb 18 |
 | **[Outdoor Cap Company](http://outdoorcap.com)** | **[Creative Design Marketing Intern](https://jobright.ai/jobs/info/6996784b81476f6176ae4e6b?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 18 |
 | **[State Bank of Southern Utah](http://sbsu.com)** | **[Graphic Design Intern - Marketing](https://jobright.ai/jobs/info/69967462ce78e77b4fda819b?utm_campaign=1049&utm_source=git)** | Cedar City, UT | On Site | Feb 18 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 18 |
@@ -68,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Book Depot](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
 | **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Regional Creative](https://jobright.ai/jobs/info/699674d3e0bddb6acac4ed5c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
+| ↳ | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699682e281476f6176ae5bab?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
 | **[Urban Resilience Hub by UN-Habitat's CRGP](http://www.urbanresiliencehub.org)** | **[Human Resources Intern - Graphic Design Job ID : 272437](https://jobright.ai/jobs/info/69967a8ece78e77b4fda8ab7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 18 |
 | **[Balance Now](https://www.balance.ca)** | **[WordPress Designer](https://jobright.ai/jobs/info/6996537381476f6176ae1b94?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 18 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 17 |
 | **[Li & Fung](http://www.lifung.com)** | **[Knitwear Design Intern](https://jobright.ai/jobs/info/69958edae0bddb6acac4219c?utm_campaign=1049&utm_source=git)** | New York | On Site | Feb 17 |
 | **[the community](https://www.thecommunityagency.com/)** | **[The Community - Art Direction Intern (NYC or Miami)](https://jobright.ai/jobs/info/69953c36ce78e77b4fd95833?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 17 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Content Creator & AI Intern](https://jobright.ai/jobs/info/6995526ace78e77b4fd971dd?utm_campaign=1049&utm_source=git)** | St Louis, MO | Remote | Feb 17 |
-| **[the community](https://www.thecommunityagency.com/)** | **[The Community - Art Direction Intern (NYC or Miami)](https://jobright.ai/jobs/info/69952bcace78e77b4fd943f9?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 17 |
-| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Design Internship - Architect/Landscape Architect - Summer 2026](https://jobright.ai/jobs/info/699548a8ce78e77b4fd9659d?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Feb 17 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[A.I & Motion Design Intern: ATL - Summer 2026](https://jobright.ai/jobs/info/69953df581476f6176ad1faf?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 17 |
-| **[Estes Industries, LLC](http://www.estesrockets.com/)** | **[Video/Motion Graphics Intern](https://jobright.ai/jobs/info/699553b4ce78e77b4fd972ce?utm_campaign=1049&utm_source=git)** | Penrose, CO | On Site | Feb 17 |
-| **[Ideas United](http://ideasunited.com)** | **[Design Intern](https://jobright.ai/jobs/info/699555b481476f6176ad3c17?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
