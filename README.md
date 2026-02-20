@@ -60,9 +60,14 @@ For a complete list, click the following sortable link below:
 | **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699790ebce78e77b4fdbe03b?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 19 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69978f95ce78e77b4fdbde7e?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 19 |
 | **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 UX/UI Kroger Technology & Digital Intern](https://jobright.ai/jobs/info/69978023e0bddb6acac634b1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 19 |
+| **[MBH Architects](https://www.mbharch.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/696f9ecf0f4e0f657ea3e837?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 19 |
+| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 19 |
+| **[Psycho Bunny](https://www.psychobunny.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/69979b7ace78e77b4fdbee4c?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 19 |
 | **[The Nature Conservancy](http://www.nature.org)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/699773d7ce78e77b4fdbcb33?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Feb 19 |
 | **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6997726a81476f6176af9052?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 19 |
 | **[New Mexico Lottery Authority](https://www.nmlottery.com)** | **[Graphic Design Internship (12-week term)](https://jobright.ai/jobs/info/69977223ce78e77b4fdbc95a?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Feb 19 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Graphic Design - Hasbro Games](https://jobright.ai/jobs/info/6997a3c9ce78e77b4fdbfa73?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Feb 19 |
+| ↳ | **[Intern, Narrative Design](https://jobright.ai/jobs/info/6997a21981476f6176afbea4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Feb 19 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69979881e0bddb6acac649f0?utm_campaign=1049&utm_source=git)** | Florida - Jacksonville, Jacksonville, FL, US | On Site | Feb 19 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69976f8981476f6176af8d36?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 19 |
 | **[IBM](http://www.ibm.com)** | **[Designer Co-Op Fall 2026](https://jobright.ai/jobs/info/699798d681476f6176afb21a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 19 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: UX/UI Design Internship (Summer 2026, PLM)](https://jobright.ai/jobs/info/699747cdce78e77b4fdba5a7?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Feb 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69974427e0bddb6acac5fb71?utm_campaign=1049&utm_source=git)** | Frisco, Texas | On Site | Feb 19 |
 | **[PathSpark](https://pathspark.co)** | **[User Experience Internship for New Career App - High School/College Students Only](https://jobright.ai/jobs/info/6997432de0bddb6acac5f88c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 19 |
-| **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: Content Creator & AI Intern](https://jobright.ai/jobs/info/69975d6ae0bddb6acac61b50?utm_campaign=1049&utm_source=git)** | St Louis, MO | Remote | Feb 19 |
 | **[Valiant 3 Communications](http://www.valiant3communications.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6997415781476f6176af56cc?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 19 |
 | **[NetApp](http://netapp.com)** | **[UX Writer Intern](https://jobright.ai/jobs/info/69976068ce78e77b4fdbba40?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Hybrid | Feb 19 |
 | **[SiriusXM](http://siriusxm.com)** | **[Summer Intern, UX Research](https://jobright.ai/jobs/info/697a9bf98dbbf73badc7d815?utm_campaign=1049&utm_source=git)** | Oregon, United States | Remote | Feb 19 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6996636fe0bddb6acac4d73d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Feb 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/69963302e0bddb6acac4946e?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 18 |
 | **[Book Depot Inc.](https://www.bookdepot.com)** | **[Book Design Intern (Interior Layout) Summer Internship](https://jobright.ai/jobs/info/69966491e0bddb6acac4d907?utm_campaign=1049&utm_source=git)** | Thorold, Ontario, Canada | On Site | Feb 18 |
-| **[Humphreys](https://humphreys.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69964ea3ce78e77b4fda4ee1?utm_campaign=1049&utm_source=git)** | Plano, TX | Hybrid | Feb 18 |
-| **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Regional Creative](https://jobright.ai/jobs/info/699674d3e0bddb6acac4ed5c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 18 |
-| ↳ | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699682e281476f6176ae5bab?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 18 |
-| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
