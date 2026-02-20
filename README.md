@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997e9fde0bddb6acac6ce31?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/6997dd1b81476f6176b0176a?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 19 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6997da97ce78e77b4fdc4d6a?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 19 |
 | **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/6997d384ce78e77b4fdc4054?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 19 |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997c403ce78e77b4fdc28b4?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Feb 19 |
+| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997eb11ce78e77b4fdc6f6f?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6997c403ce78e77b4fdc28b4?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Feb 19 |
 | **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/6997bf8881476f6176afe89a?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 19 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997be27ce78e77b4fdc1eb0?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Feb 19 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6997de41ce78e77b4fdc5397?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zendesk](http://zendesk.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/6996b54781476f6176aeb08d?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States of America | Hybrid | Feb 18 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996a3f081476f6176ae9153?utm_campaign=1049&utm_source=git)** | Lewisville | On Site | Feb 18 |
 | **[Maverik, Inc.](https://maverik.com/)** | **[Marketing – Graphic Design Intern](https://jobright.ai/jobs/info/69969247ce78e77b4fdaaefb?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 18 |
-| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/6969c77cf25a380066987dfe?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Feb 18 |
-| **[Sound Transit](https://www.soundtransit.org)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/699688aae0bddb6acac5067f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
