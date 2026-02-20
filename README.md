@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/697b966d0b88cc7d6422548e?utm_campaign=1049&utm_source=git)** | Rockwall, TX | On Site | Feb 20 |
+| **[Tom Wood Automotive](http://tomwood.com)** | **[Marketing Graphic Design Intern – Summer 2026](https://jobright.ai/jobs/info/6998419081476f6176b0b9c1?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Feb 20 |
+| **[Perkins&Will](http://perkinswill.com)** | **[Intern-Interior Design](https://jobright.ai/jobs/info/697beec61423772304ec34ba?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Feb 20 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/698840128ca8121a3a6ad0ab?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 20 |
+| **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 20 |
+| **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6944e90d50bbaf765056efb2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 20 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698800260f6f7e7a2ce332bf?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c224d0b88cc7d642325f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/699819d1ce78e77b4fdcc076?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[TRDI](https://trdi.org/)** | **[Horticulture (Landscaper) Intern](https://jobright.ai/jobs/info/6998075281476f6176b072bc?utm_campaign=1049&utm_source=git)** | Fort Cavazos, TX | On Site | Feb 19 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6998254e81476f6176b091a9?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 19 |
@@ -72,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6997de41ce78e77b4fdc5397?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6997e137e0bddb6acac6b949?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697f00e37f40342e15d7bc77?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
+| **[TextMyBot.ai by Coolness.ai](https://coolness.ai)** | **[College Internship: Product Design (UX) Intern](https://jobright.ai/jobs/info/69983cede0bddb6acac7500d?utm_campaign=1049&utm_source=git)** | San Diego, CA | Remote | Feb 19 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6997da51e0bddb6acac6a8fd?utm_campaign=1049&utm_source=git)** | Alexandria, VA, US | On Site | Feb 19 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/6997ee3fe0bddb6acac6d499?utm_campaign=1049&utm_source=git)** | Reston, VA, US | Hybrid | Feb 19 |
 | ↳ | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/6997edc081476f6176b03ca6?utm_campaign=1049&utm_source=git)** | US-VA-Reston | Hybrid | Feb 19 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peter Marino Architect](http://petermarinoarchitect.com)** | **[Summer Internship 2026](https://jobright.ai/jobs/info/6996df94e0bddb6acac57894?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 19 |
 | **[Activision](https://www.activision.com/)** | **[Stagiaire artiste UI / UI Artist Intern - Été 2026](https://jobright.ai/jobs/info/697ac4da9d60e431a16c6d29?utm_campaign=1049&utm_source=git)** | Québec, Quebec, Canada | On Site | Feb 19 |
 | **[Tom Wood Automotive](http://tomwood.com)** | **[Marketing Graphic Design Intern – Summer 2026](https://jobright.ai/jobs/info/699716c381476f6176af30ec?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Feb 19 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996d4adce78e77b4fdb0b14?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 19 |
-| **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 19 |
-| **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6996e29e81476f6176aed8ec?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | Feb 18 |
-| **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Feb 18 |
-| **[GSD&M](http://www.gsdm.com)** | **[Creative Intern - Writer](https://jobright.ai/jobs/info/696eb879db26b6189511be8b?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Feb 18 |
-| **[Mythic](https://mythic.us/)** | **[Art & Design Intern](https://jobright.ai/jobs/info/69980f2fe0bddb6acac716c6?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Feb 18 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/6997fda2ce78e77b4fdca3fa?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Feb 18 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996cb3381476f6176aeca79?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
