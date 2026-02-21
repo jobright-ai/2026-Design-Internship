@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69991b2be0bddb6acac818a7?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Workplace Strategy Intern / Summer 2026](https://jobright.ai/jobs/info/6999189681476f6176b192c1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6999112581476f6176b1855f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 20 |
-| ↳ | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699913b3e0bddb6acac80c2d?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | Hybrid | Feb 20 |
+| **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699913b3e0bddb6acac80c2d?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | Hybrid | Feb 20 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6999150381476f6176b18c88?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Feb 20 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/699910b1ce78e77b4fddac8a?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
+| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/699917abe0bddb6acac81256?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999151781476f6176b18cc1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 20 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors (Summer 2026)](https://jobright.ai/jobs/info/698840128ca8121a3a6ad0ab?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 20 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Feb 20 |
 | **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6944e90d50bbaf765056efb2?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 20 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern (Summer 2026)](https://jobright.ai/jobs/info/698800260f6f7e7a2ce332bf?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 20 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c224d0b88cc7d642325f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 20 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/699819d1ce78e77b4fdcc076?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
-| **[SHP](http://www.shp.com)** | **[Interior Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6998c707e0bddb6acac7b56a?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
