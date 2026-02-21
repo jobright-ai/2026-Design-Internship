@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6946063f63141d188455b357?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b859d1953b5d11beb85f?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 21 |
+| **[dsm-firmenich](https://www.dsm-firmenich.com)** | **[Summer 2026 Internship: Junior Futurist Intern; Taste, Texture and Health  - Princeton, NJ](https://jobright.ai/jobs/info/6999a41481476f6176b25f84?utm_campaign=1049&utm_source=git)** | Princeton, NJ | On Site | Feb 21 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Character Art Intern (CA), Summer/Fall 2026](https://jobright.ai/jobs/info/69999ff9ce78e77b4fde873d?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Feb 21 |
+| **[Just Born, Inc.](http://www.justborn.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/697cd4a53f57a3356966853d?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | Hybrid | Feb 21 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/68ea31cd4ae33307d3eda388?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Feb 21 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Feb 21 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/694477e250bbaf765056836a?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Feb 21 |
@@ -82,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Home Entertainment Intern: LA - Summer 2026](https://jobright.ai/jobs/info/699937a981476f6176b1c479?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 20 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6999112581476f6176b1855f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 20 |
 | **[City and County of Denver](https://www.denvergov.org)** | **[Photography and Videography College Intern (6 Months) – Global Communications and Marketing - Denver International Airport](https://jobright.ai/jobs/info/698e9521f64d441a1650e06f?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 20 |
 | **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern (Ads) - Summer 2026](https://jobright.ai/jobs/info/698baa6cc5761b521a9b3c42?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 20 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/6999327881476f6176b1bd35?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
@@ -115,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f4fae0bddb6acac7e373?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f47d81476f6176b15fd9?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Feb 20 |
-| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fe3c81476f6176b17096?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fa4081476f6176b16990?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
+| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fe3c81476f6176b17096?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/69990118ce78e77b4fdd9d64?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998ed4ce0bddb6acac7d916?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/6998ea3ace78e77b4fdd78dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998a32381476f6176b10683?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Feb 20 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998a211ce78e77b4fdd3c31?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Feb 20 |
 | **[The F* Word](https://thefword.ai/)** | **[(*REMOTE 1 WEEK FASHION INTERNSHIP*) AI Featured Fashion Designer Program](https://jobright.ai/jobs/info/6998da7181476f6176b142cb?utm_campaign=1049&utm_source=git)** | Dallas, TX | Remote | Feb 20 |
-| **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/6998a10de0bddb6acac79b51?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Feb 20 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Feb 20 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998ba2ece78e77b4fdd4f5a?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Design Strategy - Summer 2026 - New York](https://jobright.ai/jobs/info/699892be81476f6176b0f9d7?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 20 |
-| **[National Hockey League (NHL)](http://senators.nhl.com)** | **[Intern, NHL Images](https://jobright.ai/jobs/info/6998aead81476f6176b12157?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
