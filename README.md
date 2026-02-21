@@ -57,19 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6999112581476f6176b1855f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 20 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/699910b1ce78e77b4fddac8a?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 20 |
 | **[Bobbitt](http://bobbitt.com)** | **[Architecture & Design Internship](https://jobright.ai/jobs/info/6998f77581476f6176b16486?utm_campaign=1049&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998d52de0bddb6acac7c07a?utm_campaign=1049&utm_source=git)** | Culver City, CA | Hybrid | Feb 20 |
+| **[Crusoe](https://crusoe.ai)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/699910ebe0bddb6acac80762?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 20 |
 | **[Infinitize](https://infinitize.co)** | **[Infinitize Design Intern](https://jobright.ai/jobs/info/6998f3a981476f6176b15e7f?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 20 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
-| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f47d81476f6176b15fd9?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Feb 20 |
-| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f4fae0bddb6acac7e373?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
+| **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f4fae0bddb6acac7e373?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
+| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f47d81476f6176b15fd9?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fa4081476f6176b16990?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
+| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fe3c81476f6176b17096?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
+| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/69990118ce78e77b4fdd9d64?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998ed4ce0bddb6acac7d916?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/6998ea3ace78e77b4fdd78dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[Viasat](http://www.viasat.com)** | **[UI Design Intern, Viasat Government](https://jobright.ai/jobs/info/6998e6d9e0bddb6acac7d012?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Feb 20 |
 | **[Focus on the Family Canada](http://www.focusonthefamily.ca)** | **[Graphic Designer Summer Intern](https://jobright.ai/jobs/info/6998eec3ce78e77b4fdd801a?utm_campaign=1049&utm_source=git)** | Langley, British Columbia, Canada | Hybrid | Feb 20 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6998fc28ce78e77b4fdd96d0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Feb 20 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998c47dce78e77b4fdd56e5?utm_campaign=1049&utm_source=git)** | PLYMOUTH, MN 55447, USA | On Site | Feb 20 |
+| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Graphic Designer (Technical) - Wellness Center](https://jobright.ai/jobs/info/69990a9fe0bddb6acac80246?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/6998f53be0bddb6acac7e3c6?utm_campaign=1049&utm_source=git)** | United States-Missouri-Kansas City | On Site | Feb 20 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6998f6e8ce78e77b4fdd8d84?utm_campaign=1049&utm_source=git)** | Ohio - Akron, Akron, OH, US | On Site | Feb 20 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998c117e0bddb6acac7b0ae?utm_campaign=1049&utm_source=git)** | MINNEAPOLIS, MN 55401, USA | On Site | Feb 20 |
@@ -85,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Multimedia) Hybrid Schedule](https://jobright.ai/jobs/info/6998e7cbe0bddb6acac7d0d7?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Feb 20 |
 | **[Boomi](https://boomi.com/)** | **[Marketing, Graphic Design Summer Intern (Hybrid- Vancouver, BC)](https://jobright.ai/jobs/info/6998d010e0bddb6acac7bba2?utm_campaign=1049&utm_source=git)** | Metro Vancouver A, British Columbia, Canada | Hybrid | Feb 20 |
 | **[OTTera, Inc.](http://www.ottera.tv/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6998b397e0bddb6acac7a714?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 20 |
+| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69990727e0bddb6acac7fdb8?utm_campaign=1049&utm_source=git)** | HY US Greenville, NC (WPDC) | On Site | Feb 20 |
 | **[Ipsos](http://www.ipsos.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998aa6ee0bddb6acac7a18d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Feb 20 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998d06d81476f6176b139f1?utm_campaign=1049&utm_source=git)** | Saint Cloud, MN 56301, USA | On Site | Feb 20 |
 | **[SHP](http://www.shp.com)** | **[Interior Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6998d994ce78e77b4fdd69be?utm_campaign=1049&utm_source=git)** | Cincinnati,OH,US | On Site | Feb 20 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997e9fde0bddb6acac6ce31?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Graphic Design Internship](https://jobright.ai/jobs/info/6997dd1b81476f6176b0176a?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 19 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6997da97ce78e77b4fdc4d6a?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 19 |
-| **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/6997d384ce78e77b4fdc4054?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 19 |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997eb11ce78e77b4fdc6f6f?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 19 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6997c403ce78e77b4fdc28b4?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Feb 19 |
-| **[Xylem](https://heimplanet.com/)** | **[Photography and Social Media Intern](https://jobright.ai/jobs/info/6997bf8881476f6176afe89a?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 19 |
-| **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6997be27ce78e77b4fdc1eb0?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Feb 19 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6997de41ce78e77b4fdc5397?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6997e137e0bddb6acac6b949?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 19 |
-| **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern- Summer 2026](https://jobright.ai/jobs/info/697f00e37f40342e15d7bc77?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
-| **[Ipsos](http://www.ipsos.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998af27ce78e77b4fdd4837?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
