@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris](https://jobright.ai/jobs/info/699b5d06e0bddb6acaca46ef?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 22 |
+| **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Intern Architect](https://jobright.ai/jobs/info/699b4c1ee0bddb6acaca436a?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Feb 22 |
 | **[FiPet](fipet.dev)** | **[Graphic Design UI Intern](https://jobright.ai/jobs/info/699b3dffe0bddb6acaca4217?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699b3a5981476f6176b3c224?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 22 |
 | **[BWBR](https://www.bwbr.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/699b2fc6ce78e77b4fdfd394?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Feb 22 |
@@ -100,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Match](http://www.lifeatmatch.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6999ccf281476f6176b286c5?utm_campaign=1049&utm_source=git)** | Los Angeles, California | Hybrid | Feb 21 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 21 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/697d25f93f57a3356966e106?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Feb 21 |
-| **[Upside Clothing](shopupsideclothing.com)** | **[Social Media/Graphic Design Intern](https://jobright.ai/jobs/info/699af7f681476f6176b38385?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Feb 21 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b5eae7ed9a5731ba89da?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Feb 21 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961ca2ff3f4cd132506cc9e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
 | **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b249e7ed9a5731ba865e?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Feb 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999257181476f6176b1a984?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69995146ce78e77b4fde1b51?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
