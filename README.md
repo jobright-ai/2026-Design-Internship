@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699ab15b81476f6176b3501e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a9a0ae0bddb6acac9bfdd?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 21 |
@@ -135,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999257181476f6176b1a984?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69995146ce78e77b4fde1b51?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
 | ↳ | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/6999485981476f6176b1e454?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
-| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/699920d3ce78e77b4fddcae6?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
 | ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69992ff4e0bddb6acac83cdb?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
+| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/699920d3ce78e77b4fddcae6?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
 | **[Publix Employees Federal Credit Union](https://pefcu.com)** | **[Graphic Design - Summer Intern](https://jobright.ai/jobs/info/69993bba81476f6176b1c8e3?utm_campaign=1049&utm_source=git)** | Lakeland, Florida, United States | On Site | Feb 20 |
 | **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6999150381476f6176b18c88?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Feb 20 |
 | **[Joon Loloi](https://www.joonloloi.com)** | **[Furniture Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6999281ce0bddb6acac83144?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fe3c81476f6176b17096?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/69990118ce78e77b4fdd9d64?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998ed4ce0bddb6acac7d916?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
-| ↳ | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/6998ea3ace78e77b4fdd78dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
