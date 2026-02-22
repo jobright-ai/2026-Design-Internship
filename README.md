@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FiPet](fipet.dev)** | **[Graphic Design UI Intern](https://jobright.ai/jobs/info/699b3dffe0bddb6acaca4217?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 22 |
+| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699b3a5981476f6176b3c224?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 22 |
+| **[BWBR](https://www.bwbr.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/699b2fc6ce78e77b4fdfd394?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Feb 22 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/699b1d8fe0bddb6acaca2698?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
 | **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/699b0331ce78e77b4fdfca59?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Feb 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 22 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[CBS Sports Design Internships (Summer 2026, In Person - NYC)](https://jobright.ai/jobs/info/6946056fd1953b5d11bf21ec?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-Content Ecosystem & Integrity]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697f20207f40342e15d7d334?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 22 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
-| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699ab15b81476f6176b3501e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 21 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699a9a0ae0bddb6acac9bfdd?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 21 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 21 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/6999489fce78e77b4fde0d7b?utm_campaign=1049&utm_source=git)** | St. Louis, MO, 63103, US | On Site | Feb 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999258ace78e77b4fddd34e?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
+| ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999257181476f6176b1a984?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/6999485981476f6176b1e454?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
-| ↳ | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69995146ce78e77b4fde1b51?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
-| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69992ff4e0bddb6acac83cdb?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69995146ce78e77b4fde1b51?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
