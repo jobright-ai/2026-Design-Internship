@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Urban Alchemy Collective, LLC](UrbanAlchemyCollective.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699a4290ce78e77b4fdefc24?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Hybrid | Feb 21 |
+| **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699a297e81476f6176b2cffe?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 21 |
+| **[McKinley Architecture and Engineering](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699a1d16e0bddb6acac94e74?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 21 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/699a1cf4ce78e77b4fdef6e2?utm_campaign=1049&utm_source=git)** | Charleston, WV | On Site | Feb 21 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b17731224705e900234e9?utm_campaign=1049&utm_source=git)** | Savannah, Georgia, United States | On Site | Feb 21 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e1485abff4c399a9ce321?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Feb 21 |
 | **[LCS](https://www.lcsnet.com/)** | **[Design Management Internship](https://jobright.ai/jobs/info/68d776d7295f8e37655da818?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Feb 21 |
@@ -119,8 +123,6 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6999347d81476f6176b1c04a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architect/Urban Planning Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/6999284e81476f6176b1aed0?utm_campaign=1049&utm_source=git)** | Louisville, KY | Hybrid | Feb 20 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6999e22b81476f6176b28ca4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 20 |
-| **[EverSettled](www.eversettled.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/69992507e0bddb6acac82b82?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 20 |
-| **[SHP](http://www.shp.com)** | **[Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/699a0e3ece78e77b4fded97d?utm_campaign=1049&utm_source=git)** | Cincinnati,OH,US | On Site | Feb 20 |
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/6999489fce78e77b4fde0d7b?utm_campaign=1049&utm_source=git)** | St. Louis, MO, 63103, US | On Site | Feb 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999258ace78e77b4fddd34e?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
@@ -136,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Joon Loloi](https://www.joonloloi.com)** | **[Furniture Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6999281ce0bddb6acac83144?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999151781476f6176b18cc1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
+| **[IBM](http://www.ibm.com)** | **[Designer Co-Op Fall 2026](https://jobright.ai/jobs/info/699a355581476f6176b2d0fb?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 20 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Feb 20 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/699915fbce78e77b4fddb640?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 20 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998d52de0bddb6acac7c07a?utm_campaign=1049&utm_source=git)** | Culver City, CA | Hybrid | Feb 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focus on the Family Canada](http://www.focusonthefamily.ca)** | **[Graphic Designer Summer Intern](https://jobright.ai/jobs/info/6998eec3ce78e77b4fdd801a?utm_campaign=1049&utm_source=git)** | Langley, British Columbia, Canada | Hybrid | Feb 20 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6998fc28ce78e77b4fdd96d0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Feb 20 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998c47dce78e77b4fdd56e5?utm_campaign=1049&utm_source=git)** | PLYMOUTH, MN 55447, USA | On Site | Feb 20 |
-| **[University of Central Oklahoma](http://www.uco.edu/)** | **[Student Graphic Designer (Technical) - Wellness Center](https://jobright.ai/jobs/info/69990a9fe0bddb6acac80246?utm_campaign=1049&utm_source=git)** | Edmond, OK | On Site | Feb 20 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/6998f53be0bddb6acac7e3c6?utm_campaign=1049&utm_source=git)** | United States-Missouri-Kansas City | On Site | Feb 20 |
-| **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6998f6e8ce78e77b4fdd8d84?utm_campaign=1049&utm_source=git)** | Ohio - Akron, Akron, OH, US | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
