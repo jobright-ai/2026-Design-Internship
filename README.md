@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/699b0331ce78e77b4fdfca59?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Feb 22 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 22 |
+| ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Feb 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699aec72e0bddb6acaca0298?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | Hybrid | Feb 22 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Character Art Intern (FL), Summer/Fall 2026](https://jobright.ai/jobs/info/699aec4ee0bddb6acaca027e?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Character Art Intern (CA), Summer/Fall 2026](https://jobright.ai/jobs/info/699aeaa2ce78e77b4fdfacf2?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 22 |
@@ -146,15 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/6999489fce78e77b4fde0d7b?utm_campaign=1049&utm_source=git)** | St. Louis, MO, 63103, US | On Site | Feb 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999258ace78e77b4fddd34e?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
+| ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999257181476f6176b1a984?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/6999485981476f6176b1e454?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
 | ↳ | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69995146ce78e77b4fde1b51?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
-| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/699920d3ce78e77b4fddcae6?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
 | ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69992ff4e0bddb6acac83cdb?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | Feb 20 |
+| ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/699920d3ce78e77b4fddcae6?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | Feb 20 |
 | **[Publix Employees Federal Credit Union](https://pefcu.com)** | **[Graphic Design - Summer Intern](https://jobright.ai/jobs/info/69993bba81476f6176b1c8e3?utm_campaign=1049&utm_source=git)** | Lakeland, Florida, United States | On Site | Feb 20 |
-| **[Hyster-Yale Materials Handling](http://www.hyster-yale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6999150381476f6176b18c88?utm_campaign=1049&utm_source=git)** | Greenville, NC | On Site | Feb 20 |
-| **[Joon Loloi](https://www.joonloloi.com)** | **[Furniture Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6999281ce0bddb6acac83144?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999151781476f6176b18cc1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
