@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/699b5e6381476f6176b3c80b?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 22 |
+| ↳ | **[Intern - Creative Project](https://jobright.ai/jobs/info/699b5e2fe0bddb6acaca47bc?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 22 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris](https://jobright.ai/jobs/info/699b5d06e0bddb6acaca46ef?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 22 |
 | **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Intern Architect](https://jobright.ai/jobs/info/699b4c1ee0bddb6acaca436a?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Feb 22 |
 | **[FiPet](fipet.dev)** | **[Graphic Design UI Intern](https://jobright.ai/jobs/info/699b3dffe0bddb6acaca4217?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999258ace78e77b4fddd34e?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999414ace78e77b4fde00b2?utm_campaign=1049&utm_source=git)** | Montreal, QC, CA | On Site | Feb 20 |
-| ↳ | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999257181476f6176b1a984?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
