@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Urban Alchemy Collective, LLC](UrbanAlchemyCollective.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699a4290ce78e77b4fdefc24?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Hybrid | Feb 21 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Feb 21 |
+| **[ROKA](http://www.roka.com)** | **[Graphic Design (Creative) Intern](https://jobright.ai/jobs/info/699a4ee4e0bddb6acac95942?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 21 |
 | **[Artingle](www.artingle.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699a297e81476f6176b2cffe?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Feb 21 |
 | **[McKinley Architecture and Engineering](https://mckinleydelivers.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699a1d16e0bddb6acac94e74?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 21 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/699a1cf4ce78e77b4fdef6e2?utm_campaign=1049&utm_source=git)** | Charleston, WV | On Site | Feb 21 |
@@ -148,13 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural/Graphic Design Intern](https://jobright.ai/jobs/info/68f6aac79a63986de7581134?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Ipsos in US](http://ipsos-na.com)** | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f47d81476f6176b15fd9?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998f4fae0bddb6acac7e373?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Feb 20 |
-| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fa4081476f6176b16990?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fe3c81476f6176b17096?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 20 |
+| ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/6998fa4081476f6176b16990?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | Feb 20 |
 | ↳ | **[PhD UX Research Intern - Summer 2026](https://jobright.ai/jobs/info/69990118ce78e77b4fdd9d64?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[American Eagle Outfitters Inc.](https://www.aeo-inc.com/)** | **[Summer 2026 Technical Designer Intern](https://jobright.ai/jobs/info/6998ed4ce0bddb6acac7d916?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | ↳ | **[Summer 2026 Production Intern](https://jobright.ai/jobs/info/6998ea3ace78e77b4fdd78dc?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 20 |
 | **[Viasat](http://www.viasat.com)** | **[UI Design Intern, Viasat Government](https://jobright.ai/jobs/info/6998e6d9e0bddb6acac7d012?utm_campaign=1049&utm_source=git)** | College Station, TX | On Site | Feb 20 |
 | **[Focus on the Family Canada](http://www.focusonthefamily.ca)** | **[Graphic Designer Summer Intern](https://jobright.ai/jobs/info/6998eec3ce78e77b4fdd801a?utm_campaign=1049&utm_source=git)** | Langley, British Columbia, Canada | Hybrid | Feb 20 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6998fc28ce78e77b4fdd96d0?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Feb 20 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6998c47dce78e77b4fdd56e5?utm_campaign=1049&utm_source=git)** | PLYMOUTH, MN 55447, USA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
