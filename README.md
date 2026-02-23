@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/699c0810e0bddb6acacae4e9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 22 |
+| **[Sigma](http://sigmacomputing.com)** | **[Content Design Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/699c1b72ce78e77b4fe0a96b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
+| ↳ | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/699c1a8dce78e77b4fe0a7c3?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 23 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 23 |
 | **[New York Bisons Basketball Club](newyorkbisons.com)** | **[Student Intern (Social Media Manager & Photo/Videographer)](https://jobright.ai/jobs/info/699beefece78e77b4fe08953?utm_campaign=1049&utm_source=git)** | Norwood, NJ | On Site | Feb 22 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b02f63019f50a4fe60a35?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina, United States | On Site | Feb 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 22 |
@@ -149,9 +151,7 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Workplace Strategy Intern / Summer 2026](https://jobright.ai/jobs/info/6999189681476f6176b192c1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Home Entertainment Intern: LA - Summer 2026](https://jobright.ai/jobs/info/699937a981476f6176b1c479?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 20 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
-| **[City and County of Denver](https://www.denvergov.org)** | **[Photography and Videography College Intern (6 Months) – Global Communications and Marketing - Denver International Airport](https://jobright.ai/jobs/info/698e9521f64d441a1650e06f?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 20 |
 | **[PlanetArt](http://www.planetart.com)** | **[Graphic Design Intern (Ads) - Summer 2026](https://jobright.ai/jobs/info/698baa6cc5761b521a9b3c42?utm_campaign=1049&utm_source=git)** | Calabasas, CA | Hybrid | Feb 20 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/6999327881476f6176b1bd35?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6999347d81476f6176b1c04a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
