@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Paradowski Creative](https://paradowski.com)** | **[Social Creator Intern](https://jobright.ai/jobs/info/699c8ce581476f6176b52828?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
+| ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/699c89e0e0bddb6acacb9c01?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Digital Design Internship](https://jobright.ai/jobs/info/69958e7de0bddb6acac42168?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Feb 23 |
+| **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/699c818281476f6176b50c37?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Paradowski Creative](https://paradowski.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/699c7b96ce78e77b4fe13568?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | **[PGAL](http://pgal.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/699c7834e0bddb6acacb831b?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 23 |
 | **[Jacobs](http://www.jacobs.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6964b835a112b4026612a1db?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 23 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Designer Internship in Paris](https://jobright.ai/jobs/info/699c6526e0bddb6acacb703f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 23 |
+| **[A Tiger Cub](https://atigercub.com)** | **[Visual Designer & Storyboard Artist](https://jobright.ai/jobs/info/699c8e42ce78e77b4fe15a80?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Feb 23 |
 | **[UnitedMasters](https://unitedmasters.com/)** | **[Creative, Art Director Intern](https://jobright.ai/jobs/info/699c648581476f6176b4f434?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | ↳ | **[Creative, Copywriter Intern](https://jobright.ai/jobs/info/699c5832e0bddb6acacb5d64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699c4f24ce78e77b4fe0fd6a?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb0f319e8e925ac6c888c6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Feb 21 |
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Animation Intern](https://jobright.ai/jobs/info/69997905e0bddb6acac8ba44?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Feb 21 |
-| **[CAE USA](https://www.cae.com/defence-security/regional-operations/cae-usa/)** | **[3D Artist Student Co-op with Security Clearance](https://jobright.ai/jobs/info/699c07efe0bddb6acacae4d2?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Feb 20 |
-| **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69997246ce78e77b4fde59ee?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 20 |
-| ↳ | **[Disney Consumer Products Character Art Intern (FL), Summer/Fall 2026](https://jobright.ai/jobs/info/6999654dce78e77b4fde4165?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
