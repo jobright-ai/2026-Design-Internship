@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[UnitedMasters](https://unitedmasters.com/)** | **[Creative, Copywriter Intern](https://jobright.ai/jobs/info/699c5832e0bddb6acacb5d64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
+| **[Paradowski Creative](https://paradowski.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/699c7b96ce78e77b4fe13568?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
+| **[PGAL](http://pgal.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/699c7834e0bddb6acacb831b?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Feb 23 |
+| **[Jacobs](http://www.jacobs.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6964b835a112b4026612a1db?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 23 |
+| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Designer Internship in Paris](https://jobright.ai/jobs/info/699c6526e0bddb6acacb703f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 23 |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Creative, Art Director Intern](https://jobright.ai/jobs/info/699c648581476f6176b4f434?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
+| ↳ | **[Creative, Copywriter Intern](https://jobright.ai/jobs/info/699c5832e0bddb6acacb5d64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699c4f24ce78e77b4fe0fd6a?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 23 |
+| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Feb 23 |
+| ↳ | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c6c57ce78e77b4fe128cb?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40ec81476f6176b4ba7d?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 23 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40d381476f6176b4b9e2?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 23 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Feb 20 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69997246ce78e77b4fde59ee?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | Hybrid | Feb 20 |
 | ↳ | **[Disney Consumer Products Character Art Intern (FL), Summer/Fall 2026](https://jobright.ai/jobs/info/6999654dce78e77b4fde4165?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Feb 20 |
-| **[Bobbitt](http://bobbitt.com)** | **[Architecture & Design Internship](https://jobright.ai/jobs/info/699be04381476f6176b448aa?utm_campaign=1049&utm_source=git)** | Cary, NC | Hybrid | Feb 20 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/69992f9781476f6176b1b93a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 20 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/6999287d81476f6176b1af2f?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 20 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69991b2be0bddb6acac818a7?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Feb 20 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Workplace Strategy Intern / Summer 2026](https://jobright.ai/jobs/info/6999189681476f6176b192c1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
-| **[Warner Bros. Discovery](https://wbd.com)** | **[WB Home Entertainment Intern: LA - Summer 2026](https://jobright.ai/jobs/info/699937a981476f6176b1c479?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
