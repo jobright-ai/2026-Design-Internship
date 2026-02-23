@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699c98c381476f6176b533ba?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 23 |
 | **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cb713e0bddb6acacbc792?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Feb 23 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699c988fce78e77b4fe160c1?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Feb 23 |
+| **[Gage Marine - Boat Sales](https://www.gageboats.com)** | **[Summer Photographer/Videographer Marketing Intern](https://jobright.ai/jobs/info/699ccfa6ce78e77b4fe18bad?utm_campaign=1049&utm_source=git)** | Delavan,WI,US | On Site | Feb 23 |
 | **[Kontaktsource](http://www.kontaktsource.com)** | **[UI/UX Design & Web development Internship](https://jobright.ai/jobs/info/699cbb0f81476f6176b54ef6?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Feb 23 |
 | **[Paradowski Creative](https://paradowski.com)** | **[Social Creator Intern](https://jobright.ai/jobs/info/699c8ce581476f6176b52828?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/699c89e0e0bddb6acacb9c01?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
@@ -84,8 +85,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative, Copywriter Intern](https://jobright.ai/jobs/info/699c5832e0bddb6acacb5d64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | ↳ | **[Creative, Art Director Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699cac5881476f6176b53fb3?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699c4f24ce78e77b4fe0fd6a?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 23 |
-| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c6c57ce78e77b4fe128cb?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 23 |
-| ↳ | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Feb 23 |
+| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Feb 23 |
+| ↳ | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c6c57ce78e77b4fe128cb?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Feb 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40ec81476f6176b4ba7d?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 23 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40d381476f6176b4b9e2?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Video & Multimedia Intern, WSHES Creative, Summer/Fall 2026](https://jobright.ai/jobs/info/6995d682ce78e77b4fd9dcdb?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b20163141d1884553f8f?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Feb 21 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8fa544146d3b6ec557b6?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 21 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6946063f63141d188455b357?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
