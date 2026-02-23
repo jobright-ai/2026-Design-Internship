@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699baf38ce78e77b4fe032ed?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Feb 22 |
-| **[A Tiger Cub](https://atigercub.com)** | **[Illustrator / Visual Designer(Game Design)](https://jobright.ai/jobs/info/699ba406e0bddb6acaca6b10?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 22 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/699b7406e0bddb6acaca66a1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 22 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/699652c4ce78e77b4fda559f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/6999489fce78e77b4fde0d7b?utm_campaign=1049&utm_source=git)** | St. Louis, MO, 63103, US | On Site | Feb 20 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6999258ace78e77b4fddd34e?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Feb 20 |
 | **[Cincinnati Art Museum](https://www.cincinnatiartmuseum.org/)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/69991d44ce78e77b4fddc3c1?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | On Site | Feb 20 |
+| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69993b7be0bddb6acac84fb5?utm_campaign=1049&utm_source=git)** | CA-QC-Montreal | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
