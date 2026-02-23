@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699ca63981476f6176b53c0d?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Feb 23 |
+| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699ca61481476f6176b53c02?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Feb 23 |
+| **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/6995a68fe0bddb6acac42fcf?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 23 |
+| **[HNTB](http://www.hntb.com/)** | **[Multimedia/Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/699ca1b7e0bddb6acacbb552?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Feb 23 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699c9a2781476f6176b53475?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 23 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/699c98c381476f6176b533ba?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Feb 23 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/699c988fce78e77b4fe160c1?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Feb 23 |
 | **[Paradowski Creative](https://paradowski.com)** | **[Social Creator Intern](https://jobright.ai/jobs/info/699c8ce581476f6176b52828?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/699c89e0e0bddb6acacb9c01?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Digital Design Internship](https://jobright.ai/jobs/info/69958e7de0bddb6acac42168?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Feb 23 |
@@ -88,7 +95,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Creative Project](https://jobright.ai/jobs/info/699b5e2fe0bddb6acaca47bc?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 22 |
 | **[B&A Architectural Group Inc](http://www.baarchitecturalgroupinc.com)** | **[Intern Architect](https://jobright.ai/jobs/info/699b4c1ee0bddb6acaca436a?utm_campaign=1049&utm_source=git)** | Pensacola, FL | On Site | Feb 22 |
 | **[BWBR](https://www.bwbr.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/699b2fc6ce78e77b4fdfd394?utm_campaign=1049&utm_source=git)** | St Paul, MN | On Site | Feb 22 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Paid Internship - Graphic Design Summer 2026](https://jobright.ai/jobs/info/699b1d8fe0bddb6acaca2698?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Feb 22 |
+| **[ROKA](http://www.roka.com)** | **[Graphic Design (Creative) Intern](https://jobright.ai/jobs/info/699c934be0bddb6acacbac4a?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 22 |
 | ↳ | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Feb 22 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699aec72e0bddb6acaca0298?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | Hybrid | Feb 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/694477e250bbaf765056836a?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Feb 21 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 21 |
 | **[GA Telesis](http://www.gatelesis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697cd2203f57a33569668479?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 21 |
-| **[KCI](http://www.kci.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6959dad5aa05c26e7ab38019?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Feb 21 |
-| **[Blayzer Digital](https://www.blayzer.com/)** | **[Web Design Intern](https://jobright.ai/jobs/info/69998620ce78e77b4fde7244?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 21 |
-| **[Tanium](http://www.tanium.com)** | **[UX/UI Intern](https://jobright.ai/jobs/info/694461fb94730b7398778a62?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | Feb 21 |
-| **[Exiger](http://www.exiger.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6961661ff3f4cd1325065e8a?utm_campaign=1049&utm_source=git)** | McLean, VA | Hybrid | Feb 21 |
-| **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/68fb0f319e8e925ac6c888c6?utm_campaign=1049&utm_source=git)** | Williamsburg, VA | Hybrid | Feb 21 |
-| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Animation Intern](https://jobright.ai/jobs/info/69997905e0bddb6acac8ba44?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fd70582817106e976db0c?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska, United States | On Site | Feb 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
