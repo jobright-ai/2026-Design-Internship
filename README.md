@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UnitedMasters](https://unitedmasters.com/)** | **[Creative, Copywriter Intern](https://jobright.ai/jobs/info/699c5832e0bddb6acacb5d64?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 23 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699c4f24ce78e77b4fe0fd6a?utm_campaign=1049&utm_source=git)** | Reston, VA | On Site | Feb 23 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40ec81476f6176b4ba7d?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Workplace Strategy Intern / Summer 2026](https://jobright.ai/jobs/info/6999189681476f6176b192c1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 20 |
 | **[Warner Bros. Discovery](https://wbd.com)** | **[WB Home Entertainment Intern: LA - Summer 2026](https://jobright.ai/jobs/info/699937a981476f6176b1c479?utm_campaign=1049&utm_source=git)** | Burbank, CA | On Site | Feb 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 20 |
-| **[WENDEL Companies](https://wendelcompanies.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/69964f08e0bddb6acac4bb36?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Feb 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
