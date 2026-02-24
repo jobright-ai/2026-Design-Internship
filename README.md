@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Maricich Health](https://maricich.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/699e0a1781476f6176b6f5c7?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 24 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/699e0377ce78e77b4fe3225f?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Feb 24 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[LXD Intern](https://jobright.ai/jobs/info/699df88be0bddb6acacd63d3?utm_campaign=1049&utm_source=git)** | Northbrook, IL | Hybrid | Feb 24 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69814cde7f40342e15da4ffd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69814ac7abff4c399aa04369?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Feb 24 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Creative Intern](https://jobright.ai/jobs/info/699dede681476f6176b6df70?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 24 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[User Experience Content Intern](https://jobright.ai/jobs/info/6981f6270f6f7e7a2cdb0d17?utm_campaign=1049&utm_source=git)** | United States | On Site | Feb 24 |
+| **[Rakuten](http://global.rakuten.com)** | **[Intern - Graphic Design, Internal Communications](https://jobright.ai/jobs/info/699e08c081476f6176b6f4e1?utm_campaign=1049&utm_source=git)** | San Mateo, California | On Site | Feb 24 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/699de81d81476f6176b6cfce?utm_campaign=1049&utm_source=git)** | Sycamore, IL, US | On Site | Feb 24 |
 | **[CEC Entertainment](http://www.chuckecheese.com/careers)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6980ffa67f40342e15d9d83a?utm_campaign=1049&utm_source=git)** | Irving, TX | Hybrid | Feb 24 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design - Collegiate Associate Intern (Appleton, WI)](https://jobright.ai/jobs/info/69812502abff4c399a9ffa15?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Feb 24 |
@@ -141,20 +143,18 @@ For a complete list, click the following sortable link below:
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/699d21face78e77b4fe1f91d?utm_campaign=1049&utm_source=git)** | Trenton,NJ,US | Hybrid | Feb 23 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699cecb9e0bddb6acacbf362?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 23 |
 | ↳ | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699cebe3e0bddb6acacbf25b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Graduate Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699d100e81476f6176b5b0a5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | Hybrid | Feb 23 |
-| ↳ | **[AppHatchery Graduate Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699d231ace78e77b4fe1faa4?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | Hybrid | Feb 23 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Graduate Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699d231ace78e77b4fe1faa4?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | Hybrid | Feb 23 |
+| ↳ | **[AppHatchery Graduate Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/699d100e81476f6176b5b0a5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | Hybrid | Feb 23 |
 | **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Communications - Content Strategy](https://jobright.ai/jobs/info/699d0f25e0bddb6acacc2b14?utm_campaign=1049&utm_source=git)** | Westlake Village, CA | Hybrid | Feb 23 |
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Fashion Design Internship](https://jobright.ai/jobs/info/699d1109e0bddb6acacc2d81?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 23 |
 | **[Packaging Corporation of America](http://packagingcorp.com)** | **[Design Intern- Marshfield, WI](https://jobright.ai/jobs/info/699d0ec181476f6176b5af40?utm_campaign=1049&utm_source=git)** | Marshfield, WI | On Site | Feb 23 |
 | **[GRAEF](http://graef-usa.com)** | **[Planner/Urban Designer Intern T1](https://jobright.ai/jobs/info/699cdcf781476f6176b5676c?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Feb 23 |
 | **[Alston & Bird](http://www.alston.com/)** | **[Website Design & Communication Intern](https://jobright.ai/jobs/info/69863a738da7a6120460eba8?utm_campaign=1049&utm_source=git)** | Atlanta Metro | Hybrid | Feb 23 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[Summer Planning and Urban Design Intern](https://jobright.ai/jobs/info/699d0a9981476f6176b5aafc?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 23 |
-| ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699cfe37ce78e77b4fe1c1fe?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 23 |
 | ↳ | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699cf9eece78e77b4fe1b943?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 23 |
+| ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699cfe37ce78e77b4fe1c1fe?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Feb 23 |
 | ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699cfb64ce78e77b4fe1bc39?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 23 |
+| ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699d0067ce78e77b4fe1c6b9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | ↳ | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699cf442ce78e77b4fe1ad9e?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 23 |
 | ↳ | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699d069281476f6176b5a28b?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 23 |
-| ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699d0067ce78e77b4fe1c6b9?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
-| ↳ | **[Summer Architecture Intern](https://jobright.ai/jobs/info/699d0c2381476f6176b5ac95?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 23 |
-| ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/699cf7aace78e77b4fe1b4b6?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
