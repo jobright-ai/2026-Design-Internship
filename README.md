@@ -62,7 +62,10 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Feb 24 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699e633581476f6176b76a3c?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Feb 24 |
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/699e58ece0bddb6acacdd1e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
+| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/699e7e73ce78e77b4fe3d968?utm_campaign=1049&utm_source=git)** | Bettendorf, IA | On Site | Feb 24 |
 | **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[UI/UX & Social Media Management Intern (Commission-Based)](https://jobright.ai/jobs/info/699e763dce78e77b4fe3c1d1?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f5e81476f6176b7a878?utm_campaign=1049&utm_source=git)** | US-FL-Miami | Hybrid | Feb 24 |
+| ↳ | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f21e0bddb6acace2273?utm_campaign=1049&utm_source=git)** | Miami, FL, US | Hybrid | Feb 24 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Internship (Unpaid)](https://jobright.ai/jobs/info/699e63e8ce78e77b4fe39a3c?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 24 |
 | **[Tenet3®](https://tenet3.com/)** | **[UI / UX Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/699e3384ce78e77b4fe345c9?utm_campaign=1049&utm_source=git)** | Dayton, Ohio | On Site | Feb 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Feb 23 |
 | **[A24](http://a24films.com/)** | **[TV Creative Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d5c89ce78e77b4fe26280?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
 | **[Specified Technologies Inc. (STI Firestop)](http://www.stifirestop.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/699d428be0bddb6acacc9139?utm_campaign=1049&utm_source=git)** | Somerville NJ  - Somerville, NJ 08876 | On Site | Feb 23 |
-| **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/699d1f9881476f6176b5c50c?utm_campaign=1049&utm_source=git)** | Trenton, NJ | Hybrid | Feb 23 |
-| **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699d192b81476f6176b5bc28?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Feb 23 |
-| **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d148281476f6176b5b59a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
