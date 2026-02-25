@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e721181476f6176b78967?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 24 |
+| **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6933cdd5a0dde7020e2f20d4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 24 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Feb 24 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699e633581476f6176b76a3c?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Feb 24 |
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/699e58ece0bddb6acacdd1e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
+| **[C&D Talent Advisory - Academy](cdtalentadvisory.com)** | **[UI/UX & Social Media Management Intern (Commission-Based)](https://jobright.ai/jobs/info/699e763dce78e77b4fe3c1d1?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Feb 24 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Internship (Unpaid)](https://jobright.ai/jobs/info/699e63e8ce78e77b4fe39a3c?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 24 |
 | **[Tenet3®](https://tenet3.com/)** | **[UI / UX Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/699e3384ce78e77b4fe345c9?utm_campaign=1049&utm_source=git)** | Dayton, Ohio | On Site | Feb 24 |
 | **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699e5bb781476f6176b75b9d?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Feb 24 |
@@ -68,6 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e4959e0bddb6acacdb389?utm_campaign=1049&utm_source=git)** | Remote Site | Remote | Feb 24 |
 | **[CA For The Arts](https://www.caforthearts.org)** | **[Self Help Graphics & Art - Youth Artivism Internship](https://jobright.ai/jobs/info/699e3874ce78e77b4fe34cee?utm_campaign=1049&utm_source=git)** | Boyle, MS | On Site | Feb 24 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699e3f2d81476f6176b725d6?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Feb 24 |
+| **[WENDEL Companies](https://wendelcompanies.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/699e6b15e0bddb6acacdf623?utm_campaign=1049&utm_source=git)** | Richmond, VA, US | On Site | Feb 24 |
 | **[Cartwright](https://www.cartwright.co)** | **[Cartwright Internship - Summer 2026](https://jobright.ai/jobs/info/699e39e3e0bddb6acacd95fa?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[AI Creative Content Intern - Summer 2026](https://jobright.ai/jobs/info/699e3b2b81476f6176b71de5?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 24 |
 | **[Maricich Health](https://maricich.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/699e0a1781476f6176b6f5c7?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 24 |
@@ -79,6 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/699e0377ce78e77b4fe3225f?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Feb 24 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Motion Designer](https://jobright.ai/jobs/info/699e2d4bce78e77b4fe33e1e?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Feb 24 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699e281381476f6176b708ae?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 24 |
+| **[Chil & Co.](https://www.chilatl.com)** | **[Graphics Design Internship](https://jobright.ai/jobs/info/699e65a881476f6176b76f19?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 24 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[LXD Intern](https://jobright.ai/jobs/info/699df88be0bddb6acacd63d3?utm_campaign=1049&utm_source=git)** | Northbrook, IL | Hybrid | Feb 24 |
 | ↳ | **[UX Intern](https://jobright.ai/jobs/info/699e3f30ce78e77b4fe356e1?utm_campaign=1049&utm_source=git)** | Northbrook, IL 60062, USA | Hybrid | Feb 24 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69814cde7f40342e15da4ffd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/699d1f9881476f6176b5c50c?utm_campaign=1049&utm_source=git)** | Trenton, NJ | Hybrid | Feb 23 |
 | **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699d192b81476f6176b5bc28?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Feb 23 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d148281476f6176b5b59a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UI UX Intern](https://jobright.ai/jobs/info/699d1461e0bddb6acacc3200?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 23 |
-| **[Penn Mutual](https://www.pennmutual.com/)** | **[Creative Services Summer Intern (Traditional Design)](https://jobright.ai/jobs/info/699d13d8e0bddb6acacc314d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 23 |
-| **[Wellfit Technologies](https://wellfit.com)** | **[Product & UX Research Internship](https://jobright.ai/jobs/info/699d12a5ce78e77b4fe1e28f?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Feb 23 |
-| **[MHTN Architects](http://mhtn.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/699d109fe0bddb6acacc2cff?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 23 |
-| **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d0c6ace78e77b4fe1da51?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Feb 23 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699d2bd1ce78e77b4fe20cca?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 23 |
-| **[ButcherBox](https://www.butcherbox.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699d22e9ce78e77b4fe1fa4f?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Feb 23 |
-| **[LMCU](https://www.lmcu.org/)** | **[Member Experience Analyst Intern](https://jobright.ai/jobs/info/69957aa281476f6176ad68c5?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
