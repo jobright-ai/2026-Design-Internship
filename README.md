@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6966dc51a112b4026614ef41?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Feb 25 |
+| **[SoFi](https://www.sofi.com)** | **[Intern, Product Designer](https://jobright.ai/jobs/info/6982b0da348f733a5c35a99b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 25 |
+| **[Orvanta](joinorvanta.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f2ab394ef206f184e4c6f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Feb 25 |
+| **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f3e38232105a2d0b6e41?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 25 |
+| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 25 |
 | **[Farnsworth Group, Inc.](http://www.f-w.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/68cd9c82e23def7af55bca7a?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 25 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6966d2125ad3a93f823238b6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 25 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f164b81476f6176b8b130?utm_campaign=1049&utm_source=git)** | Costa Mesa, California, United States | On Site | Feb 25 |
@@ -114,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/699e9eecce78e77b4fe41aeb?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Feb 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9569ce78e77b4fe4066a?utm_campaign=1049&utm_source=git)** | US-PA-Fort Washington | On Site | Feb 24 |
 | ↳ | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9a0a81476f6176b7e2a7?utm_campaign=1049&utm_source=git)** | Fort Washington, PA, US | On Site | Feb 24 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f21e0bddb6acace2273?utm_campaign=1049&utm_source=git)** | Miami, FL, US | Hybrid | Feb 24 |
-| ↳ | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f5e81476f6176b7a878?utm_campaign=1049&utm_source=git)** | US-FL-Miami | Hybrid | Feb 24 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f5e81476f6176b7a878?utm_campaign=1049&utm_source=git)** | US-FL-Miami | Hybrid | Feb 24 |
+| ↳ | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f21e0bddb6acace2273?utm_campaign=1049&utm_source=git)** | Miami, FL, US | Hybrid | Feb 24 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Internship (Unpaid)](https://jobright.ai/jobs/info/699e63e8ce78e77b4fe39a3c?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Feb 24 |
 | **[Dauenhauer Capital](dauenhauercapital.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/699ef963ce78e77b4fe4aed2?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 24 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69814cde7f40342e15da4ffd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 24 |
 | **[IDEAL INDUSTRIES, INC](http://www.idealindustries.com)** | **[Creative Media Intern](https://jobright.ai/jobs/info/699e2b4ae0bddb6acacd85b5?utm_campaign=1049&utm_source=git)** | Sycamore, IL | On Site | Feb 24 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69814ac7abff4c399aa04369?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | Hybrid | Feb 24 |
-| **[COUNTRY Financial®](https://www.countryfinancial.com)** | **[User Experience Design Intern - DigitaLab](https://jobright.ai/jobs/info/699e1e27e0bddb6acacd7c37?utm_campaign=1049&utm_source=git)** | Peoria Metropolitan Area | On Site | Feb 24 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Summer 2026 Creative Intern](https://jobright.ai/jobs/info/699dede681476f6176b6df70?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 24 |
-| **[Premier Inc.](http://www.premierinc.com)** | **[User Experience Content Intern](https://jobright.ai/jobs/info/6981f6270f6f7e7a2cdb0d17?utm_campaign=1049&utm_source=git)** | United States | On Site | Feb 24 |
-| **[Lavelle Industries, Inc.](http://lavelle.com)** | **[Graphic Design Intern - Spring/Summer 2026](https://jobright.ai/jobs/info/699e18d6ce78e77b4fe32fab?utm_campaign=1049&utm_source=git)** | Burlington,WI,US | On Site | Feb 24 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/699e334981476f6176b7144e?utm_campaign=1049&utm_source=git)** | Leesburg, VA | On Site | Feb 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
