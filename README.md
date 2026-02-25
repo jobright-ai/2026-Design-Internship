@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern, Photo/Video -  Marketing/Comm (ETS)/ Temporary](https://jobright.ai/jobs/info/699f4f3c81476f6176b8eecc?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Feb 25 |
 | **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f2b10f6f7e7a2cdc679c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 25 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Summer 2026](https://jobright.ai/jobs/info/693be79d49a7695fbd02d717?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982d7048232105a2d0b53eb?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 25 |
@@ -118,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - MODAL Digital UI/UX](https://jobright.ai/jobs/info/699eae38e0bddb6acace9233?utm_campaign=1049&utm_source=git)** | Bridgewater, NJ | On Site | Feb 25 |
 | **[Plantible](https://www.plantiblefoods.com)** | **[UI Design Intern](https://jobright.ai/jobs/info/699eea8a94ef206f184ded43?utm_campaign=1049&utm_source=git)** | Eldorado, TX | On Site | Feb 24 |
 | **[DHGATE Group](http://www.dhgate.com)** | **[Social Media Operations Intern](https://jobright.ai/jobs/info/699e9850ce78e77b4fe40d04?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Feb 24 |
-| **[Plantible](https://www.plantiblefoods.com)** | **[UI Design Intern](https://jobright.ai/jobs/info/699ea08981476f6176b7efd5?utm_campaign=1049&utm_source=git)** | Texas | On Site | Feb 24 |
-| ↳ | **[UI Design Intern](https://jobright.ai/jobs/info/699eb408ce78e77b4fe4586c?utm_campaign=1049&utm_source=git)** | Eldorado, TX | On Site | Feb 24 |
+| **[Plantible](https://www.plantiblefoods.com)** | **[UI Design Intern](https://jobright.ai/jobs/info/699eb408ce78e77b4fe4586c?utm_campaign=1049&utm_source=git)** | Eldorado, TX | On Site | Feb 24 |
+| ↳ | **[UI Design Intern](https://jobright.ai/jobs/info/699ea08981476f6176b7efd5?utm_campaign=1049&utm_source=git)** | Texas | On Site | Feb 24 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e721181476f6176b78967?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/699f1041ce78e77b4fe4c886?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | Feb 24 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6933cdd5a0dde7020e2f20d4?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Feb 24 |
@@ -133,11 +134,10 @@ For a complete list, click the following sortable link below:
 | **[EPOCH DESIGN GROUP, INC.](https://www.edgstl.com)** | **[Architect Intern](https://jobright.ai/jobs/info/699ef48ace78e77b4fe4a9f1?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 24 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/699e9566ce78e77b4fe40664?utm_campaign=1049&utm_source=git)** | Metairie,LA,US | On Site | Feb 24 |
 | **[Infinity Marketing](http://infinitymkt.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/699e9eecce78e77b4fe41aeb?utm_campaign=1049&utm_source=git)** | Greenville,SC,US | On Site | Feb 24 |
-| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9569ce78e77b4fe4066a?utm_campaign=1049&utm_source=git)** | US-PA-Fort Washington | On Site | Feb 24 |
-| ↳ | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9a0a81476f6176b7e2a7?utm_campaign=1049&utm_source=git)** | Fort Washington, PA, US | On Site | Feb 24 |
+| **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9a0a81476f6176b7e2a7?utm_campaign=1049&utm_source=git)** | Fort Washington, PA, US | On Site | Feb 24 |
+| ↳ | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699e9569ce78e77b4fe4066a?utm_campaign=1049&utm_source=git)** | US-PA-Fort Washington | On Site | Feb 24 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f5e81476f6176b7a878?utm_campaign=1049&utm_source=git)** | US-FL-Miami | Hybrid | Feb 24 |
 | ↳ | **[Creative Intern, UX](https://jobright.ai/jobs/info/699e7f21e0bddb6acace2273?utm_campaign=1049&utm_source=git)** | Miami, FL, US | Hybrid | Feb 24 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Graphic Designer Internship (Unpaid)](https://jobright.ai/jobs/info/699e63e8ce78e77b4fe39a3c?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Feb 24 |
 | **[Dauenhauer Capital](dauenhauercapital.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/699ef963ce78e77b4fe4aed2?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 24 |
 | **[Sugar Cilantro](https://sugarcilantro.com)** | **[Social Media, Photograpy, and Graphic Design Intern](https://jobright.ai/jobs/info/699efc2b81476f6176b88293?utm_campaign=1049&utm_source=git)** | Athens, GA | Hybrid | Feb 24 |
@@ -150,8 +150,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 24 |
 | **[EPOCH DESIGN GROUP, INC.](https://www.edgstl.com)** | **[Architect Intern](https://jobright.ai/jobs/info/699efce481476f6176b88339?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 24 |
 | **[Toll Brothers](https://www.tollbrothers.com)** | **[2026 Internship Program: Brand & Creative Intern](https://jobright.ai/jobs/info/699edb7a81476f6176b8502f?utm_campaign=1049&utm_source=git)** | Fort Washington, PA | On Site | Feb 24 |
-| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e4959e0bddb6acacdb389?utm_campaign=1049&utm_source=git)** | Remote Site | Remote | Feb 24 |
-| ↳ | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e404881476f6176b7282c?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 24 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e404881476f6176b7282c?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Feb 24 |
+| ↳ | **[Undergraduate Summer Intern – Visualization Researcher](https://jobright.ai/jobs/info/699e4959e0bddb6acacdb389?utm_campaign=1049&utm_source=git)** | Remote Site | Remote | Feb 24 |
 | **[CA For The Arts](https://www.caforthearts.org)** | **[Self Help Graphics & Art - Youth Artivism Internship](https://jobright.ai/jobs/info/699e3874ce78e77b4fe34cee?utm_campaign=1049&utm_source=git)** | Boyle, MS | On Site | Feb 24 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/699e3f2d81476f6176b725d6?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Feb 24 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/699e6b15e0bddb6acacdf623?utm_campaign=1049&utm_source=git)** | Richmond, VA, US | On Site | Feb 24 |
