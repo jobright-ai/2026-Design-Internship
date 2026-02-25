@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/699e58ece0bddb6acacdd1e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Feb 24 |
 | **[Tenet3®](https://tenet3.com/)** | **[UI / UX Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/699e3384ce78e77b4fe345c9?utm_campaign=1049&utm_source=git)** | Dayton, Ohio | On Site | Feb 24 |
+| **[Baldwin Supply Company](http://baldwinsupply.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699e5bb781476f6176b75b9d?utm_campaign=1049&utm_source=git)** | Plymouth, MN | On Site | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 24 |
 | **[NEON](https://neonrated.com)** | **[NEON Digital Distribution Intern, Summer 2026](https://jobright.ai/jobs/info/699e45dd81476f6176b731ad?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Feb 24 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 24 |
@@ -99,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/699e04a7ce78e77b4fe32309?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 24 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[Brand Intern](https://jobright.ai/jobs/info/699dd1efe0bddb6acacd314f?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Feb 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Graphic Design - Cast Activities, Recognition and Experience Intern, Fall 2026](https://jobright.ai/jobs/info/699df0dae0bddb6acacd5c7d?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, USA | Hybrid | Feb 24 |
-| **[Heights Wellness Retreat](http://www.massageheights.com)** | **[Creative & Design Marketing Intern](https://jobright.ai/jobs/info/699dcd9481476f6176b6b079?utm_campaign=1049&utm_source=git)** | San Antonio, TX | Hybrid | Feb 24 |
 | **[iRobot](https://www.irobot.com)** | **[Product Illustration and Design Intern (Spring/Summer)](https://jobright.ai/jobs/info/699dcbd781476f6176b6ae09?utm_campaign=1049&utm_source=git)** | Bedford, MA | Hybrid | Feb 24 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[AI Creative Content Intern - Summer 2026](https://jobright.ai/jobs/info/699de9d3e0bddb6acacd4bcc?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Feb 24 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern (Kansas City)](https://jobright.ai/jobs/info/69811a14abff4c399a9fe9f6?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 24 |
@@ -137,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/698821c80f6f7e7a2ce368af?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 24 |
 | **[Keurig Dr Pepper Inc.](https://www.keurigdrpepper.com)** | **[Summer 2026 Intern - Industrial Designer](https://jobright.ai/jobs/info/699d6670ce78e77b4fe26a84?utm_campaign=1049&utm_source=git)** | Burlington, MA | Hybrid | Feb 24 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Experience Design - Summer 2026 - Northwest Region](https://jobright.ai/jobs/info/699087c30cc8ea15f1db4cbb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 24 |
+| **[Cozy Earth](https://cozyearth.com/)** | **[Photo Production Intern](https://jobright.ai/jobs/info/699e501181476f6176b74641?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Feb 23 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[AppHatchery Summer Intern (ETS) / Temporary](https://jobright.ai/jobs/info/6999e22b81476f6176b28ca4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 23 |
 | **[St. Martin America Inc.](http://stmartincabinetry.com/)** | **[Graphic Design and Content Creation Intern](https://jobright.ai/jobs/info/699d49acce78e77b4fe24e6e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 23 |
 | **[A24](http://a24films.com/)** | **[Brand Design Intern - Summer 2026 (NY)](https://jobright.ai/jobs/info/699d3908ce78e77b4fe228cc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 23 |
@@ -146,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[Specified Technologies Inc. (STI Firestop)](http://www.stifirestop.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/699d428be0bddb6acacc9139?utm_campaign=1049&utm_source=git)** | Somerville NJ  - Somerville, NJ 08876 | On Site | Feb 23 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/699d1f9881476f6176b5c50c?utm_campaign=1049&utm_source=git)** | Trenton, NJ | Hybrid | Feb 23 |
 | **[DISH Media](https://media.dish.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699d192b81476f6176b5bc28?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Feb 23 |
-| **[MHTN Architects](http://mhtn.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699d1522ce78e77b4fe1e619?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 23 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d148281476f6176b5b59a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 23 |
 | **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UI UX Intern](https://jobright.ai/jobs/info/699d1461e0bddb6acacc3200?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 23 |
 | **[Penn Mutual](https://www.pennmutual.com/)** | **[Creative Services Summer Intern (Traditional Design)](https://jobright.ai/jobs/info/699d13d8e0bddb6acacc314d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/699d2bd1ce78e77b4fe20cca?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Feb 23 |
 | **[ButcherBox](https://www.butcherbox.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699d22e9ce78e77b4fe1fa4f?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Feb 23 |
 | **[LMCU](https://www.lmcu.org/)** | **[Member Experience Analyst Intern](https://jobright.ai/jobs/info/69957aa281476f6176ad68c5?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Feb 23 |
-| **[Penn Mutual](https://www.pennmutual.com/)** | **[Creative Services Summer Intern (multimedia)](https://jobright.ai/jobs/info/699d1a4781476f6176b5bd94?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
