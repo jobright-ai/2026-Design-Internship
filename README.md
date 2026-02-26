@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Allebach Communications](https://www.allebach.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69a06afa81476f6176baa700?utm_campaign=1049&utm_source=git)** | Souderton, PA | On Site | Feb 26 |
 | **[Wiss](http://www.wiss.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a066050836fe79d861566c?utm_campaign=1049&utm_source=git)** | Florham Park, NJ | Hybrid | Feb 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a05dd05218a81676717261?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694af4c367a69734cac60902?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996d4adce78e77b4fdb0b14?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a0110081476f6176ba1175?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Digital Experience Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69a00f04ce78e77b4fe63688?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
-| **[Nightwing](nightwing.com)** | **[UI/UX Design Intern - 2026](https://jobright.ai/jobs/info/69a032ca81476f6176ba502a?utm_campaign=1049&utm_source=git)** | Sterling, VA | On Site | Feb 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 25 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Digital Experience Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/699fe866ce78e77b4fe5dd8d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[UX Researcher I (Intern) - United States](https://jobright.ai/jobs/info/699fc237d643757b0e4547fb?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
@@ -147,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699f58a881476f6176b8f4a7?utm_campaign=1049&utm_source=git)** | Alachua, FL, US | On Site | Feb 25 |
 | **[Arconic](https://www.arconic.com)** | **[Product Design & Methods Intern (Summer 2026)](https://jobright.ai/jobs/info/6967195d6f782b4e8d52cf6f?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Feb 25 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern, Photo/Video -  Marketing/Comm (ETS)/ Temporary](https://jobright.ai/jobs/info/699f5a7094ef206f184e810d?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f62f081476f6176b8fb8c?utm_campaign=1049&utm_source=git)** | US-AR-Springdale | Hybrid | Feb 25 |
-| ↳ | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f5bd394ef206f184e822a?utm_campaign=1049&utm_source=git)** | Springdale, AR, US | Hybrid | Feb 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f5bd394ef206f184e822a?utm_campaign=1049&utm_source=git)** | Springdale, AR, US | Hybrid | Feb 25 |
+| ↳ | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f62f081476f6176b8fb8c?utm_campaign=1049&utm_source=git)** | US-AR-Springdale | Hybrid | Feb 25 |
 | **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/699f822423374b3b6e6b5165?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 25 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[UI Experience Bachelor's Intern](https://jobright.ai/jobs/info/699fdd8781476f6176b99812?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 25 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Digital](https://jobright.ai/jobs/info/696676037a34f5392054efab?utm_campaign=1049&utm_source=git)** | Purchase, NY | Hybrid | Feb 25 |
