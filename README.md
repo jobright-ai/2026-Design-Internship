@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09fef81476f6176baef7d?utm_campaign=1049&utm_source=git)** | Madison, AL | On Site | Feb 26 |
+| **[Talentix](https://thetalentix.com/)** | **[User Experience Design Internship](https://jobright.ai/jobs/info/69a0a4d90836fe79d861a709?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 26 |
+| **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a0a2db0836fe79d861a529?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 26 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09fef81476f6176baef7d?utm_campaign=1049&utm_source=git)** | Madison, AL | On Site | Feb 26 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69a09cdb81476f6176baedd4?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
 | **[Shop Online New York](https://www.topofny.com)** | **[UX/UI intern](https://jobright.ai/jobs/info/69a09c6e81476f6176baed8e?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Feb 26 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09c300836fe79d861a074?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 26 |
@@ -150,11 +152,9 @@ For a complete list, click the following sortable link below:
 | **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/699f8b52ce78e77b4fe55b7e?utm_campaign=1049&utm_source=git)** | Wilmington, DE (Job Posting) | Hybrid | Feb 25 |
 | **[Fifth & Cor](https://www.fifthandcor.com)** | **[Photography/Videography Social Intern](https://jobright.ai/jobs/info/699fcc62ce78e77b4fe5b5d1?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Hybrid | Feb 25 |
 | **[Cisco](http://www.cisco.com)** | **[UX Researcher I (Intern) - United States](https://jobright.ai/jobs/info/699f7e6bce78e77b4fe5401e?utm_campaign=1049&utm_source=git)** | San Jose, California, US | Hybrid | Feb 25 |
-| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architectural Visualization - Buildings (Summer 2026)](https://jobright.ai/jobs/info/699fb58d81476f6176b96ead?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 25 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern, Photo/Video -  Marketing/Comm (ETS)/ Temporary](https://jobright.ai/jobs/info/699f4f3c81476f6176b8eecc?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Feb 25 |
 | **[Translation](http://www.translationllc.com/)** | **[Creative, Copywriter Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699f6cde81476f6176b902ef?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 25 |
 | **[COLSA](http://www.colsa.com)** | **[CSF/UI-UX Design Intern (Undergrad-Summer 2026)](https://jobright.ai/jobs/info/699f8b3181476f6176b9310f?utm_campaign=1049&utm_source=git)** | Alabama, United States | On Site | Feb 25 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 25 |
 | **[STERIS](http://steris.com)** | **[User Interface/Experience Intern](https://jobright.ai/jobs/info/699fe1a453d97f23ee656be4?utm_campaign=1049&utm_source=git)** | Mentor, OH | Hybrid | Feb 25 |
-| **[Dropbox](https://www.dropbox.com)** | **[Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6982f2b10f6f7e7a2cdc679c?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
