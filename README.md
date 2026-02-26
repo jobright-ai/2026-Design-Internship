@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Wiss](http://www.wiss.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a066050836fe79d861566c?utm_campaign=1049&utm_source=git)** | Florham Park, NJ | Hybrid | Feb 26 |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a05dd05218a81676717261?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694af4c367a69734cac60902?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699aec72e0bddb6acaca0298?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | Hybrid | Feb 26 |
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/6983ac9901214b4cdacb79e5?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Character Art Intern (FL), Summer/Fall 2026](https://jobright.ai/jobs/info/699aea5c81476f6176b3814f?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694afff11224705e9002161a?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Feb 26 |
+| **[University of Cincinnati](http://researchcompliance.uc.edu/UCTCA.aspx)** | **[Student Associate, Graphic Design, CECH Marketing Office](https://jobright.ai/jobs/info/69a065c25218a81676718030?utm_campaign=1049&utm_source=git)** | Campus, IL | On Site | Feb 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Creative Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/699c40ec81476f6176b4ba7d?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Feb 26 |
 | ↳ | **[Creative Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0406e0836fe79d8611adb?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 26 |
 | **[Endeavor](http://www.endeavorco.com)** | **[Intern, Creative Designer](https://jobright.ai/jobs/info/6968734c1703f05405aa2b48?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Feb 26 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699f58a881476f6176b8f4a7?utm_campaign=1049&utm_source=git)** | Alachua, FL, US | On Site | Feb 25 |
 | **[Arconic](https://www.arconic.com)** | **[Product Design & Methods Intern (Summer 2026)](https://jobright.ai/jobs/info/6967195d6f782b4e8d52cf6f?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Feb 25 |
 | **[Emory University](https://www.emory.edu/home/index.html)** | **[Intern, Photo/Video -  Marketing/Comm (ETS)/ Temporary](https://jobright.ai/jobs/info/699f5a7094ef206f184e810d?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Feb 25 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f5bd394ef206f184e822a?utm_campaign=1049&utm_source=git)** | Springdale, AR, US | Hybrid | Feb 25 |
-| ↳ | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f62f081476f6176b8fb8c?utm_campaign=1049&utm_source=git)** | US-AR-Springdale | Hybrid | Feb 25 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f62f081476f6176b8fb8c?utm_campaign=1049&utm_source=git)** | US-AR-Springdale | Hybrid | Feb 25 |
+| ↳ | **[Intern, Production Designer](https://jobright.ai/jobs/info/699f5bd394ef206f184e822a?utm_campaign=1049&utm_source=git)** | Springdale, AR, US | Hybrid | Feb 25 |
 | **[Zimmerman Advertising](https://www.zadv.com)** | **[Internship, Art Director (Summer 2026)](https://jobright.ai/jobs/info/699f822423374b3b6e6b5165?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Feb 25 |
 | **[Kaiser Permanente](https://healthy.kaiserpermanente.org)** | **[UI Experience Bachelor's Intern](https://jobright.ai/jobs/info/699fdd8781476f6176b99812?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | Hybrid | Feb 25 |
 | **[(USTA) United States Tennis Association](http://www.usta.com)** | **[Undergraduate Intern Summer 2026 - Digital](https://jobright.ai/jobs/info/696676037a34f5392054efab?utm_campaign=1049&utm_source=git)** | Purchase, NY | Hybrid | Feb 25 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Communications Intern](https://jobright.ai/jobs/info/699f332981476f6176b8d0a6?utm_campaign=1049&utm_source=git)** | 300 West 57th Street, New York, NY, 10019, US | On Site | Feb 25 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/698292aa348f733a5c357aa9?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Feb 25 |
 | **[FREAKINS](https://freakins.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/699f567e94ef206f184e7e13?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Feb 25 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Design Intern](https://jobright.ai/jobs/info/699f301981476f6176b8c705?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-100 Cambridge Street | Hybrid | Feb 25 |
-| **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69a00ed1ce78e77b4fe6363c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 25 |
-| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69829d790a9e07331f8dca10?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
