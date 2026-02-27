@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unbox Product Design](https://www.unboxpd.com)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/69a149160da45516f16a7ff6?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 26 |
 | **[WSP in New Zealand](https://www.wsp.com/en-nz)** | **[Architectural Intern- Summer 2026](https://jobright.ai/jobs/info/69a133686b458d060735ef4a?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Feb 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/69a135db5218a816767272da?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Feb 26 |
 | **[3STEP Sports](https://threestep.com)** | **[Creative Content Co-Op](https://jobright.ai/jobs/info/69a1297881476f6176bb82b5?utm_campaign=1049&utm_source=git)** | Woburn, MA | On Site | Feb 26 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Digital Product Design/UX Intern](https://jobright.ai/jobs/info/69a136ec6b458d060735f238?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69a14670b600907a96277b4a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/69a14282b600907a9627713e?utm_campaign=1049&utm_source=git)** | Newport Beach, CA, US, 92660 | Hybrid | Feb 26 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a12ba15218a8167672658a?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a11c106b458d060735d3d9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
@@ -117,8 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69a09cdb81476f6176baedd4?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09c300836fe79d861a074?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 26 |
 | **[Retrofête](https://retrofete.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/69a0d80c81476f6176bb25f7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a090555218a8167671bd77?utm_campaign=1049&utm_source=git)** | United States-New Jersey-Pennington | On Site | Feb 26 |
-| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a08e6c0836fe79d8618f4e?utm_campaign=1049&utm_source=git)** | United States-Nebraska-Omaha | On Site | Feb 26 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a08d860836fe79d8618d60?utm_campaign=1049&utm_source=git)** | Virginia, United States | Remote | Feb 26 |
 | **[Park City Municipal Corporation](https://parkcity.org)** | **[PLANNING INTERN- SPRING](https://jobright.ai/jobs/info/69a0aa970836fe79d861ac0d?utm_campaign=1049&utm_source=git)** | Park City, UT | On Site | Feb 26 |
 | **[Cerris](http://www.cerris.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a0852e81476f6176bac6f3?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Feb 26 |
@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Character Art Intern (CA), Summer/Fall 2026](https://jobright.ai/jobs/info/699aeaa2ce78e77b4fdfacf2?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Feb 26 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6967d831639b452fb57d6d36?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 26 |
 | **[CHA Consulting, Inc.](http://www.chacompanies.com/)** | **[Architecture Internships - Summer 2026](https://jobright.ai/jobs/info/69682170f25a38006696776c?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Feb 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/698814550f6f7e7a2ce34441?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 26 |
-| ↳ | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/698724600f6f7e7a2ce266b1?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Feb 26 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Interior Design - Summer 2026](https://jobright.ai/jobs/info/69a148c90da45516f16a7f26?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Feb 26 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/698724600f6f7e7a2ce266b1?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Feb 26 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Art Intern](https://jobright.ai/jobs/info/696809d8f25a380066965e7e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Intuitive](https://www.intuitive.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6983967101214b4cdacb4dfb?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | Feb 26 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Feb 26 |
