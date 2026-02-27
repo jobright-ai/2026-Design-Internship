@@ -57,14 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a0ca7281476f6176bb1556?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Feb 26 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0c03881476f6176bb0ca6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Feb 26 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Brand Creative Intern- Summer Internship](https://jobright.ai/jobs/info/69a0b9565218a8167671e431?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 26 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69a0b65a0836fe79d861b662?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Feb 26 |
 | **[Kenneth Cole Productions](https://www.kennethcole.com/)** | **[Graphic Design Intern - Summer Internship](https://jobright.ai/jobs/info/69a0b44481476f6176bb00c0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Feb 26 |
+| **[Dandy](https://www.godandy.com)** | **[Video and Graphic Design Intern](https://jobright.ai/jobs/info/69a0d7f70836fe79d861d9f0?utm_campaign=1049&utm_source=git)** | D-99, Sayre, PA, US | On Site | Feb 26 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Design & Product Storytelling for Next Gen Commerce Cloud](https://jobright.ai/jobs/info/69a0ca075218a8167671f538?utm_campaign=1049&utm_source=git)** | Bellevue, WA | Hybrid | Feb 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a0aaa20836fe79d861ac12?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Feb 26 |
+| **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Feb 26 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / Spring 2026 Grad](https://jobright.ai/jobs/info/69a0a9195218a8167671d587?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Feb 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0a8325218a8167671d4aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 26 |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0d3840836fe79d861d373?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a0a2db0836fe79d861a529?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 26 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09fef81476f6176baef7d?utm_campaign=1049&utm_source=git)** | Madison, AL | On Site | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69a0c69b5218a8167671f1d7?utm_campaign=1049&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[ParsonsKellogg](https://parsonskellogg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a08dfd81476f6176bad978?utm_campaign=1049&utm_source=git)** | US - Remote (Any Location) | Remote | Feb 26 |
 | **[Allebach Communications](https://www.allebach.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69a06afa81476f6176baa700?utm_campaign=1049&utm_source=git)** | Souderton, PA | On Site | Feb 26 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a07e955218a81676719ff0?utm_campaign=1049&utm_source=git)** | US - Remote (Any Location) | Remote | Feb 26 |
+| **[Wiss](http://www.wiss.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a0cb2e0836fe79d861cb75?utm_campaign=1049&utm_source=git)** | Florham Park, NJ | Hybrid | Feb 26 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a05dd05218a81676717261?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0815b81476f6176bac33e?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Feb 26 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Apparel Graphic Design Internship](https://jobright.ai/jobs/info/6983d7c3348f733a5c374d32?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Feb 26 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699f941223374b3b6e6b6253?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Feb 25 |
 | **[Translation](http://www.translationllc.com/)** | **[Creative, Art Director Intern - The 2026 Come Up Internship Program](https://jobright.ai/jobs/info/699fd22f81476f6176b98e6c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Feb 25 |
 | **[Saatchi X](http://www.saatchix.net/)** | **[Intern, Art Director](https://jobright.ai/jobs/info/699f981823374b3b6e6b6cc4?utm_campaign=1049&utm_source=git)** | Springdale, AR | Hybrid | Feb 25 |
-| **[Strata Clean Energy](https://www.stratacleanenergy.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/699f7fec23374b3b6e6b4fa1?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Feb 25 |
-| **[National Trust for Historic Preservation](https://savingplaces.org/historicrestaurants)** | **[Landscape Preservation Internship (Lyndhurst)](https://jobright.ai/jobs/info/699f888cce78e77b4fe55557?utm_campaign=1049&utm_source=git)** | Tarrytown, NY, US | On Site | Feb 25 |
-| **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699f5791ce78e77b4fe522e2?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Feb 25 |
-| ↳ | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699ff17081476f6176b9d027?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Feb 25 |
-| ↳ | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699fe75281476f6176b9b2dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 25 |
-| **[AAA Club Alliance](https://www.aaa.com/aaa/212/careers/index.html)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/699f8b52ce78e77b4fe55b7e?utm_campaign=1049&utm_source=git)** | Wilmington, DE (Job Posting) | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
