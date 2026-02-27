@@ -57,18 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WSP in New Zealand](https://www.wsp.com/en-nz)** | **[Architectural Intern- Summer 2026](https://jobright.ai/jobs/info/69a133686b458d060735ef4a?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Feb 26 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/69a135db5218a816767272da?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | Hybrid | Feb 26 |
 | **[3STEP Sports](https://threestep.com)** | **[Creative Content Co-Op](https://jobright.ai/jobs/info/69a1297881476f6176bb82b5?utm_campaign=1049&utm_source=git)** | Woburn, MA | On Site | Feb 26 |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[Digital Product Design/UX Intern](https://jobright.ai/jobs/info/69a136ec6b458d060735f238?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Design Practice & Special Projects, Consumer Industries](https://jobright.ai/jobs/info/69a14282b600907a9627713e?utm_campaign=1049&utm_source=git)** | Newport Beach, CA, US, 92660 | Hybrid | Feb 26 |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a12ba15218a8167672658a?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a11c106b458d060735d3d9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 26 |
+| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69a12efa81476f6176bb88a0?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Feb 26 |
 | **[Transcarent](https://www.transcarent.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a117c881476f6176bb6f4b?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 26 |
 | **[HNTB](http://www.hntb.com/)** | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/69a1167981476f6176bb6c88?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Feb 26 |
 | ↳ | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/69a114e781476f6176bb6a35?utm_campaign=1049&utm_source=git)** | El Paso, TX | On Site | Feb 26 |
+| ↳ | **[Graphic Design Intern- Summer 2026](https://jobright.ai/jobs/info/69a12f825218a81676726a63?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 26 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a0ede281476f6176bb4a89?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 26 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Digital Creative Intern](https://jobright.ai/jobs/info/69a108526b458d060735be8b?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Feb 26 |
 | **[Transcarent](https://www.transcarent.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a104e36b458d060735bbd0?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Feb 26 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 26 |
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/69a0e11d0836fe79d861e8fa?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 26 |
 | **[Rakuten](http://global.rakuten.com)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a110455218a81676724523?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Feb 26 |
-| **[Cypress Creek Renewables](https://ccrenew.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69a10d4081476f6176bb624b?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Feb 26 |
 | **[Humanscale](http://www.humanscale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a11a5a5218a816767251de?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 26 |
 | ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a1287481476f6176bb81ca?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 26 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a120e95218a816767259d3?utm_campaign=1049&utm_source=git)** | Kansas City, MO, USA | On Site | Feb 26 |
@@ -78,7 +84,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Designer, Summer 2026](https://jobright.ai/jobs/info/69a111746b458d060735c601?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
 | **[Veradigm®](https://veradigm.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a0f3c05218a81676722f25?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 26 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/69a0fef781476f6176bb586e?utm_campaign=1049&utm_source=git)** | MSP - Bloomington, Minnesota | Hybrid | Feb 26 |
-| **[Barstool Sports](http://www.barstoolsports.com)** | **[Digital Product Design/UX Intern](https://jobright.ai/jobs/info/69a1021881476f6176bb5ac0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a0ca7281476f6176bb1556?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Feb 26 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Digital Creative Intern](https://jobright.ai/jobs/info/69a104346b458d060735bb2c?utm_campaign=1049&utm_source=git)** | Springfield, MO (Bass Pro Shops Base Camp) | On Site | Feb 26 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Digital Product Design/UX Intern](https://jobright.ai/jobs/info/69a0e5bd81476f6176bb3d28?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 26 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Environmental Graphic Design (EGD)/Signage and Wayfinding Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/6996d4adce78e77b4fdb0b14?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a0110081476f6176ba1175?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 26 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Digital Experience Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69a00f04ce78e77b4fe63688?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 26 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696fe9c282817106e976eff1?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota, United States | Hybrid | Feb 25 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Digital Experience Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/699fe866ce78e77b4fe5dd8d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Feb 25 |
-| **[Cisco](http://www.cisco.com)** | **[UX Researcher I (Intern) - United States](https://jobright.ai/jobs/info/699fc237d643757b0e4547fb?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 25 |
-| **[Ellucian](http://www.ellucian.com)** | **[Content & Designer Intern / Sophomores & Jr.'s / Reston, VA](https://jobright.ai/jobs/info/699fc011d643757b0e4545aa?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Feb 25 |
-| **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6918711345fb6f5ead8a55d1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
