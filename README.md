@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
+| **[Amazon](https://amazon.com)** | **[Design Technologist Intern (Summer)](https://jobright.ai/jobs/info/69682a7c1703f05405a9ce81?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
+| **[UNDP](http://www.undp.org)** | **[Visual Communications Intern (graphic design and branding)](https://jobright.ai/jobs/info/69a19bd7b600907a9628039e?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 27 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Graphic Design - Cast Activities, Recognition and Experience Intern, Fall 2026](https://jobright.ai/jobs/info/699efc5794ef206f184e1068?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 27 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/6997057c81476f6176af10ac?utm_campaign=1049&utm_source=git)** | Valley City, OH | On Site | Feb 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a19451b600907a96280029?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 27 |
 | **[Tennessee Valley Federal Credit Union (TVFCU)](http://www.tvfcu.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69a190d6359fe034b1ccef47?utm_campaign=1049&utm_source=git)** | Corporate Headquarters - Chattanooga, TN 37402 | On Site | Feb 27 |
 | **[Acadium](http://www.acadium.com)** | **[Social Media & Video Editing Intern](https://jobright.ai/jobs/info/69a18380b600907a9627f5d9?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Springer Nature](https://group.springernature.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0e3a95218a816767218fd?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Feb 26 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / Spring 2026 Grad](https://jobright.ai/jobs/info/69a0a9195218a8167671d587?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Feb 26 |
 | **[NOBULL](https://www.nobullproject.com/)** | **[Apparel Development Intern](https://jobright.ai/jobs/info/69a0d9325218a81676720735?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Feb 26 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0a8325218a8167671d4aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 26 |
-| **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0d3840836fe79d861d373?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Design & Product Storytelling for Next Gen Commerce Cloud](https://jobright.ai/jobs/info/69a0ebe40836fe79d861fc51?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Feb 26 |
-| **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a0a2db0836fe79d861a529?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 26 |
-| **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69a0c69b5218a8167671f1d7?utm_campaign=1049&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
