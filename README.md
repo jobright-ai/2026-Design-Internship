@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a19451b600907a96280029?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Feb 27 |
+| **[Tennessee Valley Federal Credit Union (TVFCU)](http://www.tvfcu.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69a190d6359fe034b1ccef47?utm_campaign=1049&utm_source=git)** | Corporate Headquarters - Chattanooga, TN 37402 | On Site | Feb 27 |
+| **[Acadium](http://www.acadium.com)** | **[Social Media & Video Editing Intern](https://jobright.ai/jobs/info/69a18380b600907a9627f5d9?utm_campaign=1049&utm_source=git)** | Canada | Remote | Feb 27 |
+| **[LIV Golf](https://www.livgolf.com)** | **[Business Operations - Digital Graphic Design Intern](https://jobright.ai/jobs/info/69854a55348f733a5c399141?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 27 |
 | **[Beckman Coulter Life Sciences](https://www.mybeckman.uk/)** | **[Reagent Labeling Writer Intern - Miami, FL](https://jobright.ai/jobs/info/693b1ee6d4054a2bc0250f8f?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Feb 27 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a17c76b600907a9627eb73?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Feb 27 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/6995bdc181476f6176ad91e6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Feb 27 |
@@ -117,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 26 |
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/69a0e11d0836fe79d861e8fa?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | Remote | Feb 26 |
 | **[Rakuten](http://global.rakuten.com)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a110455218a81676724523?utm_campaign=1049&utm_source=git)** | Chicago, Illinois | On Site | Feb 26 |
-| **[Humanscale](http://www.humanscale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a11a5a5218a816767251de?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 26 |
-| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a1287481476f6176bb81ca?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 26 |
+| **[Humanscale](http://www.humanscale.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a1287481476f6176bb81ca?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 26 |
+| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a11a5a5218a816767251de?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 26 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a120e95218a816767259d3?utm_campaign=1049&utm_source=git)** | Kansas City, MO, USA | On Site | Feb 26 |
 | **[SOCAN](http://www.socan.ca)** | **[Membership – Creative - Creative Intern, LA](https://jobright.ai/jobs/info/69a104b65218a81676723cbb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 26 |
 | **[Klick](https://www.klick.com)** | **[Junior Video Editor & AI Creative, Summer 2026](https://jobright.ai/jobs/info/69a104ea81476f6176bb5ce0?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Feb 26 |
@@ -152,9 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0d3840836fe79d861d373?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Feb 26 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Design & Product Storytelling for Next Gen Commerce Cloud](https://jobright.ai/jobs/info/69a0ebe40836fe79d861fc51?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Feb 26 |
 | **[Hexagon Asset Lifecycle Intelligence](https://hexagonppm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a0a2db0836fe79d861a529?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Feb 26 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a09fef81476f6176baef7d?utm_campaign=1049&utm_source=git)** | Madison, AL | On Site | Feb 26 |
 | **[Watertown Shamrocks](https://watertownshamrocks.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69a0c69b5218a8167671f1d7?utm_campaign=1049&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
-| ↳ | **[Motion Graphics Intern (IN PERSON OR REMOTE)](https://jobright.ai/jobs/info/69a0bbfd81476f6176bb083e?utm_campaign=1049&utm_source=git)** | Watertown, SD | On Site | Feb 26 |
-| **[Custer, Inc.](http://www.custerinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a0d8f981476f6176bb2780?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Feb 26 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69a09cdb81476f6176baedd4?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
