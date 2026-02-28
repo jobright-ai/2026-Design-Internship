@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Feb 28 |
+| **[Williams-Sonoma, Inc.](http://www.williams-sonomainc.com)** | **[Williams-Sonoma Corporate Internship - Technology User Experience](https://jobright.ai/jobs/info/69339456a0dde7020e2ef564?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 28 |
+| **[HOK](http://www.hok.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/698709c60f6f7e7a2ce245cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 28 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Dallas)](https://jobright.ai/jobs/info/68c8f05395f5211cd2cebb3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 28 |
+| ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/696eee75350cf4380315e147?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Feb 28 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Designer](https://jobright.ai/jobs/info/69336805764507023d1b547f?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Feb 28 |
 | **[Amazon](https://amazon.com)** | **[Motion Design Intern (Master’s Level) , Prime Video & Amazon MGM Studios](https://jobright.ai/jobs/info/694f9939ce13cd105657b6f5?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Feb 28 |
 | **[Benesch](https://www.benesch.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/68c0817d5c5d5f14f46de8e8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Feb 28 |
@@ -112,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
 | **[The Miller Hull Partnership, LLP](http://millerhull.com)** | **[6-month Architecture Internship (2026)](https://jobright.ai/jobs/info/69a260b6359fe034b1cd9bd8?utm_campaign=1049&utm_source=git)** | San Diego,CA,US | On Site | Feb 27 |
 | **[AMD](http://www.amd.com)** | **[Fall 2026 Short Term UI Design Intern/Co-Op](https://jobright.ai/jobs/info/69a27672b600907a9628cb87?utm_campaign=1049&utm_source=git)** | MARKHAM, ON, CA | Hybrid | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25e51359fe034b1cd9848?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a1fd410da45516f16b461e?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 27 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969a5aff25a380066985d4e?utm_campaign=1049&utm_source=git)** | Sacramento, CA | Hybrid | Feb 27 |
 | **[Tyler Technologies](https://www.tylertech.com)** | **[Creative Services Intern, Summer 2026](https://jobright.ai/jobs/info/69a1dc1d359fe034b1cd249a?utm_campaign=1049&utm_source=git)** | Yarmouth, ME | On Site | Feb 27 |
-| **[Shield AI](http://www.shield.ai)** | **[Visual Design Intern - 2026 Summer Intern (4111)](https://jobright.ai/jobs/info/69a1da12359fe034b1cd232e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Feb 27 |
-| **[PBK](https://pbk.com/)** | **[Collegiate Interior Design Intern](https://jobright.ai/jobs/info/69a1d8f0b600907a9628313b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Feb 27 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Feb 27 |
-| **[Hasbro](https://shop.hasbro.com)** | **[Summer Intern 2026- Graphic Design Internship](https://jobright.ai/jobs/info/69698f8c1703f05405ab85d6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | On Site | Feb 27 |
-| **[PBK](https://pbk.com/)** | **[Collegiate Interior Design Intern](https://jobright.ai/jobs/info/69a1d788b600907a96283030?utm_campaign=1049&utm_source=git)** | Anaheim CA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
