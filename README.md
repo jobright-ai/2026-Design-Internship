@@ -57,8 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a251f6359fe034b1cd8c3a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
+| **[AXS](https://www.axs.com/)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a24f900da45516f16b94ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
+| **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24e6d359fe034b1cd88fe?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
+| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a24d3a0da45516f16b92f0?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
+| ↳ | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a25818359fe034b1cd919d?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
+| **[New York Edge](https://newyorkedge.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25c690da45516f16ba06d?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
+| ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a2594d359fe034b1cd92b7?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a259850da45516f16b9d41?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
-| ↳ | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a244d5b600907a96288f90?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a252470da45516f16b973f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| **[JCPenney](http://jcp.com)** | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a244d5b600907a96288f90?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | ↳ | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a245870da45516f16b8cc6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a23da3b600907a962888da?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
 | **[DAP](http://www.dap.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24a30b600907a962894a3?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Show Set Design (Fall 2026)](https://jobright.ai/jobs/info/69a16ee30da45516f16ad50e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 | **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Feb 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Stamford](https://jobright.ai/jobs/info/69a1648f359fe034b1ccac1a?utm_campaign=1049&utm_source=git)** | Stamford, CT | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – San Francisco](https://jobright.ai/jobs/info/69a16396359fe034b1cca9bf?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Costa Mesa](https://jobright.ai/jobs/info/69a162dab600907a9627c113?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Pittsburgh](https://jobright.ai/jobs/info/69a161690da45516f16abb18?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program - Healthcare - New York](https://jobright.ai/jobs/info/69a16087b600907a9627bc5b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/69a16071b600907a9627bc23?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Raleigh](https://jobright.ai/jobs/info/69a16056b600907a9627bbed?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – New York](https://jobright.ai/jobs/info/69a1600b0da45516f16ab7f5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69a15f970da45516f16ab68f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
