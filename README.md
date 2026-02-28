@@ -57,14 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| ↳ | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a244d5b600907a96288f90?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| ↳ | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a245870da45516f16b8cc6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a23da3b600907a962888da?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
+| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Lippincott - Design Intern (Arabic)](https://jobright.ai/jobs/info/69a23d53b600907a9628888a?utm_campaign=1049&utm_source=git)** | London - Baker | Hybrid | Feb 27 |
+| **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Creative & Design Internship](https://jobright.ai/jobs/info/69a23b54b600907a962886bd?utm_campaign=1049&utm_source=git)** | New York, N.Y. | Hybrid | Feb 27 |
+| **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Media Asset Management Intern](https://jobright.ai/jobs/info/69a23e690da45516f16b85d4?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Feb 27 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0b431224705e90021e3e?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Feb 27 |
+| **[Marketbridge](http://www.market-bridge.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69a23a8cb600907a96288604?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Feb 27 |
 | **[Talentix](https://thetalentix.com/)** | **[UX Design Internship w/ Talentix](https://jobright.ai/jobs/info/69a20d7c0da45516f16b56cc?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Feb 27 |
 | **[Unbox Product Design](https://www.unboxpd.com)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/69a226e20da45516f16b6f9a?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Feb 27 |
 | **[Generation Love](https://generationloveclothing.com/)** | **[Design Internship](https://jobright.ai/jobs/info/69a1fe23b600907a96284bdc?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Feb 27 |
+| **[EPOCH DESIGN GROUP, INC.](https://www.edgstl.com)** | **[Architect Intern](https://jobright.ai/jobs/info/699efce481476f6176b88339?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Feb 27 |
 | **[TKDA](http://tkda.com)** | **[2026 Summer Intern - Architecture](https://jobright.ai/jobs/info/69a1fba7b600907a962849c0?utm_campaign=1049&utm_source=git)** | Bloomington, MN | Hybrid | Feb 27 |
 | **[Stantec](http://www.stantec.com)** | **[Student Intern, Architectural Visualization - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69a21e30359fe034b1cd5b6c?utm_campaign=1049&utm_source=git)** | 410 17th Street Suite 1400, Denver, CO, 80202, US | On Site | Feb 27 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969ef0bf25a38006698b1fb?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Relay](https://relaypro.com)** | **[Graphic Design Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/69a2193b359fe034b1cd56c3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Interior Design](https://jobright.ai/jobs/info/69a22b1eb600907a962877cc?utm_campaign=1049&utm_source=git)** | Valparaiso, IN | On Site | Feb 27 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Graphic Design and Print Production Intern](https://jobright.ai/jobs/info/69a1f5e7b600907a96284423?utm_campaign=1049&utm_source=git)** | Longwood,FL,US | Hybrid | Feb 27 |
 | **[APD Engineering & Architecture, PLLC](http://apd.com)** | **[Designer Intern - Architecture Department](https://jobright.ai/jobs/info/69a223dbb600907a96287071?utm_campaign=1049&utm_source=git)** | Victor, NY | On Site | Feb 27 |
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a1f3b8b600907a96284221?utm_campaign=1049&utm_source=git)** | VA - McLean - Broad St | On Site | Feb 27 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Feb 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/69a15e43b600907a9627b792?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
-| **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Master Planning (Fall 2026)](https://jobright.ai/jobs/info/69a15cea359fe034b1cc9a1c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Chicago](https://jobright.ai/jobs/info/69a15ccf359fe034b1cc9a00?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
-| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a15c030da45516f16aaf0d?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 27 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Visual Merchandise Design (Fall 2026)](https://jobright.ai/jobs/info/69a159f2b600907a9627ae60?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Art & Design, Scenic Development - Entertainment (Fall 2026)](https://jobright.ai/jobs/info/69a15805b600907a9627a8b3?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| **[OSF HealthCare](https://www.osfhealthcare.org/locations/medical-group/)** | **[UI UX Intern](https://jobright.ai/jobs/info/69a15782d426a56180b7829e?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Feb 27 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69a156ecd426a56180b7826f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 27 |
-| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship – Graphic Design & Project Management, Food & Beverage* (Academic Year, Fall 2026 & Spring 2027)](https://jobright.ai/jobs/info/69a155dbb600907a9627a3a7?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
-| ↳ | **[Internship – Assistant Editor, Creative Production (Fall 2026)](https://jobright.ai/jobs/info/69a154c7d29bbd4d8e6b087c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
