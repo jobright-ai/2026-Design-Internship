@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69a2a0150da45516f16bfa1b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
+| **[JCPenney](http://jcp.com)** | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69a29f13b600907a9628fd3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| **[AXS](https://www.axs.com/)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a29dc5b600907a9628fb3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a29b04b600907a9628f67e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a26abbb600907a9628b9a1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a1d9600da45516f16b2d90?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 27 |
 | **[Tapestry](http://www.tapestry.com/)** | **[Design Apprentice - Jewelry / Hardware 1](https://jobright.ai/jobs/info/69325beef131d96e4845b859?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
 | **[Amazon](https://amazon.com)** | **[Design Technologist Intern (Summer)](https://jobright.ai/jobs/info/69682a7c1703f05405a9ce81?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
-| **[UNDP](http://www.undp.org)** | **[Visual Communications Intern (graphic design and branding)](https://jobright.ai/jobs/info/69a19bd7b600907a9628039e?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Feb 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Graphic Design - Cast Activities, Recognition and Experience Intern, Fall 2026](https://jobright.ai/jobs/info/699efc5794ef206f184e1068?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Feb 27 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Engineering Intern, Product Design](https://jobright.ai/jobs/info/6997057c81476f6176af10ac?utm_campaign=1049&utm_source=git)** | Valley City, OH | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
