@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KryptiaNN](http://wwww.Kryptiann.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69a35f080da45516f16c8ed3?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 28 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a3494bb600907a962989ff?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Feb 28 |
 | **[MHTN Architects](http://mhtn.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a345e30da45516f16c820b?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Feb 28 |
 | **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69a345b4b600907a9629860c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 28 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69a3648b0da45516f16c8f5a?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Feb 28 |
+| ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69a3644f0da45516f16c8f34?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 28 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 28 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/696a4d1b350cf43803113d96?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Feb 28 |
@@ -152,9 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a1f3b8b600907a96284221?utm_campaign=1049&utm_source=git)** | VA - McLean - Broad St | On Site | Feb 27 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969aa6a1703f05405aba849?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 27 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Visual Communication Intern](https://jobright.ai/jobs/info/6980eca67f40342e15d9c376?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
-| **[Junior Golf Association of Arizona](http://www.jgaa.org)** | **[Photography & Social Media Intern](https://jobright.ai/jobs/info/69a2fa7c359fe034b1ce5227?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Feb 27 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Feb 27 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design & Production Intern](https://jobright.ai/jobs/info/6980fd3cabff4c399a9fcadc?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
-| ↳ | **[Summer 2026 Retail Design and Brand Experience Intern](https://jobright.ai/jobs/info/6980e6d349964d25b5e3ad0b?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Feb 27 |
-| **[Leviton](https://www.leviton.com)** | **[Intern, Graphic Artist (Year-Round)](https://jobright.ai/jobs/info/6969fd76f25a38006698c346?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
