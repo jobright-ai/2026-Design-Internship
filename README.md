@@ -61,6 +61,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a244d5b600907a96288f90?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | ↳ | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a245870da45516f16b8cc6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a23da3b600907a962888da?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
+| **[DAP](http://www.dap.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24a30b600907a962894a3?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
 | **[Marsh McLennan](https://www.marshmclennan.com)** | **[Lippincott - Design Intern (Arabic)](https://jobright.ai/jobs/info/69a23d53b600907a9628888a?utm_campaign=1049&utm_source=git)** | London - Baker | Hybrid | Feb 27 |
 | **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Creative & Design Internship](https://jobright.ai/jobs/info/69a23b54b600907a962886bd?utm_campaign=1049&utm_source=git)** | New York, N.Y. | Hybrid | Feb 27 |
 | **[Educational Media Foundation K-LOVE & Air1 Media Networks](https://www.klove.com)** | **[Media Asset Management Intern](https://jobright.ai/jobs/info/69a23e690da45516f16b85d4?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Feb 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69a15f970da45516f16ab68f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
 | ↳ | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Feb 27 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Feb 27 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Seattle](https://jobright.ai/jobs/info/69a15e43b600907a9627b792?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
