@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ReadyChatAI.llc](https://www.readychatai.com/)** | **[Bilingual (English/Spanish) Unpaid Internship — Chicago](https://jobright.ai/jobs/info/69a47e16b600907a962a4df0?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
+| **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/69a47ba5359fe034b1cf3e99?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 01 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
 | ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25e51359fe034b1cd9848?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a245870da45516f16b8cc6?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a23da3b600907a962888da?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
-| **[DAP](http://www.dap.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24a30b600907a962894a3?utm_campaign=1049&utm_source=git)** | 2400 Boston St, Baltimore, MD, 21224, US | On Site | Feb 27 |
-| **[Marsh McLennan](https://www.marshmclennan.com)** | **[Lippincott - Design Intern (Arabic)](https://jobright.ai/jobs/info/69a23d53b600907a9628888a?utm_campaign=1049&utm_source=git)** | London - Baker | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
