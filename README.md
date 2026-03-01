@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959ff03aa05c26e7ab3a81e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Mar 01 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 01 |
 | **[Children's Hospital Colorado](https://www.childrenscolorado.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69867cf68da7a61204614a66?utm_campaign=1049&utm_source=git)** | Aurora, CO | Hybrid | Mar 01 |
@@ -103,7 +104,6 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[UX Research Intern](https://jobright.ai/jobs/info/696a5f87db26b618950d8264?utm_campaign=1049&utm_source=git)** | Everett, WA | On Site | Feb 28 |
 | **[Pluralsight](http://www.pluralsight.com)** | **[Content Strategy UX Intern](https://jobright.ai/jobs/info/69869bb08da7a612046176f3?utm_campaign=1049&utm_source=git)** | Westlake, TX | Hybrid | Feb 28 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696a4b57350cf43803113c4a?utm_campaign=1049&utm_source=git)** | Dayton Metropolitan Area | On Site | Feb 28 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Interior Design](https://jobright.ai/jobs/info/69a42310b600907a962a265f?utm_campaign=1049&utm_source=git)** | Valparaiso, IN | On Site | Feb 28 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Feb 28 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[Dometic](https://www.dometic.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69a2ba99359fe034b1ce188e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 28 |
