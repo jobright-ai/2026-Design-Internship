@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a3f4f9359fe034b1cee546?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69a3d98bb600907a9629d385?utm_campaign=1049&utm_source=git)** | Westerville, OH | On Site | Feb 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 28 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Hybrid | Feb 28 |
@@ -110,6 +111,7 @@ For a complete list, click the following sortable link below:
 | **[JCPenney](http://jcp.com)** | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69a29f13b600907a9628fd3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a29dc5b600907a9628fb3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a29b04b600907a9628f67e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Feb 27 |
+| **[Cushing Terrell](https://cushingterrell.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a3f44e0da45516f16cf07e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Feb 27 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Architecture](https://jobright.ai/jobs/info/69a3ded4359fe034b1cec577?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Feb 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Feb 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a26abbb600907a9628b9a1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
@@ -134,8 +136,8 @@ For a complete list, click the following sortable link below:
 | **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
-| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
+| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
 | **[The Miller Hull Partnership, LLP](http://millerhull.com)** | **[6-month Architecture Internship (2026)](https://jobright.ai/jobs/info/69a260b6359fe034b1cd9bd8?utm_campaign=1049&utm_source=git)** | San Diego,CA,US | On Site | Feb 27 |
 | **[AMD](http://www.amd.com)** | **[Fall 2026 Short Term UI Design Intern/Co-Op](https://jobright.ai/jobs/info/69a27672b600907a9628cb87?utm_campaign=1049&utm_source=git)** | MARKHAM, ON, CA | Hybrid | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25e51359fe034b1cd9848?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Relay](https://relaypro.com)** | **[Graphic Design Intern (Part time, Spring Semester)](https://jobright.ai/jobs/info/69a2193b359fe034b1cd56c3?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Feb 27 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Graphic Design and Print Production Intern](https://jobright.ai/jobs/info/69a1f5e7b600907a96284423?utm_campaign=1049&utm_source=git)** | Longwood,FL,US | Hybrid | Feb 27 |
 | **[APD Engineering & Architecture, PLLC](http://apd.com)** | **[Designer Intern - Architecture Department](https://jobright.ai/jobs/info/69a223dbb600907a96287071?utm_campaign=1049&utm_source=git)** | Victor, NY | On Site | Feb 27 |
-| **[Mission Technologies, a division of HII](https://tsd.huntingtoningalls.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a1f3b8b600907a96284221?utm_campaign=1049&utm_source=git)** | VA - McLean - Broad St | On Site | Feb 27 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6969aa6a1703f05405aba849?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
