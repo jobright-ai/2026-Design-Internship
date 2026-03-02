@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[2026 Fall - 2027 Spring Internship Program: Design, Adult Books](https://jobright.ai/jobs/info/69a570c60da45516f16e2305?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 02 |
+| **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/69a56f900da45516f16e22bf?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Mar 02 |
+| **[HII](https://hii.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a5641fb600907a962b1979?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Mar 02 |
+| **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a559f9359fe034b1cff54f?utm_campaign=1049&utm_source=git)** | Opolis, KS | On Site | Mar 02 |
 | **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a555e80da45516f16dfa80?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
 | **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Creative Media & Social Content Intern (Sports + Events)](https://jobright.ai/jobs/info/69a52a300da45516f16dc532?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a518bd359fe034b1cfaaf4?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/69a47ba5359fe034b1cf3e99?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 01 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
-| ↳ | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68c7cbc6f42a830e1c7e8240?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a44659359fe034b1cf2d3b?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Mar 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern - Landscape Architecture](https://jobright.ai/jobs/info/6933d2f9764507023d1b9e9e?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
@@ -92,7 +95,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69a3644f0da45516f16c8f34?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Feb 28 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Feb 28 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/696a4d1b350cf43803113d96?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Feb 28 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986986d0f6f7e7a2ce1a0f1?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Feb 28 |
 | **[Microsoft](https://www.microsoft.com)** | **[Product Design: Intern Opportunities](https://jobright.ai/jobs/info/699737eace78e77b4fdb8941?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Feb 28 |
 | **[HOK](http://www.hok.com/)** | **[Architecture or Interior Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/6987052e8ca8121a3a698a36?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Feb 28 |
@@ -126,6 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69a2ba99359fe034b1ce188e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/6930ccbffa28370be26b3ea3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Stantec](http://www.stantec.com)** | **[Student Intern, Architectural Visualization - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69a2b31a0da45516f16c188f?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 28 |
+| **[TD Securities](https://www.tdsecurities.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69a55dc00da45516f16e0b8f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a2a7f6b600907a96290c7f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998e768e0bddb6acac7d06a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998f50dce78e77b4fdd8a1f?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a2594d359fe034b1cd92b7?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a259850da45516f16b9d41?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a27376b600907a9628c5b2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
-| **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
-| ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
-| **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
