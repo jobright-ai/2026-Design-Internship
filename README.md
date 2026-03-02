@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69a5bb0c359fe034b1d0591d?utm_campaign=1049&utm_source=git)** | Pittston, PA | On Site | Mar 02 |
+| **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/69a5b87b0da45516f16e66cb?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 02 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
+| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Ecommerce Design Intern - Summer 2026](https://jobright.ai/jobs/info/6990bbfd6ea51a7610f3393f?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Mar 02 |
+| **[iHeartMedia](http://iheartmedia.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69851f2e0f6f7e7a2cdfa89a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 02 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6968330a639b452fb57dcdbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[IMB (International Mission Board)](https://www.imb.org/)** | **[AI & Innovation Intern](https://jobright.ai/jobs/info/69a5ac56359fe034b1d04c58?utm_campaign=1049&utm_source=git)** | Richmond, Virginia | On Site | Mar 02 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69a5ab9f359fe034b1d04bb4?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 02 |
 | **[WENDEL Companies](https://wendelcompanies.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/69a4163a0da45516f16d1d3f?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 02 |
@@ -64,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Just Born, Inc.](http://www.justborn.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a2b603b600907a96291ff6?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | Hybrid | Mar 02 |
 | **[IMB (International Mission Board)](https://www.imb.org/)** | **[AI & Innovation Intern](https://jobright.ai/jobs/info/69a5a1b7359fe034b1d042c4?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 02 |
 | **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a5993db600907a962b463b?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69a5b51a0da45516f16e6420?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[2026 Fall - 2027 Spring Internship Program: Design, Adult Books](https://jobright.ai/jobs/info/69a570c60da45516f16e2305?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Fall - 2027 Spring Internship Program: Design, Adult Books](https://jobright.ai/jobs/info/69a58399359fe034b1d020c5?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/69a56f900da45516f16e22bf?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Mar 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a24d3a0da45516f16b92f0?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
 | **[SGA Design Group](https://sgadesigngroup.com/)** | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a268db0da45516f16bafc9?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 27 |
 | ↳ | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a26879b600907a9628b679?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | Feb 27 |
-| ↳ | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a2799e0da45516f16bca66?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 27 |
-| **[Orchestra](https://www.orchestraco.com)** | **[Summer 2026 Creative & Design Internship](https://jobright.ai/jobs/info/69a2634a0da45516f16ba8be?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Feb 27 |
-| **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a26175b600907a9628ab0f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA 19106, USA | Hybrid | Feb 27 |
-| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/69a26cf3359fe034b1cdae1f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA 19106, USA | Hybrid | Feb 27 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a25818359fe034b1cd919d?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Feb 27 |
-| **[New York Edge](https://newyorkedge.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25c690da45516f16ba06d?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
-| ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a2594d359fe034b1cd92b7?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
