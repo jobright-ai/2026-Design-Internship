@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Educacion Diversa](www.educaciondiversa.com)** | **[Graphic Designer](https://jobright.ai/jobs/info/69a52de40da45516f16dc9be?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Mar 01 |
+| **[University of Michigan](https://www.umich.edu)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a555e80da45516f16dfa80?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
 | **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Creative Media & Social Content Intern (Sports + Events)](https://jobright.ai/jobs/info/69a52a300da45516f16dc532?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a518bd359fe034b1cfaaf4?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
 | ↳ | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a502aab600907a962aa5c5?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
