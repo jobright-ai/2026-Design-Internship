@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a518bd359fe034b1cfaaf4?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Internship (100% Remote)](https://jobright.ai/jobs/info/69a503c0b600907a962aa757?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 01 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a502aab600907a962aa5c5?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
-| **[Silver Grove](https://www.linkedin.com/company/108604766)** | **[UX & Product Design Internship](https://jobright.ai/jobs/info/69a4fe7fb600907a962aa271?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 01 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/6995bdc181476f6176ad91e6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 01 |
 | **[American Management Association](http://www.amanet.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697064f651f726477182b63f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 01 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a4c6c7b600907a962a74a0?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
@@ -127,8 +127,7 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Student Intern, Architectural Visualization - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69a2b31a0da45516f16c188f?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 28 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a2a7f6b600907a96290c7f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998e768e0bddb6acac7d06a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69a2a3990da45516f16c02c1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998f50dce78e77b4fdd8a1f?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
+| ↳ | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998f50dce78e77b4fdd8a1f?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/699819d1ce78e77b4fdcc076?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 28 |
 | **[Federal Reserve Bank of Atlanta](https://www.atlantafed.org)** | **[2026 Summer Internship Program - BTS Customer Engagement Intern](https://jobright.ai/jobs/info/69a2a0150da45516f16bfa1b?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69a29f13b600907a9628fd3f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
@@ -143,7 +142,6 @@ For a complete list, click the following sortable link below:
 | **[AXS](https://www.axs.com/)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a24f900da45516f16b94ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24e6d359fe034b1cd88fe?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 | **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a24d3a0da45516f16b92f0?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
-| **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Interior Design](https://jobright.ai/jobs/info/69a4fb76b600907a962a9bd2?utm_campaign=1049&utm_source=git)** | Valparaiso, IN | On Site | Feb 27 |
 | **[SGA Design Group](https://sgadesigngroup.com/)** | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a268db0da45516f16bafc9?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 27 |
 | ↳ | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a26879b600907a9628b679?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | Feb 27 |
 | ↳ | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a2799e0da45516f16bca66?utm_campaign=1049&utm_source=git)** | Bentonville, AR, US | On Site | Feb 27 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a27376b600907a9628c5b2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
+| **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
