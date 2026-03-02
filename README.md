@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a5993db600907a962b463b?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 02 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[2026 Fall - 2027 Spring Internship Program: Design, Adult Books](https://jobright.ai/jobs/info/69a570c60da45516f16e2305?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 02 |
+| **[Penguin Random House | 企鹅兰登](http://www.penguinrandomhouse.com)** | **[2026 Fall - 2027 Spring Internship Program: Design, Adult Books](https://jobright.ai/jobs/info/69a58399359fe034b1d020c5?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 02 |
 | **[LEVITON MANUFACTURING](https://www.linkedin.com/company/9602682)** | **[Intern, Packaging Design](https://jobright.ai/jobs/info/69a56f900da45516f16e22bf?utm_campaign=1049&utm_source=git)** | Melville, NY | On Site | Mar 02 |
 | **[HII](https://hii.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a5641fb600907a962b1979?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Mar 02 |
 | **[National Association of Black Journalists (NABJ)](http://www.nabj.org/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a559f9359fe034b1cff54f?utm_campaign=1049&utm_source=git)** | Opolis, KS | On Site | Mar 02 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a502aab600907a962aa5c5?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 01 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Industrial Design Intern 2026](https://jobright.ai/jobs/info/6995bdc181476f6176ad91e6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 01 |
 | **[American Management Association](http://www.amanet.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697064f651f726477182b63f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 01 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a4c6c7b600907a962a74a0?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[SJ Group](http://www.surbanajurong.com/)** | **[Interior Design Internship](https://jobright.ai/jobs/info/69a4b0e3b600907a962a6e05?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 01 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/69a4a133359fe034b1cf589c?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Mar 01 |
 | **[School Datebooks](https://schooldatebooks.com)** | **[Desktop Publishing Internship](https://jobright.ai/jobs/info/69a4d6c7359fe034b1cf6c0e?utm_campaign=1049&utm_source=git)** | Lafayette, IN | On Site | Mar 01 |
@@ -75,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/69a47ba5359fe034b1cf3e99?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 01 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/694ed15029655e4dd65867e7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 01 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/68cd0bfdb2a74e1837ed15f1?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 01 |
-| **[Michigan Medicine](http://www.uofmhealth.org/)** | **[CHRT RnE Internship](https://jobright.ai/jobs/info/69a44659359fe034b1cf2d3b?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | On Site | Mar 01 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Architecture Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/68cef67c846f0b04af67e091?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Mar 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[CAD Intern - Landscape Architecture](https://jobright.ai/jobs/info/6933d2f9764507023d1b9e9e?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 01 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697015150f4e0f657ea47080?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 01 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a2594d359fe034b1cd92b7?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a259850da45516f16b9d41?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a27376b600907a9628c5b2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
-| **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
+| **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
