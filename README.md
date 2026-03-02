@@ -128,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Dometic](https://www.dometic.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69a2ba99359fe034b1ce188e?utm_campaign=1049&utm_source=git)** | Irvine, CA | Hybrid | Feb 28 |
 | **[Adobe](http://www.adobe.com)** | **[2026 SAMI Intern - Marketing & Creative Design](https://jobright.ai/jobs/info/6930ccbffa28370be26b3ea3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Feb 28 |
 | **[Stantec](http://www.stantec.com)** | **[Student Intern, Architectural Visualization - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69a2b31a0da45516f16c188f?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Feb 28 |
-| **[TD Securities](https://www.tdsecurities.com)** | **[Intern/Co-op - TD Scholarships for Community Leadership](https://jobright.ai/jobs/info/69a55dc00da45516f16e0b8f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Feb 28 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a2a7f6b600907a96290c7f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Feb 28 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998e768e0bddb6acac7d06a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6998f50dce78e77b4fdd8a1f?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Feb 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a2594d359fe034b1cd92b7?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a259850da45516f16b9d41?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a27376b600907a9628c5b2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
+| **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
