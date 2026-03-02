@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Research & Design Internship](https://jobright.ai/jobs/info/69a5cdc9b600907a962b7c9e?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 02 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Visual Development Intern, DreamWorks Animation, Summer 2026](https://jobright.ai/jobs/info/69a5cd58359fe034b1d06a9d?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Mar 02 |
+| **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 02 |
+| **[Plantain Products Company - Home of Chifles](https://chifleschips.com)** | **[Art Director / Design Intern](https://jobright.ai/jobs/info/69a5c103b600907a962b6be2?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Mar 02 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Intern](https://jobright.ai/jobs/info/6989ef324db8972cecff3762?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 02 |
+| **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/68cd0a46e23def7af55b414b?utm_campaign=1049&utm_source=git)** | Latham, NY | On Site | Mar 02 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69a5bb0c359fe034b1d0591d?utm_campaign=1049&utm_source=git)** | Pittston, PA | On Site | Mar 02 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/69a5b87b0da45516f16e66cb?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 02 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 02 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a3b6a9b600907a9629bb48?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
 | **[Expressive Marketing](Expressivemarketing.co)** | **[Social Media Content Producer](https://jobright.ai/jobs/info/69a2ecd7359fe034b1ce3f9a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Feb 27 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a251f6359fe034b1cd8c3a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Feb 27 |
-| **[AXS](https://www.axs.com/)** | **[Summer Intern, UX Research (AXS)](https://jobright.ai/jobs/info/69a24f900da45516f16b94ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Feb 27 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a24e6d359fe034b1cd88fe?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
-| **[CPL](https://cplteam.com/locations)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69a24d3a0da45516f16b92f0?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Feb 27 |
-| **[SGA Design Group](https://sgadesigngroup.com/)** | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a268db0da45516f16bafc9?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, US | On Site | Feb 27 |
-| ↳ | **[Intern Architect- Full Time](https://jobright.ai/jobs/info/69a26879b600907a9628b679?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
