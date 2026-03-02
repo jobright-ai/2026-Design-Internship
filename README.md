@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a4c6c7b600907a962a74a0?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 01 |
 | **[SJ Group](http://www.surbanajurong.com/)** | **[Interior Design Internship](https://jobright.ai/jobs/info/69a4b0e3b600907a962a6e05?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 01 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/69a4a133359fe034b1cf589c?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Mar 01 |
 | **[ReadyChatAI.llc](https://www.readychatai.com/)** | **[Bilingual (English/Spanish) Unpaid Internship — Chicago](https://jobright.ai/jobs/info/69a47e16b600907a962a4df0?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 01 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Sports and Arts in Schools Foundation](http://www.sasfny.org)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/69a272bf0da45516f16bbe50?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a26e86359fe034b1cdaf72?utm_campaign=1049&utm_source=git)** | Queens, Queens, NY, US | Hybrid | Feb 27 |
 | **[JCPenney](http://jcp.com)** | **[Intern Design](https://jobright.ai/jobs/info/69a231d80da45516f16b7a58?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Feb 27 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
-| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a255240da45516f16b98d6?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Feb 27 |
+| ↳ | **[Associate, Digital Producer Intern](https://jobright.ai/jobs/info/69a27983359fe034b1cdc0cb?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Feb 27 |
 | **[The Miller Hull Partnership, LLP](http://millerhull.com)** | **[6-month Architecture Internship (2026)](https://jobright.ai/jobs/info/69a260b6359fe034b1cd9bd8?utm_campaign=1049&utm_source=git)** | San Diego,CA,US | On Site | Feb 27 |
 | **[AMD](http://www.amd.com)** | **[Fall 2026 Short Term UI Design Intern/Co-Op](https://jobright.ai/jobs/info/69a27672b600907a9628cb87?utm_campaign=1049&utm_source=git)** | MARKHAM, ON, CA | Hybrid | Feb 27 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a25e51359fe034b1cd9848?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Feb 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
