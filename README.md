@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a6fb452672cb0acb4b5d94?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
+| ↳ | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a6fa8476bbe83d3afa4ca0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/696e8f8ddb26b61895116c98?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 03 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a6f5872672cb0acb4b5a09?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 03 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Summer Interior Design Intern (Chicago Region)](https://jobright.ai/jobs/info/698999ca47434001cc67bf0e?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Mar 03 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/699e6ec7e0bddb6acacdfd3b?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 03 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d0537ce78e77b4fe1d0c5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Mar 03 |
@@ -86,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69a678da2c0d8b0f5cd096e7?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a694c5708b430a607afa84?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
 | **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a66cb9e567421f4257730a?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Mar 02 |
-| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid Intership Graphic Designer & Video Editor](https://jobright.ai/jobs/info/69a6689cd706a731db385886?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 02 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/69a65e28e567421f425766a7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 02 |
 | ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69a658d02c0d8b0f5cd075f3?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Mar 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69a5e0cf0da45516f16ea409?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
 | **[Circular Materials](https://circularmaterials.ca/)** | **[Intern: Bilingual Graphic Design Assistant / Remote Ontario or New Brunswick](https://jobright.ai/jobs/info/69a60fcb0da45516f16eed48?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 02 |
-| **[Read Better Be Better](http://www.readbetterbebetter.org)** | **[Intern - Social Media and Graphic Design](https://jobright.ai/jobs/info/69a61aea0da45516f16efe2c?utm_campaign=1049&utm_source=git)** | 4730 W Campbell Ave, Phoenix, AZ 85031, USA | On Site | Mar 02 |
-| ↳ | **[Intern - Web Design and User Experience](https://jobright.ai/jobs/info/69a610a6b600907a962bf25a?utm_campaign=1049&utm_source=git)** | 4730 W Campbell Ave, Phoenix, AZ 85031, USA | On Site | Mar 02 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Industrial Student Intern - Interior Design](https://jobright.ai/jobs/info/69a60a1b359fe034b1d0d58d?utm_campaign=1049&utm_source=git)** | Southfield, Michigan, United States | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
