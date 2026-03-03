@@ -57,12 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a75dd32672cb0acb4bd120?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69a759992672cb0acb4bcc04?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Store Planning & Design Intern](https://jobright.ai/jobs/info/69a759992672cb0acb4bcc05?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 03 |
+| **[Jabil](https://www.jabil.com)** | **[Video Production and Multimedia Intern](https://jobright.ai/jobs/info/69a7520476bbe83d3afab2b4?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Mar 03 |
+| **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a74b022672cb0acb4bba19?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 03 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a747142672cb0acb4bb4ca?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 03 |
+| **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a746f876bbe83d3afaa39c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Part Time Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/698a4c5847434001cc688079?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a73e1a76bbe83d3afa9924?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[20/20 Management](http://2020management.org/)** | **[Content Intern](https://jobright.ai/jobs/info/69a73b3976bbe83d3afa95e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / Spring 2026 Grad](https://jobright.ai/jobs/info/69a739972672cb0acb4ba5b8?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Mar 03 |
+| **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Digital Web Operations Intern](https://jobright.ai/jobs/info/69a7543076bbe83d3afab510?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 03 |
+| **[Morgridge Institute for Research](https://morgridge.org)** | **[Student Graphic Designer](https://jobright.ai/jobs/info/69a759522672cb0acb4bcbbe?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Mar 03 |
 | **[Article Student Living](https://articlestudentliving.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69a731fa2672cb0acb4b9f5b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69a72f972672cb0acb4b9d3c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 03 |
+| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Store Planning & Design Intern](https://jobright.ai/jobs/info/69a75a2d76bbe83d3afabb2c?utm_campaign=1049&utm_source=git)** | 1014 Vine St, Cincinnati, OH, 45202, US | On Site | Mar 03 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, IT Client Experience](https://jobright.ai/jobs/info/69a72bee2672cb0acb4b9a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Creative Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a7404e2672cb0acb4bac54?utm_campaign=1049&utm_source=git)** | St. Louis, MO, US | On Site | Mar 03 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69a7234a2672cb0acb4b9093?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 03 |
@@ -142,19 +152,9 @@ For a complete list, click the following sortable link below:
 | **[tms](https://themarketingstore.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69a61849359fe034b1d0ea6d?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 02 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/69a6178c0da45516f16ef960?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Mar 02 |
 | **[First American Equipment Finance](http://faef.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a615f6b600907a962bf938?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Mar 02 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Production & Design, ATM - NYC](https://jobright.ai/jobs/info/69a6126d0da45516f16ef1a4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 02 |
 | **[Lounge It Up](http://www.loungeitup.com/)** | **[Creative Support Assistant](https://jobright.ai/jobs/info/69a6daf62672cb0acb4b4416?utm_campaign=1049&utm_source=git)** | Fairfield, NJ | On Site | Mar 02 |
 | **[HeartLand, LLC](https://heartlandcompany.com/)** | **[2026 Summer Landscape Internship](https://jobright.ai/jobs/info/69a6a5bff707784310b00310?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Mar 02 |
 | ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69a69b3f1a944544ef63466e?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Mar 02 |
 | ↳ | **[Summer Landscape Internship](https://jobright.ai/jobs/info/69a696df1a944544ef633f5f?utm_campaign=1049&utm_source=git)** | Bristow, VA | On Site | Mar 02 |
 | ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69a6990c1a944544ef634341?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Mar 02 |
-| ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69a69966708b430a607b00e4?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 02 |
-| ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69a6982e708b430a607afee5?utm_campaign=1049&utm_source=git)** | Bunnell, FL | On Site | Mar 02 |
-| **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a60fe1359fe034b1d0df40?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Mar 02 |
-| **[Tennessee Valley Federal Credit Union (TVFCU)](http://www.tvfcu.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69a60887359fe034b1d0d31d?utm_campaign=1049&utm_source=git)** | Corporate Headquarters - Chattanooga, TN 37402 | On Site | Mar 02 |
-| **[LAIKA Studios](https://laika.com/)** | **[RP 3D Printing Texture Intern](https://jobright.ai/jobs/info/69a60369359fe034b1d0cb71?utm_campaign=1049&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
-| **[Moxie Sozo](https://moxiesozo.com)** | **[Summer 2026 Design Intern (Paid)](https://jobright.ai/jobs/info/69a60269b600907a962bdb7f?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Mar 02 |
-| **[The Shipyard](http://theshipyard.com)** | **[2026 Summer Internship - Creative](https://jobright.ai/jobs/info/69a695f31a944544ef633dd1?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 02 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69a5fc59359fe034b1d0c17a?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 02 |
-| ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/69a5fac3b600907a962bce1d?utm_campaign=1049&utm_source=git)** | Chicago | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
