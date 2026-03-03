@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walker Sands](https://www.walkersands.com/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69a71b662672cb0acb4b894c?utm_campaign=1049&utm_source=git)** | Boston | Hybrid | Mar 03 |
+| **[The Gideons International](https://gideons.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a7135a76bbe83d3afa6c87?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
+| **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698a6d604db8972cecffbd18?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Mar 03 |
+| ↳ | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698ab5e8c5761b521a9a074d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| ↳ | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698a6395c5761b521a99923c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Intern](https://jobright.ai/jobs/info/69a70c2876bbe83d3afa5e9f?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 03 |
+| **[HOK](http://www.hok.com/)** | **[Landscape Student Intern](https://jobright.ai/jobs/info/698a5676b708d23f366c0a39?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 03 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a6fb452672cb0acb4b5d94?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 03 |
 | ↳ | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a6fa8476bbe83d3afa4ca0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/696e8f8ddb26b61895116c98?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 03 |
@@ -69,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern - Summer Only](https://jobright.ai/jobs/info/69a6ce822672cb0acb4b3c1a?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6ccbb2672cb0acb4b3a88?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 03 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cbab76bbe83d3afa29fc?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 03 |
+| ↳ | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a7092d1fc3d83b78092b80?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 03 |
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/698a35b30f6f7e7a2ce54781?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 03 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a6c1101fc3d83b78091d24?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6972becb584a1c1ef6fdd08f?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Mar 03 |
@@ -85,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Creative Marketing - Summer 2026](https://jobright.ai/jobs/info/69a689621a944544ef632fde?utm_campaign=1049&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a682dae567421f425788b9?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Mar 02 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Atlanta](https://jobright.ai/jobs/info/69a67b242c0d8b0f5cd09821?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
-| **[The Narrative Vintage Edit](https://www.thenarrativevintage.com/)** | **[Creative Content & Video Intern](https://jobright.ai/jobs/info/69a6e09b76bbe83d3afa35a4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 02 |
 | **[Mortenson](https://www.mortenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a679d9d706a731db38683c?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Mar 02 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69a678da2c0d8b0f5cd096e7?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 02 |
 | **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a694c5708b430a607afa84?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 02 |
@@ -111,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Frank Lloyd Wright Foundation](https://franklloydwright.org/)** | **[Cultural Landscape Research Intern](https://jobright.ai/jobs/info/69a64f9cd706a731db382f42?utm_campaign=1049&utm_source=git)** | Scottsdale,AZ,US | On Site | Mar 02 |
 | **[World Wildlife Fund](http://www.worldwildlife.org/)** | **[BR-2619 BRIDGE Microsoft 365 Knowledge Management Undergraduate Intern](https://jobright.ai/jobs/info/69a65c3fd706a731db3844c5?utm_campaign=1049&utm_source=git)** | Washington, DC, US | Remote | Mar 02 |
 | ↳ | **[BR-2616 BRIDGE Knowledge Management and Visual Design Undergraduate Intern](https://jobright.ai/jobs/info/69a6549c2c0d8b0f5cd06d0b?utm_campaign=1049&utm_source=git)** | Washington, DC, US | Hybrid | Mar 02 |
-| **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a655c2d706a731db3838db?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | Hybrid | Mar 02 |
+| **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a64e19e567421f42574815?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | Hybrid | Mar 02 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69a65044e567421f42574b8e?utm_campaign=1049&utm_source=git)** | Seattle, WA, US | Hybrid | Mar 02 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69a64e19e567421f42574815?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | Hybrid | Mar 02 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69a655c2d706a731db3838db?utm_campaign=1049&utm_source=git)** | San Francisco, CA, US | Hybrid | Mar 02 |
 | **[The Shipyard](http://theshipyard.com)** | **[2026 Summer Internship - Creative](https://jobright.ai/jobs/info/69a621360da45516f16f04e7?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 02 |
 | **[LAIKA Studios](https://laika.com/)** | **[Storyboard Artist Intern](https://jobright.ai/jobs/info/69a6032eb600907a962bdcdc?utm_campaign=1049&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
 | ↳ | **[Character Design Intern](https://jobright.ai/jobs/info/69a605230da45516f16edbfa?utm_campaign=1049&utm_source=git)** | Hillsboro, OR | On Site | Mar 02 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ALO](https://www.aloyoga.com/)** | **[Color Design Intern](https://jobright.ai/jobs/info/69a5e7a2359fe034b1d0a2f1?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Mar 02 |
 | **[Tiami Networks](https://tiaminetworks.com/)** | **[Creative Content Intern (Video & Media)](https://jobright.ai/jobs/info/69a5e57a359fe034b1d09ec2?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Mar 02 |
 | **[ALO](https://www.aloyoga.com/)** | **[Color Design Intern](https://jobright.ai/jobs/info/69a5e51b0da45516f16eadbb?utm_campaign=1049&utm_source=git)** | Beverly Hills, California, United States | On Site | Mar 02 |
-| **[Johannes Leonardo](http://johannesleonardo.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69a5e45d0da45516f16eabfb?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
-| **[Steelcase](https://www.steelcase.com/)** | **[Year Round Interior Design Intern](https://jobright.ai/jobs/info/69a5e35c0da45516f16ea9cb?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 02 |
-| **[Johannes Leonardo](http://johannesleonardo.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69a5e2a80da45516f16ea838?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 02 |
-| **[Tarkett Sports](https://tarkettsports.com/)** | **[Intern Designer](https://jobright.ai/jobs/info/69a5e25fb600907a962ba8d4?utm_campaign=1049&utm_source=git)** | Junction City, KS | Hybrid | Mar 02 |
-| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Landscape Architecture (Planning) Intern](https://jobright.ai/jobs/info/68fbf8d493c49825ab10829c?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 02 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69a5e0cf0da45516f16ea409?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 02 |
-| **[Circular Materials](https://circularmaterials.ca/)** | **[Intern: Bilingual Graphic Design Assistant / Remote Ontario or New Brunswick](https://jobright.ai/jobs/info/69a60fcb0da45516f16eed48?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
