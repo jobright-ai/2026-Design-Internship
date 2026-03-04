@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CareDx, Inc.](https://www.caredx.com/)** | **[Summer UI/UX Researcher Internship](https://jobright.ai/jobs/info/69a7d0d476bbe83d3afb50ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Enterprise Mobility](http://www.enterpriseholdings.com)** | **[Creative Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a7bf6e637232443f6515fc?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 03 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Retail, Food & Beverage Intern](https://jobright.ai/jobs/info/69a7a72c76bbe83d3afb0a25?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
@@ -145,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Pettibone](https://www.gopettibone.com)** | **[Tech Publications Writer Intern - PTL](https://jobright.ai/jobs/info/698a86aa0f6f7e7a2ce5b806?utm_campaign=1049&utm_source=git)** | Baraga, MI | On Site | Mar 03 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0b431224705e90021e3e?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 03 |
 | **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a696591a944544ef633ed6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 03 |
-| **[Akron Zoo](https://www.akronzoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a7cec176bbe83d3afb4b57?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 03 |
 | **[Xiaohongshu](https://www.xiaohongshu.com)** | **[Internship Program - Creative Content](https://jobright.ai/jobs/info/69a68dc61a944544ef63344b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69a68d101a944544ef6333ac?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Creative Marketing - Summer 2026](https://jobright.ai/jobs/info/69a689621a944544ef632fde?utm_campaign=1049&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
