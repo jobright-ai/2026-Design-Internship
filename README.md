@@ -78,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Refined Technologies](http://r-t-i.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69a79e3476bbe83d3afb0047?utm_campaign=1049&utm_source=git)** | Spring,TX,US | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a777e52672cb0acb4bef5b?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 BARN Strategy Internship](https://jobright.ai/jobs/info/69a79a7976bbe83d3afafc76?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
-| ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7994b76bbe83d3afafb5a?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
 | ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7a389637232443f64e524?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 03 |
+| ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7994b76bbe83d3afafb5a?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69a776c62672cb0acb4bedfa?utm_campaign=1049&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69a7958d637232443f64d7a3?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Mar 03 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[User Research Intern](https://jobright.ai/jobs/info/69a7962676bbe83d3afaf809?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 03 |
@@ -117,6 +117,7 @@ For a complete list, click the following sortable link below:
 | **[The Gideons International](https://gideons.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a7135a76bbe83d3afa6c87?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Mar 03 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698a6d604db8972cecffbd18?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Mar 03 |
 | ↳ | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698ab5e8c5761b521a9a074d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
+| ↳ | **[Interiors Summer Intern](https://jobright.ai/jobs/info/698a619c0f6f7e7a2ce5821d?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | ↳ | **[Architectural Summer Intern](https://jobright.ai/jobs/info/698a6395c5761b521a99923c?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 03 |
 | **[The Wall Street Journal](https://www.wjs.com/)** | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69a7275576bbe83d3afa8408?utm_campaign=1049&utm_source=git)** | NYC - 1211 Ave of the Americas | On Site | Mar 03 |
 | **[HOK](http://www.hok.com/)** | **[Landscape Student Intern](https://jobright.ai/jobs/info/698a5676b708d23f366c0a39?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 03 |
@@ -144,6 +145,7 @@ For a complete list, click the following sortable link below:
 | **[Pettibone](https://www.gopettibone.com)** | **[Tech Publications Writer Intern - PTL](https://jobright.ai/jobs/info/698a86aa0f6f7e7a2ce5b806?utm_campaign=1049&utm_source=git)** | Baraga, MI | On Site | Mar 03 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0b431224705e90021e3e?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 03 |
 | **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a696591a944544ef633ed6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 03 |
+| **[Akron Zoo](https://www.akronzoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a7cec176bbe83d3afb4b57?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 03 |
 | **[Xiaohongshu](https://www.xiaohongshu.com)** | **[Internship Program - Creative Content](https://jobright.ai/jobs/info/69a68dc61a944544ef63344b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69a68d101a944544ef6333ac?utm_campaign=1049&utm_source=git)** | Gaithersburg, MD | On Site | Mar 02 |
 | **[Legendary Entertainment](http://www.legendary.com)** | **[Intern, Creative Marketing - Summer 2026](https://jobright.ai/jobs/info/69a689621a944544ef632fde?utm_campaign=1049&utm_source=git)** | Burbank,CA,US | On Site | Mar 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a66cb9e567421f4257730a?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Mar 02 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 02 |
 | **[The Davey Tree Expert Company](http://www.davey.com/)** | **[Commercial Landscape Internship / Richmond, VA](https://jobright.ai/jobs/info/69a65e28e567421f425766a7?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 02 |
-| ↳ | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/69a658d02c0d8b0f5cd075f3?utm_campaign=1049&utm_source=git)** | South St Paul, MN | On Site | Mar 02 |
-| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[CRM User Experience Intern](https://jobright.ai/jobs/info/69a6558e2c0d8b0f5cd06f2b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
