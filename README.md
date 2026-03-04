@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Twelve](https://twelvenyc.com)** | **[Summer Internship](https://jobright.ai/jobs/info/699d081be0bddb6acacc23bb?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Mar 04 |
+| **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Fabric R&D Intern](https://jobright.ai/jobs/info/698c3b0c78b4502f12a2bad4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
+| **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69a8389c7ac93962b707fa9f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6952e165935649778e209e78?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 04 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/696e94e5350cf43803154db1?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Mar 04 |
+| **[Arbor Homes](https://yourarborhome.com/)** | **[Design Center Consult Intern](https://jobright.ai/jobs/info/696fb47e82817106e976be64?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Mar 04 |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship  (St.Louis)](https://jobright.ai/jobs/info/696ffece82817106e9771b9b?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 04 |
 | **[Federal Reserve Bank of Kansas City](https://www.kansascityfed.org)** | **[Internship, Design – Summer 2026](https://jobright.ai/jobs/info/69702ad7333b6343a14c92e2?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 04 |
 | **[Quiddity](https://quiddity.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e8fb20f6f7e7a2ceaaf4f?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Mar 04 |
 | **[AAAS](http://www.aaas.org/)** | **[Data Viz & Graphics Intern](https://jobright.ai/jobs/info/698c1fa4e4f6572f0e441cf7?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 04 |
@@ -83,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Longevity AI](https://www.longevity-ai.com/)** | **[Brand & Design Summer Intern](https://jobright.ai/jobs/info/69a77ede2672cb0acb4bf644?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Aviation)](https://jobright.ai/jobs/info/69a79cf776bbe83d3afaff00?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Mar 03 |
 | **[Brahmin Leather Works](http://www.brahmin.com)** | **[Intern-Design](https://jobright.ai/jobs/info/69a77cdf2672cb0acb4bf45b?utm_campaign=1049&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 03 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Aviation)](https://jobright.ai/jobs/info/69a82ab92580d3183f002ef9?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 03 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (University of Louisiana at Lafayette)](https://jobright.ai/jobs/info/69a7a51276bbe83d3afb07ba?utm_campaign=1049&utm_source=git)** | New Orleans, LA, US | On Site | Mar 03 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a7974876bbe83d3afaf94a?utm_campaign=1049&utm_source=git)** | US-IL-Peoria | On Site | Mar 03 |
 | **[Refined Technologies](http://r-t-i.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69a79e3476bbe83d3afb0047?utm_campaign=1049&utm_source=git)** | Spring,TX,US | On Site | Mar 03 |
@@ -108,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a747142672cb0acb4bb4ca?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 03 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a746f876bbe83d3afaa39c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 03 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern - Part Time Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/698a4c5847434001cc688079?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 03 |
+| **[Solven Collective](solvencollective.com)** | **[Remote Web & Graphic Design Internship](https://jobright.ai/jobs/info/69a82c2a2580d3183f002f5c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 03 |
 | **[Enterprise Community Partners](https://www.enterprisecommunity.org/)** | **[Urban Design and Graphics Intern](https://jobright.ai/jobs/info/69a73e1a76bbe83d3afa9924?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Project Specialist, Interior Design / Spring 2026 Grad](https://jobright.ai/jobs/info/69a739972672cb0acb4ba5b8?utm_campaign=1049&utm_source=git)** | Dallas County, TX | On Site | Mar 03 |
 | **[Reed Creative Group](https://www.reedcreativegroup.com)** | **[Summer Graphic Design Intern](https://jobright.ai/jobs/info/69a80434637232443f6556e5?utm_campaign=1049&utm_source=git)** | Tyler, TX | Hybrid | Mar 03 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hudl](http://www.hudl.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/698a35b30f6f7e7a2ce54781?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 03 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a6c1101fc3d83b78091d24?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 03 |
 | **[American Structurepoint](http://structurepoint.com)** | **[Interior Design Internship-Indianapolis, IN](https://jobright.ai/jobs/info/6972becb584a1c1ef6fdd08f?utm_campaign=1049&utm_source=git)** | Greater Indianapolis | On Site | Mar 03 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Mar 03 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Creative Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a0406e0836fe79d8611adb?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL | On Site | Mar 03 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 03 |
-| **[TensorWave](https://tensorwave.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69a6b0f076bbe83d3afa113f?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Mar 03 |
-| **[Pettibone](https://www.gopettibone.com)** | **[Tech Publications Writer Intern - PTL](https://jobright.ai/jobs/info/698a86aa0f6f7e7a2ce5b806?utm_campaign=1049&utm_source=git)** | Baraga, MI | On Site | Mar 03 |
-| **[Akron Zoo](https://www.akronzoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a80bb376bbe83d3afb7f83?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 03 |
-| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b0b431224705e90021e3e?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 03 |
-| **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a696591a944544ef633ed6?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
