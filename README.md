@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8d12179f3f4037f43559a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 04 |
+| **[The Concept Agency - Digital Marketing Agency](http://www.theconceptagency.co)** | **[Social Media & Design Intern](https://jobright.ai/jobs/info/69a8d0cd2580d3183f00ec4a?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 04 |
+| **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a8cde179f3f4037f434f60?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
+| **[Condray Design Group, Inc.](https://condray.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a8cd562580d3183f00e653?utm_campaign=1049&utm_source=git)** | Lubbock, TX | On Site | Mar 04 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 04 |
+| **[Four Seasons Hotels and Resorts](http://www.fourseasons.com)** | **[Food & Beverage Concept Development Intern (Graphic Design)- 2026 Four Seasons Corporate Summer Internship](https://jobright.ai/jobs/info/69a8d7102580d3183f00f6b8?utm_campaign=1049&utm_source=git)** | Four Seasons Corporate Office Toronto | Hybrid | Mar 04 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[Cartwright](https://www.cartwright.co)** | **[Cartwright Internship - Summer 2026](https://jobright.ai/jobs/info/69a8aa7f2580d3183f00ae53?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69a8a7cd2580d3183f00a9a8?utm_campaign=1049&utm_source=git)** | Eagle, ID | On Site | Mar 04 |
@@ -65,7 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69a8a2897ac93962b7085f0a?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Intern Architecture Designer](https://jobright.ai/jobs/info/69a8a1972580d3183f00a3b6?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 04 |
 | **[The F* Word](https://thefword.ai/)** | **[The F* Word - REMOTE 1 WEEK INTERNSHIP - AI Featured Fashion Designer Program](https://jobright.ai/jobs/info/69a89ffa7ac93962b7085c69?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 04 |
-| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8cad479f3f4037f434906?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Mar 04 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8d2002580d3183f00ee6a?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Mar 04 |
 | **[Amentum](https://www.amentum.com/)** | **[Summer 2026 - Science Engagement Intern](https://jobright.ai/jobs/info/69a89be27ac93962b7085882?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[C. Taylor Interiors](http://www.ctaylorinteriors.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69a8980f2580d3183f009ae4?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 04 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69a897422580d3183f009a42?utm_campaign=1049&utm_source=git)** | 600 E Front St STE 106, Traverse City, MI, 49684, US | On Site | Mar 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[User Research Intern](https://jobright.ai/jobs/info/69a7962676bbe83d3afaf809?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 03 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Mar 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69a76e3a2672cb0acb4be481?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Mar 03 |
-| **[HP](http://www.hp.com)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/6992aca281476f6176aa28b8?utm_campaign=1049&utm_source=git)** | Spring, TX | Hybrid | Mar 03 |
-| **[bizquick](http://www.bizquick.club)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a8a6ba79f3f4037f42e100?utm_campaign=1049&utm_source=git)** | San José Metropolitan Area | On Site | Mar 03 |
-| **[New York Post](http://nypost.com/)** | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69a769f12672cb0acb4bdf99?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
-| **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69a8974379f3f4037f4294c3?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Mar 03 |
-| **[Chase](https://www.chase.com/)** | **[2026 UX Behavioral Science Operations Intern – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69a8932c79f3f4037f428176?utm_campaign=1049&utm_source=git)** | 1111 Polaris Pkwy, Columbus, OH, 43240, US | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
