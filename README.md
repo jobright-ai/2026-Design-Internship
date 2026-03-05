@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 04 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 04 |
 | **[Cartwright](https://www.cartwright.co)** | **[Cartwright Internship - Summer 2026](https://jobright.ai/jobs/info/69a8aa7f2580d3183f00ae53?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 04 |
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69a8a7cd2580d3183f00a9a8?utm_campaign=1049&utm_source=git)** | Eagle, ID | On Site | Mar 04 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69a8a2897ac93962b7085f0a?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Mar 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Intern Architecture Designer](https://jobright.ai/jobs/info/69a8a1972580d3183f00a3b6?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 04 |
 | **[The F* Word](https://thefword.ai/)** | **[The F* Word - REMOTE 1 WEEK INTERNSHIP - AI Featured Fashion Designer Program](https://jobright.ai/jobs/info/69a89ffa7ac93962b7085c69?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 04 |
+| **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8cad479f3f4037f434906?utm_campaign=1049&utm_source=git)** | Austin, Texas | On Site | Mar 04 |
 | **[Amentum](https://www.amentum.com/)** | **[Summer 2026 - Science Engagement Intern](https://jobright.ai/jobs/info/69a89be27ac93962b7085882?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 04 |
 | **[C. Taylor Interiors](http://www.ctaylorinteriors.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/69a8980f2580d3183f009ae4?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 04 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69a897422580d3183f009a42?utm_campaign=1049&utm_source=git)** | 600 E Front St STE 106, Traverse City, MI, 49684, US | On Site | Mar 04 |
@@ -75,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d815935649778e20960e?utm_campaign=1049&utm_source=git)** | Ponte Vedra Beach, FL | On Site | Mar 04 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69a89e2979f3f4037f42b789?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Mar 04 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/697002310f4e0f657ea45fd2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 04 |
+| **[FlexiSAF Edusoft Limited](http://flexisaf.com)** | **[UI\/UX Design Intern](https://jobright.ai/jobs/info/69a8ca1479f3f4037f43476c?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Mar 04 |
 | **[Empeiric](www.empeiric.com)** | **[UX Designer (Unpaid Internship)](https://jobright.ai/jobs/info/69a899727ac93962b7085676?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Daniels Health](https://www.danielshealth.com/)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69a86d057ac93962b7083c5b?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Graphic Design Intern, Communications Department](https://jobright.ai/jobs/info/69a8688e2580d3183f007fc5?utm_campaign=1049&utm_source=git)** | Remote- New York City | Remote | Mar 04 |
@@ -124,10 +127,10 @@ For a complete list, click the following sortable link below:
 | **[McMillan Pazdan Smith Architecture](http://mcmillanpazdansmith.com)** | **[Summer Internship 2026 - Charleston Studio](https://jobright.ai/jobs/info/6983ac9901214b4cdacb79e5?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 03 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a7931476bbe83d3afaf4b6?utm_campaign=1049&utm_source=git)** | Peoria, IL, US | On Site | Mar 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69a78f6176bbe83d3afaf0be?utm_campaign=1049&utm_source=git)** | US-FL-Tampa | Hybrid | Mar 03 |
-| **[X-Rite](http://www.xrite.com)** | **[Digital UX Intern](https://jobright.ai/jobs/info/69a78de02672cb0acb4c0258?utm_campaign=1049&utm_source=git)** | London, Ontario, Canada | Hybrid | Mar 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 BARN Strategy Internship](https://jobright.ai/jobs/info/69a78dca2672cb0acb4c0247?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 03 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a7897c76bbe83d3afaec4a?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Mar 03 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a784102672cb0acb4bfbc6?utm_campaign=1049&utm_source=git)** | Peoria, IL | On Site | Mar 03 |
+| **[Three Rivers Corporation](https://trccompany.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69a8b94a79f3f4037f432265?utm_campaign=1049&utm_source=git)** | Midland, MI | On Site | Mar 03 |
 | **[Longevity AI](https://www.longevity-ai.com/)** | **[Brand & Design Summer Intern](https://jobright.ai/jobs/info/69a77ede2672cb0acb4bf644?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Aviation)](https://jobright.ai/jobs/info/69a79cf776bbe83d3afaff00?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Mar 03 |
 | **[Brahmin Leather Works](http://www.brahmin.com)** | **[Intern-Design](https://jobright.ai/jobs/info/69a77cdf2672cb0acb4bf45b?utm_campaign=1049&utm_source=git)** | Fairhaven, MA | Hybrid | Mar 03 |
@@ -141,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Refined Technologies](http://r-t-i.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69a79e3476bbe83d3afb0047?utm_campaign=1049&utm_source=git)** | Spring,TX,US | On Site | Mar 03 |
 | **[Denver Broncos Football Club](http://www.denverbroncos.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a777e52672cb0acb4bef5b?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | Mar 03 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[2026 BARN Strategy Internship](https://jobright.ai/jobs/info/69a79a7976bbe83d3afafc76?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
-| ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7994b76bbe83d3afafb5a?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
 | ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7a389637232443f64e524?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 03 |
+| ↳ | **[2026 BARN Creative Internship](https://jobright.ai/jobs/info/69a7994b76bbe83d3afafb5a?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 03 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69a776c62672cb0acb4bedfa?utm_campaign=1049&utm_source=git)** | USA - New York, New York | On Site | Mar 03 |
 | **[BIG HAPPY](https://bighappy.co/)** | **[Visual Design Intern - Summer 2026](https://jobright.ai/jobs/info/69a8ae2c79f3f4037f4300a7?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Mar 03 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69a7958d637232443f64d7a3?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Mar 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69a769f12672cb0acb4bdf99?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 03 |
 | **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69a8974379f3f4037f4294c3?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Mar 03 |
 | **[Chase](https://www.chase.com/)** | **[2026 UX Behavioral Science Operations Intern – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69a8932c79f3f4037f428176?utm_campaign=1049&utm_source=git)** | 1111 Polaris Pkwy, Columbus, OH, 43240, US | On Site | Mar 03 |
-| **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a75dd32672cb0acb4bd120?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 03 |
-| **[Walker Sands](https://www.walkersands.com/)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69a759992672cb0acb4bcc04?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Mar 03 |
-| **[Kroger](https://www.thekrogerco.com/)** | **[Summer 2026 Store Planning & Design Intern](https://jobright.ai/jobs/info/69a759992672cb0acb4bcc05?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
