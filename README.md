@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Oncology Product and User Experience Research Intern](https://jobright.ai/jobs/info/69a9a66f1f59c56275e26635?utm_campaign=1049&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
+| **[Brixenta](brixenta.net)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a9a5471f59c56275e2652b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
+| **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/698d0e0ff64d441a164eed96?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 05 |
+| ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/698d1049f64d441a164ef1eb?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 05 |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 05 |
+| **[FGM Architects](http://fgmarchitects.com)** | **[Summer Interior Design Intern (Chicago Region)](https://jobright.ai/jobs/info/698999ca47434001cc67bf0e?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Mar 05 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69702b36333b6343a14c9356?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Mar 05 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[North America Category Visuals Intern - Summer 2026](https://jobright.ai/jobs/info/698df2e20f6f7e7a2cea004b?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Mar 05 |
 | **[FGM Architects](http://fgmarchitects.com)** | **[Summer Architectural Intern (Chicago Region)](https://jobright.ai/jobs/info/69899b220f6f7e7a2ce49deb?utm_campaign=1049&utm_source=git)** | Westchester, IL | On Site | Mar 05 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2026](https://jobright.ai/jobs/info/69a99afbf2055e05d171de5f?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Mar 05 |
@@ -102,7 +109,6 @@ For a complete list, click the following sortable link below:
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a8da9b7ac93962b708b751?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 04 |
 | **[Illumination](https://www.illumination.com/)** | **[Graphic Design Intern, Consumer Products – Summer 2026](https://jobright.ai/jobs/info/69a8da0479f3f4037f436620?utm_campaign=1049&utm_source=git)** | Santa Monica - INTERNSHIPS | Hybrid | Mar 04 |
 | **[Stand Together](https://standtogether.org/)** | **[KIP Summer 2026 - Graphic Design Intern - Sutherland Institute](https://jobright.ai/jobs/info/69965b91e0bddb6acac4cbce?utm_campaign=1049&utm_source=git)** | Utah | Hybrid | Mar 04 |
-| **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/69a971367f9271426f885010?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 04 |
 | **[Heritage Landscape Supply Group, Inc.](https://www.heritagelandscapesupplygroup.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8d12179f3f4037f43559a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 04 |
 | **[The Concept Agency - Digital Marketing Agency](https://theconceptagency.co)** | **[Social Media & Design Intern](https://jobright.ai/jobs/info/69a8d0cd2580d3183f00ec4a?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 04 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69a8cde179f3f4037f434f60?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Redscout](http://www.redscout.com)** | **[Design Summer Internship](https://jobright.ai/jobs/info/698c2e7f0f6f7e7a2ce7e19a?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 04 |
 | **[McConnell Golf](http://mcconnellgolf.com)** | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/69a860667ac93962b7083651?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 04 |
 | **[EUA](http://www.eua.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69a95e95f2055e05d171889b?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Mar 04 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Chicago](https://jobright.ai/jobs/info/69a15ccf359fe034b1cc9a00?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 04 |
-| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/698eb1260f6f7e7a2ceacef5?utm_campaign=1049&utm_source=git)** | White Plains, NY | On Site | Mar 04 |
-| **[Leo Burnett](https://leoburnett.com)** | **[2026 Leo Chicago Summer Internship - Creative](https://jobright.ai/jobs/info/698c6b83f64d441a164e5fd9?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 04 |
-| **[Guidewire Software](http://www.guidewire.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a95db9f6c22f2e36863f0a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 04 |
-| **[Medidata Solutions](https://www.medidata.com)** | **[User Research Intern](https://jobright.ai/jobs/info/69a84fda2580d3183f00629f?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 04 |
-| **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Philadelphia)](https://jobright.ai/jobs/info/696ff9543ed06875134af6f5?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
