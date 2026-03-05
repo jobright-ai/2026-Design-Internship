@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Whitman, Requardt and Associates, LLP](http://wrallp.com)** | **[Architect - Intern](https://jobright.ai/jobs/info/69a9b9782ebd316bece14778?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Mar 05 |
+| **[Dorsia](https://www.dorsia.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a9b6c51f59c56275e271ed?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Mar 05 |
+| **[Micron Technology](http://www.micron.com)** | **[Intern - Digital Experience and Strategy](https://jobright.ai/jobs/info/69a9b5ec1f59c56275e2700b?utm_campaign=1049&utm_source=git)** | Meridian, ID | On Site | Mar 05 |
+| **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/69a9b1fd1f59c56275e26bbf?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 05 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Austin](https://jobright.ai/jobs/info/69a156ecd426a56180b7826f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 05 |
+| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69a9ab649ca4e908ec64e5d8?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 05 |
+| **[International](https://www.international.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69390bbc610de506401c5d7c?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Mar 05 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Healthcare - New York](https://jobright.ai/jobs/info/69a16087b600907a9627bc5b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 05 |
 | **[IDEXX Livestock Diagnostics](https://www.idexx.com/en/livestock/)** | **[Oncology Product and User Experience Research Intern](https://jobright.ai/jobs/info/69a9a66f1f59c56275e26635?utm_campaign=1049&utm_source=git)** | Westbrook, ME | On Site | Mar 05 |
-| **[Brixenta](brixenta.net)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a9a5471f59c56275e2652b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 05 |
 | **[Re:Build Manufacturing](https://www.rebuildmanufacturing.com)** | **[Design Research Intern](https://jobright.ai/jobs/info/698d0e0ff64d441a164eed96?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 05 |
 | ↳ | **[Industrial Design Intern](https://jobright.ai/jobs/info/698d1049f64d441a164ef1eb?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 05 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Mar 05 |
@@ -103,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a974a3f2055e05d171a089?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Mar 04 |
 | **[SRS Distribution Inc.](http://www.srsdistribution.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8f2987ac93962b708d985?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 04 |
 | **[Upbound Group](https://www.upbound.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a8e98f79f3f4037f437c6e?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Mar 04 |
-| **[The Henry Ford](http://www.thehenryford.org/)** | **[Exhibition Design Intern](https://jobright.ai/jobs/info/69a9713a7f9271426f885025?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[User Experience (UX) Intern - Summer 2026](https://jobright.ai/jobs/info/69a8dc2679f3f4037f4368b6?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 04 |
 | **[Heritage Pool Supply Group, Inc.](https://www.heritagepoolsupplygroup.com)** | **[Landscape Branch Intern – Summer 2026](https://jobright.ai/jobs/info/69a8dbd02580d3183f00fe65?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 04 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a8da9b7ac93962b708b751?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 04 |
@@ -116,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Exhibition Design Intern](https://jobright.ai/jobs/info/69a904e22580d3183f013531?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Mar 04 |
 | **[Salman & Associates](https://salmanarchitects.com/)** | **[architect graduate/intern](https://jobright.ai/jobs/info/69a97d62f2055e05d171ad35?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | On Site | Mar 04 |
 | **[Sound Transit](https://www.soundtransit.org)** | **[User Experience (UX) Intern - Summer 2026](https://jobright.ai/jobs/info/69a8f5982580d3183f012212?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | On Site | Mar 04 |
-| **[The h.wood Group](https://hwoodgroup.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/69a8eefe2580d3183f01190d?utm_campaign=1049&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
-| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69a8f67b7ac93962b708de0d?utm_campaign=1049&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| **[The h.wood Group](https://hwoodgroup.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/69a8f67b7ac93962b708de0d?utm_campaign=1049&utm_source=git)** | West Hollywood ,  CA | On Site | Mar 04 |
+| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69a8eefe2580d3183f01190d?utm_campaign=1049&utm_source=git)** | 9229 West Sunset Blvd,                                                                                                                        West Hollywood , CA | On Site | Mar 04 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Mar 04 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a98939f2055e05d171c18e?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 04 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69a950e57f9271426f882e61?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Unstuck Engine](https://primeclass.ai)** | **[UI/UX design internship](https://jobright.ai/jobs/info/69a985fff2055e05d171b787?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 04 |
 | **[ACLU](https://www.aclu.org/)** | **[Summer 2026 Undergraduate Graphic Design Intern, Communications Department](https://jobright.ai/jobs/info/69a8688e2580d3183f007fc5?utm_campaign=1049&utm_source=git)** | Remote- New York City | Remote | Mar 04 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Los Angeles](https://jobright.ai/jobs/info/69a16071b600907a9627bc23?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 04 |
-| **[Bohlin Cywinski Jackson](http://bcj.com/)** | **[Staff Architect Intern](https://jobright.ai/jobs/info/69a8657c7ac93962b70838b0?utm_campaign=1049&utm_source=git)** | Wilkes-Barre - Wilkes-Barre, PA 18701 | On Site | Mar 04 |
-| **[Treevah](https://filterfolder.com/)** | **[UI/UX Intern — Spring/Summer (Remote, Unpaid)](https://jobright.ai/jobs/info/69a864482580d3183f007db9?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 04 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69a15f2cb600907a9627b96d?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 04 |
-| **[Redscout](http://www.redscout.com)** | **[Design Summer Internship](https://jobright.ai/jobs/info/698c2e7f0f6f7e7a2ce7e19a?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 04 |
-| **[McConnell Golf](http://mcconnellgolf.com)** | **[Creative Media Internship - McConnell Golf](https://jobright.ai/jobs/info/69a860667ac93962b7083651?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 04 |
-| **[EUA](http://www.eua.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69a95e95f2055e05d171889b?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Mar 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
