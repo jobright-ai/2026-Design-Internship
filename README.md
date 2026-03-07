@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69abbf852747003c3d517b45?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 06 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ab9fd2142d5b4265fcc74d?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Mar 06 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Exhibition Design Intern - Digital Interactives](https://jobright.ai/jobs/info/69ab95c82747003c3d511c51?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Mar 06 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ab94d2142d5b4265fcb20d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -65,7 +66,8 @@ For a complete list, click the following sortable link below:
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations](https://jobright.ai/jobs/info/69ab9186142d5b4265fcaadc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 06 |
 | **[Wesleyan College](http://www.wesleyancollege.edu/)** | **[Student - Communications Intern - Event Cover](https://jobright.ai/jobs/info/69abb1e3142d5b4265fceb63?utm_campaign=1049&utm_source=git)** | Macon, GA, US | On Site | Mar 06 |
 | **[ITA Group, Inc.](https://www.itagroup.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514ea8?utm_campaign=1049&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69ab6f5d2747003c3d510b6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 | **[SOCAN](http://www.socan.ca)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ab6ef6142d5b4265fca531?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 06 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 06 |
@@ -97,8 +99,8 @@ For a complete list, click the following sortable link below:
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/694b077667a69734cac6177b?utm_campaign=1049&utm_source=git)** | Myrtle Beach, South Carolina, United States | On Site | Mar 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69729341584a1c1ef6fd91ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Creative Operations Co-op (July to December)](https://jobright.ai/jobs/info/697338111790715e866c2bbe?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a666b32c0d8b0f5cd08842?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Mar 06 |
-| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a81c2b295e854151e53836?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Mar 06 |
+| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a81c2b295e854151e53836?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Mar 06 |
+| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a666b32c0d8b0f5cd08842?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Mar 06 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Design Intern (100% Remote)](https://jobright.ai/jobs/info/69ab0149142d5b4265fc4179?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e6ee2f64d441a1650ad8e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/698808328ca8121a3a6a8179?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69aa1a869ca4e908ec65664b?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Mar 05 |
 | **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/69aa36cd1f59c56275e31181?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Mar 05 |
 | ↳ | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/69aa3b9e2ebd316bece1febd?utm_campaign=1049&utm_source=git)** | Indianapolis,  IN | On Site | Mar 05 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/69aa11312ebd316bece1cd7d?utm_campaign=1049&utm_source=git)** | 820 Follin Ln SE, Vienna, VA, 22180, US | On Site | Mar 05 |
-| **[Skechers](http://www.skechers.com)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69aa10279ca4e908ec655d0d?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
