@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69abbf852747003c3d517b45?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 06 |
+| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UX Design Intern](https://jobright.ai/jobs/info/69abceeb7e1fab39d383861e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ab9fd2142d5b4265fcc74d?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Mar 06 |
 | **[The Henry Ford](http://www.thehenryford.org/)** | **[Exhibition Design Intern - Digital Interactives](https://jobright.ai/jobs/info/69ab95c82747003c3d511c51?utm_campaign=1049&utm_source=git)** | Dearborn, MI | Hybrid | Mar 06 |
 | **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ab94d2142d5b4265fcb20d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 06 |
@@ -101,14 +102,13 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Creative Operations Co-op (July to December)](https://jobright.ai/jobs/info/697338111790715e866c2bbe?utm_campaign=1049&utm_source=git)** | Needham, MA | Hybrid | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a81c2b295e854151e53836?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Mar 06 |
 | ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a666b32c0d8b0f5cd08842?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Mar 06 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Design Intern (100% Remote)](https://jobright.ai/jobs/info/69ab0149142d5b4265fc4179?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 06 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e6ee2f64d441a1650ad8e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
+| ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e6ee2f64d441a1650ad8e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 06 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Product Design Engineering Intern, Advanced Development (May to August)](https://jobright.ai/jobs/info/698808328ca8121a3a6a8179?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 06 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69aafc90142d5b4265fc3d70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a15978d426a56180b78467?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
-| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69970ca7e0bddb6acac5c47a?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 06 |
+| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a152e7b600907a96279aec?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
 | ↳ | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a7a95676bbe83d3afb0c53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 06 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/69aad9547e1fab39d3827a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 06 |
+| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 06 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Digital Experience and Strategy](https://jobright.ai/jobs/info/69aacb68142d5b4265fc1e67?utm_campaign=1049&utm_source=git)** | Meridian, OK | On Site | Mar 06 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cbab76bbe83d3afa29fc?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
