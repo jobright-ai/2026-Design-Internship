@@ -148,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
 | **[Cerpent](cerpent.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ac20fb2747003c3d51eae3?utm_campaign=1049&utm_source=git)** | Wilmington, DE | Remote | Mar 06 |
 | **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/69aad9547e1fab39d3827a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 06 |
+| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 06 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69ac278b2747003c3d51fd2e?utm_campaign=1049&utm_source=git)** | Ripon, WI | Remote | Mar 06 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Digital Experience and Strategy](https://jobright.ai/jobs/info/69aacb68142d5b4265fc1e67?utm_campaign=1049&utm_source=git)** | Meridian, OK | On Site | Mar 06 |
