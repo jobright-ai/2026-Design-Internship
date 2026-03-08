@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[PathSpark](https://pathspark.co)** | **[User Experience Internship to Demo a New Career App for High School & College Students Only](https://jobright.ai/jobs/info/69acc853142d5b4265fdfbff?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc2f07e1fab39d3844803?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc0f0142d5b4265fdf943?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
-| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UI/UX Research & Design Internship](https://jobright.ai/jobs/info/69acb0e6142d5b4265fdf5e0?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Mar 07 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ad86a37e1fab39d384f601?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac649d2747003c3d520fcd?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 07 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a7a95676bbe83d3afb0c53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 06 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
 | **[Cerpent](cerpent.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ac20fb2747003c3d51eae3?utm_campaign=1049&utm_source=git)** | Wilmington, DE | Remote | Mar 06 |
+| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/69aad9547e1fab39d3827a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
