@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
+| **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 08 |
+| **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 08 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6974e15dbc8e722e7b19e04a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 08 |
 | **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Research and Design Internship](https://jobright.ai/jobs/info/69ad017c7e1fab39d3847805?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 07 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69acf380142d5b4265fe1beb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
 | **[PathSpark](https://pathspark.co)** | **[User Experience Internship to Demo a New Career App for High School & College Students Only](https://jobright.ai/jobs/info/69acc853142d5b4265fdfbff?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 07 |
@@ -96,8 +100,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/69ace7ba7e1fab39d384629c?utm_campaign=1049&utm_source=git)** | Vienna, VA | On Site | Mar 06 |
 | **[Wesleyan College](http://www.wesleyancollege.edu/)** | **[Student - Communications Intern - Event Cover](https://jobright.ai/jobs/info/69abb1e3142d5b4265fceb63?utm_campaign=1049&utm_source=git)** | Macon, GA, US | On Site | Mar 06 |
 | **[ITA Group, Inc.](https://www.itagroup.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514ea8?utm_campaign=1049&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69ab6f5d2747003c3d510b6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 | **[SOCAN](http://www.socan.ca)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ab6ef6142d5b4265fca531?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 06 |
 | **[Dream Theory](http://dreamtheory.io)** | **[Creative Production / Post-Production Intern (Paid)](https://jobright.ai/jobs/info/69ac21dd2747003c3d51f195?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69ac278b2747003c3d51fd2e?utm_campaign=1049&utm_source=git)** | Ripon, WI | Remote | Mar 06 |
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 06 |
 | **[Micron Technology](http://www.micron.com)** | **[Intern - Digital Experience and Strategy](https://jobright.ai/jobs/info/69aacb68142d5b4265fc1e67?utm_campaign=1049&utm_source=git)** | Meridian, OK | On Site | Mar 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Parks Retail Innovation Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a6cbab76bbe83d3afa29fc?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 06 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Product Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69a7092d1fc3d83b78092b80?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 06 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/697310d41790715e866c1550?utm_campaign=1049&utm_source=git)** | Pleasanton, CA | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
