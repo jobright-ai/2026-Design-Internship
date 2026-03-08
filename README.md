@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/69ade7c92747003c3d532add?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 08 |
+| **[Office Karla Gruss](https://www.karlagruss.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ade6152747003c3d5329dc?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Mar 08 |
+| **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Mar 08 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/69adba9a2747003c3d5307d0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 08 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69adba717e1fab39d384fcb9?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 08 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/699c1138e0bddb6acacaeafb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
@@ -67,13 +70,11 @@ For a complete list, click the following sortable link below:
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 08 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6974e15dbc8e722e7b19e04a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 08 |
-| **[MarketEQ](https://www.linkedin.com/company/77759425)** | **[UX Research and Design Internship](https://jobright.ai/jobs/info/69ad017c7e1fab39d3847805?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 07 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69acf380142d5b4265fe1beb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
 | **[PathSpark](https://pathspark.co)** | **[User Experience Internship to Demo a New Career App for High School & College Students Only](https://jobright.ai/jobs/info/69acc853142d5b4265fdfbff?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc2f07e1fab39d3844803?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc0f0142d5b4265fdf943?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Mar 07 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ad86a37e1fab39d384f601?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac649d2747003c3d520fcd?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 07 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac60947e1fab39d383f95a?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 07 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a815401dfc787e9aa34712?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 07 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69aafc90142d5b4265fc3d70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a15978d426a56180b78467?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
-| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69970ca7e0bddb6acac5c47a?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
+| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69970ca7e0bddb6acac5c47a?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a152e7b600907a96279aec?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
 | ↳ | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a7a95676bbe83d3afb0c53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 06 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
 | **[Cerpent](cerpent.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ac20fb2747003c3d51eae3?utm_campaign=1049&utm_source=git)** | Wilmington, DE | Remote | Mar 06 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/69aad9547e1fab39d3827a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
