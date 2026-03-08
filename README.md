@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 08 |
 | **[Berners Schober](https://bernersschober.com/)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69741fd7206da320f49e4134?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Mar 08 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 08 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc0f0142d5b4265fdf943?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UI/UX Research & Design Internship](https://jobright.ai/jobs/info/69acb0e6142d5b4265fdf5e0?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Mar 07 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ad86a37e1fab39d384f601?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Mar 07 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac649d2747003c3d520fcd?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 07 |
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Creative Development & Inclusive Strategy Communication Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69ac60947e1fab39d383f95a?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 07 |
 | **[SmithGroup](https://www.smithgroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a815401dfc787e9aa34712?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 07 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69aafc90142d5b4265fc3d70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a15978d426a56180b78467?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
-| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69970ca7e0bddb6acac5c47a?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 06 |
+| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a152e7b600907a96279aec?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
 | ↳ | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 06 |
 | **[Alliance Laundry Systems LLC](https://alliancelaundry.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69ac278b2747003c3d51fd2e?utm_campaign=1049&utm_source=git)** | Ripon, WI | Remote | Mar 06 |
-| **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/6972e3e71d55d64a20534734?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 06 |
-| **[Micron Technology](http://www.micron.com)** | **[Intern - Digital Experience and Strategy](https://jobright.ai/jobs/info/69aacb68142d5b4265fc1e67?utm_campaign=1049&utm_source=git)** | Meridian, OK | On Site | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
