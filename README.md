@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/69adba9a2747003c3d5307d0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 08 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69adba717e1fab39d384fcb9?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 08 |
 | **[Sigma](http://sigmacomputing.com)** | **[Product Design, Design System Intern (Graduate, Summer 2026)](https://jobright.ai/jobs/info/699c1138e0bddb6acacaeafb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 08 |
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69a8a7cd2580d3183f00a9a8?utm_campaign=1049&utm_source=git)** | Eagle, ID | Hybrid | Mar 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 08 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Intern - Year Round (Multimedia Designer)](https://jobright.ai/jobs/info/69ace7ba7e1fab39d384629c?utm_campaign=1049&utm_source=git)** | Vienna, VA | On Site | Mar 06 |
 | **[Wesleyan College](http://www.wesleyancollege.edu/)** | **[Student - Communications Intern - Event Cover](https://jobright.ai/jobs/info/69abb1e3142d5b4265fceb63?utm_campaign=1049&utm_source=git)** | Macon, GA, US | On Site | Mar 06 |
 | **[ITA Group, Inc.](https://www.itagroup.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514ea8?utm_campaign=1049&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
+| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69ab6f5d2747003c3d510b6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
 | **[SOCAN](http://www.socan.ca)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ab6ef6142d5b4265fca531?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 06 |
 | **[Dream Theory](http://dreamtheory.io)** | **[Creative Production / Post-Production Intern (Paid)](https://jobright.ai/jobs/info/69ac21dd2747003c3d51f195?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69aafc90142d5b4265fc3d70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 06 |
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a15978d426a56180b78467?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 06 |
-| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69970ca7e0bddb6acac5c47a?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 06 |
+| ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/699a7bcee0bddb6acac990fc?utm_campaign=1049&utm_source=git)** | Yorktown Heights, NY | On Site | Mar 06 |
 | ↳ | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69a152e7b600907a96279aec?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 06 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/6972860d9b83b424830e76aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 06 |
 | ↳ | **[Intern, Interior Design](https://jobright.ai/jobs/info/69728dc44ccbf64f8df28026?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a7a95676bbe83d3afb0c53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 06 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
 | **[Cerpent](cerpent.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ac20fb2747003c3d51eae3?utm_campaign=1049&utm_source=git)** | Wilmington, DE | Remote | Mar 06 |
-| **[Columbia Forest Products](http://www.columbiaforestproducts.com)** | **[Marketing and Brand Intern](https://jobright.ai/jobs/info/69aad9547e1fab39d3827a2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
