@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/69a93f1c79f3f4037f441541?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 09 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Internship](https://jobright.ai/jobs/info/69ae9916bd1a716b43103e15?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
+| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 08 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Mar 08 |
 | **[Seattle Sustainable Landscapes](https://www.seattlelandscapes.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69adf998142d5b4265fec12c?utm_campaign=1049&utm_source=git)** | Greater Seattle Area | Hybrid | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pond & Company](https://www.pondco.com)** | **[Landscape Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/698ea19c78b4502f12a57b18?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Mar 06 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a7a95676bbe83d3afb0c53?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 06 |
 | **[Nestlé](https://www.nestle.com)** | **[Nestlé R&D- Graphic Design Internship](https://jobright.ai/jobs/info/698e54140f6f7e7a2cea5b5e?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Mar 06 |
-| **[Cerpent](cerpent.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ac20fb2747003c3d51eae3?utm_campaign=1049&utm_source=git)** | Wilmington, DE | Remote | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
