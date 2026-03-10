@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca3b88e2b47213bbbfa9?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Mar 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/69a275da359fe034b1cdbb60?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
 | **[Inspire](https://inspirebrands.com)** | **[Service Design Intern - Summer 2026](https://jobright.ai/jobs/info/69afe4a8f63f733065b3fa4a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/69a93f1c79f3f4037f441541?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 09 |
 | **[DSLD Homes](https://www.dsldhomes.com)** | **[Draftsperson Intern - Denham Springs, LA](https://jobright.ai/jobs/info/69afe76adfaeda6ff598ee59?utm_campaign=1049&utm_source=git)** | Denham Springs, LA | On Site | Mar 09 |
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69afe89bf63f733065b406e6?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
+| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 08 |
 | **[SFCS Architects](http://sfcs.com)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69aedf3b7495006450934a2b?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 08 |
 | ↳ | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69aedf2bdfaeda6ff596e2b7?utm_campaign=1049&utm_source=git)** | Blue Bell, PA | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac389a142d5b4265fd9ede?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Mar 07 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac3894142d5b4265fd9eda?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 07 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac2f3a142d5b4265fd9cfe?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/699f59ce81476f6176b8f588?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
