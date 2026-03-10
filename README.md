@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0854c749500645096f13d?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Mar 10 |
+| ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
+| **[Talentix](https://thetalentix.com/)** | **[UX Designer - Internship](https://jobright.ai/jobs/info/69b084f5749500645096efa5?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 10 |
+| **[OneStream Software](https://www.onestream.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69b0802edfaeda6ff59a759c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Global Facilities (Kansas City)](https://jobright.ai/jobs/info/69b07b530b2db6275c048343?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b07ace0b2db6275c048054?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b073fe0b2db6275c0462a3?utm_campaign=1049&utm_source=git)** | New York, New York, United States of America | On Site | Mar 10 |
@@ -106,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/690ddcf4221b890c2780a0d5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69b07983dfaeda6ff59a58e5?utm_campaign=1049&utm_source=git)** | 300-10220 103 Avenue NW, Edmonton, AB, T5J 0K4, CA | On Site | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Raw Material/Color Intern](https://jobright.ai/jobs/info/6993beede0bddb6acac207f4?utm_campaign=1049&utm_source=git)** | Commerce, CA | On Site | Mar 10 |
-| **[LIV Golf](https://www.livgolf.com)** | **[Business Operations - Digital Graphic Design Intern](https://jobright.ai/jobs/info/69854a55348f733a5c399141?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 10 |
 | **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993cbc2e0bddb6acac2134a?utm_campaign=1049&utm_source=git)** | Mount Pleasant, SC | On Site | Mar 10 |
 | ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 10 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977d33a52f3c27ec643f798?utm_campaign=1049&utm_source=git)** | Westlake, TX | On Site | Mar 10 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af689a6b21de023e608c30?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
 | ↳ | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69af64eadfaeda6ff59779a3?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
 | **[Snap Inc.](https://careers.snap.com/)** | **[Core Product Design Intern](https://jobright.ai/jobs/info/69af63bf749500645093dc11?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
+| **[Zoot Enterprises](https://zootsolutions.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69b080f7dfaeda6ff59a78d8?utm_campaign=1049&utm_source=git)** | Bozeman, MT | On Site | Mar 09 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[CSLP Student Worker - Creative Design & Publishing Intern (FWS - CSLP)](https://jobright.ai/jobs/info/69af544c6b21de023e60815d?utm_campaign=1049&utm_source=git)** | AZ Phoenix | On Site | Mar 09 |
 | **[Price Chopper Supermarkets-Market 32](http://www.pricechopper.com)** | **[Community Relations Graphic Design Intern](https://jobright.ai/jobs/info/69af50ff6b21de023e607fa6?utm_campaign=1049&utm_source=git)** | Schenectady, NY | On Site | Mar 09 |
-| **[Epic for Kids](https://www.getepic.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/69af4b226b21de023e607b76?utm_campaign=1049&utm_source=git)** | US Remote | Remote | Mar 09 |
-| **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Asset Management Intern (50020)](https://jobright.ai/jobs/info/69af4956749500645093cc96?utm_campaign=1049&utm_source=git)** | Chicago, IL 60661 | On Site | Mar 09 |
-| **[Typeface](https://www.typeface.ai)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69af491cdfaeda6ff5976911?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 09 |
-| **[Moody Gardens®](https://www.moodygardens.org)** | **[GRAPHICS PRODUCTION - Ball HS Intern](https://jobright.ai/jobs/info/69af46e0dfaeda6ff59768a6?utm_campaign=1049&utm_source=git)** | Galveston, TX 77554 | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
