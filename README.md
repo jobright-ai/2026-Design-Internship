@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, BLDR](https://jobright.ai/jobs/info/69af68bedfaeda6ff5977bb2?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
+| ↳ | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69af68afdfaeda6ff5977b9d?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
+| ↳ | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af68a26b21de023e608c35?utm_campaign=1049&utm_source=git)** | Bristol, PA | Hybrid | Mar 09 |
+| ↳ | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af689a6b21de023e608c30?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
+| ↳ | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69af64eadfaeda6ff59779a3?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 09 |
+| **[Snap Inc.](https://careers.snap.com/)** | **[Core Product Design Intern](https://jobright.ai/jobs/info/69af63bf749500645093dc11?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
+| **[Connecting Mothers Initiative](https://www.linkedin.com/company/103130599)** | **[UX Designer (Intern/Volunteer)](https://jobright.ai/jobs/info/69af5ef1dfaeda6ff5977640?utm_campaign=1049&utm_source=git)** | New Haven, CT | Remote | Mar 09 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[CSLP Student Worker - Creative Design & Publishing Intern (FWS - CSLP)](https://jobright.ai/jobs/info/69af544c6b21de023e60815d?utm_campaign=1049&utm_source=git)** | AZ Phoenix | On Site | Mar 09 |
 | **[Price Chopper Supermarkets-Market 32](http://www.pricechopper.com)** | **[Community Relations Graphic Design Intern](https://jobright.ai/jobs/info/69af50ff6b21de023e607fa6?utm_campaign=1049&utm_source=git)** | Schenectady, NY | On Site | Mar 09 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/69af4b226b21de023e607b76?utm_campaign=1049&utm_source=git)** | US Remote | Remote | Mar 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wesleyan College](http://www.wesleyancollege.edu/)** | **[Student - Communications Intern - Event Cover](https://jobright.ai/jobs/info/69abb1e3142d5b4265fceb63?utm_campaign=1049&utm_source=git)** | Macon, GA, US | On Site | Mar 06 |
 | **[ITA Group, Inc.](https://www.itagroup.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69abb1a82747003c3d514ea8?utm_campaign=1049&utm_source=git)** | Office - Des Moines, IA , West Des Moines, IA, US | On Site | Mar 06 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb1a02747003c3d514e6b?utm_campaign=1049&utm_source=git)** | Auburn, AL, US | On Site | Mar 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69abb5187e1fab39d3833fbc?utm_campaign=1049&utm_source=git)** | Montgomery, AL, US | On Site | Mar 06 |
-| **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/69ab6f5d2747003c3d510b6c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 06 |
-| **[SOCAN](http://www.socan.ca)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ab6ef6142d5b4265fca531?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Remote | Mar 06 |
-| **[Dream Theory](http://dreamtheory.io)** | **[Creative Production / Post-Production Intern (Paid)](https://jobright.ai/jobs/info/69ac21dd2747003c3d51f195?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 06 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 06 |
-| **[RETTEW](http://rettew.com)** | **[Assistant Landscape Architect [Internship]](https://jobright.ai/jobs/info/69ab6bdb2747003c3d510a60?utm_campaign=1049&utm_source=git)** | Berwyn, PA | Hybrid | Mar 06 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ab6b5e142d5b4265fca3c1?utm_campaign=1049&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Mar 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
