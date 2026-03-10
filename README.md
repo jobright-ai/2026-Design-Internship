@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/69aab9a92747003c3d506456?utm_campaign=1049&utm_source=git)** | Exeter, NH | On Site | Mar 10 |
 | **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b03159749500645095fa4a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Physical Model Artist](https://jobright.ai/jobs/info/6993fba4e0bddb6acac24e26?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69afe89bf63f733065b406e6?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
 | **[OCHO Partners](https://www.linkedin.com/company/49696951)** | **[Apparel Graphic Design Internship](https://jobright.ai/jobs/info/69b0185b0b2db6275c036970?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | Hybrid | Mar 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
-| ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
