@@ -57,6 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Udemy](http://www.udemy.com)** | **[Design Operations Intern](https://jobright.ai/jobs/info/69b06942dfaeda6ff59a32f9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
+| **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69b06864dfaeda6ff59a30c2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
+| ↳ | **[Intern - Lucky Brand: Design](https://jobright.ai/jobs/info/69b0684bdfaeda6ff59a3061?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69b0678d74950064509695d8?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 10 |
+| ↳ | **[Intern - Product Design, SquishPillows](https://jobright.ai/jobs/info/69b0643fdfaeda6ff59a2768?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 10 |
+| **[Udemy](http://www.udemy.com)** | **[Design Operations Intern](https://jobright.ai/jobs/info/69b063b70b2db6275c043cdf?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
+| **[Talentix](https://thetalentix.com/)** | **[User Interface Designer - Internship](https://jobright.ai/jobs/info/69b06330dfaeda6ff59a2460?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 10 |
+| **[Fresh Tape Media](http://freshtapemedia.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69b0623a0b2db6275c043787?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Mar 10 |
+| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69b061f80b2db6275c04369f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
+| **[JANUS et Cie](http://www.janusetcie.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69b0618b749500645096877f?utm_campaign=1049&utm_source=git)** | Santa Fe Springs, CA | On Site | Mar 10 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research + Design Internship (100% Remote)](https://jobright.ai/jobs/info/69b0616c0b2db6275c04342d?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 10 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b060a5dfaeda6ff59a201c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69b060a0dfaeda6ff59a1ffa?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Mar 10 |
 | **[HOK](http://www.hok.com/)** | **[Summer 2026 - Interior Design Student Intern](https://jobright.ai/jobs/info/69b05be1dfaeda6ff59a1664?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clearwater Analytics](https://clearwateranalytics.com)** | **[UX Intern](https://jobright.ai/jobs/info/69af2857749500645093a1ce?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Mar 09 |
 | ↳ | **[Product UX Design Intern](https://jobright.ai/jobs/info/69af2c5b749500645093a514?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 09 |
 | **[NBBJ Design](http://nbbj.com)** | **[Healthcare and Workplace Strategy Internship](https://jobright.ai/jobs/info/69af25a16b21de023e604ae8?utm_campaign=1049&utm_source=git)** | Columbus, Ohio | On Site | Mar 09 |
-| ↳ | **[Healthcare and Workplace Strategy Internship](https://jobright.ai/jobs/info/69af250c7495006450939c51?utm_campaign=1049&utm_source=git)** | Seattle, Washington | On Site | Mar 09 |
-| **[Snap Inc.](https://careers.snap.com/)** | **[Core Product Design Intern](https://jobright.ai/jobs/info/69af1f5e7495006450938a9c?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | Mar 09 |
-| **[Spacesaver Intermountain, LLC.](https://spacesaverintermountain.com)** | **[Design Intern HB COR](https://jobright.ai/jobs/info/69af1f4a6b21de023e603403?utm_campaign=1049&utm_source=git)** | Draper, Utah, United States | On Site | Mar 09 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Merchandise Intern](https://jobright.ai/jobs/info/69af1ee56b21de023e6032e3?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Mar 09 |
-| **[Bear Robotics](https://bearrobotics.ai)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69af1b3fdfaeda6ff5971da4?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Mar 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Mar 09 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Merchandise Intern](https://jobright.ai/jobs/info/69af17b274950064509384b0?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 09 |
-| **[Lake and Skye](https://www.lakeandskye.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69af16dcdfaeda6ff5971a17?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 09 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69af319ddfaeda6ff5974829?utm_campaign=1049&utm_source=git)** | Philadelphia,PA,US | On Site | Mar 09 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69af091bdfaeda6ff5970dd3?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
