@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/69a275da359fe034b1cdbb60?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
+| **[Inspire](https://inspirebrands.com)** | **[Service Design Intern - Summer 2026](https://jobright.ai/jobs/info/69afe4a8f63f733065b3fa4a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 10 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
 | ↳ | **[Student Internship - Product Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69afcccbf63f733065b3c110?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
@@ -122,6 +124,8 @@ For a complete list, click the following sortable link below:
 | **[Interplan - Architecture and Interiors](https://interplaninc.com)** | **[Architectural / Interior Design Intern](https://jobright.ai/jobs/info/69aec2c2bd1a716b43104e5b?utm_campaign=1049&utm_source=git)** | Tysons Corner, VA | On Site | Mar 09 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Architecture Studio (Summer 2026)](https://jobright.ai/jobs/info/69a93f1c79f3f4037f441541?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 09 |
+| **[DSLD Homes](https://www.dsldhomes.com)** | **[Draftsperson Intern - Denham Springs, LA](https://jobright.ai/jobs/info/69afe76adfaeda6ff598ee59?utm_campaign=1049&utm_source=git)** | Denham Springs, LA | On Site | Mar 09 |
+| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69afe89bf63f733065b406e6?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b2751f72647718354a1?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 08 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 08 |
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac3894142d5b4265fd9eda?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 07 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac2f3a142d5b4265fd9cfe?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/699f59ce81476f6176b8f588?utm_campaign=1049&utm_source=git)** | Orange, CA | On Site | Mar 07 |
-| **[Cogir Senior Living](https://www.cogirseniorliving.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699014076ea51a7610f27e7c?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Mar 07 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69ac10937e1fab39d383c942?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 07 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
