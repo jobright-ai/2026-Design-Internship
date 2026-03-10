@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
+| ↳ | **[Student Internship - Product Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69afcccbf63f733065b3c110?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| ↳ | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
 | **[Prophet](http://www.prophet.com)** | **[Design Intern](https://jobright.ai/jobs/info/69afa0c97495006450944de6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
@@ -138,7 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Technical UX Content Strategist Intern](https://jobright.ai/jobs/info/69203d0500c9ee50eaec089e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 08 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/6974e15dbc8e722e7b19e04a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 08 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69acf380142d5b4265fe1beb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Mar 07 |
-| **[PathSpark](https://pathspark.co)** | **[User Experience Internship to Demo a New Career App for High School & College Students Only](https://jobright.ai/jobs/info/69acc853142d5b4265fdfbff?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 07 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc2f07e1fab39d3844803?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | ↳ | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69acc0f0142d5b4265fdf943?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/69712274587dfa0bb55eac8d?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | Hybrid | Mar 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Dallas](https://jobright.ai/jobs/info/69ac10937e1fab39d383c942?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 07 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 07 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Education/Science) - Summer 2026](https://jobright.ai/jobs/info/69a28653359fe034b1cdd274?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
