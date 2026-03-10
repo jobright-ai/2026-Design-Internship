@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prophet](http://www.prophet.com)** | **[Design Intern](https://jobright.ai/jobs/info/69afa0c97495006450944de6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 09 |
+| **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
 | **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69af87fcdfaeda6ff597ac07?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[Collins Engineers, Inc.](http://collinsengr.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69af859f7495006450940480?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 09 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[BBB Serving Acadiana](www.bbb.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69af81276b21de023e60b879?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska, United States | On Site | Mar 09 |
 | **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a9f4d42ebd316bece1ad4e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 09 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af7b68dfaeda6ff597a08a?utm_campaign=1049&utm_source=git)** | Bristol, Pennsylvania, United States | Hybrid | Mar 09 |
-| **[Apulza](https://www.linkedin.com/company/111952050)** | **[UI/UX Designer Intern (remote)](https://jobright.ai/jobs/info/69af7b35dfaeda6ff5979ff0?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Mar 09 |
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af78c56b21de023e60aa46?utm_campaign=1049&utm_source=git)** | Richmond,  VA | Hybrid | Mar 09 |
 | **[Indie Consulting](https://indie-consulting.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69af78416b21de023e60a9a0?utm_campaign=1049&utm_source=git)** | Raleigh,NC,US | On Site | Mar 09 |
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af7768749500645093f258?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
@@ -126,10 +127,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Architectural Intern](https://jobright.ai/jobs/info/69af360adfaeda6ff59752e8?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 08 |
 | ↳ | **[Summer Architectural Intern](https://jobright.ai/jobs/info/69af34ee749500645093b6e3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 08 |
 | **[KERA – North Texas Public Broadcasting](https://www.kera.org/)** | **[Graphic Design Intern, Summer 2026](https://jobright.ai/jobs/info/69af10916b21de023e6028fb?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 08 |
+| **[Mail Processing Associates](http://www.mailpro.org/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69afa868dfaeda6ff5981bc4?utm_campaign=1049&utm_source=git)** | Lakeland, FL | On Site | Mar 08 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Mar 08 |
 | **[Seattle Sustainable Landscapes](https://www.seattlelandscapes.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69adf998142d5b4265fec12c?utm_campaign=1049&utm_source=git)** | Greater Seattle Area | Hybrid | Mar 08 |
 | **[GSD&M](http://www.gsdm.com)** | **[Creative Technology & Operations Intern](https://jobright.ai/jobs/info/696ed1d4db26b6189511f24c?utm_campaign=1049&utm_source=git)** | Austin | Hybrid | Mar 08 |
-| **[SmithGroup](https://www.smithgroup.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69adba717e1fab39d384fcb9?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 08 |
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69a8a7cd2580d3183f00a9a8?utm_campaign=1049&utm_source=git)** | Eagle, ID | Hybrid | Mar 08 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69700bd93ed06875134b09cd?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 08 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6973ed40bc8e722e7b18cfae?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Education/Science) - Summer 2026](https://jobright.ai/jobs/info/69a28653359fe034b1cdd274?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 07 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
