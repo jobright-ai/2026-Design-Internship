@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woods Bagot](https://www.woodsbagot.com)** | **[Woods Bagot Summer Internship](https://jobright.ai/jobs/info/69b10d2adfaeda6ff59bf7f8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
+| ↳ | **[Woods Bagot Summer Internship](https://jobright.ai/jobs/info/69b1098d0b2db6275c060d49?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 10 |
+| **[SRND AI](srnd.ai)** | **[(Unpaid) Creative Content & Digital Media Intern](https://jobright.ai/jobs/info/69b102ea74950064509836f7?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Ontario)](https://jobright.ai/jobs/info/69b0e818dfaeda6ff59bb659?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Mar 10 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Graphic Design & Digital Communications Intern](https://jobright.ai/jobs/info/69b0c810749500645097b7f6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69b0c4ef749500645097ad8d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
@@ -104,6 +107,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69b060a0dfaeda6ff59a1ffa?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Mar 10 |
 | **[University of Richmond](http://www.richmond.edu/)** | **[Landscape Intern](https://jobright.ai/jobs/info/69b0a3a47495006450975288?utm_campaign=1049&utm_source=git)** | UR Main Campus | On Site | Mar 10 |
 | **[HOK](http://www.hok.com/)** | **[Summer 2026 - Interior Design Student Intern](https://jobright.ai/jobs/info/69b05be1dfaeda6ff59a1664?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b3a4ce78e77b4fd78878?utm_campaign=1049&utm_source=git)** | Kenosha, WI | On Site | Mar 10 |
 | **[RIOS](https://www.rios.com/)** | **[Landscape Architecture Internship Summer 2026](https://jobright.ai/jobs/info/69a7d7f976bbe83d3afb53a3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | **[PBK](https://pbk.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69b055c77495006450966421?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 10 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Digital Visual Design (Sculptor)](https://jobright.ai/jobs/info/6993ee7681476f6176ab8fc6?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
 | **[Prophet](http://www.prophet.com)** | **[Design Intern](https://jobright.ai/jobs/info/69afa0c97495006450944de6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 09 |
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 09 |
-| **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
-| **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69af87fcdfaeda6ff597ac07?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
-| **[Lupine Creative](https://lupinecreative.com)** | **[Studio Internship, Graphic Design](https://jobright.ai/jobs/info/69b00c17dfaeda6ff59952b7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 09 |
-| **[AMETEK](http://www.ametek.com)** | **[UX Documentation & Design Intern](https://jobright.ai/jobs/info/69af83566b21de023e60ba92?utm_campaign=1049&utm_source=git)** | Mount Prospect, IL | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
