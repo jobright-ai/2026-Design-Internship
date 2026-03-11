@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design Intern](https://jobright.ai/jobs/info/69b18a7a548f140066e76279?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
+| **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697009720f4e0f657ea4650f?utm_campaign=1049&utm_source=git)** | Cleveland, Ohio, United States | Hybrid | Mar 11 |
+| **[Skyryse](https://www.skyryse.com)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Mar 11 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69b17f8565de58104c708fb9?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Mar 11 |
 | **[leManoosh](https://lemanoosh.com)** | **[INDUSTRIAL DESIGN INTERN. 4 to 6 MONTHS. Start May/June, 2026](https://jobright.ai/jobs/info/69b166d665de58104c70655e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 11 |
 | **[PBK](https://pbk.com/)** | **[Collegiate Interior Design Intern](https://jobright.ai/jobs/info/69b166d165de58104c70654b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 11 |
@@ -82,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Fendi](http://www.fendi.com)** | **[Intern, Visual Merchandising](https://jobright.ai/jobs/info/69793d1b52f3c27ec64591a6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 11 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69b12d42dfaeda6ff59c30dd?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
-| **[PBK](https://pbk.com/)** | **[Collegiate Interior Design Intern](https://jobright.ai/jobs/info/69a1d8f0b600907a9628313b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 11 |
 | **[Woods Bagot](https://www.woodsbagot.com)** | **[Woods Bagot Summer Internship](https://jobright.ai/jobs/info/69b10d2adfaeda6ff59bf7f8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 10 |
 | ↳ | **[Woods Bagot Summer Internship](https://jobright.ai/jobs/info/69b1098d0b2db6275c060d49?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 10 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) Creative Content & Digital Media Intern](https://jobright.ai/jobs/info/69b102ea74950064509836f7?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
@@ -112,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[OneStream Software](https://www.onestream.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69b0802edfaeda6ff59a759c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69b0abef749500645097697e?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Mar 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Global Facilities (Kansas City)](https://jobright.ai/jobs/info/69b07b530b2db6275c048343?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 10 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b07ace0b2db6275c048054?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b073fe0b2db6275c0462a3?utm_campaign=1049&utm_source=git)** | New York, New York, United States of America | On Site | Mar 10 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Graphic Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/69a9282e79f3f4037f43e48f?utm_campaign=1049&utm_source=git)** | Providence County, RI | Hybrid | Mar 10 |
 | **[Paramount](https://www.paramount.com)** | **[Production Design Intern, Paramount+ & Pluto TV (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69b072e10b2db6275c0460c7?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Mar 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marketbridge](http://www.market-bridge.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69b05296dfaeda6ff599fcdb?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b03159749500645095fa4a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 10 |
-| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Physical Model Artist](https://jobright.ai/jobs/info/6993fba4e0bddb6acac24e26?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 10 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 10 |
-| **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[InternAnimation & Visual Design Fellowship (6-12 month duration)](https://jobright.ai/jobs/info/69b1405fd04c69566c735d53?utm_campaign=1049&utm_source=git)** | Belmont, CA | Hybrid | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
