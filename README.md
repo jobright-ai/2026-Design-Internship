@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Graphic Design & Digital Communications Intern](https://jobright.ai/jobs/info/69b0c810749500645097b7f6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
+| **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69b0c4ef749500645097ad8d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0ba61749500645097909e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0b8ed7495006450978c11?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Paramount](https://www.paramount.com)** | **[Production Design Intern, Paramount+ & Pluto TV (Summer 2026, In Person- LA)](https://jobright.ai/jobs/info/69b072e10b2db6275c0460c7?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Mar 10 |
 | **[Habitat Group](https://www.habitatgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b072e20b2db6275c0460c8?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 10 |
 | **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Vendor Relations Website Design](https://jobright.ai/jobs/info/69b0729f0b2db6275c046047?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 10 |
-| **[De La Roche](https://www.linkedin.com/company/109944059)** | **[Graphic Artist](https://jobright.ai/jobs/info/69b06e750b2db6275c04578c?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | Mar 10 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b06d770b2db6275c0455b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Blue Cross & Blue Shield of Rhode Island](http://www.bcbsri.com)** | **[Design Student Intern - Summer 2026](https://jobright.ai/jobs/info/69b06d3b0b2db6275c0454ad?utm_campaign=1049&utm_source=git)** | Providence, RI | Hybrid | Mar 10 |
 | **[Udemy](http://www.udemy.com)** | **[Design Operations Intern](https://jobright.ai/jobs/info/69b06942dfaeda6ff59a32f9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lupine Creative](https://lupinecreative.com)** | **[Studio Internship, Graphic Design](https://jobright.ai/jobs/info/69b00c17dfaeda6ff59952b7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 09 |
 | **[AMETEK](http://www.ametek.com)** | **[UX Documentation & Design Intern](https://jobright.ai/jobs/info/69af83566b21de023e60ba92?utm_campaign=1049&utm_source=git)** | Mount Prospect, IL | Hybrid | Mar 09 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Visual Merchandising](https://jobright.ai/jobs/info/69af82bbdfaeda6ff597a8f1?utm_campaign=1049&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
-| **[BBB of Acadiana](www.bbb.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69af81276b21de023e60b879?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska, United States | On Site | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
