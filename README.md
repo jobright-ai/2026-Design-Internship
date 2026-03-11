@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Ontario)](https://jobright.ai/jobs/info/69b0e818dfaeda6ff59bb659?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Mar 10 |
 | **[LangPal](www.lang-pal.com)** | **[UI/UX Design Intern (Unpaid)](https://jobright.ai/jobs/info/69b0ddda0b2db6275c05ab5c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Graphic Design & Digital Communications Intern](https://jobright.ai/jobs/info/69b0c810749500645097b7f6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69b0c4ef749500645097ad8d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Groupe Dynamite](https://groupedynamite.com)** | **[Intern, Fashion Design](https://jobright.ai/jobs/info/695f3ee7a1bbea1d9a7a1613?utm_campaign=1049&utm_source=git)** | Mont-Royal, Quebec, Canada | On Site | Mar 09 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
 | **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69af87fcdfaeda6ff597ac07?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
-| **[Lupine Creative](https://lupinecreative.com)** | **[Studio Internship, Graphic Design](https://jobright.ai/jobs/info/69b00c17dfaeda6ff59952b7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
