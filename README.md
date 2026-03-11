@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b0a60974950064509758eb?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b0a5f2dfaeda6ff59ae90f?utm_campaign=1049&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0a5c3dfaeda6ff59ae888?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
@@ -71,6 +72,7 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0854c749500645096f13d?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Mar 10 |
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 10 |
 | **[OneStream Software](https://www.onestream.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69b0802edfaeda6ff59a759c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
+| **[Osborne, Francis & Pettis](https://www.realtoughlawyers.com)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69b0abef749500645097697e?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Mar 10 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Global Facilities (Kansas City)](https://jobright.ai/jobs/info/69b07b530b2db6275c048343?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b07ace0b2db6275c048054?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b073fe0b2db6275c0462a3?utm_campaign=1049&utm_source=git)** | New York, New York, United States of America | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af78c56b21de023e60aa46?utm_campaign=1049&utm_source=git)** | Richmond,  VA | Hybrid | Mar 09 |
 | **[Indie Consulting](https://indie-consulting.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69af78416b21de023e60a9a0?utm_campaign=1049&utm_source=git)** | Raleigh,NC,US | On Site | Mar 09 |
 | **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af7768749500645093f258?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af720f749500645093e2e5?utm_campaign=1049&utm_source=git)** | Plantation, Florida, United States | Hybrid | Mar 09 |
-| **[League](https://league.com)** | **[UX Research Co-op - Spring/Summer Term](https://jobright.ai/jobs/info/69b0511a749500645096559c?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
