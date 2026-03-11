@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LangPal](www.lang-pal.com)** | **[UI/UX Design Intern (Unpaid)](https://jobright.ai/jobs/info/69b0ddda0b2db6275c05ab5c?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[Hanwha Philly Shipyard](https://hanwhaphillyshipyard.com)** | **[Graphic Design & Digital Communications Intern](https://jobright.ai/jobs/info/69b0c810749500645097b7f6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[Catalyst Brands LLC](https://www.catalystbrands.com/)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69b0c4ef749500645097ad8d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0ba61749500645097909e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0b8ed7495006450978c11?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b0b84adfaeda6ff59b110e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Environmental Illustration Internship](https://jobright.ai/jobs/info/69b0b82c0b2db6275c05218a?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Mar 10 |
+| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Ontario)](https://jobright.ai/jobs/info/69b0e245749500645097fbba?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Mar 10 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research and Design Intern (100% Remote)](https://jobright.ai/jobs/info/69b0b5240b2db6275c051c07?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 10 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b0a60974950064509758eb?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program - Kansas City](https://jobright.ai/jobs/info/69a263040da45516f16ba87f?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 09 |
 | **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69af87fcdfaeda6ff597ac07?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 09 |
 | **[Lupine Creative](https://lupinecreative.com)** | **[Studio Internship, Graphic Design](https://jobright.ai/jobs/info/69b00c17dfaeda6ff59952b7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 09 |
-| **[AMETEK](http://www.ametek.com)** | **[UX Documentation & Design Intern](https://jobright.ai/jobs/info/69af83566b21de023e60ba92?utm_campaign=1049&utm_source=git)** | Mount Prospect, IL | Hybrid | Mar 09 |
-| **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Visual Merchandising](https://jobright.ai/jobs/info/69af82bbdfaeda6ff597a8f1?utm_campaign=1049&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
