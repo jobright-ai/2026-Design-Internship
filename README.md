@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/6977c3aa52f3c27ec643e59d?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Mar 11 |
+| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 11 |
+| **[Fendi](http://www.fendi.com)** | **[Intern, Visual Merchandising](https://jobright.ai/jobs/info/69793d1b52f3c27ec64591a6?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 11 |
 | **[Aptive Environmental](http://goaptive.com/)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69b12d42dfaeda6ff59c30dd?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Mar 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[PBK](https://pbk.com/)** | **[Collegiate Interior Design Intern](https://jobright.ai/jobs/info/69a1d8f0b600907a9628313b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 11 |
@@ -132,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 10 |
 | **[Hasbro](https://shop.hasbro.com)** | **[Intern, Physical Model Artist](https://jobright.ai/jobs/info/6993fba4e0bddb6acac24e26?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 10 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 10 |
+| **[Volkswagen Group Regional After Sales Singapore](https://www.volkswagenag.com/)** | **[InternAnimation & Visual Design Fellowship (6-12 month duration)](https://jobright.ai/jobs/info/69b1405fd04c69566c735d53?utm_campaign=1049&utm_source=git)** | Belmont, CA | Hybrid | Mar 10 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/6993ac47ce78e77b4fd77ffb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
 | **[Savage X Fenty](https://www.savagex.com/)** | **[Design & Merchandising Intern](https://jobright.ai/jobs/info/6978435888e2b47213bc57f1?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Mar 10 |
 | **[ALO](https://www.aloyoga.com/)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6993c1d9e0bddb6acac20b44?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Mar 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Siemens Digital Industries Software](https://www.sw.siemens.com/)** | **[Strategic Student Program: User Experience Intern (LCS, Summer 2026)](https://jobright.ai/jobs/info/6997b5d1ce78e77b4fdc0feb?utm_campaign=1049&utm_source=git)** | Milford, OH | Hybrid | Mar 10 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977c21f52f3c27ec643e3eb?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 10 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6977c7f488e2b47213bbbd8d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 10 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | Mar 10 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca3b88e2b47213bbbfa9?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Mar 10 |
-| **[HDR](http://www.hdrinc.com)** | **[Urban Design/Landscape Planning Intern](https://jobright.ai/jobs/info/69a275da359fe034b1cdbb60?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 10 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
