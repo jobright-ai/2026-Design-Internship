@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design Intern](https://jobright.ai/jobs/info/69b18a7a548f140066e76279?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 11 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220551f726477183580e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Mar 11 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b1983865de58104c70a210?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 11 |
+| **[Allstate](http://www.allstate.com)** | **[2026 Content Design Intern ( MAIP)](https://jobright.ai/jobs/info/69b195a1548f140066e7693b?utm_campaign=1049&utm_source=git)** | USA - IL (Remote) | Remote | Mar 11 |
+| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[C3 Presents - Photo/Video Festival Marketing Intern](https://jobright.ai/jobs/info/69b19581d04c69566c73e28e?utm_campaign=1049&utm_source=git)** | Austin, TX, USA | On Site | Mar 11 |
+| **[Danarys New York](https://www.danarysnyc.com)** | **[Fashion Design & Production Interns](https://jobright.ai/jobs/info/69b194abd04c69566c73e149?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Mar 11 |
+| **[the community](https://www.thecommunityagency.com/)** | **[The Community - Art Direction Intern (NYC or Miami)](https://jobright.ai/jobs/info/69952bcace78e77b4fd943f9?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 11 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995b2ff81476f6176ad8c6f?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 11 |
+| **[Adam Lippes](https://adamlippes.com)** | **[Seasonal Fashion Design Intern](https://jobright.ai/jobs/info/69b18a7a548f140066e76279?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697009720f4e0f657ea4650f?utm_campaign=1049&utm_source=git)** | Cleveland, Ohio, United States | Hybrid | Mar 11 |
 | **[Skyryse](https://www.skyryse.com)** | **[Visualization Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69784f9c52f3c27ec644a8cd?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Mar 11 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69b17f8565de58104c708fb9?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 11 |
@@ -101,8 +109,7 @@ For a complete list, click the following sortable link below:
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Ontario)](https://jobright.ai/jobs/info/69b0e245749500645097fbba?utm_campaign=1049&utm_source=git)** | Ontario, CA | On Site | Mar 10 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b0a60974950064509758eb?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
-| **[Gallagher Bassett](https://www.robanda.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b0a5f2dfaeda6ff59ae90f?utm_campaign=1049&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 10 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0a5c3dfaeda6ff59ae888?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
+| ↳ | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0a5c3dfaeda6ff59ae888?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[Stuller, Inc.](http://stuller.com)** | **[Jewelry CAD Design Intern](https://jobright.ai/jobs/info/69b0a1c20b2db6275c04e9bc?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b097d2dfaeda6ff59abf34?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a29b04b600907a9628f67e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New Era Cap](https://www.neweracap.com/)** | **[Design Intern, Creative Services](https://jobright.ai/jobs/info/6993b691ce78e77b4fd78bfc?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | Mar 10 |
 | **[Simon Property Group](https://www.simon.com/)** | **[Intern - UX/UI Design](https://jobright.ai/jobs/info/69938858ce78e77b4fd75ba6?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Mar 10 |
 | **[ABC Fitness](http://www.abcfinancial.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b07695dfaeda6ff59a543b?utm_campaign=1049&utm_source=git)** | Remote, United States | Remote | Mar 10 |
-| **[Polaris Inc.](https://www.polaris.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69938f7de0bddb6acac1d6fa?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 10 |
-| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/69aab9a92747003c3d506456?utm_campaign=1049&utm_source=git)** | Exeter, NH | On Site | Mar 10 |
-| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 10 |
-| **[Better Business Bureau of the Midwest Plains](https://www.bbb.org/local-bbb/bbb-in-nebraska-south-dakota-kansas-plains-and-sw-iowa)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69b06d170b2db6275c045444?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 10 |
-| **[Marketbridge](http://www.market-bridge.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69b05296dfaeda6ff599fcdb?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | Hybrid | Mar 10 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b03159749500645095fa4a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
