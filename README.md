@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BRPH](http://brph.com)** | **[Architect Intern](https://jobright.ai/jobs/info/69b1e094548f140066e7dc55?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Mar 11 |
+| ↳ | **[Architect Intern](https://jobright.ai/jobs/info/69b1e073548f140066e7db8b?utm_campaign=1049&utm_source=git)** | Lynnwood, WA | On Site | Mar 11 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b1d7db548f140066e7c279?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Mar 11 |
-| **[Allstate](http://www.allstate.com)** | **[2026 Content Design Intern ( MAIP)](https://jobright.ai/jobs/info/69b1d46ad04c69566c743197?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 11 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Industrial Student Intern - Interior Design](https://jobright.ai/jobs/info/69a5fab10da45516f16ecb27?utm_campaign=1049&utm_source=git)** | Southfield, MI | Hybrid | Mar 11 |
 | **[Fresh Industries](https://juicefresh.net)** | **[Graphic Designer and Animator](https://jobright.ai/jobs/info/69b1ce5565de58104c70ea44?utm_campaign=1049&utm_source=git)** | Oakville, Ontario, Canada | On Site | Mar 11 |
 | **[SRND AI](srnd.ai)** | **[(Unpaid) Creative Content Intern](https://jobright.ai/jobs/info/69b1c9fcd04c69566c7414e3?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 11 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69b1cba765de58104c70e14b?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 11 |
 | **[Purpose Marketing](https://purposecomarketing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1aa4c548f140066e776de?utm_campaign=1049&utm_source=git)** | Lubbock, TX | Remote | Mar 11 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: FL)](https://jobright.ai/jobs/info/69b1a77b548f140066e774ef?utm_campaign=1049&utm_source=git)** | Miami, Florida | On Site | Mar 11 |
-| **[sharingbox](https://www.sharingbox.com)** | **[Graphic Design Intern (6 month role)](https://jobright.ai/jobs/info/69b1a662548f140066e773ad?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Mar 11 |
 | **[the community](https://www.thecommunityagency.com/)** | **[The Community - Art Direction Intern (NYC or Miami)](https://jobright.ai/jobs/info/69953c36ce78e77b4fd95833?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 11 |
 | **[Victoria’s Secret & Co.](https://www.victoriassecret.com/)** | **[Summer 2026 Design Internship with Victoria's Secret & Co.](https://jobright.ai/jobs/info/695d4016f5f3c43f38e1f94d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 11 |
