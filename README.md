@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0ba61749500645097909e?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 10 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b0b8ed7495006450978c11?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 10 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b0b84adfaeda6ff59b110e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 10 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Environmental Illustration Internship](https://jobright.ai/jobs/info/69b0b82c0b2db6275c05218a?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Mar 10 |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research and Design Intern (100% Remote)](https://jobright.ai/jobs/info/69b0b5240b2db6275c051c07?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 10 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Mar 10 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69b0a60974950064509758eb?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 10 |
 | **[Gallagher Bassett](https://www.robanda.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b0a5f2dfaeda6ff59ae90f?utm_campaign=1049&utm_source=git)** | Rolling Meadows, IL | On Site | Mar 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AMETEK](http://www.ametek.com)** | **[UX Documentation & Design Intern](https://jobright.ai/jobs/info/69af83566b21de023e60ba92?utm_campaign=1049&utm_source=git)** | Mount Prospect, IL | Hybrid | Mar 09 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Visual Merchandising](https://jobright.ai/jobs/info/69af82bbdfaeda6ff597a8f1?utm_campaign=1049&utm_source=git)** | Broomfield, CO | Hybrid | Mar 09 |
 | **[BBB of Acadiana](www.bbb.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69af81276b21de023e60b879?utm_campaign=1049&utm_source=git)** | Omaha, Nebraska, United States | On Site | Mar 09 |
-| **[Bolton & Menk, Inc.](http://bolton-menk.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69a9f4d42ebd316bece1ad4e?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 09 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Boys](https://jobright.ai/jobs/info/69af7b68dfaeda6ff597a08a?utm_campaign=1049&utm_source=git)** | Bristol, Pennsylvania, United States | Hybrid | Mar 09 |
-| **[Apex Lacrosse Events](http://www.apexlacrosseevents.com)** | **[Apex Graphic Design Internship - Summer Boys Events](https://jobright.ai/jobs/info/69b02775749500645095e589?utm_campaign=1049&utm_source=git)** | Fair Haven, NJ | On Site | Mar 09 |
-| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af78c56b21de023e60aa46?utm_campaign=1049&utm_source=git)** | Richmond,  VA | Hybrid | Mar 09 |
-| **[Indie Consulting](https://indie-consulting.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69af78416b21de023e60a9a0?utm_campaign=1049&utm_source=git)** | Raleigh,NC,US | On Site | Mar 09 |
-| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69af7768749500645093f258?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Mar 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
