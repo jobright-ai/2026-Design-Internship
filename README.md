@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69b229a1d04c69566c74df49?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 11 |
+| **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Sacramento)](https://jobright.ai/jobs/info/69b235b6a8ac8e70ff660866?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Mar 11 |
+| **[Black & Veatch](http://bv.com/Home)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b22e0e548f140066e86b75?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 11 |
+| **[Medidata Solutions](https://www.medidata.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b22d9065de58104c71a301?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
 | **[Russell Stover Chocolates](http://www.russellstover.com)** | **[Creative Intern (eCommerce Design)](https://jobright.ai/jobs/info/69b22650548f140066e863e5?utm_campaign=1049&utm_source=git)** | KC Metro Area | On Site | Mar 11 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Sacramento)](https://jobright.ai/jobs/info/69b222e465de58104c7195e6?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Mar 11 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Architecture Design Intern](https://jobright.ai/jobs/info/69b20983d04c69566c74ae5d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
-| **[Milwaukee Brewers](https://brewers.mlb.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69b2049565de58104c717270?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 11 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69b222a9548f140066e85df7?utm_campaign=1049&utm_source=git)** | Davidson NC  800B Beaty St, Davidson, North Carolina, United States | Hybrid | Mar 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69b201b0548f140066e832f0?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 11 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 11 |
@@ -73,9 +74,9 @@ For a complete list, click the following sortable link below:
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern (ATX)](https://jobright.ai/jobs/info/69b1eb4c548f140066e7ff2d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 11 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/699a8a28ce78e77b4fdf44dc?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 11 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Creator Intern (LA)](https://jobright.ai/jobs/info/69b1e9d765de58104c7137e6?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Mar 11 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a7d799d60e431a16bfebd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
-| ↳ | **[Summer 2026 Architectural Intern](https://jobright.ai/jobs/info/697a802b9d60e431a16c0094?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architectural Intern](https://jobright.ai/jobs/info/697a802b9d60e431a16c0094?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | ↳ | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/697a826a9d60e431a16c046a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
+| ↳ | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a7d799d60e431a16bfebd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69b1e623d04c69566c74625f?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Mar 11 |
 | **[BRPH](http://brph.com)** | **[Architect Intern](https://jobright.ai/jobs/info/69b1e094548f140066e7dc55?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Mar 11 |
 | ↳ | **[Architect Intern](https://jobright.ai/jobs/info/69b1e073548f140066e7db8b?utm_campaign=1049&utm_source=git)** | Lynnwood, WA | On Site | Mar 11 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6977e6e888e2b47213bbe486?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Mar 11 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6994ca41e0bddb6acac34689?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[CHARLOTTE - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/69793ab552f3c27ec6458bb2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Mar 11 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Mar 11 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Mar 11 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Mar 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695c2b23aa05c26e7ab57e47?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 11 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Mar 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Design, Naturium](https://jobright.ai/jobs/info/6979319a52f3c27ec6457b28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a29b04b600907a9628f67e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
 | **[The Wedding Edit](www.weddingedit.com)** | **[Unpaid Internship: Creative Events Intern](https://jobright.ai/jobs/info/69b090607495006450970fea?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69a8a4f97ac93962b7086164?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 10 |
-| **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69b08c3d74950064509706fb?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
