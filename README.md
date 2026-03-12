@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a66cb9e567421f4257730a?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Mar 12 |
 | **[Meow Wolf](http://www.meowwolf.com)** | **[Creative Production/Direction Internship](https://jobright.ai/jobs/info/69b23f94a8ac8e70ff6615fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 11 |
 | **[HMC Architects](https://hmcarchitects.com/)** | **[Student Intern - Interior Design (Sacramento)](https://jobright.ai/jobs/info/69b235b6a8ac8e70ff660866?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Mar 11 |
 | **[Black & Veatch](http://bv.com/Home)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b22e0e548f140066e86b75?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 11 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern (ATX)](https://jobright.ai/jobs/info/69b1eb4c548f140066e7ff2d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 11 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/699a8a28ce78e77b4fdf44dc?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 11 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Creator Intern (LA)](https://jobright.ai/jobs/info/69b1e9d765de58104c7137e6?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Mar 11 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a7d799d60e431a16bfebd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
-| ↳ | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/697a826a9d60e431a16c046a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/697a826a9d60e431a16c046a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
+| ↳ | **[Summer 2026 Architecture Intern](https://jobright.ai/jobs/info/697a7d799d60e431a16bfebd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | ↳ | **[Summer 2026 Architectural Intern](https://jobright.ai/jobs/info/697a802b9d60e431a16c0094?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 11 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69b1e623d04c69566c74625f?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Mar 11 |
 | **[BRPH](http://brph.com)** | **[Architect Intern](https://jobright.ai/jobs/info/69b1e094548f140066e7dc55?utm_campaign=1049&utm_source=git)** | Melbourne, FL | On Site | Mar 11 |
@@ -123,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6977e6e888e2b47213bbe486?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Mar 11 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Summer 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6994ca41e0bddb6acac34689?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 11 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[CHARLOTTE - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/69793ab552f3c27ec6458bb2?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 11 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Mar 11 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Mar 11 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Mar 11 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Mar 11 |
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/695c2b23aa05c26e7ab57e47?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 11 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795e8439f7f96cc6d1da36?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Mar 11 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Design, Naturium](https://jobright.ai/jobs/info/6979319a52f3c27ec6457b28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stuller, Inc.](http://stuller.com)** | **[Jewelry CAD Design Intern](https://jobright.ai/jobs/info/69b0a1c20b2db6275c04e9bc?utm_campaign=1049&utm_source=git)** | Lafayette, Louisiana Metropolitan Area | On Site | Mar 10 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b097d2dfaeda6ff59abf34?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 10 |
 | **[The Philadelphia Inquirer](https://www.inquirer.com/)** | **[Visuals Intern](https://jobright.ai/jobs/info/69a29b04b600907a9628f67e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 10 |
-| **[The Wedding Edit](www.weddingedit.com)** | **[Unpaid Internship: Creative Events Intern](https://jobright.ai/jobs/info/69b090607495006450970fea?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
