@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LXN Creative](http://LXNPhotography.com/)** | **[Website Designer + UI/UX Intern (Unpaid, Career Coaching, Referral Upon Completion, Portrait Session Provided)](https://jobright.ai/jobs/info/69b4f4ef3b74eb1e2c82745b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Mar 13 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/69b4d8113b74eb1e2c823d65?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/69b4d45b569738374139c7d3?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Mar 13 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Industrial Student Intern - Interior Design](https://jobright.ai/jobs/info/69a5fab10da45516f16ecb27?utm_campaign=1049&utm_source=git)** | Southfield, MI | Hybrid | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucky Brand](http://luckybrand.com)** | **[Intern - Lucky Brand: Design](https://jobright.ai/jobs/info/69b31dc3ad360c0340a8320b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/69b335d5a8ac8e70ff6777fc?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 12 |
 | ↳ | **[Landscape Architecture/ Design Internship](https://jobright.ai/jobs/info/69b335ccad360c0340a85c91?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 12 |
-| ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/69b33604ae2a534885ea9f39?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
