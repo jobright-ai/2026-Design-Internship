@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b4384a569738374138d95f?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 13 |
 | **[Bear Real Estate Group](https://bearreg.com)** | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b455865697383741390cde?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 13 |
 | ↳ | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b45b753b74eb1e2c819169?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 13 |
-| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/6997a21981476f6176afbea4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
-| ↳ | **[Intern, Brand Creative: Graphic Design](https://jobright.ai/jobs/info/6997adc781476f6176afd11d?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Brand Creative: Graphic Design](https://jobright.ai/jobs/info/6997adc781476f6176afd11d?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
+| ↳ | **[Intern, Narrative Design](https://jobright.ai/jobs/info/6997a21981476f6176afbea4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
 | **[WildBrain](http://www.wildbrain.com)** | **[Promo Editor / Graphics Designer (FAST/AVOD) Intern (Part Time – 1 Year FTC)](https://jobright.ai/jobs/info/69b4295a06c1ba00c5456157?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69a921937ac93962b709120a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Design and Research Intern](https://jobright.ai/jobs/info/69b426d43b74eb1e2c813f62?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 13 |
@@ -120,7 +120,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/697c224d0b88cc7d642325f6?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 13 |
 | **[Autodesk](http://www.autodesk.com)** | **[PhD Intern, HCI & Visualization Research](https://jobright.ai/jobs/info/6918711345fb6f5ead8a55d1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Mar 13 |
 | **[Seattle Seahawks](http://www.seahawks.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b3cf49ad360c0340a8ff24?utm_campaign=1049&utm_source=git)** | Renton, WA | On Site | Mar 13 |
-| **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX Intern (Unpaid / Career Coaching, Professional Recommendation, Portrait Session, Mentorship Provided)](https://jobright.ai/jobs/info/69b3ce76a8ac8e70ff681571?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Mar 13 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/69b4917256973837413977ae?utm_campaign=1049&utm_source=git)** | Detroit Lakes, MN | On Site | Mar 12 |
 | **[Second Wind Pro](https://secondwind.pro/)** | **[UI/UX Grad Intern](https://jobright.ai/jobs/info/69b39957a8ac8e70ff67da2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 12 |
 | **[Eddyfi Technologies](https://www.eddyfi.com/)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/69b37f23a8ac8e70ff67c662?utm_campaign=1049&utm_source=git)** | A - Eddyfi, 3425 rue Pierre-Ardouin, Quebec City, Quebec, Canada | On Site | Mar 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Lucky Brand](http://luckybrand.com)** | **[Intern - Lucky Brand: Design](https://jobright.ai/jobs/info/69b31dc3ad360c0340a8320b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Olsson](https://www.olsson.com)** | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/69b335d5a8ac8e70ff6777fc?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 12 |
 | ↳ | **[Landscape Architecture/ Design Internship](https://jobright.ai/jobs/info/69b335ccad360c0340a85c91?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 12 |
+| ↳ | **[Landscape Architecture/Design Internship](https://jobright.ai/jobs/info/69b335a5ad360c0340a85bdd?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
