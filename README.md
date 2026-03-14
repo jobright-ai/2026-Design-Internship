@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern, Sports & Recreation](https://jobright.ai/jobs/info/69991444ce78e77b4fddb33a?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 14 |
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69b523d006c1ba00c546e6b2?utm_campaign=1049&utm_source=git)** | Eagle, ID | Hybrid | Mar 14 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69b5182256973837413a3d66?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[Website Designer + UI/UX Intern (Unpaid, Career Coaching, Referral Upon Completion, Portrait Session Provided)](https://jobright.ai/jobs/info/69b4f4ef3b74eb1e2c82745b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Mar 13 |
@@ -92,8 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Visual Merchandising and Store Design Intern](https://jobright.ai/jobs/info/69b46af956973837413932e5?utm_campaign=1049&utm_source=git)** | Buffalo, NY | Hybrid | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Designer, Strategy and Governance (Summer 2026)](https://jobright.ai/jobs/info/697ba3770b88cc7d64226f10?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1da12359fe034b1cd232e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 13 |
-| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
+| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
+| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69b498ce5697383741397e6b?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Mar 13 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab3?utm_campaign=1049&utm_source=git)** | Sewickley,PA,US | On Site | Mar 13 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b4384a569738374138d95f?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 13 |
 | **[Bear Real Estate Group](https://bearreg.com)** | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b455865697383741390cde?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 13 |
 | ↳ | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b45b753b74eb1e2c819169?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 13 |
-| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Narrative Design](https://jobright.ai/jobs/info/6997a21981476f6176afbea4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
-| ↳ | **[Intern, Brand Creative: Graphic Design](https://jobright.ai/jobs/info/6997adc781476f6176afd11d?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
+| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Brand Creative: Graphic Design](https://jobright.ai/jobs/info/6997adc781476f6176afd11d?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
+| ↳ | **[Intern, Narrative Design](https://jobright.ai/jobs/info/6997a21981476f6176afbea4?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
 | **[WildBrain](http://www.wildbrain.com)** | **[Promo Editor / Graphics Designer (FAST/AVOD) Intern (Part Time – 1 Year FTC)](https://jobright.ai/jobs/info/69b4295a06c1ba00c5456157?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Mar 13 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69a921937ac93962b709120a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 13 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Design and Research Intern](https://jobright.ai/jobs/info/69b426d43b74eb1e2c813f62?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bikini Village](https://www.bikinivillage.com/)** | **[BIKINI VILLAGE GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/69b326c2a8ac8e70ff676148?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 12 |
 | **[Allied Global Marketing](http://alliedglobalmarketing.com/)** | **[Events & Experiences Intern, Graphic Design (2D)](https://jobright.ai/jobs/info/69a55ef4b600907a962b12b3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 12 |
 | **[Lifescape Colorado](http://lifescapecolorado.com)** | **[Landscape Summer Intern](https://jobright.ai/jobs/info/69b31e1eae2a534885ea6cc3?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 12 |
-| **[ButcherBox](https://www.butcherbox.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b31e19ad360c0340a833aa?utm_campaign=1049&utm_source=git)** | Greater Boston | Hybrid | Mar 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
