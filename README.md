@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Associate Intern](https://jobright.ai/jobs/info/69b5be5956973837413b29ca?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 14 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Design Intern, Active](https://jobright.ai/jobs/info/69b5b91a56973837413b26c7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
+| ↳ | **[Technical Design Intern](https://jobright.ai/jobs/info/69b5b8a03b74eb1e2c839074?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e086fce48107c0542511e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Mar 14 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Mar 14 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a597f8359fe034b1d0348d?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 14 |
@@ -144,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Visual Merchandising and Store Design Intern](https://jobright.ai/jobs/info/69b46af956973837413932e5?utm_campaign=1049&utm_source=git)** | Buffalo, NY | Hybrid | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Designer, Strategy and Governance (Summer 2026)](https://jobright.ai/jobs/info/697ba3770b88cc7d64226f10?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1da12359fe034b1cd232e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 13 |
-| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
-| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
+| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
+| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69b498ce5697383741397e6b?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Mar 13 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab3?utm_campaign=1049&utm_source=git)** | Sewickley,PA,US | On Site | Mar 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Intern](https://jobright.ai/jobs/info/69b448e43b74eb1e2c81782b?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 13 |
 | **[Bee Street Co.](www.beestreet.co)** | **[Creative Production & Graphic Design Intern](https://jobright.ai/jobs/info/69b43f88569738374138e1fe?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | On Site | Mar 13 |
 | **[IBM](http://www.ibm.com)** | **[Designer Co-Op Fall 2026](https://jobright.ai/jobs/info/69b43df4569738374138dfdb?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 13 |
-| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b4384a569738374138d95f?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 13 |
-| **[Bear Real Estate Group](https://bearreg.com)** | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b455865697383741390cde?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 13 |
-| ↳ | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b45b753b74eb1e2c819169?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
