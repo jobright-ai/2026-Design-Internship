@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e086fce48107c0542511e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Mar 14 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Mar 14 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a597f8359fe034b1d0348d?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 14 |
 | ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69991b2be0bddb6acac818a7?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 14 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 14 |
@@ -70,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69b58bed3b74eb1e2c83581a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 14 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/699910ebe0bddb6acac80762?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 – South Central Region](https://jobright.ai/jobs/info/69ac38cc2747003c3d520306?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 14 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e8046221b890c2780eb2d?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 14 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696177d6a112b402660ffc5f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 14 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/6999151781476f6176b18cc1?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 14 |
-| **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/69b5690e06c1ba00c547234c?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Mar 14 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/6999287d81476f6176b1af2f?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 14 |
 | **[Premier](https://www.premierpm.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69b55fb956973837413a74e2?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b20163141d1884553f8f?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Mar 14 |
@@ -143,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Delaware North](http://www.delawarenorth.com/)** | **[Visual Merchandising and Store Design Intern](https://jobright.ai/jobs/info/69b46af956973837413932e5?utm_campaign=1049&utm_source=git)** | Buffalo, NY | Hybrid | Mar 13 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Designer, Strategy and Governance (Summer 2026)](https://jobright.ai/jobs/info/697ba3770b88cc7d64226f10?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Mar 13 |
 | **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1da12359fe034b1cd232e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 13 |
-| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
-| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
+| **[SeamonWhiteside](http://seamonwhiteside.com)** | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c8e2ce78e77b4fd79da3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 13 |
+| ↳ | **[Land Planner Intern](https://jobright.ai/jobs/info/6993c4b1ce78e77b4fd79b47?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 13 |
 | **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69b498ce5697383741397e6b?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | Mar 13 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Mar 13 |
 | **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b47f8406c1ba00c545fab3?utm_campaign=1049&utm_source=git)** | Sewickley,PA,US | On Site | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b4384a569738374138d95f?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 13 |
 | **[Bear Real Estate Group](https://bearreg.com)** | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b455865697383741390cde?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, US | On Site | Mar 13 |
 | ↳ | **[DESIGN ASSOCIATE (INTERN)](https://jobright.ai/jobs/info/69b45b753b74eb1e2c819169?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 13 |
-| **[Hasbro](https://shop.hasbro.com)** | **[Intern, Brand Creative: Graphic Design](https://jobright.ai/jobs/info/6997adc781476f6176afd11d?utm_campaign=1049&utm_source=git)** | Pawtucket, RI | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
