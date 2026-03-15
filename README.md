@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b6d66806c1ba00c548a743?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 15 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 15 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6945c543d1953b5d11bec501?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69b4ace006c1ba00c5462461?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b49bac5697383741398127?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Mar 13 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, CreativeNew](https://jobright.ai/jobs/info/69b4961f5697383741397b53?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
-| ↳ | **[Summer 2026 Intern, Graphic Design (Social Media)New](https://jobright.ai/jobs/info/69b4960f06c1ba00c5461520?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
