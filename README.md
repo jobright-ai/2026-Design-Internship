@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[UX/UI Website Design Internship (Unpaid)](https://jobright.ai/jobs/info/69b708e33b74eb1e2c84bb43?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 15 |
+| **[Serigraph](http://www.serigraph.com)** | **[Website Designer Intern](https://jobright.ai/jobs/info/69b7230106c1ba00c548e6bf?utm_campaign=1049&utm_source=git)** | West Bend, WI | On Site | Mar 15 |
+| **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 15 |
+| **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69b7153f06c1ba00c548df3e?utm_campaign=1049&utm_source=git)** | Berea, OH | On Site | Mar 15 |
 | **[DirectCare AI](www.directcareai.com)** | **[Social Media Video Editor (Unpaid Internship)](https://jobright.ai/jobs/info/69b6f3bd56973837413c2471?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 15 |
 | **[A Hiring Company](https://www.linkedin.com/company/101478385)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b6d66806c1ba00c548a743?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4ba683b74eb1e2c820902?utm_campaign=1049&utm_source=git)** | Wayne, OH | Remote | Mar 13 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Digital Experience Design Intern](https://jobright.ai/jobs/info/69b4b1bb3b74eb1e2c820594?utm_campaign=1049&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
 | **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a74b022672cb0acb4bba19?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 13 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69b4adb85697383741398b55?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
-| ↳ | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69b4ace006c1ba00c5462461?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
