@@ -132,6 +132,7 @@ For a complete list, click the following sortable link below:
 | **[PetIQ](https://petiq.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69b523d006c1ba00c546e6b2?utm_campaign=1049&utm_source=git)** | Eagle, ID | Hybrid | Mar 14 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69b5182256973837413a3d66?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[Website Designer + UI/UX Intern (Unpaid, Career Coaching, Referral Upon Completion, Portrait Session Provided)](https://jobright.ai/jobs/info/69b4f4ef3b74eb1e2c82745b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | Mar 13 |
+| **[O-X Media](www.o-xmedia.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b6408a3b74eb1e2c83fad0?utm_campaign=1049&utm_source=git)** | DFW Metroplex | Remote | Mar 13 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/69b4d8113b74eb1e2c823d65?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 13 |
 | **[Apple](https://www.apple.com)** | **[UX Writing Intern - Product, Design & Marketing](https://jobright.ai/jobs/info/69b4d45b569738374139c7d3?utm_campaign=1049&utm_source=git)** | Cupertino, CA | On Site | Mar 13 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Industrial Student Intern - Interior Design](https://jobright.ai/jobs/info/69a5fab10da45516f16ecb27?utm_campaign=1049&utm_source=git)** | Southfield, MI | Hybrid | Mar 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69b4896f06c1ba00c5460778?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Mar 13 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b47d4c06c1ba00c545f4f1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 13 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Mar 13 |
-| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Design Center Intern](https://jobright.ai/jobs/info/69b476e25697383741394eb1?utm_campaign=1049&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
