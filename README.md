@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
+| **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Marketing Creative](https://jobright.ai/jobs/info/69a889a22580d3183f008f0f?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Mar 15 |
 | **[Cristina Ruales Co.](http://www.cristinaruales.com/)** | **[Print Designer](https://jobright.ai/jobs/info/69b6517556973837413b9c52?utm_campaign=1049&utm_source=git)** | Waterford, CT | Remote | Mar 14 |
 | **[GenPark](https://genpark.ai)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69b6516256973837413b9c4e?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Mar 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Absolutely Ridiculous](https://absolutelyridiculous.com)** | **[Design Intern](https://jobright.ai/jobs/info/69b48c1e06c1ba00c5460ad5?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 13 |
 | **[The Haskell Company](http://www.haskell.com)** | **[Summer 2026 Interior Design Intern](https://jobright.ai/jobs/info/69b4896f06c1ba00c5460778?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Mar 13 |
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b47d4c06c1ba00c545f4f1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 13 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Mar 13 |
-| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Design Center Intern](https://jobright.ai/jobs/info/69b476e25697383741394eb1?utm_campaign=1049&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
