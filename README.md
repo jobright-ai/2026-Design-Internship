@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69b62a6a3b74eb1e2c83e15e?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Mar 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 | **[The Pilot Club Inc.](https://www.thepilotclub.org)** | **[Unpaid Internship: Aviation Graphic Designer](https://jobright.ai/jobs/info/69b61a643b74eb1e2c83cc8d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 14 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Product Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69afcccbf63f733065b3c110?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Mar 14 |
 | **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/699652c4ce78e77b4fda559f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 14 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b5ddf306c1ba00c547c774?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 14 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[REVOLVE](https://www.revolve.com/)** | **[Design Intern, Tularosa/Stone Cold Fox](https://jobright.ai/jobs/info/69b5cb8d56973837413b2cd6?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 14 |
 | ↳ | **[Design Intern, Knitwear](https://jobright.ai/jobs/info/69b5cb8c56973837413b2cd0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 14 |
 | ↳ | **[Design Intern, SRG/Haelo](https://jobright.ai/jobs/info/69b5cb8a3b74eb1e2c839939?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Mar 14 |
-| ↳ | **[Content Creation Intern](https://jobright.ai/jobs/info/69b5cb8a3b74eb1e2c839937?utm_campaign=1049&utm_source=git)** | California-Studio, Cerritos, CA, US | On Site | Mar 14 |
 | ↳ | **[Design Intern, Knitwear](https://jobright.ai/jobs/info/69b5c3813b74eb1e2c83970e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | ↳ | **[Design Intern, Tularosa/Stone Cold Fox](https://jobright.ai/jobs/info/69b5c35506c1ba00c547b908?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | ↳ | **[Design Intern, SRG/Haelo](https://jobright.ai/jobs/info/69b5c35406c1ba00c547b906?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Designer](https://jobright.ai/jobs/info/69a597f8359fe034b1d0348d?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 14 |
 | ↳ | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69991b2be0bddb6acac818a7?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 14 |
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d7411137a0510256696e8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 14 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/69619a28e7ed9a5731ba74c3?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 14 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e1485abff4c399a9ce321?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Mar 14 |
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69b5975906c1ba00c54789cc?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 14 |
 | ↳ | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69b597563b74eb1e2c8367c1?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PRIME AE Group, Inc.](http://primeeng.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b47d4c06c1ba00c545f4f1?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 13 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971240951f7264771835904?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Hybrid | Mar 13 |
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Design Center Intern](https://jobright.ai/jobs/info/69b476e25697383741394eb1?utm_campaign=1049&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Mar 13 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69b476d75697383741394e85?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 13 |
-| ↳ | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69b476a706c1ba00c545e771?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
