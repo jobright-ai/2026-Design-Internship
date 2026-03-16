@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 16 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Mar 16 |
 | **[The Lines by Natalia](www.thelinesbynatalia.com)** | **[Design Intern: Trend Research & Apparel Design](https://jobright.ai/jobs/info/69b794903b74eb1e2c852d2a?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 15 |
 | **[TekSynap](https://www.teksynap.com/)** | **[TekSynap Internship - Proposals Graphic Design](https://jobright.ai/jobs/info/69b791b906c1ba00c5494d26?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Mar 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TekniPlex](http://www.tekni-plex.com)** | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb633b74eb1e2c820ac0?utm_campaign=1049&utm_source=git)** | Schaumburg, Illinois, United States | Remote | Mar 13 |
 | ↳ | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb6106c1ba00c5462b20?utm_campaign=1049&utm_source=git)** | Eatontown, New Jersey, United States | Remote | Mar 13 |
 | ↳ | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb6006c1ba00c5462b14?utm_campaign=1049&utm_source=git)** | Wayne, Pennsylvania, United States | Remote | Mar 13 |
-| **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Digital Content & Product Data Intern - Summer 2026](https://jobright.ai/jobs/info/69b4bb605697383741399264?utm_campaign=1049&utm_source=git)** | Columbia, Maryland, United States | On Site | Mar 13 |
-| **[TekniPlex](http://www.tekni-plex.com)** | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb5f569738374139925a?utm_campaign=1049&utm_source=git)** | Holland, Ohio, United States | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
