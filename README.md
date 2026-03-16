@@ -57,16 +57,27 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PopUp Bagels](https://www.popupbagels.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b8715856973837413dc8f1?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| **[Pheratech Systems](www.pheratech.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69b870ed3b74eb1e2c863e51?utm_campaign=1049&utm_source=git)** | Claremont, CA | On Site | Mar 16 |
+| **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b86e463b74eb1e2c863b89?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Mar 16 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69b86db03b74eb1e2c863adc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 16 |
+| **[ABRAMS](http://www.abramsbooks.com)** | **[Social Media Intern (Comic Arts)](https://jobright.ai/jobs/info/69b865c306c1ba00c54a4fbf?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Design Intern (Comic Arts)](https://jobright.ai/jobs/info/69b865a456973837413dae7f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Design Intern (Adult)](https://jobright.ai/jobs/info/69b8655856973837413dad2c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
+| ↳ | **[Design Intern (Children's)](https://jobright.ai/jobs/info/69b864923b74eb1e2c862aae?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b8604156973837413da291?utm_campaign=1049&utm_source=git)** | Columbia, SC, US | On Site | Mar 16 |
 | **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69b85db93b74eb1e2c86138f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 16 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b8508f06c1ba00c54a11ce?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
+| **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b01?utm_campaign=1049&utm_source=git)** | US-SC-Columbia | On Site | Mar 16 |
+| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69b8644956973837413da9a1?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 16 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern (Comic Arts)](https://jobright.ai/jobs/info/69b841d956973837413d6b33?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
 | ↳ | **[Design Intern (Adult)](https://jobright.ai/jobs/info/69b841bc3b74eb1e2c85e116?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
 | ↳ | **[Social Media Intern (Comic Arts)](https://jobright.ai/jobs/info/69b841a73b74eb1e2c85e0ff?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 UX Behavioral Science Finance Intern – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69b8419d56973837413d6afc?utm_campaign=1049&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 16 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern (Children's)](https://jobright.ai/jobs/info/69b8418e06c1ba00c54a0424?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
 | **[Chase](https://www.chase.com/)** | **[2026 UX Behavioral Science Finance Intern – Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69b841553b74eb1e2c85e097?utm_campaign=1049&utm_source=git)** | 277 Park Ave, New York, NY, 10172, US | On Site | Mar 16 |
+| **[Barstool Sports](http://www.barstoolsports.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b8619a06c1ba00c54a430b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/6976e084bc8e722e7b1b55d8?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Mar 16 |
 | **[O.H. Partners](https://ohpartners.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69b8358006c1ba00c549f9ac?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Mar 16 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Mar 16 |
@@ -122,8 +133,8 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69b58bed3b74eb1e2c83581a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 14 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/699910ebe0bddb6acac80762?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69b53b7f3b74eb1e2c82d9e7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[HeartLand, LLC](https://heartlandcompany.com/)** | **[2026 Summer Landscape Internship](https://jobright.ai/jobs/info/69b53b603b74eb1e2c82d9a7?utm_campaign=1049&utm_source=git)** | Grayslake, IL | On Site | Mar 14 |
 | ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69b53b5f3b74eb1e2c82d9a5?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 14 |
-| ↳ | **[Summer Landscape Internship](https://jobright.ai/jobs/info/69b53b583b74eb1e2c82d997?utm_campaign=1049&utm_source=git)** | Bristow, VA | On Site | Mar 14 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69b53ae506c1ba00c546fd1a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69b53ae506c1ba00c546fd19?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69b53ad706c1ba00c546fcf7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69b53acf06c1ba00c546fce3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Handbags Mainline - NYC](https://jobright.ai/jobs/info/69b53aae56973837413a669d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| **[HeartLand, LLC](https://heartlandcompany.com/)** | **[Landscape Internship](https://jobright.ai/jobs/info/69b53aa206c1ba00c546fc9a?utm_campaign=1049&utm_source=git)** | Bunnell, FL | On Site | Mar 14 |
-| ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69b53a7256973837413a6633?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Mar 14 |
-| ↳ | **[Landscape Internship](https://jobright.ai/jobs/info/69b53a6b56973837413a662b?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Mar 14 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6999347d81476f6176b1c04a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 14 |
-| **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Multimedia) Hybrid Schedule](https://jobright.ai/jobs/info/6998e7cbe0bddb6acac7d0d7?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
