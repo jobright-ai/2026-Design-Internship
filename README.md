@@ -57,9 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern - Summer 2026](https://jobright.ai/jobs/info/69b81fe83b74eb1e2c85c369?utm_campaign=1049&utm_source=git)** | Peachtree City | On Site | Mar 16 |
+| **[Gilmore & Associates, Inc.](http://gilmore-assoc.com)** | **[Photography Intern](https://jobright.ai/jobs/info/69b8176f06c1ba00c549e0ff?utm_campaign=1049&utm_source=git)** | Doylestown, PA | On Site | Mar 16 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b80e0606c1ba00c549d770?utm_campaign=1049&utm_source=git)** | Minnetonka, MN, US | On Site | Mar 16 |
 | **[Women's National Football Conference (WNFC)](https://www.wnfcfootball.com/)** | **[WNFC Creative Internship – Sports Graphic Designers Wanted](https://jobright.ai/jobs/info/69b80d5256973837413d3ee6?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Mar 16 |
-| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b805c33b74eb1e2c859649?utm_campaign=1049&utm_source=git)** | US-MN-Minnetonka | On Site | Mar 16 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 16 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shimadzu Scientific Instruments](https://www.ssi.shimadzu.com)** | **[Digital Content & Product Data Intern - Summer 2026](https://jobright.ai/jobs/info/69b4caef569738374139ba6b?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Mar 13 |
 | **[Cboe Global Markets](http://www.cboe.com)** | **[UX Designer Intern](https://jobright.ai/jobs/info/69b4c2f93b74eb1e2c8220df?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 13 |
 | **[TekniPlex](http://www.tekni-plex.com)** | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb633b74eb1e2c820ac0?utm_campaign=1049&utm_source=git)** | Schaumburg, Illinois, United States | Remote | Mar 13 |
-| ↳ | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4bb6106c1ba00c5462b20?utm_campaign=1049&utm_source=git)** | Eatontown, New Jersey, United States | Remote | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
