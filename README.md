@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
 | **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
 | **[PTR Premier Truck Rental](https://rentptr.com)** | **[Intern Marketing Creative](https://jobright.ai/jobs/info/69a889a22580d3183f008f0f?utm_campaign=1049&utm_source=git)** | Fort Wayne, IN | On Site | Mar 15 |
+| **[Sewickley Academy](https://www.sewickley.org)** | **[Marketing Intern (Graphic Design Focus)](https://jobright.ai/jobs/info/69b780d83b74eb1e2c851882?utm_campaign=1049&utm_source=git)** | Sewickley, PA | On Site | Mar 14 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Tampa](https://jobright.ai/jobs/info/69afccd7f63f733065b3c148?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
 | ↳ | **[Student Internship - Product Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69afcccbf63f733065b3c110?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI & Digital Innovation Intern](https://jobright.ai/jobs/info/69b4ba683b74eb1e2c820902?utm_campaign=1049&utm_source=git)** | Wayne, OH | Remote | Mar 13 |
 | **[Redwood Credit Union](http://www.redwoodcu.org)** | **[Digital Experience Design Intern](https://jobright.ai/jobs/info/69b4b1bb3b74eb1e2c820594?utm_campaign=1049&utm_source=git)** | Santa Rosa, California | On Site | Mar 13 |
 | **[Egis in the U.S.](http://b-l-n.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69a74b022672cb0acb4bba19?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 13 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69b4adb85697383741398b55?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
