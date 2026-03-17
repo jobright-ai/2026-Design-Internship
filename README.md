@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smith & Associates](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/6981573f7f40342e15da59b9?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 17 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Website Management Internship](https://jobright.ai/jobs/info/69b9208e56973837413e9f2a?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 17 |
 | **[Tencent](https://www.tencent.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69b90e7906c1ba00c54b234e?utm_campaign=1049&utm_source=git)** | US-California-Los Angeles | On Site | Mar 17 |
 | **[Summit Media, LLC](summitmediaak.com)** | **[Social Media & Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69b8dc0706c1ba00c54afdfc?utm_campaign=1049&utm_source=git)** | Anchorage, AK | Hybrid | Mar 16 |
@@ -74,7 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Art Director](https://jobright.ai/jobs/info/69b882ed56973837413de75e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 16 |
 | **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Mar 16 |
 | **[Quilly](https://www.linkedin.com/company/99477222)** | **[Creative Website Design Internship (Unpaid)](https://jobright.ai/jobs/info/69b87ec606c1ba00c54a79ba?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 16 |
-| **[OUTFRONT Media](http://cbsoutdoorinternational.com)** | **[Summer Intern, Junior Interactive & Game Designer](https://jobright.ai/jobs/info/69b87e4706c1ba00c54a78b0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
+| **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Junior Interactive & Game Designer](https://jobright.ai/jobs/info/69b87e4706c1ba00c54a78b0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[Epic for Kids](https://www.getepic.com/)** | **[UX Research Intern](https://jobright.ai/jobs/info/69b87dab3b74eb1e2c865466?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 16 |
 | **[Mountain States Legal Foundation](https://mslegal.org/)** | **[Creative Media Fellowship](https://jobright.ai/jobs/info/69b897fe56973837413dfbee?utm_campaign=1049&utm_source=git)** | Lakewood, CO | On Site | Mar 16 |
 | **[BRPH](http://brph.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69b877fc56973837413dd464?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dropbox](https://www.dropbox.com)** | **[CX Technical Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/697d60623f57a33569674211?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 14 |
 | **[LCS](https://www.lcsnet.com/)** | **[Design Management Internship](https://jobright.ai/jobs/info/68d776d7295f8e37655da818?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Mar 14 |
 | **[Voloridge Investment Management, LLC](https://www.voloridge.com/index.aspx)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961ccf8e7ed9a5731ba9bf7?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Mar 14 |
-| **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
