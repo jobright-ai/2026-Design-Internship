@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 16 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Product Designer Intern](https://jobright.ai/jobs/info/69b8a1f056973837413e1142?utm_campaign=1049&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 16 |
 | **[creative werks](http://cwerksglobal.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69b8956b06c1ba00c54a90fc?utm_campaign=1049&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 16 |
 | **[BAMKO](https://www.bamko.net)** | **[2026 Summer Internship, Creative](https://jobright.ai/jobs/info/69b8908f3b74eb1e2c866545?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 16 |
@@ -87,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b8508f06c1ba00c54a11ce?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[creative werks](http://cwerksglobal.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69b878ba06c1ba00c54a70f9?utm_campaign=1049&utm_source=git)** | Elk Grove Village,IL,US | On Site | Mar 16 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b8741656973837413dcbe8?utm_campaign=1049&utm_source=git)** | US CT Shelton | On Site | Mar 16 |
-| ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b874173b74eb1e2c86425b?utm_campaign=1049&utm_source=git)** | US CT Remote | Remote | Mar 16 |
+| **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b874173b74eb1e2c86425b?utm_campaign=1049&utm_source=git)** | US CT Remote | Remote | Mar 16 |
+| ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b8741656973837413dcbe8?utm_campaign=1049&utm_source=git)** | US CT Shelton | On Site | Mar 16 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b01?utm_campaign=1049&utm_source=git)** | US-SC-Columbia | On Site | Mar 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69b8644956973837413da9a1?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 16 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern (Comic Arts)](https://jobright.ai/jobs/info/69b841d956973837413d6b33?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 16 |
@@ -152,9 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Voloridge Health](https://www.voloridge.com/health)** | **[Health Product Design Intern 2026](https://jobright.ai/jobs/info/6961db94e7ed9a5731baa488?utm_campaign=1049&utm_source=git)** | Jupiter, FL | On Site | Mar 14 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69b58bed3b74eb1e2c83581a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | Mar 14 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
-| ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
+| ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69b5871b56973837413ad7a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 14 |
 | **[Crusoe](https://crusoe.ai)** | **[Product Design Intern, Summer 2026](https://jobright.ai/jobs/info/699910ebe0bddb6acac80762?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 14 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Tampa](https://jobright.ai/jobs/info/69afcc47dfaeda6ff598a6b9?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 14 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
