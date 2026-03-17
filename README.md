@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Namify](http://namify.com)** | **[Workplace Design Intern - Exclusively In-Office May-August](https://jobright.ai/jobs/info/69b9b05006c1ba00c54bb695?utm_campaign=1049&utm_source=git)** | Springville,UT,US | On Site | Mar 17 |
+| **[Englewood Marketing Group](https://www.emg-usa.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69b9aca006c1ba00c54bad16?utm_campaign=1049&utm_source=git)** | Green Bay, WI, US | On Site | Mar 17 |
 | **[WWE](http://wwe.com)** | **[Intern - Art Directing, WWE](https://jobright.ai/jobs/info/69b98d7c06c1ba00c54b9397?utm_campaign=1049&utm_source=git)** | Stamford, CT- WWE Headquarters | On Site | Mar 17 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Summer Intern](https://jobright.ai/jobs/info/69b981da3b74eb1e2c876e14?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Mar 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Sports Architecture Intern](https://jobright.ai/jobs/info/69b97eba06c1ba00c54b8ea9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 17 |
@@ -104,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[Barstool Sports](http://www.barstoolsports.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b8508f06c1ba00c54a11ce?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 16 |
 | **[creative werks](http://cwerksglobal.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69b878ba06c1ba00c54a70f9?utm_campaign=1049&utm_source=git)** | Elk Grove Village,IL,US | On Site | Mar 16 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b874173b74eb1e2c86425b?utm_campaign=1049&utm_source=git)** | US CT Remote | Remote | Mar 16 |
-| ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b8741656973837413dcbe8?utm_campaign=1049&utm_source=git)** | US CT Shelton | On Site | Mar 16 |
+| **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b8741656973837413dcbe8?utm_campaign=1049&utm_source=git)** | US CT Shelton | On Site | Mar 16 |
+| ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69b874173b74eb1e2c86425b?utm_campaign=1049&utm_source=git)** | US CT Remote | Remote | Mar 16 |
 | **[Office Lou Arencibia](http://olalandscape.com)** | **[Design & Visual Production Intern](https://jobright.ai/jobs/info/69b9547356973837413ed6f4?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 16 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b8694d06c1ba00c54a5b01?utm_campaign=1049&utm_source=git)** | US-SC-Columbia | On Site | Mar 16 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69b8644956973837413da9a1?utm_campaign=1049&utm_source=git)** | PA-Philadelphia;5001 Wynnefield Avenue (Tribune-WPHL) | On Site | Mar 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Intern, SRG/Haelo](https://jobright.ai/jobs/info/69b5c35406c1ba00c547b906?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Associate Intern](https://jobright.ai/jobs/info/69b5be5956973837413b29ca?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Mar 14 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Design Intern, Active](https://jobright.ai/jobs/info/69b5b91a56973837413b26c7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
-| ↳ | **[Technical Design Intern](https://jobright.ai/jobs/info/69b5b8a03b74eb1e2c839074?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 14 |
-| **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e086fce48107c0542511e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Mar 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
