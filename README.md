@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Hat](http://www.redhat.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/696568ed6d52670c5c3e39f9?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 17 |
 | **[Rapt Studio](http://raptstudio.com/)** | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0cef56973837413f998d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 17 |
 | ↳ | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0ce006c1ba00c54c2c6c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
@@ -65,6 +66,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Product Design, SquishPillows](https://jobright.ai/jobs/info/69b0643fdfaeda6ff59a2768?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 17 |
 | ↳ | **[Intern - Product Design, BLDR](https://jobright.ai/jobs/info/69af68bedfaeda6ff5977bb2?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Arena Club](https://arenaclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b9f1f756973837413f7c2f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 17 |
+| **[Creatify AI](https://creatify.ai)** | **[Product Design Intern 2026](https://jobright.ai/jobs/info/69ba635106c1ba00c54c69eb?utm_campaign=1049&utm_source=git)** | Mountain View | On Site | Mar 17 |
 | **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69b9ea673b74eb1e2c87dc06?utm_campaign=1049&utm_source=git)** | Van Nuys, California, United States | Hybrid | Mar 17 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b9d5ca06c1ba00c54bf4da?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Serigraph](http://www.serigraph.com)** | **[Website Designer Intern](https://jobright.ai/jobs/info/69b7230106c1ba00c548e6bf?utm_campaign=1049&utm_source=git)** | West Bend, WI | On Site | Mar 15 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 15 |
 | **[Cleveland Browns](http://www.clevelandbrowns.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69b7153f06c1ba00c548df3e?utm_campaign=1049&utm_source=git)** | Berea, OH | On Site | Mar 15 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 15 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
