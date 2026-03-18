@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/694b0e464b53a1551f94be83?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 17 |
 | **[Rapt Studio](http://raptstudio.com/)** | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0cef56973837413f998d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 17 |
 | ↳ | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0ce006c1ba00c54c2c6c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
 | ↳ | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0c8f3b74eb1e2c880a5e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 17 |
@@ -96,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Industrial Student Intern - Interior Design](https://jobright.ai/jobs/info/69a5fab10da45516f16ecb27?utm_campaign=1049&utm_source=git)** | Southfield, MI | Hybrid | Mar 16 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 16 |
 | **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Product Designer Intern](https://jobright.ai/jobs/info/69b8a1f056973837413e1142?utm_campaign=1049&utm_source=git)** | San Diego, California, United States | Hybrid | Mar 16 |
+| **[ARTCODED](www.artcoded.co)** | **[Magazine Design Intern](https://jobright.ai/jobs/info/69ba374256973837413fb307?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 16 |
 | **[BCI Burke Company](http://www.bciburke.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b9100d56973837413e8f91?utm_campaign=1049&utm_source=git)** | Fond Du Lac,WI,US | On Site | Mar 16 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Member Experience Intern](https://jobright.ai/jobs/info/69b9f2543b74eb1e2c87e9ee?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 16 |
 | **[creative werks](http://cwerksglobal.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69b8956b06c1ba00c54a90fc?utm_campaign=1049&utm_source=git)** | Elk Grove Village, IL | On Site | Mar 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6945c543d1953b5d11bec501?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711946333b6343a14d8fba?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 15 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern(GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 15 |
-| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69615106a112b402660fd53d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 15 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b249e7ed9a5731ba865e?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Mar 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
