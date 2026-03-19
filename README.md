@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69bc37d05b89c002acf18b4a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
 | **[Psycho Bunny](https://www.psychobunny.com/)** | **[Apparel Graphic Design Internship](https://jobright.ai/jobs/info/6983d7c3348f733a5c374d32?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Mar 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc20944828227293fd6768?utm_campaign=1049&utm_source=git)** | Cleveland, OH, US | On Site | Mar 19 |
 | **[HOK](http://www.hok.com/)** | **[Interiors - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/69bc1ded45e08b3dc1f82944?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Mar 19 |
@@ -76,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[Strata Clean Energy](https://www.stratacleanenergy.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/699f7fec23374b3b6e6b4fa1?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699f941223374b3b6e6b6253?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Mar 19 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/69827fd3348f733a5c356722?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Mar 19 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 19 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Graphic Design & UI Design Intern](https://jobright.ai/jobs/info/699f9d8381476f6176b958e2?utm_campaign=1049&utm_source=git)** | University Park, IL | On Site | Mar 19 |
 | **[leManoosh](https://lemanoosh.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69bbfee445e08b3dc1f7dfb1?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a0f7d7d506e3808f5409b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 18 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6965e0ffa112b4026613f711?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/69a7bb60637232443f650e42?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
