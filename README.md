@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 19 |
+| **[Five Below](http://www.fivebelow.com)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69bbd2c95b89c002acf091f1?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 19 |
+| **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Mar 19 |
+| **[160over90](http://160over90.com/)** | **[Intern, Creative Designer](https://jobright.ai/jobs/info/69666b7f5ad3a93f8231bd90?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/697c48a30b88cc7d64236015?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 19 |
+| **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Design Intern (Summer 2026)](https://jobright.ai/jobs/info/699ee026ce78e77b4fe48664?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 19 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[3D Artist Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69bbd21b4828227293fcb62e?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Mar 19 |
+| ↳ | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69b6438056973837413b85fc?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Mar 19 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bbacde06c1ba00c54e4214?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69bb78fe3b74eb1e2c89e9b1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 18 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Holiner Holdings](https://www.holinerholdings.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69ba7d9a56973837413feb4b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 17 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Graphic Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69b3fdd806c1ba00c5451f69?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Mar 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69af64eadfaeda6ff59779a3?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
-| ↳ | **[Intern - Product Design, SquishPillows](https://jobright.ai/jobs/info/69b0643fdfaeda6ff59a2768?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 17 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a01f9d81476f6176ba2b11?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 17 |
-| **[Art of Problem Solving](https://artofproblemsolving.com/)** | **[Summer 2026 Product Designer Intern](https://jobright.ai/jobs/info/69bb8b715697383741419d21?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Mar 17 |
-| **[PopUp Bagels](https://www.popupbagels.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ba8ea15697383741403b97?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, BLDR](https://jobright.ai/jobs/info/69af68bedfaeda6ff5977bb2?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
-| **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba928b06c1ba00c54cb2dc?utm_campaign=1049&utm_source=git)** | Shelton, CT | On Site | Mar 17 |
-| ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba894c5697383741402010?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | Mar 17 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69af68afdfaeda6ff5977b9d?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
