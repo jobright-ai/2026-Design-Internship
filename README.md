@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
+| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bbacde06c1ba00c54e4214?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 19 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69bb78fe3b74eb1e2c89e9b1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 18 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb64ba56973837414163c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
 | **[City of Red Oak, Texas](http://www.redoaktx.org)** | **[Intern](https://jobright.ai/jobs/info/69bb569d06c1ba00c54dd141?utm_campaign=1049&utm_source=git)** | Red Oak, IA | On Site | Mar 18 |
@@ -116,7 +118,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a0383c6f0e2546ceee8bc?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Mar 18 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Graphic Designer / Art Director](https://jobright.ai/jobs/info/699eb54ece78e77b4fe45c59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 18 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern (Kansas City)](https://jobright.ai/jobs/info/69ae3eb44f6bcc182809411c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 18 |
-| **[volvero](http://www.volvero.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69baa27b5697383741407506?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 18 |
 | **[Savvas Learning Company](https://www.savvas.com)** | **[UX Intern](https://jobright.ai/jobs/info/699df88be0bddb6acacd63d3?utm_campaign=1049&utm_source=git)** | Northbrook, IL | Hybrid | Mar 18 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[AI Marketing Creative Intern - Summer 2026](https://jobright.ai/jobs/info/69a9a54a2ebd316bece137a2?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 18 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba928b06c1ba00c54cb2dc?utm_campaign=1049&utm_source=git)** | Shelton, CT | On Site | Mar 17 |
 | ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba894c5697383741402010?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | Mar 17 |
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69af68afdfaeda6ff5977b9d?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
-| ↳ | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69b0678d74950064509695d8?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
