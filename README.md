@@ -57,7 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bb13e606c1ba00c54d8053?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
+| **[BrainPOP](http://www.brainpop.com)** | **[Research and Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bb2adb5697383741412a44?utm_campaign=1049&utm_source=git)** | New York, NY (Hybrid) | Hybrid | Mar 18 |
+| **[Knowledge as a Service, Inc.](https://ringorang.com/)** | **[Social Media Manager Intern (Graphic Design + Video Focus)](https://jobright.ai/jobs/info/69bb2a2d5697383741412934?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Mar 18 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
+| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Creative Marketing Intern, NBCU Local Chicago – Summer 2026](https://jobright.ai/jobs/info/69bb276f06c1ba00c54da122?utm_campaign=1049&utm_source=git)** | 454 N.Columbus Dr., Chicago, ILLINOIS | Hybrid | Mar 18 |
+| **[HARMAN International](https://www.harman.com/)** | **[Intern, Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 18 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Mar 18 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bb1eca06c1ba00c54d9625?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
+| **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/69bb1c4106c1ba00c54d918e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 18 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bb19b206c1ba00c54d8ea7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
+| **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 18 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Arkansas - Fayetteville](https://jobright.ai/jobs/info/69bb30a206c1ba00c54da75a?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Mar 18 |
 | **[TONY, LLC](https://www.linkedin.com/company/107227751)** | **[UX/UI intern](https://jobright.ai/jobs/info/69bb0f6e5697383741410148?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 18 |
 | **[Hutker Architects, Inc.](https://hutkerarchitects.com/)** | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/69bb07ad06c1ba00c54d645a?utm_campaign=1049&utm_source=git)** | Vineyard Haven, MA | On Site | Mar 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69bb0057569738374140d379?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Mar 18 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69ba8f3a06c1ba00c54ca569?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 17 |
 | **[Rapt Studio](http://raptstudio.com/)** | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69ba0c8f3b74eb1e2c880a5e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ba93f33b74eb1e2c889bee?utm_campaign=1049&utm_source=git)** | Orange, CA | Hybrid | Mar 17 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Member Experience Intern](https://jobright.ai/jobs/info/69bab94706c1ba00c54d072b?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Mar 17 |
-| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cc4efe0bddb6acacbd378?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 17 |
-| **[Arena Club](https://arenaclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b9f1f756973837413f7c2f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 17 |
-| **[Creatify AI](https://creatify.ai)** | **[Product Design Intern 2026](https://jobright.ai/jobs/info/69ba635106c1ba00c54c69eb?utm_campaign=1049&utm_source=git)** | Mountain View | On Site | Mar 17 |
-| **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69b9ea673b74eb1e2c87dc06?utm_campaign=1049&utm_source=git)** | Van Nuys, California, United States | Hybrid | Mar 17 |
-| **[Conrad N. Hilton Foundation](http://www.hiltonfoundation.org)** | **[Intern, Communications - Content Strategy](https://jobright.ai/jobs/info/699d0f25e0bddb6acacc2b14?utm_campaign=1049&utm_source=git)** | Westlake Village, CA | Hybrid | Mar 17 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69b9d5ca06c1ba00c54bf4da?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 17 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Mar 17 |
-| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69b9d4c356973837413f6760?utm_campaign=1049&utm_source=git)** | Newark, California, United States | Hybrid | Mar 17 |
-| **[Henkel](http://www.henkel.com)** | **[Industrial Design Intern – Fall 2026](https://jobright.ai/jobs/info/69b9f1e056973837413f7c10?utm_campaign=1049&utm_source=git)** | Trumbull, None, US | On Site | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
