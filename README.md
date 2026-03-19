@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dropbox](https://www.dropbox.com)** | **[CX Video Content Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69829d790a9e07331f8dca10?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 19 |
+| **[BrainPOP](http://www.brainpop.com)** | **[Research and Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bc1c7b5b89c002acf12984?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
+| **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Internship – 2026 (CAN)](https://jobright.ai/jobs/info/698310a9348f733a5c361f72?utm_campaign=1049&utm_source=git)** | Vancouver, BC | On Site | Mar 19 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697015150f4e0f657ea47080?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Mar 19 |
+| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 19 |
+| **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699fe75281476f6176b9b2dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 19 |
 | **[Time Out Group plc](http://www.timeout.com)** | **[Creative Solutions Paid Internship](https://jobright.ai/jobs/info/69bc03804828227293fd1aff?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 19 |
 | **[Acadium](http://www.acadium.com)** | **[Web Designer Intern](https://jobright.ai/jobs/info/69bc037f4828227293fd1af9?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 19 |
 | ↳ | **[Content and Social Media Marketing, and Graphic Design Intern](https://jobright.ai/jobs/info/69bbfec745e08b3dc1f7df71?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 19 |
@@ -65,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Strata Clean Energy](https://www.stratacleanenergy.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/699f7fec23374b3b6e6b4fa1?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699f941223374b3b6e6b6253?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Mar 19 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/69827fd3348f733a5c356722?utm_campaign=1049&utm_source=git)** | Triangle Area | On Site | Mar 19 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 19 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Graphic Design & UI Design Intern](https://jobright.ai/jobs/info/699f9d8381476f6176b958e2?utm_campaign=1049&utm_source=git)** | University Park, IL | On Site | Mar 19 |
 | **[leManoosh](https://lemanoosh.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69bbfee445e08b3dc1f7dfb1?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Mar 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6982bc8a0f6f7e7a2cdc0f74?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 18 |
 | **[Red Hat](http://www.redhat.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/696568ed6d52670c5c3e39f9?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 18 |
 | **[Creatify AI](https://creatify.ai)** | **[Product Design Intern 2026](https://jobright.ai/jobs/info/69ba9a4306c1ba00c54cd22a?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Mar 18 |
-| **[Smith & Associates](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ba7cd456973837413fea97?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 18 |
-| **[International Justice Mission](http://www.ijm.org)** | **[Creative Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8a7a56973837414195c6?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Mar 17 |
-| **[Penn Mutual](https://www.pennmutual.com/)** | **[Creative Services Summer Intern (multimedia)](https://jobright.ai/jobs/info/699d1a4781476f6176b5bd94?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 17 |
-| **[Triple Ring Technologies](http://tripleringtech.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69bb8d423b74eb1e2c8a0f2b?utm_campaign=1049&utm_source=git)** | Newark, CA | Hybrid | Mar 17 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/699d8e1481476f6176b66d24?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 17 |
-| **[Octave](https://www.octave.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69ba928306c1ba00c54cb2c8?utm_campaign=1049&utm_source=git)** | Madison, AL | Remote | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
