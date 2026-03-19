@@ -82,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bb19b206c1ba00c54d8ea7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 18 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 18 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Arkansas - Fayetteville](https://jobright.ai/jobs/info/69bb30a206c1ba00c54da75a?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | Mar 18 |
-| **[Hutker Architects, Inc.](https://hutkerarchitects.com/)** | **[Summer 2026 Architectural Designer Internship Program](https://jobright.ai/jobs/info/69bb07ad06c1ba00c54d645a?utm_campaign=1049&utm_source=git)** | Vineyard Haven, MA | On Site | Mar 18 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69bb0057569738374140d379?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Mar 18 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69baffda06c1ba00c54d500e?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Mar 18 |
 | **[Le Creuset](http://www.lecreuset.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69baffc206c1ba00c54d4f88?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 18 |
@@ -100,7 +99,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Intern (Interior Design/Architecture)](https://jobright.ai/jobs/info/69bb127b06c1ba00c54d7ec7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 18 |
 | **[Utah Valley University](http://www.uvu.edu/)** | **[Graphic Designer - School of Business](https://jobright.ai/jobs/info/69bae94e06c1ba00c54d3ccf?utm_campaign=1049&utm_source=git)** | Orem, UT | On Site | Mar 18 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bae9273b74eb1e2c8926c8?utm_campaign=1049&utm_source=git)** | Columbus, Ohio, United States | On Site | Mar 18 |
-| ↳ | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bae8f006c1ba00c54d3c2a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 18 |
 | **[WolfeCo Media](https://www.wolfecomedia.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69bae8dd06c1ba00c54d3bf7?utm_campaign=1049&utm_source=git)** | Athens, AL | On Site | Mar 18 |
 | **[Arconic](https://www.arconic.com)** | **[Product Design & Methods Intern (Summer 2026)](https://jobright.ai/jobs/info/6967195d6f782b4e8d52cf6f?utm_campaign=1049&utm_source=git)** | Norcross, GA | On Site | Mar 18 |
 | **[Ironclad](https://www.ironcladapp.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69829f410f6f7e7a2cdbf109?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 18 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, BLDR](https://jobright.ai/jobs/info/69af68bedfaeda6ff5977bb2?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 | **[Pitney Bowes](https://www.pitneybowes.com)** | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba928b06c1ba00c54cb2dc?utm_campaign=1049&utm_source=git)** | Shelton, CT | On Site | Mar 17 |
 | ↳ | **[UX Research & Data Insights Intern](https://jobright.ai/jobs/info/69ba894c5697383741402010?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | Mar 17 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69af68afdfaeda6ff5977b9d?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
+| ↳ | **[Intern - Product Design, Preschool](https://jobright.ai/jobs/info/69b0678d74950064509695d8?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Mar 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
