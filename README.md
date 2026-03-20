@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 20 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bd4fd7b106024562823d27?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 20 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a0ede281476f6176bb4a89?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bd160245e08b3dc1fa265f?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 19 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bbacde06c1ba00c54e4214?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 19 |
 | **[Burrell Communications](http://www.burrell.com)** | **[Intern, Social Content](https://jobright.ai/jobs/info/69bcfbf8b10602456281c352?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69bb78fe3b74eb1e2c89e9b1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
