@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69bd6887b106024562824bf2?utm_campaign=1049&utm_source=git)** | Greenland, NH | Hybrid | Mar 20 |
+| **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Master Planning (Fall 2026)](https://jobright.ai/jobs/info/69a15cea359fe034b1cc9a1c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 20 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bd4fd7b106024562823d27?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 20 |
@@ -137,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f13a581476f6176b8a533?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Mar 19 |
 | **[Strata Clean Energy](https://www.stratacleanenergy.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/699f7fec23374b3b6e6b4fa1?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 19 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Planning & Landscape](https://jobright.ai/jobs/info/699f941223374b3b6e6b6253?utm_campaign=1049&utm_source=git)** | McKinney, TX | On Site | Mar 19 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 19 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[2026 Summer Visual Merchandising Intern](https://jobright.ai/jobs/info/69685a1af25a38006696c1bf?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 19 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Graphic Design & UI Design Intern](https://jobright.ai/jobs/info/699f9d8381476f6176b958e2?utm_campaign=1049&utm_source=git)** | University Park, IL | On Site | Mar 19 |
 | **[leManoosh](https://lemanoosh.com)** | **[Automotive Industrial Design Intern](https://jobright.ai/jobs/info/69bbfee445e08b3dc1f7dfb1?utm_campaign=1049&utm_source=git)** | Lisle, IL | On Site | Mar 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Mar 19 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 19 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bd160245e08b3dc1fa265f?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 19 |
-| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bbacde06c1ba00c54e4214?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 19 |
-| **[Burrell Communications](http://www.burrell.com)** | **[Intern, Social Content](https://jobright.ai/jobs/info/69bcfbf8b10602456281c352?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
