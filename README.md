@@ -93,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Klick](https://www.klick.com)** | **[Junior Designer, Summer 2026](https://jobright.ai/jobs/info/69a111746b458d060735c601?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
 | **[Climate Pledge Arena](https://climatepledgearena.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bdc559393a1008f74352e1?utm_campaign=1049&utm_source=git)** | Seattle, Washington, United States | On Site | Mar 20 |
 | **[Klick](https://www.klick.com)** | **[Junior Video Editor & AI Creative, Summer 2026](https://jobright.ai/jobs/info/69a104ea81476f6176bb5ce0?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Mar 20 |
-| **[JCPenney](http://jcp.com)** | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69bda52e4828227293ffdd36?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 20 |
 | **[Entrata](https://www.entrata.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bd9b894828227293ffd61b?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Mar 20 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Content Design & Product Storytelling for Next Gen Commerce Cloud](https://jobright.ai/jobs/info/69a0ca075218a8167671f538?utm_campaign=1049&utm_source=git)** | Bellevue, WA | Hybrid | Mar 20 |
 | **[Entrata](https://www.entrata.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bd9972393a1008f742f610?utm_campaign=1049&utm_source=git)** | Lehi, Utah | On Site | Mar 20 |
@@ -117,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69aa227c9ca4e908ec656b94?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a11c106b458d060735d3d9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69bd6887b106024562824bf2?utm_campaign=1049&utm_source=git)** | Greenland, NH | Hybrid | Mar 20 |
-| **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Master Planning (Fall 2026)](https://jobright.ai/jobs/info/69a15cea359fe034b1cc9a1c?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
 | **[Mobile Air Climate Systems Association](https://macsmobileairclimate.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69be1e63b106024562838607?utm_campaign=1049&utm_source=git)** | Lansdale, PA | On Site | Mar 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED](https://jobright.ai/jobs/info/69bc754b5b89c002acf23546?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bc74eb5b89c002acf233fb?utm_campaign=1049&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69bc6f7445e08b3dc1f9231b?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Mar 19 |
+| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bc6a615b89c002acf2137d?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 19 |
+| **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc69d15b89c002acf21184?utm_campaign=1049&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
