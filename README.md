@@ -57,6 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
+| **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69a7c95d76bbe83d3afb47b4?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Mar 21 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Mar 21 |
+| **[Polaris Inc.](https://www.polaris.com)** | **[CMF & Graphics Intern - Advanced Digital & Material Focus](https://jobright.ai/jobs/info/699179660f6f7e7a2cedd56d?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 21 |
+| ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/69851750348f733a5c393f87?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 21 |
+| **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bec385b106024562843463?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 21 |
+| **[JCPenney](http://jcp.com)** | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69bec37eb106024562843427?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
+| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69bec213393a1008f7449fb5?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/696eee75350cf4380315e147?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 21 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[Product Designer Internship (AI-Native)](https://jobright.ai/jobs/info/69beab71393a1008f74492f2?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 21 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Mar 21 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a17c76b600907a9627eb73?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Mar 21 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69bc80174828227293fe61f0?utm_campaign=1049&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 19 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Motion Design](https://jobright.ai/jobs/info/69bc7f2845e08b3dc1f93d7c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 19 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/69bc7e2a45e08b3dc1f93cc4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
-| **[TriMech](https://trimech.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc971a4828227293fe7b0e?utm_campaign=1049&utm_source=git)** | Oakville, ON | On Site | Mar 19 |
-| **[McCoy Rockford](http://mccoy-rockford.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bc782f4828227293fe59c6?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | Mar 19 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bc77344828227293fe586e?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas | On Site | Mar 19 |
-| **[McCoy Rockford](http://mccoy-rockford.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bc76015b89c002acf236a5?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Mar 19 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED](https://jobright.ai/jobs/info/69bc754b5b89c002acf23546?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 19 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bc74eb5b89c002acf233fb?utm_campaign=1049&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69bc6f7445e08b3dc1f9231b?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Mar 19 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bc6a615b89c002acf2137d?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 19 |
-| **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc69d15b89c002acf21184?utm_campaign=1049&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
