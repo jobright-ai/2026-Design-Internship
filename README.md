@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Mar 21 |
 | **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a17c76b600907a9627eb73?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Mar 21 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6986d2258ca8121a3a695284?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 21 |
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[UX Design Intern - Fall 2026](https://jobright.ai/jobs/info/69a20c3d0da45516f16b556a?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
@@ -80,7 +81,7 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69bdcf4c393a1008f74379f1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 20 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/69bdccc5b10602456283093d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Starburst](https://www.starburst.io)** | **[User Experience Intern](https://jobright.ai/jobs/info/69bdc93d393a1008f7436735?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Mar 20 |
-| **[Forest Friends Innovation Studio](https://forestfriendsinnovation.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69be101e482822729300c20e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 20 |
+| **[Forest Friends Innovation Studio](https://www.linkedin.com/company/102071595)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69be101e482822729300c20e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 20 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bde386393a1008f743b835?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69bdbbcb4828227293001a1e?utm_campaign=1049&utm_source=git)** | NYC, NY | Remote, USA | Remote | Mar 20 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/6976e084bc8e722e7b1b55d8?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bc74eb5b89c002acf233fb?utm_campaign=1049&utm_source=git)** | Bellevue, Washington | On Site | Mar 19 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69bc6f7445e08b3dc1f9231b?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Mar 19 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bc6a615b89c002acf2137d?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 19 |
-| **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc69d15b89c002acf21184?utm_campaign=1049&utm_source=git)** | USA - MA - Chelmsford | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
