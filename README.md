@@ -115,10 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bd4fd7b106024562823d27?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 20 |
 | **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a0ede281476f6176bb4a89?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 20 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0c03881476f6176bb0ca6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 20 |
-| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Web Designer Intern](https://jobright.ai/jobs/info/69be4137393a1008f7442937?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | Mar 20 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Digital Creative Intern](https://jobright.ai/jobs/info/69a108526b458d060735be8b?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 20 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/698539038da7a612045fa38e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/69be2d84b1060245628393b9?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 20 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Art Intern](https://jobright.ai/jobs/info/69a5eda8b600907a962bb93f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6988003f0f6f7e7a2ce333cd?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Mar 20 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
@@ -156,5 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d0537ce78e77b4fe1d0c5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Mar 19 |
 | **[Trilon Group](https://www.trilongroup.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69bc5c3b5b89c002acf1f0de?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 19 |
 | **[Delta Plumbers Inc.](https://www.deltaplumbersinc.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69bc58f045e08b3dc1f8e143?utm_campaign=1049&utm_source=git)** | Concord, ON | Hybrid | Mar 19 |
-| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69bc586a5b89c002acf1e69f?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 19 |
+| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc58185b89c002acf1e454?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 19 |
+| **[GSW, powered by Syneos Health](http://www.gsw-w.com)** | **[Intern - Creative](https://jobright.ai/jobs/info/699ffc3053d97f23ee65993e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
+| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc4fbe4828227293fdf260?utm_campaign=1049&utm_source=git)** | Toledo, OH | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
