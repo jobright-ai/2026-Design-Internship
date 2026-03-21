@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bdf06cb106024562834f0b?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Mar 20 |
+| **[Age of Learning](http://www.ageoflearning.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69bdf061b106024562834eed?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69bdd8f4b106024562832f8a?utm_campaign=1049&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 20 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69bdd506b10602456283232a?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Community Bank, N.A.](https://cbna.com/locations/naples)** | **[Design Intern](https://jobright.ai/jobs/info/69bdd11fb1060245628313b4?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Mar 20 |
@@ -65,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69bdcf4c393a1008f74379f1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Mar 20 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/69bdccc5b10602456283093d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Starburst](https://www.starburst.io)** | **[User Experience Intern](https://jobright.ai/jobs/info/69bdc93d393a1008f7436735?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Mar 20 |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bde386393a1008f743b835?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
 | **[Impiricus](https://impiricus.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69bdbbcb4828227293001a1e?utm_campaign=1049&utm_source=git)** | NYC, NY | Remote, USA | Remote | Mar 20 |
 | **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/6976e084bc8e722e7b1b55d8?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Mar 20 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/69bdab5eb10602456282a15d?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
@@ -93,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/698507da8da7a612045f5102?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Digital Product Design Intern](https://jobright.ai/jobs/info/698514dd0f6f7e7a2cdf952c?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Mar 20 |
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6985723d0f6f7e7a2ce03878?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | On Site | Mar 20 |
-| **[Gilbert Family Interests](https://www.linkedin.com/company/111820055)** | **[Architectural Interns Needed - Gilbert Aviation](https://jobright.ai/jobs/info/69bd7c9c393a1008f742d6b4?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Newton)](https://jobright.ai/jobs/info/69bc124d5b89c002acf10adc?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Mar 20 |
 | **[Smile Train](https://www.smiletrain.org/)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/69bd7372b106024562825b4f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
 | **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc6c225b89c002acf21d3a?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 19 |
 | ↳ | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc6c0f5b89c002acf21cb5?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
 | **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern, WFW](https://jobright.ai/jobs/info/69bc4bf245e08b3dc1f8bf1a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[GW Home Solutions](https://gwhomesolution.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69bc488b4828227293fde9f8?utm_campaign=1049&utm_source=git)** | Westlake, OH | On Site | Mar 19 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ab92177e1fab39d382fb0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
