@@ -64,7 +64,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Product Design Intern](https://jobright.ai/jobs/info/69851750348f733a5c393f87?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 21 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bec385b106024562843463?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 21 |
 | **[JCPenney](http://jcp.com)** | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69bec37eb106024562843427?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
-| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69bec213393a1008f7449fb5?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 21 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/696eee75350cf4380315e147?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 21 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[Product Designer Internship (AI-Native)](https://jobright.ai/jobs/info/69beab71393a1008f74492f2?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 21 |
 | **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69bc80174828227293fe61f0?utm_campaign=1049&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 19 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Motion Design](https://jobright.ai/jobs/info/69bc7f2845e08b3dc1f93d7c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 19 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/69bc7e2a45e08b3dc1f93cc4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
+| **[TriMech](https://trimech.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc971a4828227293fe7b0e?utm_campaign=1049&utm_source=git)** | Oakville, ON | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
