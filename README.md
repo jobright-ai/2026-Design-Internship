@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[UX Design Internship, Summer 2026](https://jobright.ai/jobs/info/69bdf8c5b106024562835a58?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
+| **[Tencent](https://www.tencent.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69bdf584393a1008f743c78d?utm_campaign=1049&utm_source=git)** | US-California-Los Angeles | On Site | Mar 20 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bdf06cb106024562834f0b?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Mar 20 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69bdf061b106024562834eed?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69bdd8f4b106024562832f8a?utm_campaign=1049&utm_source=git)** | US IL Chicago E. Randolph | Hybrid | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carlisle Construction Materials](https://carlisleconstructionmaterials.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc4e105b89c002acf1c3fc?utm_campaign=1049&utm_source=git)** | Carlisle, PA | On Site | Mar 19 |
 | **[MHTN Architects](http://mhtn.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69bc6c3f5b89c002acf21e52?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Mar 19 |
 | **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc6c225b89c002acf21d3a?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 19 |
-| ↳ | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc6c0f5b89c002acf21cb5?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Mar 19 |
-| **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern, WFW](https://jobright.ai/jobs/info/69bc4bf245e08b3dc1f8bf1a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
