@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 21 |
+| **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Creative Marketing & Graphic Design Intern (Sports & Health Industry)](https://jobright.ai/jobs/info/69bf0809482822729301b7c8?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69a7c95d76bbe83d3afb47b4?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Mar 21 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Mar 21 |
@@ -121,7 +123,6 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Newton)](https://jobright.ai/jobs/info/69bc124d5b89c002acf10adc?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Mar 20 |
 | **[Smile Train](https://www.smiletrain.org/)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/69bd7372b106024562825b4f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
 | **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 20 |
-| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69aa227c9ca4e908ec656b94?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a11c106b458d060735d3d9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69bd6887b106024562824bf2?utm_campaign=1049&utm_source=git)** | Greenland, NH | Hybrid | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69bc80174828227293fe61f0?utm_campaign=1049&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 19 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Motion Design](https://jobright.ai/jobs/info/69bc7f2845e08b3dc1f93d7c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 19 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/69bc7e2a45e08b3dc1f93cc4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
-| **[TriMech](https://trimech.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc971a4828227293fe7b0e?utm_campaign=1049&utm_source=git)** | Oakville, ON | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
