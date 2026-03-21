@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69be0aa4393a1008f743e1c1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Delta Plumbers Inc.](https://www.deltaplumbersinc.com/)** | **[Social Media Content Creator Intern](https://jobright.ai/jobs/info/69bc58f045e08b3dc1f8e143?utm_campaign=1049&utm_source=git)** | Concord, ON | Hybrid | Mar 19 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc58185b89c002acf1e454?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 19 |
 | **[GSW, powered by Syneos Health](http://www.gsw-w.com)** | **[Intern - Creative](https://jobright.ai/jobs/info/699ffc3053d97f23ee65993e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 19 |
-| **[Turner Construction Company](http://www.turnerconstruction.com)** | **[Graphic Design Intern - Summer 2026 (Cleveland, Toledo, and Detroit)](https://jobright.ai/jobs/info/69bc4fbe4828227293fdf260?utm_campaign=1049&utm_source=git)** | Toledo, OH | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
