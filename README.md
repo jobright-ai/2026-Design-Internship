@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c02c8c7798f73e35e4d962?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 22 |
+| **[Mason & Hanger](http://masonandhanger.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986986d0f6f7e7a2ce1a0f1?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Mar 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69c0199f7798f73e35e4cfa6?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 22 |
 | **[Copart](http://www.copart.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a7c13676bbe83d3afb3980?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 22 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/69a812f6d010537e7432653d?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 | ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 19 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69bf62e279e36d3a847bf474?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 19 |
-| **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 19 |
-| **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bcaf8445e08b3dc1f9727a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
