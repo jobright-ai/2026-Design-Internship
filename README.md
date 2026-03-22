@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a5a465fc8624185394ff0?utm_campaign=1049&utm_source=git)** | Everett, WA | Hybrid | Mar 22 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[UX Designer Internship (AI-Native)](https://jobright.ai/jobs/info/69bf9da279e36d3a847c3fb1?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 22 |
 | **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69bf850c7798f73e35e459a1?utm_campaign=1049&utm_source=git)** | Richardson, TX | Remote | Mar 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 21 |
@@ -74,7 +75,9 @@ For a complete list, click the following sortable link below:
 | **[The Minnesota Star Tribune](http://www.startribunecompany.com)** | **[UX Design Intern - Fall 2026](https://jobright.ai/jobs/info/69a20c3d0da45516f16b556a?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 21 |
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Mar 21 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/69bfbd9479e36d3a847c64c6?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Mar 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
+| **[HNI Workplace Furnishings, LLC](https://www.hnicorp.com/careers)** | **[Intern - Architectural Design - Summer 2026](https://jobright.ai/jobs/info/69bfbf8b2c312363dcd284d4?utm_campaign=1049&utm_source=git)** | Muscatine, IA | Hybrid | Mar 21 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69be0aa4393a1008f743e1c1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GovCIO](https://govcio.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bc8d724828227293fe74cb?utm_campaign=1049&utm_source=git)** | US-VA-Fairfax | Remote | Mar 19 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/69bc874a5b89c002acf24439?utm_campaign=1049&utm_source=git)** | Fairfax, VA, US | Remote | Mar 19 |
 | **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc85ed4828227293fe6428?utm_campaign=1049&utm_source=git)** | Chelmsford, MA | Hybrid | Mar 19 |
-| **[MVP Health Care](https://www.mvphealthcare.com)** | **[Intern, CX Research](https://jobright.ai/jobs/info/69bc80905b89c002acf23f2b?utm_campaign=1049&utm_source=git)** | Schenectady, NY | Hybrid | Mar 19 |
-| **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69bc80174828227293fe61f0?utm_campaign=1049&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 19 |
-| **[VML HEALTH](http://vml.com)** | **[Intern - Motion Design](https://jobright.ai/jobs/info/69bc7f2845e08b3dc1f93d7c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
