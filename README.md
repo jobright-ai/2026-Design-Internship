@@ -141,6 +141,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 | ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 19 |
+| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69bf62e279e36d3a847bf474?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 19 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Mar 19 |
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bcaf8445e08b3dc1f9727a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Ops Intern, Photo Studio](https://jobright.ai/jobs/info/69bca57045e08b3dc1f96b17?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Mar 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69bc80174828227293fe61f0?utm_campaign=1049&utm_source=git)** | Canada, Ontario, Toronto | On Site | Mar 19 |
 | **[VML HEALTH](http://vml.com)** | **[Intern - Motion Design](https://jobright.ai/jobs/info/69bc7f2845e08b3dc1f93d7c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 19 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/69bc7e2a45e08b3dc1f93cc4?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 19 |
-| **[TriMech](https://trimech.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc971a4828227293fe7b0e?utm_campaign=1049&utm_source=git)** | Oakville, ON | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
