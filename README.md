@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Design Intern, Summer 2026](https://jobright.ai/jobs/info/69873a878da7a612046250de?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a60a2350cf43803114833?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1d5db0da45516f16b2b20?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Skydio](https://www.skydio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69bc9a4d5b89c002acf25d33?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Mar 19 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Mar 19 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Communications and Graphic Design Outreach Intern](https://jobright.ai/jobs/info/69bc91de4828227293fe76ce?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Mar 19 |
-| **[GovCIO](https://govcio.com)** | **[Design Intern](https://jobright.ai/jobs/info/69bc8d724828227293fe74cb?utm_campaign=1049&utm_source=git)** | US-VA-Fairfax | Remote | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
