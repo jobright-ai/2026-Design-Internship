@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/69a812f6d010537e7432653d?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 22 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Mar 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 22 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959ff03aa05c26e7ab3a81e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Mar 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gresham Smith](http://www.greshamsmith.com)** | **[Life and Work Places Student Intern - Architecture](https://jobright.ai/jobs/info/69bcaf8445e08b3dc1f9727a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 19 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Ops Intern, Photo Studio](https://jobright.ai/jobs/info/69bca57045e08b3dc1f96b17?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Mar 19 |
 | ↳ | **[Merchandising Intern, Design](https://jobright.ai/jobs/info/69bca541e6a0d9792584a6a6?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Mar 19 |
-| **[Parsons Corporation](http://www.parsons.com)** | **[Architectural Intern - Summer 2026](https://jobright.ai/jobs/info/69bca16b4828227293fe8207?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
