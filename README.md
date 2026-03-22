@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jeu de paume](jeudepaume.com)** | **[PR + Graphic Design Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69c0384779e36d3a847ca077?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/69c0349f2c312363dcd2c750?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 22 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c02c8c7798f73e35e4d962?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 22 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986986d0f6f7e7a2ce1a0f1?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Mar 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69c0199f7798f73e35e4cfa6?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69bd054d45e08b3dc1fa0fee?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 20 |
 | ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
-| ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 19 |
-| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69bf62e279e36d3a847bf474?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
