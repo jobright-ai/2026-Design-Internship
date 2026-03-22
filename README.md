@@ -73,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1d5db0da45516f16b2b20?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 22 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a5a465fc8624185394ff0?utm_campaign=1049&utm_source=git)** | Everett, WA | Hybrid | Mar 22 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[UX Designer Internship (AI-Native)](https://jobright.ai/jobs/info/69bf9da279e36d3a847c3fb1?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 22 |
 | **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69bf850c7798f73e35e459a1?utm_campaign=1049&utm_source=git)** | Richardson, TX | Remote | Mar 21 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 21 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69bd054d45e08b3dc1fa0fee?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 20 |
 | ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
+| ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
