@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ConstructConnect](https://ref.constructconnect.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c140262c312363dcd4048a?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | Hybrid | Mar 23 |
+| **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/69c13d3375f7ff1cd80f1d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
+| ↳ | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/69c13d3075f7ff1cd80f1d8a?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 23 |
+| **[ConstructConnect](https://ref.constructconnect.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c13b6175f7ff1cd80f1cb3?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
+| **[volvero](http://www.volvero.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1363575f7ff1cd80f1b66?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Digital Marketing UX Design Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69c12a1079e36d3a847dc771?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Urban Design Landscape Architecture](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 23 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/69a0e2cb0836fe79d861ebff?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
 | **[Polaris Inc.](https://www.polaris.com)** | **[Clay Sculpting Intern](https://jobright.ai/jobs/info/6984143f348f733a5c37e142?utm_campaign=1049&utm_source=git)** | Medina, MN | On Site | Mar 20 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bd4fd7b106024562823d27?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 20 |
-| **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship](https://jobright.ai/jobs/info/69a0ede281476f6176bb4a89?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 20 |
-| **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0c03881476f6176bb0ca6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 20 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Digital Creative Intern](https://jobright.ai/jobs/info/69a108526b458d060735be8b?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 20 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/698539038da7a612045fa38e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
-| **[Quanta Magazine](https://www.quantamagazine.org)** | **[Art Intern](https://jobright.ai/jobs/info/69a5eda8b600907a962bb93f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
