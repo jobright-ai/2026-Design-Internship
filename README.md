@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Urban Design Landscape Architecture](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 23 |
+| **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 23 |
+| **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[Sand Dollar Design](http://www.sanddollardesign.co)** | **[UX / AI Internship (6 months) Remote / Part-Time / Unpaid](https://jobright.ai/jobs/info/69c102642c312363dcd3b681?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Digital Marketing UX Design Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69c0d3a32c312363dcd34bb0?utm_campaign=1049&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 22 |
 | **[Summit Media, LLC](summitmediaak.com)** | **[Social Media & Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0c50d2c312363dcd334e7?utm_campaign=1049&utm_source=git)** | Anchorage, AK | Hybrid | Mar 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/698539038da7a612045fa38e?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Quanta Magazine](https://www.quantamagazine.org)** | **[Art Intern](https://jobright.ai/jobs/info/69a5eda8b600907a962bb93f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6988003f0f6f7e7a2ce333cd?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Mar 20 |
-| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 20 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0a8325218a8167671d4aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 20 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69be6acc393a1008f744640a?utm_campaign=1049&utm_source=git)** | Vaughan, ON | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
