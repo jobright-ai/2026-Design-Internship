@@ -93,6 +93,8 @@ For a complete list, click the following sortable link below:
 | **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 20 |
+| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Web Designer Intern](https://jobright.ai/jobs/info/69c0bad02c312363dcd328a9?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | Mar 20 |
+| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69c0bb022c312363dcd329b2?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69be0aa4393a1008f743e1c1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be03d3b106024562836967?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0a8325218a8167671d4aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 20 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69be6acc393a1008f744640a?utm_campaign=1049&utm_source=git)** | Vaughan, ON | On Site | Mar 20 |
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69bd054d45e08b3dc1fa0fee?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 20 |
-| ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
