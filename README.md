@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69c08b377798f73e35e508ef?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | **[Deion](https://deion.io/)** | **[Semantic Graphic Design Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/69c087152c312363dcd2f214?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 22 |
-| **[Visionaries Film Festival](https://www.VisionariesFilmFestival.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69c07cc879e36d3a847ccf67?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | Remote | Mar 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[PR + Graphic Design Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69c0384779e36d3a847ca077?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/69c0349f2c312363dcd2c750?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 22 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c02c8c7798f73e35e4d962?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69be6acc393a1008f744640a?utm_campaign=1049&utm_source=git)** | Vaughan, ON | On Site | Mar 20 |
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69bd054d45e08b3dc1fa0fee?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 20 |
 | ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
