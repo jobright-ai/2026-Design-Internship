@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 23 |
+| **[Armstrong World Industries](https://www.armstrong.com)** | **[Intern - Product Design/New Product Dev Job](https://jobright.ai/jobs/info/69c1a7742c312363dcd4ce7b?utm_campaign=1049&utm_source=git)** | Lancaster, PA | On Site | Mar 23 |
+| **[HP](http://www.hp.com)** | **[Product Design Intern, Digital - HP IQ](https://jobright.ai/jobs/info/69c1a73075f7ff1cd80ff31f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
+| **[Macmillan](http://macmillan.com)** | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69c1a6f675f7ff1cd80ff2e2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
+| **[Balance Now](https://www.balance.ca)** | **[Designer Team Member](https://jobright.ai/jobs/info/69c1a31675f7ff1cd80fef1d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c19fa879e36d3a847e9c8c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69c19cd02c312363dcd4b58f?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69c19b632c312363dcd4b288?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | On Site | Mar 23 |
 | **[HP](http://www.hp.com)** | **[Product Design Intern, Digital - HP IQ](https://jobright.ai/jobs/info/69c19b0c2c312363dcd4b0f1?utm_campaign=1049&utm_source=git)** | San Francisco, California, United States of America | On Site | Mar 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/69bdccc5b10602456283093d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Starburst](https://www.starburst.io)** | **[User Experience Intern](https://jobright.ai/jobs/info/69bdc93d393a1008f7436735?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Mar 20 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bde386393a1008f743b835?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Mar 20 |
-| **[Impiricus](https://impiricus.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/69bdbbcb4828227293001a1e?utm_campaign=1049&utm_source=git)** | NYC, NY | Remote, USA | Remote | Mar 20 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/6976e084bc8e722e7b1b55d8?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Mar 20 |
-| **[Marquee Brands](http://www.marqueebrands.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/69bdab5eb10602456282a15d?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 20 |
-| **[Dattner Architects](http://dattner.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69bda93db106024562829c34?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 20 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Summer Multimedia Intern](https://jobright.ai/jobs/info/69bda8cdb106024562829a52?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[UX Design Internship, Summer 2026](https://jobright.ai/jobs/info/69bdc4dc393a1008f7434fd6?utm_campaign=1049&utm_source=git)** | Milwaukee, WI Corporate | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
