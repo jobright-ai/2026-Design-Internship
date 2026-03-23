@@ -57,10 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Summit Media, LLC](summitmediaak.com)** | **[Social Media & Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0c50d2c312363dcd334e7?utm_campaign=1049&utm_source=git)** | Anchorage, AK | Hybrid | Mar 22 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69c0bdd42c312363dcd32cd4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69c08b377798f73e35e508ef?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
 | **[Deion](https://deion.io/)** | **[Semantic Graphic Design Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/69c087152c312363dcd2f214?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[PR + Graphic Design Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69c0384779e36d3a847ca077?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/69c0349f2c312363dcd2c750?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Mar 22 |
 | **[Total Quality Logistics](http://www.tql.com/)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c02c8c7798f73e35e4d962?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Mar 22 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Interior Design Summer Intern](https://jobright.ai/jobs/info/6986986d0f6f7e7a2ce1a0f1?utm_campaign=1049&utm_source=git)** | Lexington, KY | On Site | Mar 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69c0199f7798f73e35e4cfa6?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 22 |
@@ -92,9 +93,6 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
-| **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 20 |
-| **[Vivacity Tech PBC](https://vivacitytech.com)** | **[Web Designer Intern](https://jobright.ai/jobs/info/69c0bad02c312363dcd328a9?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | Mar 20 |
-| **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69c0bb022c312363dcd329b2?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 | **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69be0aa4393a1008f743e1c1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be03d3b106024562836967?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
@@ -140,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[The Chefs'​ Warehouse](https://www.chefswarehouse.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6985723d0f6f7e7a2ce03878?utm_campaign=1049&utm_source=git)** | Ridgefield, CT | On Site | Mar 20 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Newton)](https://jobright.ai/jobs/info/69bc124d5b89c002acf10adc?utm_campaign=1049&utm_source=git)** | Newton, MA | On Site | Mar 20 |
 | **[Smile Train](https://www.smiletrain.org/)** | **[Intern, Digital Asset Management](https://jobright.ai/jobs/info/69bd7372b106024562825b4f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Mar 20 |
+| **[The Harbinger Group](https://theharbingergroup.com/)** | **[Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 20 |
 | **[Rakuten Advertising](https://rakutenadvertising.com/)** | **[Intern - Creative Technology](https://jobright.ai/jobs/info/69a11c106b458d060735d3d9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 20 |
 | **[Cole Haan](http://www.colehaan.com)** | **[Footwear Design Intern](https://jobright.ai/jobs/info/69bd6887b106024562824bf2?utm_campaign=1049&utm_source=git)** | Greenland, NH | Hybrid | Mar 20 |
 | **[Scientific American](http://www.scientificamerican.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/69a0cf955218a8167671fa82?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a0a8325218a8167671d4aa?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Mar 20 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69be6acc393a1008f744640a?utm_campaign=1049&utm_source=git)** | Vaughan, ON | On Site | Mar 20 |
 | **[AHBL Inc.](http://ahbl.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69bd054d45e08b3dc1fa0fee?utm_campaign=1049&utm_source=git)** | Tacoma, WA | On Site | Mar 20 |
+| ↳ | **[Intern - Landscape Architecture (Seattle)](https://jobright.ai/jobs/info/69bd054345e08b3dc1fa0fd5?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
