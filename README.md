@@ -57,13 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The F* Word](https://thefword.ai/)** | **[Featured Fashion Designer Program AI (8 days)](https://jobright.ai/jobs/info/69c2824d94007a2195de5f84?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 24 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 24 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/69a6178c0da45516f16ef960?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Mar 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69a5e0cf0da45516f16ea409?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
+| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c27a34ec22f8310ab04800?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69c248e32c312363dcd5e3c9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Torrance) | On Site | Mar 24 |
-| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c238b3c9ad035e829aec9b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
+| **[Nextdoor](http://nextdoor.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69c27ac594007a2195de575c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69c238b3c9ad035e829aec9b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: User Experience Designer](https://jobright.ai/jobs/info/69c235002c312363dcd5ca93?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Mar 23 |
+| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69c27ab794007a2195de572e?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Mar 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 23 |
 | ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 23 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c212092c312363dcd59e91?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69c20ac175f7ff1cd810ad56?utm_campaign=1049&utm_source=git)** | Austin,TX | On Site | Mar 23 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/69c20a17c9ad035e829a86e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
-| **[Nextdoor](http://nextdoor.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69c1f8abc9ad035e829a59dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Graphic Design Intern (AI-Driven Creative)-  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69c1d96879e36d3a847eeb7e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
 | **[20/20 Management](http://2020management.org/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/69c1d3752c312363dcd50c2e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69a7c95d76bbe83d3afb47b4?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Mar 21 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Mar 21 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bec385b106024562843463?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 21 |
-| **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/696eee75350cf4380315e147?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Mar 21 |
-| **[Ignite Digital](https://ignite-digital.com)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6986dbcf8ca8121a3a6963d5?utm_campaign=1049&utm_source=git)** | Charleston, South Carolina Metropolitan Area | Hybrid | Mar 21 |
-| **[Zoox](https://www.zoox.com/)** | **[Design Systems Intern](https://jobright.ai/jobs/info/69a17c76b600907a9627eb73?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
