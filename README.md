@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69c248e32c312363dcd5e3c9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Torrance) | On Site | Mar 24 |
 | **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c238b3c9ad035e829aec9b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: User Experience Designer](https://jobright.ai/jobs/info/69c235002c312363dcd5ca93?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Mar 23 |
 | **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 23 |
@@ -99,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Unique Industries](https://www.favors.com/)** | **[Creative Intern - Mock-up](https://jobright.ai/jobs/info/69c1875e79e36d3a847e6585?utm_campaign=1049&utm_source=git)** | Philadelphia, Philadelphia, PA, US | On Site | Mar 23 |
 | **[RxBenefits, Inc.](http://rxbenefits.com)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/69c1875e79e36d3a847e658b?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Destinations Communications Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c1867c79e36d3a847e6151?utm_campaign=1049&utm_source=git)** | Celebration, FL, USA | On Site | Mar 23 |
-| **[Lenovo](https://www.lenovo.com/in/en/)** | **[Ecommerce Design Intern - Summer 2026](https://jobright.ai/jobs/info/6990bbfd6ea51a7610f3393f?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Mar 23 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69c1832d2c312363dcd4714e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | Hybrid | Mar 23 |
 | **[iHeartMedia](http://iheartmedia.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6968330a639b452fb57dcdbf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[RS&H](http://www.rsandh.com/)** | **[Landscape Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/691d881cbcdbf3560c9f1993?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Mar 23 |
