@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Revilo Technologies](www.reviloautocare.com)** | **[Graphic Design Intern (AI-Driven Creative)-  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69c1d96879e36d3a847eeb7e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
+| **[20/20 Management](http://2020management.org/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/69c1d3752c312363dcd50c2e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 23 |
 | **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69c1cbdf79e36d3a847edabc?utm_campaign=1049&utm_source=git)** | South Bend, IN | On Site | Mar 23 |
 | **[Yale Appliance](http://yaleappliance.com)** | **[Intern](https://jobright.ai/jobs/info/69c1cb702c312363dcd4fc4a?utm_campaign=1049&utm_source=git)** | Norton, MA, US | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c1c9d679e36d3a847ed6f9?utm_campaign=1049&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Armstrong World Industries](https://www.armstrong.com)** | **[Intern - Product Design/New Product Dev Job](https://jobright.ai/jobs/info/69c1a7742c312363dcd4ce7b?utm_campaign=1049&utm_source=git)** | Lancaster, PA | On Site | Mar 23 |
 | **[HP](http://www.hp.com)** | **[Product Design Intern, Digital - HP IQ](https://jobright.ai/jobs/info/69c1a73075f7ff1cd80ff31f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 | **[Macmillan](http://macmillan.com)** | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69c1a6f675f7ff1cd80ff2e2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Balance Now](https://www.balance.ca)** | **[Designer Team Member](https://jobright.ai/jobs/info/69c1a31675f7ff1cd80fef1d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c19fa879e36d3a847e9c8c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Storey Design Internship](https://jobright.ai/jobs/info/69c1bc0879e36d3a847ec6d3?utm_campaign=1049&utm_source=git)** | Remote, Remote | Remote | Mar 23 |
 | **[PBS](http://www.pbs.org)** | **[Intern (PBS KIDS Initiatives & Creative Production)](https://jobright.ai/jobs/info/69c19cd02c312363dcd4b58f?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 23 |
@@ -107,17 +109,14 @@ For a complete list, click the following sortable link below:
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/69c13d3375f7ff1cd80f1d8f?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | ↳ | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/69c13d3075f7ff1cd80f1d8a?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 23 |
 | **[ConstructConnect](https://ref.constructconnect.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c13b6175f7ff1cd80f1cb3?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | Hybrid | Mar 23 |
-| **[volvero](http://www.volvero.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1363575f7ff1cd80f1b66?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Digital Marketing UX Design Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69c12a1079e36d3a847dc771?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 23 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Summer Intern - Urban Design Landscape Architecture](https://jobright.ai/jobs/info/698778e58da7a612046295de?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 23 |
 | **[Pophouse](http://www.pophouse.design/)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6987a6450f6f7e7a2ce2df85?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 23 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Digital Marketing UX Design Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69c0d3a32c312363dcd34bb0?utm_campaign=1049&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 22 |
 | **[Summit Media, LLC](summitmediaak.com)** | **[Social Media & Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0c50d2c312363dcd334e7?utm_campaign=1049&utm_source=git)** | Anchorage, AK | Hybrid | Mar 22 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69c0bdd42c312363dcd32cd4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69c1e2e42c312363dcd51844?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69c19cde79e36d3a847e9576?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
-| **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69c08b377798f73e35e508ef?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 22 |
-| **[Deion](https://deion.io)** | **[Semantic Graphic Design Engineering Intern - Undergraduate](https://jobright.ai/jobs/info/69c087152c312363dcd2f214?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 22 |
 | **[Archinect](https://archinect.com)** | **[Summer Architectural Design Intern](https://jobright.ai/jobs/info/69c1b2df79e36d3a847eb7fc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Intern-to-Hire – Jan.'26)](https://jobright.ai/jobs/info/69c18d8d75f7ff1cd80fb348?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | Hybrid | Mar 22 |
 | **[Jeu de paume](jeudepaume.com)** | **[PR + Graphic Design Tennis Activewear Brand Intern](https://jobright.ai/jobs/info/69c0384779e36d3a847ca077?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[UX Design Internship, Summer 2026](https://jobright.ai/jobs/info/69bdf8c5b106024562835a58?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
 | **[Tencent](https://www.tencent.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69bdf584393a1008f743c78d?utm_campaign=1049&utm_source=git)** | US-California-Los Angeles | On Site | Mar 20 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bdf06cb106024562834f0b?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Mar 20 |
+| **[Age of Learning](http://www.ageoflearning.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69bdf061b106024562834eed?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
