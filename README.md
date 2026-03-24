@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bonjour Girls](https://bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa0f75f7ff1cd8106574?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 23 |
+| **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
+| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c1f8acc9ad035e829a59e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
+| ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/69c1f8abc9ad035e829a59dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
+| **[Ambarella Inc](http://ambarella.com)** | **[AI Agent UX design Intern](https://jobright.ai/jobs/info/69c1f2c775f7ff1cd8105899?utm_campaign=1049&utm_source=git)** | US Headquarters | On Site | Mar 23 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Graphic Design Intern (AI-Driven Creative)-  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69c1d96879e36d3a847eeb7e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
 | **[20/20 Management](http://2020management.org/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/69c1d3752c312363dcd50c2e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 23 |
 | **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69c1cbdf79e36d3a847edabc?utm_campaign=1049&utm_source=git)** | South Bend, IN | On Site | Mar 23 |
 | **[Yale Appliance](http://yaleappliance.com)** | **[Intern](https://jobright.ai/jobs/info/69c1cb702c312363dcd4fc4a?utm_campaign=1049&utm_source=git)** | Norton, MA, US | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c1c9d679e36d3a847ed6f9?utm_campaign=1049&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
+| **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Storey Design Internship](https://jobright.ai/jobs/info/69c201012c312363dcd54e11?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26979e36d3a847ecfd6?utm_campaign=1049&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 23 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69c1c2352c312363dcd4f32b?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 23 |
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/69c1bed52c312363dcd4eadc?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 21 |
 | **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
 | **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
-| **[Blue Cross Blue Shield Association](http://www.bcbs.com/)** | **[Summer Associate Intern-UX Design/Web Development](https://jobright.ai/jobs/info/69be0aa4393a1008f743e1c1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 20 |
-| **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be03d3b106024562836967?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[UX Design Internship, Summer 2026](https://jobright.ai/jobs/info/69bdf8c5b106024562835a58?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 20 |
-| **[Tencent](https://www.tencent.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69bdf584393a1008f743c78d?utm_campaign=1049&utm_source=git)** | US-California-Los Angeles | On Site | Mar 20 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69bdf06cb106024562834f0b?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Mar 20 |
-| **[Age of Learning](http://www.ageoflearning.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69bdf061b106024562834eed?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
