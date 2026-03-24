@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c238b3c9ad035e829aec9b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP: User Experience Designer](https://jobright.ai/jobs/info/69c235002c312363dcd5ca93?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Mar 23 |
+| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 23 |
+| ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 23 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c212092c312363dcd59e91?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
 | **[GlobalLogic](http://www.globallogic.com)** | **[Product Design Intern IRC291891](https://jobright.ai/jobs/info/69c20bb9c9ad035e829a9fd5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69c20ac175f7ff1cd810ad56?utm_campaign=1049&utm_source=git)** | Austin,TX | On Site | Mar 23 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/69c20a17c9ad035e829a86e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Bonjour Girls](https://bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa0f75f7ff1cd8106574?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
-| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c1f8acc9ad035e829a59e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
-| ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/69c1f8abc9ad035e829a59dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
-| **[Ambarella Inc](http://ambarella.com)** | **[AI Agent UX design Intern](https://jobright.ai/jobs/info/69c1f2c775f7ff1cd8105899?utm_campaign=1049&utm_source=git)** | US Headquarters | On Site | Mar 23 |
+| **[Nextdoor](http://nextdoor.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69c1f8abc9ad035e829a59dd?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[Graphic Design Intern (AI-Driven Creative)-  U.S.-Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69c1d96879e36d3a847eeb7e?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
 | **[20/20 Management](http://2020management.org/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/69c1d3752c312363dcd50c2e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 23 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 23 |
 | **[CME Group](http://www.cmegroup.com)** | **[Digital Marketing UX Design Intern - Summer & Fall 2026](https://jobright.ai/jobs/info/69c0d3a32c312363dcd34bb0?utm_campaign=1049&utm_source=git)** | Chicago - 20 S. Wacker | On Site | Mar 22 |
 | **[Summit Media, LLC](summitmediaak.com)** | **[Social Media & Content Creation Intern (Summer 2026)](https://jobright.ai/jobs/info/69c0c50d2c312363dcd334e7?utm_campaign=1049&utm_source=git)** | Anchorage, AK | Hybrid | Mar 22 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69c1e2e42c312363dcd51844?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69c19cde79e36d3a847e9576?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Archinect](https://archinect.com)** | **[Summer Architectural Design Intern](https://jobright.ai/jobs/info/69c1b2df79e36d3a847eb7fc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 22 |
 | **[Sleeper](https://sleeper.com)** | **[Product Designer (Intern-to-Hire – Jan.'26)](https://jobright.ai/jobs/info/69c18d8d75f7ff1cd80fb348?utm_campaign=1049&utm_source=git)** | California, Oregon, Nevada, Washington | Hybrid | Mar 22 |
