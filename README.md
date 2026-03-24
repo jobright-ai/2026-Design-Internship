@@ -57,6 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69c2ada194007a2195de9710?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Mar 24 |
+| **[Brunner](http://brunnerworks.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69c2ad5dec22f8310ab08915?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
+| **[Bertrand Wheeler Architecture Inc.](http://bertrandwheeler.ca)** | **[Intermediate Intern Architect (2+ Years Experience)](https://jobright.ai/jobs/info/69c2aa06ec22f8310ab085e2?utm_campaign=1049&utm_source=git)** | North Bay, ON | On Site | Mar 24 |
+| **[Entrata](https://www.entrata.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bd9b894828227293ffd61b?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Mar 24 |
+| **[Mortenson](https://www.mortenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a679d9d706a731db38683c?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Mar 24 |
+| **[LAIKA Studios](https://laika.com/)** | **[Storyboard Artist Intern](https://jobright.ai/jobs/info/69a6032eb600907a962bdcdc?utm_campaign=1049&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
+| **[volvero](http://www.volvero.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c2a327ec22f8310ab082c4?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 24 |
+| **[Morning Brew](https://www.morningbrew.com)** | **[Intern, Product Design and Research](https://jobright.ai/jobs/info/69c2a04294007a2195de9039?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 24 |
+| **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c29be2753c101b2155e351?utm_campaign=1049&utm_source=git)** | Celebration, FL | On Site | Mar 24 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Store Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c29bc094007a2195de8c05?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 24 |
+| **[ALO](https://www.aloyoga.com/)** | **[Color Design Intern](https://jobright.ai/jobs/info/69a5e7a2359fe034b1d0a2f1?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Mar 24 |
+| **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Store Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c29634ec22f8310ab079b0?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 24 |
+| **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[CRM User Experience Intern](https://jobright.ai/jobs/info/69a6558e2c0d8b0f5cd06f2b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 24 |
 | **[The F* Word](https://thefword.ai/)** | **[Featured Fashion Designer Program AI (8 days)](https://jobright.ai/jobs/info/69c2824d94007a2195de5f84?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Mar 24 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 24 |
@@ -144,17 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern - Aviation & Federal (Chesapeake/Roanoke)](https://jobright.ai/jobs/info/69a812f6d010537e7432653d?utm_campaign=1049&utm_source=git)** | Norfolk, VA | On Site | Mar 22 |
 | **[HOK](http://www.hok.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/6986beb28ca8121a3a692c08?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Mar 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6959ff03aa05c26e7ab3a81e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | On Site | Mar 22 |
-| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Industrial Design Intern, Summer 2026](https://jobright.ai/jobs/info/69873a878da7a612046250de?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | Mar 22 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a60a2350cf43803114833?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 22 |
-| **[Shield AI](http://www.shield.ai)** | **[Graphic Design Intern - 2026 Summer Intern (R4111)](https://jobright.ai/jobs/info/69a1d5db0da45516f16b2b20?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 22 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Digital Design, Campaigns & Activations](https://jobright.ai/jobs/info/696ac0ca350cf4380311ceb2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 22 |
-| **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/696a5a465fc8624185394ff0?utm_campaign=1049&utm_source=git)** | Everett, WA | Hybrid | Mar 22 |
-| **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69bf850c7798f73e35e459a1?utm_campaign=1049&utm_source=git)** | Richardson, TX | Remote | Mar 21 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 21 |
-| **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 21 |
-| **[IGS Energy](http://www.igsenergy.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69a7c95d76bbe83d3afb47b4?utm_campaign=1049&utm_source=git)** | Ohio, United States | Remote | Mar 21 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | Mar 21 |
-| **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69bec385b106024562843463?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Mar 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
