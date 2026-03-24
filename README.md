@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GlobalLogic](http://www.globallogic.com)** | **[Product Design Intern IRC291891](https://jobright.ai/jobs/info/69c20bb9c9ad035e829a9fd5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69c20ac175f7ff1cd810ad56?utm_campaign=1049&utm_source=git)** | Austin,TX | On Site | Mar 23 |
+| **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/69c20a17c9ad035e829a86e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
 | **[Bonjour Girls](https://bonjourgirls.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa0f75f7ff1cd8106574?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
 | **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c1f8acc9ad035e829a59e1?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NetSuite](https://www.netsuite.com/portal/home.shtml)** | **[NetSuite Creative Team Intern](https://jobright.ai/jobs/info/69867fdf0f6f7e7a2ce17f91?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | Mar 21 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/6986afa38ca8121a3a690e1d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 21 |
 | **[Camping World](https://investor.campingworld.com)** | **[Visual Marketing Intern](https://jobright.ai/jobs/info/69855ba18da7a612045fdf6e?utm_campaign=1049&utm_source=git)** | Bowling Green, KY | On Site | Mar 21 |
-| **[The Harbinger Group](https://theharbingergroup.com/)** | **[Summer Graphic & Video Editing Internship](https://jobright.ai/jobs/info/69bd779d4828227293ffb121?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 21 |
-| **[Guild](https://www.guild.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69be2729393a1008f7440655?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 20 |
-| **[Reservoir Media Management, Inc.](https://www.reservoir-media.com/)** | **[2026 Summer Internship: Creative](https://jobright.ai/jobs/info/69be0d24b106024562836f41?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
