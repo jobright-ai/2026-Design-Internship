@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gen](https://www.gendigital.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69bf6e6779e36d3a847c0d74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69bfbd7079e36d3a847c6463?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Mar 25 |
+| **[AAAS](http://www.aaas.org/)** | **[Data Viz & Graphics Intern](https://jobright.ai/jobs/info/698c1fa4e4f6572f0e441cf7?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
 | **[BUCK](https://buck.co/)** | **[3D Apprenticeship](https://jobright.ai/jobs/info/69c3c0566f4f855eeda5df3f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Mar 25 |
 | ↳ | **[Design Apprentice / Branding](https://jobright.ai/jobs/info/69c3bfefd5a1016e98da8dbe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 25 |
 | ↳ | **[Design Apprentice / Branding](https://jobright.ai/jobs/info/69c3bfe133eecf310793a086?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Mar 25 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c30da2753c101b21568a58?utm_campaign=1049&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | Mar 24 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69c2ef6894007a2195df0950?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 24 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c30d00753c101b215689ce?utm_campaign=1049&utm_source=git)** | Mississauga, ON, Canada | Remote | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b15?utm_campaign=1049&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
-| ↳ | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b20?utm_campaign=1049&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b20?utm_campaign=1049&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| ↳ | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b15?utm_campaign=1049&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69c2ebd5753c101b2156582f?utm_campaign=1049&utm_source=git)** | White Plains, New York, United States | Hybrid | Mar 24 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a75dd32672cb0acb4bd120?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Glass Staircase](https://www.glassstaircase.org)** | **[Creative Agency Internship - Team Assistant](https://jobright.ai/jobs/info/69c2e42594007a2195def369?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 24 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/69c20a17c9ad035e829a86e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
 | **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
 | **[Marquee Brands](http://www.marqueebrands.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/69c31bff94007a2195df573c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
-| **[Sentinel Group](http://sentinelgroup.com)** | **[Design Summer Internship 2026](https://jobright.ai/jobs/info/69c2c461753c101b215610a5?utm_campaign=1049&utm_source=git)** | Wakefield, MA | On Site | Mar 23 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
-| **[University of Florida](https://www.ufl.edu)** | **[Student Assistant - Graphic Designer](https://jobright.ai/jobs/info/69c2e89f753c101b21564e47?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
