@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c36eb4753c101b215733da?utm_campaign=1049&utm_source=git)** | Tustin, CA | On Site | Mar 24 |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[UX Designer (Product + AI) Intern](https://jobright.ai/jobs/info/69c36e927a7a0045db892c0f?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 24 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
+| **[Transcarent](https://www.transcarent.com)** | **[Marketing Production Design Intern (Digital and Print)](https://jobright.ai/jobs/info/69c36a86753c101b215730ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69c365b794007a2195dfd436?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[Website and Brand UX Internship (Remote, 2-5hrs/week)](https://jobright.ai/jobs/info/69c35d017a7a0045db891002?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Mar 24 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Mar 24 |
@@ -146,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer 1](https://jobright.ai/jobs/info/69c1d77d79e36d3a847ee92d?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 23 |
 | **[University of Florida](https://www.ufl.edu)** | **[Student Assistant - Graphic Designer](https://jobright.ai/jobs/info/69c2e89f753c101b21564e47?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Mar 23 |
 | **[Abonmarche](http://abonmarche.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69c1cbdf79e36d3a847edabc?utm_campaign=1049&utm_source=git)** | South Bend, IN | On Site | Mar 23 |
-| **[Yale Appliance](http://yaleappliance.com)** | **[Intern](https://jobright.ai/jobs/info/69c1cb702c312363dcd4fc4a?utm_campaign=1049&utm_source=git)** | Norton, MA, US | On Site | Mar 23 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c1c9d679e36d3a847ed6f9?utm_campaign=1049&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Storey Design Internship](https://jobright.ai/jobs/info/69c201012c312363dcd54e11?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26979e36d3a847ecfd6?utm_campaign=1049&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rakuten Kobo Inc.](http://www.kobo.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/69c1bed52c312363dcd4eadc?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Consumer Products Retail Store Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c1bbe92c312363dcd4e76b?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, USA | On Site | Mar 23 |
 | **[Hearst Magazines](http://www.hearst.com/magazines)** | **[Intern - Visuals Group](https://jobright.ai/jobs/info/69c1b3aa75f7ff1cd8100072?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[New York Post](http://nypost.com/)** | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69a769f12672cb0acb4bdf99?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
-| **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699ffa9081476f6176b9ed62?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Mar 23 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
