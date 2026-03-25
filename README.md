@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69ab26d32747003c3d50c4fa?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
+| **[Dometic](https://www.dometic.com)** | **[Content Designer Intern](https://jobright.ai/jobs/info/69c3dfa9d5a1016e98dacf8d?utm_campaign=1049&utm_source=git)** | Elkhart, IN | Hybrid | Mar 25 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a9247579f3f4037f43dd17?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 25 |
+| **[Richemont](https://www.richemont.com/)** | **[Intern, IT Client Experience](https://jobright.ai/jobs/info/69a72bee2672cb0acb4b9a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69bf6e6779e36d3a847c0d74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69bfbd7079e36d3a847c6463?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Mar 25 |
 | **[AAAS](http://www.aaas.org/)** | **[Data Viz & Graphics Intern](https://jobright.ai/jobs/info/698c1fa4e4f6572f0e441cf7?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 25 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 23 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c212092c312363dcd59e91?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
 | **[GlobalLogic](http://www.globallogic.com)** | **[Product Design Intern IRC291891](https://jobright.ai/jobs/info/69c20bb9c9ad035e829a9fd5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
-| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69c20ac175f7ff1cd810ad56?utm_campaign=1049&utm_source=git)** | Austin,TX | On Site | Mar 23 |
-| **[DoorDash](http://www.doordash.com)** | **[Product Designer, Intern (Summer 2026)](https://jobright.ai/jobs/info/69c20a17c9ad035e829a86e8?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 23 |
-| **[Avnet](https://www.avnet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c1fa022c312363dcd53f9f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 23 |
-| **[Marquee Brands](http://www.marqueebrands.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/69c31bff94007a2195df573c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
