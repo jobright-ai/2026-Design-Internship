@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69c365b794007a2195dfd436?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
+| **[Kelly Tutors](www.kellytutors.com)** | **[Website and Brand UX Internship (Remote, 2-5hrs/week)](https://jobright.ai/jobs/info/69c35d017a7a0045db891002?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | Mar 24 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Mar 24 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c3430e94007a2195df96d9?utm_campaign=1049&utm_source=git)** | Mississauga, ON | Remote | Mar 24 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69c33c9c753c101b2156e505?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 24 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Summer)](https://jobright.ai/jobs/info/69c2d6d8753c101b2156308e?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 24 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69c2ef4294007a2195df08f5?utm_campaign=1049&utm_source=git)** | Charlotte,NC,US | On Site | Mar 24 |
 | **[Texas ABA Centers](https://www.linkedin.com/company/98057290)** | **[Marketing Creative Services Intern](https://jobright.ai/jobs/info/69c2d0ef753c101b215628d7?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, Florida, United States | On Site | Mar 24 |
-| **[Ergon Inc.](http://ergon.com)** | **[Communications Graphic Design Intern](https://jobright.ai/jobs/info/69c2cfbf94007a2195dec9ed?utm_campaign=1049&utm_source=git)** | Flowood, MS | On Site | Mar 24 |
 | **[Medidata Solutions](https://www.medidata.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b22d9065de58104c71a301?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
 | **[State Street](https://www.statestreet.com/)** | **[Graphic Designer, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c2ccf794007a2195dec319?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts | On Site | Mar 24 |
 | **[Docusign](http://www.docusign.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a682dae567421f425788b9?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New York Post](http://nypost.com/)** | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69a769f12672cb0acb4bdf99?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 23 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699ffa9081476f6176b9ed62?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Mar 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 23 |
-| **[Armstrong World Industries](https://www.armstrong.com)** | **[Intern - Product Design/New Product Dev Job](https://jobright.ai/jobs/info/69c1a7742c312363dcd4ce7b?utm_campaign=1049&utm_source=git)** | Lancaster, PA | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
