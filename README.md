@@ -57,9 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Researcher](https://jobright.ai/jobs/info/69a92aa879f3f4037f43e8fe?utm_campaign=1049&utm_source=git)** | Waltham, MA | Remote | Mar 25 |
+| **[RDH Architects Inc.](https://www.rdharch.com)** | **[Architect or Intern Architect with Minimum 5 Years Post Graduate Experience](https://jobright.ai/jobs/info/69c3fc356f4f855eeda6562c?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 25 |
+| **[CPL](http://www.cplteam.com)** | **[Architecture Intern - Community and Culture Practice](https://jobright.ai/jobs/info/69c3f59f33eecf31079411df?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
+| **[BBH USA](http://www.bartleboglehegarty.com)** | **[2026 BARN Strategy Internship](https://jobright.ai/jobs/info/69a92fb679f3f4037f43f2c0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
+| **[CRB](https://www.crbgroup.com/)** | **[Architectural Designer Internship (Irvine)](https://jobright.ai/jobs/info/696ffd7b82817106e977189c?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 25 |
+| ↳ | **[Architectural Designer Internship (Raleigh)](https://jobright.ai/jobs/info/696ff7a382817106e97708d1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
+| **[Arbor Homes](https://yourarborhome.com/)** | **[Design Center Consult Intern](https://jobright.ai/jobs/info/696fb47e82817106e976be64?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | Mar 25 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69ab26d32747003c3d50c4fa?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
 | **[Dometic](https://www.dometic.com)** | **[Content Designer Intern](https://jobright.ai/jobs/info/69c3dfa9d5a1016e98dacf8d?utm_campaign=1049&utm_source=git)** | Elkhart, IN | Hybrid | Mar 25 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a9247579f3f4037f43dd17?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 25 |
+| **[Yale University](https://www.yale.edu)** | **[Intern - Graphic Design & Communications](https://jobright.ai/jobs/info/69c3f0cc6f4f855eeda64832?utm_campaign=1049&utm_source=git)** | Whitney Grove Square | Hybrid | Mar 25 |
 | **[Richemont](https://www.richemont.com/)** | **[Intern, IT Client Experience](https://jobright.ai/jobs/info/69a72bee2672cb0acb4b9a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Gen](https://www.gendigital.com)** | **[Intern, Product Design](https://jobright.ai/jobs/info/69bf6e6779e36d3a847c0d74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Meta](https://www.metacareers.com/)** | **[UX Research Scientist Intern, Multimodal Conversation Analyst (PhD)](https://jobright.ai/jobs/info/69bfbd7079e36d3a847c6463?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Mar 25 |
@@ -145,16 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Disney Experiences](https://disneyconnect.com/)** | **[Disney Consumer Products Retail Store Design Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c29634ec22f8310ab079b0?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 24 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[CRM User Experience Intern](https://jobright.ai/jobs/info/69a6558e2c0d8b0f5cd06f2b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Mar 24 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Internship](https://jobright.ai/jobs/info/68e02dcab99ec3563b0cce35?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Mar 24 |
 | **[Monterey Bay Aquarium](http://www.montereybayaquarium.org)** | **[CSUMB Scientific Illustration Internship (September - December)](https://jobright.ai/jobs/info/69a6178c0da45516f16ef960?utm_campaign=1049&utm_source=git)** | Monterey, CA | On Site | Mar 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69a5e0cf0da45516f16ea409?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 24 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c27a34ec22f8310ab04800?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 24 |
 | **[Clear Channel Outdoor](https://clearchanneloutdoor.com/)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69c248e32c312363dcd5e3c9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Torrance) | On Site | Mar 24 |
-| **[Nextdoor](http://nextdoor.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69c27ac594007a2195de575c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69c238b3c9ad035e829aec9b?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 24 |
-| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69c27ab794007a2195de572e?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Mar 23 |
-| **[T-Mobile](https://www.t-mobile.com)** | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcb5394828227293fe98ca?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 23 |
-| ↳ | **[Summer 2026 Employee Products & Experience Designer Intern](https://jobright.ai/jobs/info/69bcc3634828227293feb260?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Mar 23 |
-| **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/69c212092c312363dcd59e91?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Mar 23 |
-| **[GlobalLogic](http://www.globallogic.com)** | **[Product Design Intern IRC291891](https://jobright.ai/jobs/info/69c20bb9c9ad035e829a9fd5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
