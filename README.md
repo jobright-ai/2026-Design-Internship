@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design - Internship](https://jobright.ai/jobs/info/69c391d994007a2195e016d5?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 24 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Planning](https://jobright.ai/jobs/info/69c36eb4753c101b215733da?utm_campaign=1049&utm_source=git)** | Tustin, CA | On Site | Mar 24 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[UX Designer (Product + AI) Intern](https://jobright.ai/jobs/info/69c36e927a7a0045db892c0f?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 24 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
@@ -89,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c30da2753c101b21568a58?utm_campaign=1049&utm_source=git)** | Alpharetta, GA, US, 30009 | Hybrid | Mar 24 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69c2ef6894007a2195df0950?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 24 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c30d00753c101b215689ce?utm_campaign=1049&utm_source=git)** | Mississauga, ON, Canada | Remote | Mar 24 |
-| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b15?utm_campaign=1049&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
-| ↳ | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b20?utm_campaign=1049&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| **[Clark Planetarium](http://www.clarkplanetarium.org)** | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b20?utm_campaign=1049&utm_source=git)** | 84114 | Hybrid | Mar 24 |
+| ↳ | **[Communications and  Multimedia Intern](https://jobright.ai/jobs/info/69c2ed44753c101b21565b15?utm_campaign=1049&utm_source=git)** | US-UT-SALT LAKE CITY | Hybrid | Mar 24 |
 | **[Mast-Jägermeister US, Inc.](http://mastjagermeisterus.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69c2ebd5753c101b2156582f?utm_campaign=1049&utm_source=git)** | White Plains, New York, United States | Hybrid | Mar 24 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a75dd32672cb0acb4bd120?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 24 |
 | **[Glass Staircase](https://www.glassstaircase.org)** | **[Creative Agency Internship - Team Assistant](https://jobright.ai/jobs/info/69c2e42594007a2195def369?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69c1c9d679e36d3a847ed6f9?utm_campaign=1049&utm_source=git)** | Home Office, 225 Varick Street Suite 301, New York, NY 10014 | Hybrid | Mar 23 |
 | **[Hachette Book Group](http://www.hachettebookgroup.com)** | **[Summer 2026 Storey Design Internship](https://jobright.ai/jobs/info/69c201012c312363dcd54e11?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 23 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c1c26979e36d3a847ecfd6?utm_campaign=1049&utm_source=git)** | Austin, Texas (Remote) | Remote | Mar 23 |
-| **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69c1c2352c312363dcd4f32b?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
