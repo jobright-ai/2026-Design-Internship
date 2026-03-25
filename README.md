@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Mar 24 |
+| **[World Vision Canada](https://www.worldvision.ca)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c3430e94007a2195df96d9?utm_campaign=1049&utm_source=git)** | Mississauga, ON | Remote | Mar 24 |
+| **[Michael Baker International](http://mbakerintl.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69c33c9c753c101b2156e505?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 24 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (University of Alabama - Students)](https://jobright.ai/jobs/info/69c3320594007a2195df8590?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/69c33183753c101b2156d888?utm_campaign=1049&utm_source=git)** | Waukesha, WI | Remote | Mar 24 |
 | **[Transcarent](https://www.transcarent.com)** | **[Marketing Production Design Intern (Digital and Print)](https://jobright.ai/jobs/info/69c32ebd753c101b2156ce9c?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Mar 24 |
@@ -110,12 +113,10 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69a6c1101fc3d83b78091d24?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Mar 24 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69c2ada194007a2195de9710?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Mar 24 |
 | **[Brunner](http://brunnerworks.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69c2ad5dec22f8310ab08915?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Mar 24 |
-| **[Bertrand Wheeler Architecture Inc.](http://bertrandwheeler.ca)** | **[Intermediate Intern Architect (2+ Years Experience)](https://jobright.ai/jobs/info/69c2aa06ec22f8310ab085e2?utm_campaign=1049&utm_source=git)** | North Bay, ON | On Site | Mar 24 |
 | **[Entrata](https://www.entrata.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bd9b894828227293ffd61b?utm_campaign=1049&utm_source=git)** | Lehi, UT | Hybrid | Mar 24 |
 | **[Mortenson](https://www.mortenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69a679d9d706a731db38683c?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Mar 24 |
 | **[LAIKA Studios](https://laika.com/)** | **[Storyboard Artist Intern](https://jobright.ai/jobs/info/69a6032eb600907a962bdcdc?utm_campaign=1049&utm_source=git)** | Hillsboro, OR | On Site | Mar 24 |
 | **[Longwell Partners](https://www.longwellpartners.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c2c57394007a2195debc2a?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 24 |
-| **[volvero](http://www.volvero.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c2a327ec22f8310ab082c4?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 24 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disney Destinations Communications Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c2c523ec22f8310ab0aadc?utm_campaign=1049&utm_source=git)** | Celebration, FL | On Site | Mar 24 |
 | **[Morning Brew](https://www.morningbrew.com)** | **[Intern, Product Design and Research](https://jobright.ai/jobs/info/69c2a04294007a2195de9039?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 24 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c29be2753c101b2155e351?utm_campaign=1049&utm_source=git)** | Celebration, FL | On Site | Mar 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699ffa9081476f6176b9ed62?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Mar 23 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Mar 23 |
 | **[Armstrong World Industries](https://www.armstrong.com)** | **[Intern - Product Design/New Product Dev Job](https://jobright.ai/jobs/info/69c1a7742c312363dcd4ce7b?utm_campaign=1049&utm_source=git)** | Lancaster, PA | On Site | Mar 23 |
-| **[HP](http://www.hp.com)** | **[Product Design Intern, Digital - HP IQ](https://jobright.ai/jobs/info/69c1a73075f7ff1cd80ff31f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
