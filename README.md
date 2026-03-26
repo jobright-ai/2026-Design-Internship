@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Symantrix Solutions](https://symantrix.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69c4a3156f4f855eeda7471e?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Mar 25 |
 | **[Henry Ford Health](http://www.henryford.com/)** | **[Architecture Student Intern - Full time - Detroit](https://jobright.ai/jobs/info/69c49a47d5a1016e98dbe886?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 25 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c4882a33eecf310794e187?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 25 |
 | **[Pickleball Kingdom](https://pickleballkingdom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c47f0c6f4f855eeda70f23?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Mar 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 24 |
 | **[Transcarent](https://www.transcarent.com)** | **[Marketing Production Design Intern (Digital and Print)](https://jobright.ai/jobs/info/69c36a86753c101b215730ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 24 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69c365b794007a2195dfd436?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 24 |
-| **[Signature by Natalie](http://signaturebynatalie.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69c378d8753c101b215749b1?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
