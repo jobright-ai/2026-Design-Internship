@@ -57,11 +57,19 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pickleball Kingdom](https://pickleballkingdom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c47f0c6f4f855eeda70f23?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Mar 25 |
+| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/69c473a033eecf310794c527?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69c46f00d5a1016e98dbaa11?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Mar 25 |
+| **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Design Specialist](https://jobright.ai/jobs/info/69c46e8f6f4f855eeda6fb73?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Mar 25 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Print Design Intern](https://jobright.ai/jobs/info/69c46bf56f4f855eeda6f75a?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Mar 25 |
 | **[Gelpac](https://www.gelpac.com/)** | **[DASL Intern](https://jobright.ai/jobs/info/69c464356f4f855eeda6ebd7?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Mar 25 |
 | **[KHAITE](https://khaite.com/)** | **[Design Intern, RTW, Summer 2026](https://jobright.ai/jobs/info/69c460e7d5a1016e98db9585?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Envisionit](https://envisionitagency.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69c45e88d5a1016e98db93a1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
 | **[KHAITE](https://khaite.com/)** | **[Production, Non-Apparel Intern, Summer 2026](https://jobright.ai/jobs/info/69c45e7d33eecf310794aae5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[NetApp](http://netapp.com)** | **[UX Writer Intern](https://jobright.ai/jobs/info/69c451b56f4f855eeda6c659?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Hybrid | Mar 25 |
+| **[Sunshine Terrace Foundation](https://sunshineterrace.org)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69c4710833eecf310794c38f?utm_campaign=1049&utm_source=git)** | Logan, UT | On Site | Mar 25 |
+| **[7 HOLLYWOOD](https://www.linkedin.com/company/83116602)** | **[L.A. FASHION PHOTOGRAPHER - CELEBRITY MAGAZINE - PRODUCTION INTERN](https://jobright.ai/jobs/info/69c4717633eecf310794c3f7?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Mar 25 |
+| **[Roller Rabbit](http://rollerrabbit.com)** | **[Visual Merchandise & Store Design Intern Summer 2026](https://jobright.ai/jobs/info/69c4795c6f4f855eeda709d3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69c44a9833eecf31079481a2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 25 |
 | ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/69c44a5e6f4f855eeda6bc2f?utm_campaign=1049&utm_source=git)** | Murray, UT | Hybrid | Mar 25 |
 | **[Larry H Miller Sports & Entertainment](http://www.lhmse.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c4631a6f4f855eeda6e909?utm_campaign=1049&utm_source=git)** | Sandy, Utah, United States | On Site | Mar 25 |
@@ -89,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 25 |
 | **[Architecture49 Inc.](https://architecture49.com/en/)** | **[Intern, Architect](https://jobright.ai/jobs/info/69a7776676bbe83d3afadbb5?utm_campaign=1049&utm_source=git)** | Ottawa, ON | Hybrid | Mar 25 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69a76e3a2672cb0acb4be481?utm_campaign=1049&utm_source=git)** | Nueces County, TX | On Site | Mar 25 |
-| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c43cb7d5a1016e98db539a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/69c43cc06f4f855eeda6a3af?utm_campaign=1049&utm_source=git)** | North Carolina | On Site | Mar 25 |
+| **[LexisNexis Risk Solutions](https://risk.lexisnexis.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c43cc06f4f855eeda6a3af?utm_campaign=1049&utm_source=git)** | North Carolina | On Site | Mar 25 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/69c43cb7d5a1016e98db539a?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
 | **[TH Experiential](https://thexperiential.com)** | **[Graphic Design Internship Summer 2026](https://jobright.ai/jobs/info/69c4173d6f4f855eeda67264?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 25 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698ab5e8c5761b521a9a074d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[U.S. Naval Academy Alumni Association & Foundation](http://www.usna.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69c435e46f4f855eeda69b87?utm_campaign=1049&utm_source=git)** | 301 King George Street, Annapolis, MD 21402, USA | On Site | Mar 25 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69c33c9c753c101b2156e505?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 24 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (University of Alabama - Students)](https://jobright.ai/jobs/info/69c3320594007a2195df8590?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/69c33183753c101b2156d888?utm_campaign=1049&utm_source=git)** | Waukesha, WI | Remote | Mar 24 |
-| **[Transcarent](https://www.transcarent.com)** | **[Marketing Production Design Intern (Digital and Print)](https://jobright.ai/jobs/info/69c32ebd753c101b2156ce9c?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Mar 24 |
-| **[RONA](http://www.rona.ca/en)** | **[Internship, Packaging Design, Summer 2026](https://jobright.ai/jobs/info/69c32819ec22f8310ab159ed?utm_campaign=1049&utm_source=git)** | Boucherville, QC | Hybrid | Mar 24 |
-| **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Student Web Designer](https://jobright.ai/jobs/info/69c325a2ec22f8310ab156d1?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Mar 24 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c3256cec22f8310ab1559d?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Mar 24 |
-| **[Inpro](http://inpro.co.kr)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c321fdec22f8310ab14ac3?utm_campaign=1049&utm_source=git)** | Muskego, Wisconsin, United States | On Site | Mar 24 |
-| **[Auburn University](https://www.auburn.edu/)** | **[Graduate Assistant - War Eagle Creative](https://jobright.ai/jobs/info/69c377f3753c101b215745f0?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c3774c94007a2195dff61b?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Mar 24 |
-| **[The University of Georgia](http://www.ai.uga.edu)** | **[Graphic Designer (P/T)](https://jobright.ai/jobs/info/69c31c1dec22f8310ab140cc?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
