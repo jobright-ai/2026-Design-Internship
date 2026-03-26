@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c4882a33eecf310794e187?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Mar 25 |
 | **[Pickleball Kingdom](https://pickleballkingdom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c47f0c6f4f855eeda70f23?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Mar 25 |
+| **[TESSERE](http://glmv.com)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/69c496246f4f855eeda73162?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Mar 25 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/69c473a033eecf310794c527?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69c46f00d5a1016e98dbaa11?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Mar 25 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Design Specialist](https://jobright.ai/jobs/info/69c46e8f6f4f855eeda6fb73?utm_campaign=1049&utm_source=git)** | Athens, GA | On Site | Mar 25 |
@@ -66,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Design Intern, RTW, Summer 2026](https://jobright.ai/jobs/info/69c460e7d5a1016e98db9585?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
 | **[Envisionit](https://envisionitagency.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69c45e88d5a1016e98db93a1?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 25 |
 | **[KHAITE](https://khaite.com/)** | **[Production, Non-Apparel Intern, Summer 2026](https://jobright.ai/jobs/info/69c45e7d33eecf310794aae5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 25 |
+| **[TESSERE](http://glmv.com)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/69c48bb56f4f855eeda71e85?utm_campaign=1049&utm_source=git)** | Wichita,KS,US | On Site | Mar 25 |
 | **[NetApp](http://netapp.com)** | **[UX Writer Intern](https://jobright.ai/jobs/info/69c451b56f4f855eeda6c659?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Hybrid | Mar 25 |
 | **[Sunshine Terrace Foundation](https://sunshineterrace.org)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/69c4710833eecf310794c38f?utm_campaign=1049&utm_source=git)** | Logan, UT | On Site | Mar 25 |
 | **[7 HOLLYWOOD](https://www.linkedin.com/company/83116602)** | **[L.A. FASHION PHOTOGRAPHER - CELEBRITY MAGAZINE - PRODUCTION INTERN](https://jobright.ai/jobs/info/69c4717633eecf310794c3f7?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Mar 25 |
@@ -102,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[TH Experiential](https://thexperiential.com)** | **[Graphic Design Internship Summer 2026](https://jobright.ai/jobs/info/69c4173d6f4f855eeda67264?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 25 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/698ab5e8c5761b521a9a074d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[U.S. Naval Academy Alumni Association & Foundation](http://www.usna.com/)** | **[Communications Intern](https://jobright.ai/jobs/info/69c435e46f4f855eeda69b87?utm_campaign=1049&utm_source=git)** | 301 King George Street, Annapolis, MD 21402, USA | On Site | Mar 25 |
-| **[Green Envee](https://www.greenenvee.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c410ee6f4f855eeda66ec9?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | Mar 25 |
 | **[Data Visualization Society](https://www.datavisualizationsociety.com/)** | **[Data Visualization Designer](https://jobright.ai/jobs/info/69c458eb6f4f855eeda6cc62?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 25 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[Summer 2026 Design Internship Program – Philadelphia](https://jobright.ai/jobs/info/69c40cde33eecf3107942729?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Mar 24 |
 | **[World Vision Canada](https://www.worldvision.ca)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c3430e94007a2195df96d9?utm_campaign=1049&utm_source=git)** | Mississauga, ON | Remote | Mar 24 |
 | **[Michael Baker International](http://mbakerintl.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69c33c9c753c101b2156e505?utm_campaign=1049&utm_source=git)** | Santa Ana, CA | On Site | Mar 24 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Interior Design Intern (University of Alabama - Students)](https://jobright.ai/jobs/info/69c3320594007a2195df8590?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Mar 24 |
-| **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/69c33183753c101b2156d888?utm_campaign=1049&utm_source=git)** | Waukesha, WI | Remote | Mar 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
