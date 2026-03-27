@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c6e54d83ea553769fde898?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | Mar 27 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69c6e4d81b5ad02887387e70?utm_campaign=1049&utm_source=git)** | Buffalo, New York, United States | Hybrid | Mar 27 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c6e4bcb773006330b73c0d?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Mar 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c6db08aa3c2c1995e12c67?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX Design Intern (May to August)](https://jobright.ai/jobs/info/698da9aa78b4502f12a463db?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 26 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69a8fc1d2580d3183f012926?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
 | **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c55d831b5ad02887372c69?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
-| **[Woolpert](http://www.woolpert.com)** | **[Architectural Intern - Chicago](https://jobright.ai/jobs/info/69c55d4783ea553769fc9229?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
