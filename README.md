@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69c5c50483ea553769fcf7d3?utm_campaign=1049&utm_source=git)** | Arlington, VA, US, 22209-2323 | On Site | Mar 26 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69c5bf46aa3c2c1995e03db1?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 26 |
 | ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/69c5bea783ea553769fcf245?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 26 |
 | **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Design Intern](https://jobright.ai/jobs/info/69c5ba8a1b5ad028873788dd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 26 |
@@ -69,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[New Home Star](http://newhomestar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c5acbd1818a24cd84b95be?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Mar 26 |
 | **[Primerica](https://www.primerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c5ab3683ea553769fce39b?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Mar 26 |
 | **[FlagSource / JC Schultz Enterprises](https://flagsource.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/69c5a952aa3c2c1995e02a5c?utm_campaign=1049&utm_source=git)** | Batavia, IL | On Site | Mar 26 |
+| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Designer Internship](https://jobright.ai/jobs/info/69c5c4641818a24cd84ba665?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 26 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/69c59db61b5ad02887376af6?utm_campaign=1049&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Mar 26 |
 | **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c59b9883ea553769fcd22e?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Intern - Chicago](https://jobright.ai/jobs/info/69c58aeee565c26a70012014?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 26 |
@@ -118,12 +120,12 @@ For a complete list, click the following sortable link below:
 | **[Nextdoor](http://nextdoor.com)** | **[Brand Design Intern](https://jobright.ai/jobs/info/69c4d28b33eecf310795418f?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 25 |
 | **[Embedding VC](https://embedding.vc)** | **[Product Design Intern 2026](https://jobright.ai/jobs/info/69c4ccee6f4f855eeda7795b?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | Mar 25 |
 | **[Catalyst](https://catalystintro.com/)** | **[Intern - Design/Arizona](https://jobright.ai/jobs/info/69c4cc1ed5a1016e98dc294b?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
-| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69c4cc19d5a1016e98dc2936?utm_campaign=1049&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
 | ↳ | **[Intern - Men's On Point/J Ferrar](https://jobright.ai/jobs/info/69c4cc19d5a1016e98dc292f?utm_campaign=1049&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
+| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69c4cc19d5a1016e98dc2936?utm_campaign=1049&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
 | ↳ | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69c4cc19d5a1016e98dc2927?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 25 |
 | ↳ | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69c4cc19d5a1016e98dc2933?utm_campaign=1049&utm_source=git)** | US-TX-Dallas | Hybrid | Mar 25 |
-| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69c4cc166f4f855eeda77905?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
 | ↳ | **[Intern - Design/Stafford/J Ferrar](https://jobright.ai/jobs/info/69c4cc166f4f855eeda77903?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
+| ↳ | **[Intern Design](https://jobright.ai/jobs/info/69c4cc166f4f855eeda77905?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | Hybrid | Mar 25 |
 | ↳ | **[Intern - Lucky Brand: Design](https://jobright.ai/jobs/info/69c4cc10d5a1016e98dc2913?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Mar 25 |
 | ↳ | **[Intern - Lucky Brand: Design](https://jobright.ai/jobs/info/69c4cc106f4f855eeda778d9?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 25 |
 | ↳ | **[Intern - Aeropostale: Design](https://jobright.ai/jobs/info/69c4cc106f4f855eeda778d8?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Mar 25 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RDH Architects Inc.](https://www.rdharch.com)** | **[Architect or Intern Architect with Minimum 5 Years Post Graduate Experience](https://jobright.ai/jobs/info/69c43f8a6f4f855eeda6a9cc?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer](https://jobright.ai/jobs/info/69a88d9279f3f4037f426818?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Mar 25 |
 | **[BRAINS](http://brainsonfire.com)** | **[BRAINS / Brand Design Internship](https://jobright.ai/jobs/info/69c4357f6f4f855eeda69a3c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 25 |
-| **[Chicago Sky WNBA](http://chicagosky.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c4328b33eecf31079458c2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 25 |
-| **[LexisNexis](http://www.lexisnexis.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/69c4300a6f4f855eeda693d6?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
