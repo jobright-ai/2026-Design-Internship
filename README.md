@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Graphic Design/Communications Intern](https://jobright.ai/jobs/info/69c7d9c3b773006330b7c8ff?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Mar 28 |
+| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UI/Visual Design Intern](https://jobright.ai/jobs/info/69c7d87ab773006330b7c8d3?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c7cc67b773006330b7c0f2?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 28 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69ab2df2142d5b4265fc70d4?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Mar 28 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/695a1f01f1f8465b79f07067?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/69c76375b773006330b78277?utm_campaign=1049&utm_source=git)** | SD Metro Area | On Site | Mar 26 |
 | **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Design Intern](https://jobright.ai/jobs/info/69c5f262e565c26a70016a74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 26 |
-| **[VML HEALTH](http://vml.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/69c5e903e565c26a7001677e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Mar 26 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69c5e4901b5ad0288737a9d3?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
