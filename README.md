@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: FL)](https://jobright.ai/jobs/info/69ab9186142d5b4265fcaadc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 28 |
+| **[Bread](https://www.breadpayments.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c79b2e83ea553769fe4dc3?utm_campaign=1049&utm_source=git)** | Marion County, IN | Hybrid | Mar 28 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Intern](https://jobright.ai/jobs/info/69c759f71b5ad0288738c0dc?utm_campaign=1049&utm_source=git)** | Bluffdale, UT | On Site | Mar 27 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69c767f483ea553769fe3034?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/697c3de11423772304ecb524?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 27 |
@@ -123,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Mar 27 |
 | **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69aa48d71f59c56275e3238d?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Mar 27 |
 | **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8eb80f6f7e7a2ce979a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/69c77f5b1818a24cd84ceaec?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 27 |
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Mar 27 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fa?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | Mar 27 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Happy Returns, a UPS Company](https://www.happyreturns.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69c6de781818a24cd84c946f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Mar 26 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c5cd2c1818a24cd84bb4da?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c5f538aa9a29199e80c164?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| ↳ | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c5f4c883ea553769fd197f?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
