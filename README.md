@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69af4182dfaeda6ff5976294?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | Mar 28 |
+| **[SmithGroup](https://www.smithgroup.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c7f519aa3c2c1995e1c619?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Mar 28 |
 | **[Flex](https://getflex.com)** | **[Senior Brand Designer](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382feac?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
 | ↳ | **[Senior Brand Designer](https://jobright.ai/jobs/info/69ab96a12747003c3d511f26?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Graphic Design/Communications Intern](https://jobright.ai/jobs/info/69c7d9c3b773006330b7c8ff?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 26 |
 | **[Premier Inc.](http://www.premierinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c77f5ee565c26a70029395?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 26 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69c76c60e565c26a70028adc?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 26 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Columbus](https://jobright.ai/jobs/info/69c60ea31818a24cd84bdc01?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 26 |
-| ↳ | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
