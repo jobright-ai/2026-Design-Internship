@@ -62,8 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c7277caa3c2c1995e15b93?utm_campaign=1049&utm_source=git)** | Chandler, AZ | On Site | Mar 27 |
 | **[The Lacek Group](http://www.lacek.com)** | **[Designer Internship](https://jobright.ai/jobs/info/69c7235d1b5ad0288738a713?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c71af5aa3c2c1995e15789?utm_campaign=1049&utm_source=git)** | REMOTE-United States | Remote | Mar 27 |
-| **[Daniel Goldner Architects](http://www.goldnerarchitects.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69c7132f83ea553769fe0728?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c7116db773006330b75a90?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 27 |
+| ↳ | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c7116db773006330b75a90?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/69c71148e565c26a70025a08?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[The Expo At Glen Rose](www.theexpoatglenrose.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69c71020aa3c2c1995e14f4c?utm_campaign=1049&utm_source=git)** | Glen Rose, TX | On Site | Mar 27 |
@@ -150,11 +149,12 @@ For a complete list, click the following sortable link below:
 | **[Happy Returns, a UPS Company](https://www.happyreturns.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69c6de781818a24cd84c946f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Mar 26 |
 | **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c5cd2c1818a24cd84bb4da?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c5f538aa9a29199e80c164?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 26 |
-| ↳ | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c5f5671b5ad0288737b38b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 26 |
 | ↳ | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c5f4c883ea553769fd197f?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 26 |
+| ↳ | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c5f5671b5ad0288737b38b?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 26 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern - Summer 2026](https://jobright.ai/jobs/info/69c5c50483ea553769fcf7d3?utm_campaign=1049&utm_source=git)** | Arlington, VA, US, 22209-2323 | On Site | Mar 26 |
 | **[Premier Lacrosse League](https://www.premierlacrosseleague.com/)** | **[Influencer and Partnerships Internship](https://jobright.ai/jobs/info/69c5ddf01818a24cd84bbebd?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 26 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69c5bf46aa3c2c1995e03db1?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 26 |
 | ↳ | **[Architectural Student Intern](https://jobright.ai/jobs/info/69c5bea783ea553769fcf245?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 26 |
 | **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Design Intern](https://jobright.ai/jobs/info/69c5ba8a1b5ad028873788dd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Mar 26 |
+| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/69c5b9f9aa9a29199e809471?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
