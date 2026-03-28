@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flex](https://getflex.com)** | **[Senior Brand Designer](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382feac?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Mar 28 |
+| ↳ | **[Senior Brand Designer](https://jobright.ai/jobs/info/69ab96a12747003c3d511f26?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 28 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Graphic Design/Communications Intern](https://jobright.ai/jobs/info/69c7d9c3b773006330b7c8ff?utm_campaign=1049&utm_source=git)** | Oakland, CA | Hybrid | Mar 28 |
 | **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UI/Visual Design Intern](https://jobright.ai/jobs/info/69c7d87ab773006330b7c8d3?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 28 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c7cc67b773006330b7c0f2?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Mar 28 |
@@ -78,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[The Lacek Group](http://www.lacek.com)** | **[Designer Internship](https://jobright.ai/jobs/info/69c7235d1b5ad0288738a713?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Mar 27 |
 | **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c71af5aa3c2c1995e15789?utm_campaign=1049&utm_source=git)** | REMOTE-United States | Remote | Mar 27 |
 | **[Stantec](http://www.stantec.com)** | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c76e18b773006330b78ae8?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
+| **[Inpro](http://inpro.co.kr)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c7decfaa3c2c1995e1bd33?utm_campaign=1049&utm_source=git)** | Muskego, WI | On Site | Mar 27 |
 | **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c7116db773006330b75a90?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/69c71148e565c26a70025a08?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
@@ -97,7 +100,6 @@ For a complete list, click the following sortable link below:
 | **[SpyCloud](https://spycloud.com)** | **[Graphic Design Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6fbbeaa3c2c1995e140fa?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c714e91818a24cd84cb6c2?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Mar 27 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69bd946e393a1008f742f345?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 27 |
-| **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX & Web Design Intern 🎨💻⚡ / Unpaid (Portrait Session, Mentorship, Career Coaching, & Networking Opportunities Offered)](https://jobright.ai/jobs/info/69c6f2c1e565c26a70024245?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c6f2adb773006330b74450?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Mar 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c6e54d83ea553769fde898?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | Mar 27 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69c6e4d81b5ad02887387e70?utm_campaign=1049&utm_source=git)** | Buffalo, New York, United States | Hybrid | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69c76c60e565c26a70028adc?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 26 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Columbus](https://jobright.ai/jobs/info/69c60ea31818a24cd84bdc01?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 26 |
 | ↳ | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 26 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/69c76375b773006330b78277?utm_campaign=1049&utm_source=git)** | SD Metro Area | On Site | Mar 26 |
-| **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Design Intern](https://jobright.ai/jobs/info/69c5f262e565c26a70016a74?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
