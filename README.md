@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Education/Science) - Summer 2026](https://jobright.ai/jobs/info/69a28653359fe034b1cdd274?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
+| ↳ | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: FL)](https://jobright.ai/jobs/info/69ab9186142d5b4265fcaadc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 28 |
 | **[Bread](https://www.breadpayments.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c79b2e83ea553769fe4dc3?utm_campaign=1049&utm_source=git)** | Marion County, IN | Hybrid | Mar 28 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Intern](https://jobright.ai/jobs/info/69c759f71b5ad0288738c0dc?utm_campaign=1049&utm_source=git)** | Bluffdale, UT | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Tetra Tech](http://www.tetratech.com)** | **[ARCHITECTURAL INTERNSHIP (SUMMER 2026)](https://jobright.ai/jobs/info/69c5d6a2aa9a29199e80b33e?utm_campaign=1049&utm_source=git)** | Ithaca, New York, United States | Hybrid | Mar 26 |
 | **[Mid-Atlantic Permanente Medical Group | Kaiser Permanente](https://midatlantic.permanente.org)** | **[Professional Development Graphics and Media Intern](https://jobright.ai/jobs/info/69c70b26b773006330b7554f?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 26 |
 | **[Happy Returns, a UPS Company](https://www.happyreturns.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69c6de781818a24cd84c946f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Remote | Mar 26 |
-| **[Omni Hotels & Resorts](http://www.omnihotels.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c5cd2c1818a24cd84bb4da?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 26 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Designer](https://jobright.ai/jobs/info/69c5f538aa9a29199e80c164?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
