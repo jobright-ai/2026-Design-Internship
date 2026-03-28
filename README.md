@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69bd946e393a1008f742f345?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 27 |
+| **[HDR](http://www.hdrinc.com)** | **[Intern Architectural](https://jobright.ai/jobs/info/69c6f6521b5ad02887388c7a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
+| **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX & Web Design Intern 🎨💻⚡ / Unpaid (Portrait Session, Mentorship, Career Coaching, & Networking Opportunities Offered)](https://jobright.ai/jobs/info/69c6f2c1e565c26a70024245?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 27 |
+| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c6f2adb773006330b74450?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Mar 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c6e54d83ea553769fde898?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | Mar 27 |
 | **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69c6e4d81b5ad02887387e70?utm_campaign=1049&utm_source=git)** | Buffalo, New York, United States | Hybrid | Mar 27 |
 | **[Streng Agency](http://www.strengdesign.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c6e4bcb773006330b73c0d?utm_campaign=1049&utm_source=git)** | St Charles, IL | On Site | Mar 27 |
@@ -65,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[Johnson Controls](http://www.johnsoncontrols.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c6d6e4aa3c2c1995e1270f?utm_campaign=1049&utm_source=git)** | Arlington Heights-Illinois-United States of America | Hybrid | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[Graphic Design Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6cfedb773006330b730c5?utm_campaign=1049&utm_source=git)** | Austin, Texas | Hybrid | Mar 27 |
 | **[Corpay](https://payments.corpay.com)** | **[Graphic Design and Multimedia Intern](https://jobright.ai/jobs/info/69c6cf8faa3c2c1995e12447?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Mar 27 |
-| **[Shepley Bulfinch](http://shepleybulfinch.com)** | **[2026 Summer Design Intern Boston (Hybrid)](https://jobright.ai/jobs/info/69c6cf2d83ea553769fdda87?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Mar 27 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 27 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[User Research Intern](https://jobright.ai/jobs/info/69aa69269ca4e908ec65bbd2?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[Pacific Gas and Electric Company](http://www.pgecorp.com)** | **[Graphic Design/Communications Intern](https://jobright.ai/jobs/info/69c6ca1a1818a24cd84c8978?utm_campaign=1049&utm_source=git)** | San Ramon | Hybrid | Mar 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bohler](https://bohlerengineering.com)** | **[Landscape Designer Intern / Summer 2026 / Herndon, VA / Bohler](https://jobright.ai/jobs/info/69c673f5b773006330b70969?utm_campaign=1049&utm_source=git)** | Herndon | On Site | Mar 26 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[ABC News Social Media Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c570acaa9a29199e8048fc?utm_campaign=1049&utm_source=git)** | New York, NY, USA | On Site | Mar 26 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69ab92177e1fab39d382fb0e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Mar 26 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: UX Design Intern (May to August)](https://jobright.ai/jobs/info/698da9aa78b4502f12a463db?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Mar 26 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69a8fc1d2580d3183f012926?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Mar 26 |
-| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c55d831b5ad02887372c69?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
