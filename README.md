@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 28 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 28 |
 | **[Signature by Natalie](http://signaturebynatalie.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69c85a9eb773006330b7ecff?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Concepteur·trice redacteur·trice (stage)](https://jobright.ai/jobs/info/69bcc47b45e08b3dc1f98f82?utm_campaign=1049&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/69c7b618b773006330b7b27a?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 27 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Mar 27 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort Executive Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c65c18b773006330b7026a?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 27 |
-| ↳ | **[ABC News Social Media Intern, Summer/Fall 2026](https://jobright.ai/jobs/info/69c65b541b5ad02887384391?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ab11d3142d5b4265fc4cee?utm_campaign=1049&utm_source=git)** | St Louis Park, MN | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
