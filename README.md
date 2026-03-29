@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/695a1f01f1f8465b79f07067?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Mar 28 |
 | **[LS3P ASSOCIATES LTD.](http://ls3p.com)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/69c1c2352c312363dcd4f32b?utm_campaign=1049&utm_source=git)** | Columbia, South Carolina, United States | On Site | Mar 28 |
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Hosiery - NYC](https://jobright.ai/jobs/info/69c7c23fb773006330b7ba36?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 28 |
+| **[HDS](https://www.himsbendesign.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69c8a388b773006330b806ca?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 28 |
 | **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939bfdeac80bb5492bc4707?utm_campaign=1049&utm_source=git)** | Walnut Creek, CA | Hybrid | Mar 28 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 28 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
@@ -138,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/69a9d8191f59c56275e28cb2?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Mar 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/69c0babd79e36d3a847d05f8?utm_campaign=1049&utm_source=git)** | St Louis Park, MN | On Site | Mar 27 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern (May – August 2026)](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, QC | Hybrid | Mar 27 |
+| **[Macy's](http://www.macysjobs.com)** | **[Macy's Photo Art Director Intern - Marketing. Long Island City - Full Time](https://jobright.ai/jobs/info/69c8a06d83ea553769fead41?utm_campaign=1049&utm_source=git)** | 28-07 Jackson Avenue, Long Island City, NY, 11101, US | On Site | Mar 27 |
 | **[Skechers](http://www.skechers.com)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69aa3c569ca4e908ec659280?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[UX Writer Intern](https://jobright.ai/jobs/info/69c692c983ea553769fdbce3?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Hybrid | Mar 27 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69aa48df9ca4e908ec659f9d?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Mar 27 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/69c7b618b773006330b7b27a?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdffbe0c73b3a1119fc36?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Mar 27 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Disneyland® Resort Executive Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c65c18b773006330b7026a?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
