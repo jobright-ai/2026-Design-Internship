@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pivotor AI](https://www.pivotor.ai)** | **[UI/UX Design Intern (AI-Native)](https://jobright.ai/jobs/info/69c90436b773006330b835e6?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 29 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX Web Design Intern (Unpaid) / Mentorship, Portrait Session, Networking Opportunities](https://jobright.ai/jobs/info/69c8dd2c1b5ad0288739670e?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Mar 28 |
@@ -82,9 +83,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939c48bac80bb5492bc4a5a?utm_campaign=1049&utm_source=git)** | Ontario, CA | Hybrid | Mar 28 |
 | **[Perkins&Will](http://perkinswill.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69745bed37785856350e7549?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Mar 28 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern (Education/Science) - Summer 2026](https://jobright.ai/jobs/info/69a28653359fe034b1cdd274?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 28 |
-| ↳ | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
+| **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Mar 28 |
+| **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 28 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69c8fad683ea553769fede92?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 28 |
-| **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/69c8fa9b1818a24cd84d8bed?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Mar 28 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Creative & Operations (Onsite: FL)](https://jobright.ai/jobs/info/69ab9186142d5b4265fcaadc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 28 |
 | **[Bread](https://www.breadpayments.com/)** | **[Graphic Designer](https://jobright.ai/jobs/info/69c79b2e83ea553769fe4dc3?utm_campaign=1049&utm_source=git)** | Marion County, IN | Hybrid | Mar 28 |
 | **[BrightView Landscapes](https://www.brightview.com)** | **[Landscape Intern](https://jobright.ai/jobs/info/69c759f71b5ad0288738c0dc?utm_campaign=1049&utm_source=git)** | Bluffdale, UT | On Site | Mar 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Mar 27 |
 | **[TRDI](https://trdi.org/)** | **[Horticulture (Landscaper) Intern](https://jobright.ai/jobs/info/69c66d92e565c26a70020760?utm_campaign=1049&utm_source=git)** | Fort Cavazos, TX | On Site | Mar 27 |
 | **[ASSA ABLOY Group](http://www.assaabloy.com/en/com)** | **[Industrial Design Intern (Security)](https://jobright.ai/jobs/info/698d1871f64d441a164f0140?utm_campaign=1049&utm_source=git)** | Lake Forest, CA | On Site | Mar 27 |
-| **[Disney Experiences](https://disneyconnect.com/)** | **[Disneyland® Resort Executive Communications Intern, Fall 2026](https://jobright.ai/jobs/info/69c66420aa3c2c1995e0fa13?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
