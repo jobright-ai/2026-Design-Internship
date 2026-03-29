@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Inpro](http://inpro.co.kr)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69c9607f1b5ad02887399388?utm_campaign=1049&utm_source=git)** | Muskego, WI | On Site | Mar 29 |
 | **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fb0650cc8ea15f1da49e1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Mar 29 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 29 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/69c9407ab773006330b84ce2?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 29 |
-| **[Pivotor AI](https://www.pivotor.ai)** | **[UI/UX Design Intern (AI-Native)](https://jobright.ai/jobs/info/69c90436b773006330b835e6?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 29 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX Web Design Intern (Unpaid) / Mentorship, Portrait Session, Networking Opportunities](https://jobright.ai/jobs/info/69c8dd2c1b5ad0288739670e?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971253e51f72647718359e2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | Hybrid | Mar 28 |
