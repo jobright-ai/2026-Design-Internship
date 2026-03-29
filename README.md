@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/69c9407ab773006330b84ce2?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 29 |
 | **[Pivotor AI](https://www.pivotor.ai)** | **[UI/UX Design Intern (AI-Native)](https://jobright.ai/jobs/info/69c90436b773006330b835e6?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Mar 29 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/68ffdcd10ab3b222462af360?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Mar 29 |
 | **[LXN Creative](http://LXNPhotography.com/)** | **[UI/UX Web Design Intern (Unpaid) / Mentorship, Portrait Session, Networking Opportunities](https://jobright.ai/jobs/info/69c8dd2c1b5ad0288739670e?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Mar 29 |
@@ -113,7 +114,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c700d7e565c26a70024c6f?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Mar 27 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69c6fd9ab773006330b74cf1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 | **[SpyCloud](https://spycloud.com)** | **[Graphic Design Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6fbbeaa3c2c1995e140fa?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
-| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c714e91818a24cd84cb6c2?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Mar 27 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69bd946e393a1008f742f345?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c6f2adb773006330b74450?utm_campaign=1049&utm_source=git)** | New York, New York, USA | On Site | Mar 27 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c6e54d83ea553769fde898?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | Mar 27 |
