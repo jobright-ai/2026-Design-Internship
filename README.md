@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
+| **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
 | **[Le Creuset](http://www.lecreuset.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69baffc206c1ba00c54d4f88?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 30 |
 | **[Hustle House PR & Media](www.hustlehouse.ca)** | **[Graphic Designer (Intern)](https://jobright.ai/jobs/info/69ca2fd2aa3c2c1995e2aed8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[GRACE+EMMA](https://graceandemma.com/)** | **[Styling Intern for Founder of Fashion Brand](https://jobright.ai/jobs/info/69ca297d1b5ad0288739f03f?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Mar 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's Photo Art Director Intern - Marketing. Long Island City - Full Time](https://jobright.ai/jobs/info/69c8a06d83ea553769fead41?utm_campaign=1049&utm_source=git)** | 28-07 Jackson Avenue, Long Island City, NY, 11101, US | On Site | Mar 27 |
 | **[Skechers](http://www.skechers.com)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69aa3c569ca4e908ec659280?utm_campaign=1049&utm_source=git)** | Manhattan Beach, CA | On Site | Mar 27 |
 | **[NetApp](http://netapp.com)** | **[UX Writer Intern](https://jobright.ai/jobs/info/69c692c983ea553769fdbce3?utm_campaign=1049&utm_source=git)** | Morrisville, NC | Hybrid | Mar 27 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 27 |
-| **[Mark Thomas](https://www.markthomas.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6939d04bac80bb5492bc514a?utm_campaign=1049&utm_source=git)** | Sacramento, CA | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
