@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Internship](https://jobright.ai/jobs/info/69c9b869e565c26a700383b2?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Mar 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 29 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Mar 29 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Summer Intern](https://jobright.ai/jobs/info/69b981da3b74eb1e2c876e14?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Mar 29 |
@@ -105,7 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 | **[The Expo At Glen Rose](www.theexpoatglenrose.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69c71020aa3c2c1995e14f4c?utm_campaign=1049&utm_source=git)** | Glen Rose, TX | On Site | Mar 27 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/69c70e4283ea553769fe0085?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| **[Stantec](http://www.stantec.com)** | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c755831818a24cd84cd784?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 27 |
+| **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c9b38a1b5ad0288739c695?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
+| ↳ | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c755831818a24cd84cd784?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | **[TRG](https://trg.agency)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c707bde565c26a700252a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
 | **[Church Pension Group](https://www.cpg.org/)** | **[Web Experience - College Summer Hire Internship (June & July)](https://jobright.ai/jobs/info/69c702e21b5ad028873894e4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c702dab773006330b751f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/69b26225ad360c0340a72d56?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Mar 27 |
 | **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69aa48d71f59c56275e3238d?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Mar 27 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8eb80f6f7e7a2ce979a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
-| **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
