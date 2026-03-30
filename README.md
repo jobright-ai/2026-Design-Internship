@@ -71,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Mar 28 |
 | **[Signature by Natalie](http://signaturebynatalie.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69c85a9eb773006330b7ecff?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
+| **[Authentic Creative Excellence](https://ace4yourbusiness.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69ca0584e565c26a70039cbb?utm_campaign=1049&utm_source=git)** | Knoxville, TN | Hybrid | Mar 28 |
 | **[Cossette](http://www.cossette.com)** | **[Concepteur·trice redacteur·trice (stage)](https://jobright.ai/jobs/info/69bcc47b45e08b3dc1f98f82?utm_campaign=1049&utm_source=git)** | Montreal, QC | Hybrid | Mar 28 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a6608bd706a731db384d0c?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Mar 28 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711a15333b6343a14d9012?utm_campaign=1049&utm_source=git)** | Durham, North Carolina, United States | On Site | Mar 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Conair LLC](http://www.conair.com/)** | **[2026 Industrial Design Intern](https://jobright.ai/jobs/info/69b26225ad360c0340a72d56?utm_campaign=1049&utm_source=git)** | Newton, MA | Hybrid | Mar 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Mar 27 |
 | **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69aa48d71f59c56275e3238d?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Mar 27 |
-| **[Audacy, Inc.](https://audacyinc.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/698d8eb80f6f7e7a2ce979a0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
