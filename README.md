@@ -57,17 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Holiner Holdings](https://www.holinerholdings.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69cab682aa3c2c1995e2f447?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 30 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cab0048fc6090c5d4501fb?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69caa6be1b5ad028873a368d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69caa364e565c26a7003f0d7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
-| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
 | **[Le Creuset](http://www.lecreuset.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69baffc206c1ba00c54d4f88?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Mar 30 |
-| **[Hustle House PR & Media](www.hustlehouse.ca)** | **[Graphic Designer (Intern)](https://jobright.ai/jobs/info/69ca2fd2aa3c2c1995e2aed8?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[GRACE+EMMA](https://graceandemma.com/)** | **[Styling Intern for Founder of Fashion Brand](https://jobright.ai/jobs/info/69ca297d1b5ad0288739f03f?utm_campaign=1049&utm_source=git)** | Carrollton, TX | On Site | Mar 29 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Digital Media & Communications Fellow (20717226)](https://jobright.ai/jobs/info/69c9d9341b5ad0288739cf7b?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Mar 29 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971201151f726477183573c?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Mar 29 |
