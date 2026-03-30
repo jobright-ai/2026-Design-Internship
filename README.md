@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bowman Consulting](https://bowman.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69cacd81aa3c2c1995e3062c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
+| **[StockX](https://stockx.com/)** | **[Global Impact Intern](https://jobright.ai/jobs/info/69b2efa7a8ac8e70ff67169f?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Mar 30 |
 | **[Holiner Holdings](https://www.holinerholdings.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69cab682aa3c2c1995e2f447?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 30 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cab0048fc6090c5d4501fb?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69caa6be1b5ad028873a368d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69caa364e565c26a7003f0d7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69b777123b74eb1e2c850bd3?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Mar 27 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69a666b32c0d8b0f5cd08842?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Mar 27 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69aa1a869ca4e908ec65664b?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Hybrid | Mar 27 |
-| **[Everytown for Gun Safety](https://www.everytown.org/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c6a5681b5ad02887385cc7?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Mar 27 |
-| **[IBM](http://www.ibm.com)** | **[IBM Research Visual Design Intern](https://jobright.ai/jobs/info/69c1fba775f7ff1cd81067c4?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
