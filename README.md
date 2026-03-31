@@ -57,20 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57c1a8c1822476e25f5f?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Mar 30 |
+| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57bfaa3c2c1995e360e9?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Mar 30 |
+| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57afe565c26a70046ba5?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Mar 30 |
+| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57a3466f1e133aacccc6?utm_campaign=1049&utm_source=git)** | Miami, FL, US | On Site | Mar 30 |
+| ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57a28fc6090c5d456dac?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 30 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[UX Designer Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69cb522a1b5ad028873aa8ea?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[LangPal](www.lang-pal.com)** | **[Gen-Z Video Editor](https://jobright.ai/jobs/info/69cb510ea8c1822476e25d20?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3b828fc6090c5d45622a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ac01b5ad028873a9ec0?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ab91b5ad028873a9eb6?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
+| **[YINAN NEW YORK](yinan.us)** | **[Fashion & Design Intern - On site](https://jobright.ai/jobs/info/69cb5ee8a8c1822476e26618?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69cb31c9e565c26a70045844?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 30 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cb300d1b5ad028873a9734?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2eb7466f1e133aacba2f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2e34e565c26a7004573d?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 30 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[TouchDesigner Intern](https://jobright.ai/jobs/info/69cb23af1b5ad028873a9187?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
-| **[The Familie](https://thefamilie.com)** | **[Creative + Content Intern - Golf Division](https://jobright.ai/jobs/info/69cb11fc466f1e133aaca972?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
-| **[Kwaza Games LLC](http://etwaves.online)** | **[Game Content Designer Internship](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
+| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23385?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Fall 2026)](https://jobright.ai/jobs/info/69cb06428fc6090c5d453c3e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Mar 30 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Education to UX Design Career Changer](https://jobright.ai/jobs/info/69cb0328a8c1822476e22d8b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Mar 30 |
@@ -100,8 +104,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69caa6be1b5ad028873a368d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69caa364e565c26a7003f0d7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c7116db773006330b75a90?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/69c71148e565c26a70025a08?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
 | **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
-| **[The Expo At Glen Rose](www.theexpoatglenrose.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69c71020aa3c2c1995e14f4c?utm_campaign=1049&utm_source=git)** | Glen Rose, TX | On Site | Mar 27 |
-| **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/69c70e4283ea553769fe0085?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 27 |
-| **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c9b38a1b5ad0288739c695?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
-| ↳ | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c755831818a24cd84cd784?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
