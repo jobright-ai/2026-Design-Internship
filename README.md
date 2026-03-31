@@ -57,8 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Escape™ App AI](https://www.escapeapp.ai)** | **[TouchDesigner Intern](https://jobright.ai/jobs/info/69cb23af1b5ad028873a9187?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[The Familie](https://thefamilie.com)** | **[Creative + Content Intern - Golf Division](https://jobright.ai/jobs/info/69cb11fc466f1e133aaca972?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
-| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
+| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23385?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Fall 2026)](https://jobright.ai/jobs/info/69cb06428fc6090c5d453c3e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Mar 30 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Education to UX Design Career Changer](https://jobright.ai/jobs/info/69cb0328a8c1822476e22d8b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Mar 30 |
@@ -88,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69caa6be1b5ad028873a368d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69caa364e565c26a7003f0d7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Intern Architectural](https://jobright.ai/jobs/info/69c700e083ea553769fdf909?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
 | ↳ | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c700d7e565c26a70024c6f?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Mar 27 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69c6fd9ab773006330b74cf1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
-| **[SpyCloud](https://spycloud.com)** | **[Graphic Design Internship/Co-Op (Summer/Fall 2026)](https://jobright.ai/jobs/info/69c6fbbeaa3c2c1995e140fa?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
