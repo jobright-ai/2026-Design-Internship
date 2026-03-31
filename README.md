@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
+| **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69ba8f3a06c1ba00c54ca569?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 31 |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/69963315e0bddb6acac4949e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
 | **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69cb6a8a466f1e133aacda09?utm_campaign=1049&utm_source=git)** | Westerville, OH | On Site | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57c1a8c1822476e25f5f?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Mar 30 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57bfaa3c2c1995e360e9?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Mar 30 |
@@ -67,13 +70,10 @@ For a complete list, click the following sortable link below:
 | **[LangPal](www.lang-pal.com)** | **[Gen-Z Video Editor](https://jobright.ai/jobs/info/69cb510ea8c1822476e25d20?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3b828fc6090c5d45622a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ac01b5ad028873a9ec0?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
-| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ab91b5ad028873a9eb6?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion & Design Intern - On site](https://jobright.ai/jobs/info/69cb5ee8a8c1822476e26618?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69cb31c9e565c26a70045844?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 30 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cb300d1b5ad028873a9734?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2eb7466f1e133aacba2f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 30 |
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2e34e565c26a7004573d?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 30 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[TouchDesigner Intern](https://jobright.ai/jobs/info/69cb23af1b5ad028873a9187?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
@@ -102,11 +102,10 @@ For a complete list, click the following sortable link below:
 | **[Holiner Holdings](https://www.holinerholdings.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/69cab682aa3c2c1995e2f447?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Mar 30 |
 | **[Stick Grips Golf](stickgripsgolf.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69cad393a8c1822476e2091d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 30 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cab0048fc6090c5d4501fb?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
-| ↳ | **[Junior Graphic Designer](https://jobright.ai/jobs/info/69caa6be1b5ad028873a368d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 30 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Jack](https://www.searchwithjack.com/)** | **[User Experience Designer](https://jobright.ai/jobs/info/69caa364e565c26a7003f0d7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Mar 30 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
-| ↳ | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer 2 - Wearables](https://jobright.ai/jobs/info/68dd528b44d32141e0bf5a2a?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
+| ↳ | **[Product Designer 2 - Cycling](https://jobright.ai/jobs/info/68dc058e6f6c5c3fadf35d67?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Mar 30 |
 | **[Thornton Tomasetti](http://www.thorntontomasetti.com)** | **[Architect Intern](https://jobright.ai/jobs/info/693d583050bbaf76505067f2?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Mar 30 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/69ca53ace565c26a7003ccf8?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | Mar 30 |
 | **[JPMorganChase](https://www.jpmorganchase.com)** | **[2026 User Experience Research Internship - Emerging Talent Summer Experience Program](https://jobright.ai/jobs/info/69c8310483ea553769fe8e15?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c76e18b773006330b78ae8?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 27 |
 | **[WorldWinner](https://www.gametaco.com)** | **[Marketing Artist/Video Editor Intern](https://jobright.ai/jobs/info/69c7116db773006330b75a90?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 27 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/69c71148e565c26a70025a08?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Mar 27 |
+| **[Giant Spoon](http://giantspoon.com/)** | **[Experiential Design Intern (Summer)](https://jobright.ai/jobs/info/69b222a5548f140066e85dee?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
