@@ -57,8 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3b828fc6090c5d45622a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Mar 30 |
+| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ac01b5ad028873a9ec0?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Mar 30 |
+| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb3ab91b5ad028873a9eb6?utm_campaign=1049&utm_source=git)** | Baltimore, MD | On Site | Mar 30 |
+| **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69cb31c9e565c26a70045844?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 30 |
+| **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cb300d1b5ad028873a9734?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2eb7466f1e133aacba2f?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Mar 30 |
+| **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69cb2e34e565c26a7004573d?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Mar 30 |
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[TouchDesigner Intern](https://jobright.ai/jobs/info/69cb23af1b5ad028873a9187?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[The Familie](https://thefamilie.com)** | **[Creative + Content Intern - Golf Division](https://jobright.ai/jobs/info/69cb11fc466f1e133aaca972?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
+| **[Kwaza Games LLC](http://etwaves.online)** | **[Game Content Designer Internship](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23385?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Fall 2026)](https://jobright.ai/jobs/info/69cb06428fc6090c5d453c3e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Mar 30 |
@@ -148,13 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Landscape Architecture Intern - Community Development (Summer 2026)](https://jobright.ai/jobs/info/69c9b38a1b5ad0288739c695?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Mar 27 |
 | ↳ | **[3D Visualization Specialist](https://jobright.ai/jobs/info/69c755831818a24cd84cd784?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Mar 27 |
 | **[TRG](https://trg.agency)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69c707bde565c26a700252a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 27 |
-| **[Church Pension Group](https://www.cpg.org/)** | **[Web Experience - College Summer Hire Internship (June & July)](https://jobright.ai/jobs/info/69c702e21b5ad028873894e4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c702dab773006330b751f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| **[HDR](http://www.hdrinc.com)** | **[Intern Architectural](https://jobright.ai/jobs/info/69c7022ce565c26a7002505f?utm_campaign=1049&utm_source=git)** | United States-New York-New York | On Site | Mar 27 |
-| **[The Lacek Group](http://www.lacek.com)** | **[Designer Internship](https://jobright.ai/jobs/info/69c701981b5ad0288738921b?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[Designer Internship](https://jobright.ai/jobs/info/69c70163b773006330b75168?utm_campaign=1049&utm_source=git)** | Minneapolis, Minnesota | Hybrid | Mar 27 |
-| **[Merchants Insurance Group](http://www.merchantsgroup.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69c7012baa3c2c1995e144e8?utm_campaign=1049&utm_source=git)** | Buffalo, NY | Hybrid | Mar 27 |
-| **[HDR](http://www.hdrinc.com)** | **[Intern Architectural](https://jobright.ai/jobs/info/69c700e083ea553769fdf909?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Mar 27 |
-| ↳ | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c700d7e565c26a70024c6f?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Mar 27 |
-| **[RSP Architects](http://www.rsparch.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/69c6fd9ab773006330b74cf1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
