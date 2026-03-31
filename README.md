@@ -68,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Escape™ App AI](https://www.escapeapp.ai)** | **[TouchDesigner Intern](https://jobright.ai/jobs/info/69cb23af1b5ad028873a9187?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
 | **[The Familie](https://thefamilie.com)** | **[Creative + Content Intern - Golf Division](https://jobright.ai/jobs/info/69cb11fc466f1e133aaca972?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Mar 30 |
 | **[Kwaza Games LLC](http://etwaves.online)** | **[Game Content Designer Internship](https://jobright.ai/jobs/info/69cb2e748fc6090c5d4558e0?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 30 |
-| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23385?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
+| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
 | **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Fall 2026)](https://jobright.ai/jobs/info/69cb06428fc6090c5d453c3e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Mar 30 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Education to UX Design Career Changer](https://jobright.ai/jobs/info/69cb0328a8c1822476e22d8b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Mar 30 |
