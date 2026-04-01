@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Charles River Analytics](http://www.cra.com)** | **[Scientist Intern, User Experience (HCI/HMI)](https://jobright.ai/jobs/info/69cd480c366bb95ba54fa006?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 01 |
+| **[Oliver Wyman](http://www.oliverwyman.com)** | **[Lippincott - Design Intern](https://jobright.ai/jobs/info/69cd4680366bb95ba54f9fb6?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
 | **[MOI](http://www.moii.com)** | **[INTERN](https://jobright.ai/jobs/info/69cd3c2ccdb525785fb85e68?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Apr 01 |
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bf2398fb071abf7325a?utm_campaign=1049&utm_source=git)** | Richmond, VA, US | On Site | Apr 01 |
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bcacfdc6132f9416a11?utm_campaign=1049&utm_source=git)** | Roanoke, VA, US | On Site | Apr 01 |
@@ -72,6 +74,7 @@ For a complete list, click the following sortable link below:
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/69cd1a6354f00230c6ceca27?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 01 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/69aab9a92747003c3d506456?utm_campaign=1049&utm_source=git)** | Exeter, NH | On Site | Apr 01 |
 | **[Macy's](http://www.macysjobs.com)** | **[Macy's Photographer Intern - Marketing, Long Island City - Full Time](https://jobright.ai/jobs/info/69cd30d054f00230c6ced3bb?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
+| **[Savage X Fenty](https://www.savagex.com/)** | **[Design & Merchandising Intern](https://jobright.ai/jobs/info/6978435888e2b47213bc57f1?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 01 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 01 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Apr 01 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Apr 01 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 31 |
 | **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cca3eb8130af1ac833d95c?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 31 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Media Acquisition Internship](https://jobright.ai/jobs/info/69cc8e76891d7b11cfcafed7?utm_campaign=1049&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 31 |
+| **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cd4c78cdb525785fb86713?utm_campaign=1049&utm_source=git)** | Denver | Hybrid | Mar 31 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Virginia, United States | Hybrid | Mar 31 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cc5181366bb95ba54eedf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Mar 31 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69af35c0dfaeda6ff597528e?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Mar 31 |
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
-| **[Munchkin](http://www.munchkin.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69ba8f3a06c1ba00c54ca569?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | Hybrid | Mar 31 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/69963315e0bddb6acac4949e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Mar 31 |
-| **[Worthington Enterprises](https://www.worthingtonenterprises.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69cb6a8a466f1e133aacda09?utm_campaign=1049&utm_source=git)** | Westerville, OH | On Site | Mar 30 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57c1a8c1822476e25f5f?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
