@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Apr 01 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977c10952f3c27ec643e2f0?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Apr 01 |
 | **[Udemy](http://www.udemy.com)** | **[Design Operations Intern](https://jobright.ai/jobs/info/69b06942dfaeda6ff59a32f9?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b097d2dfaeda6ff59abf34?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69c8fad683ea553769fede92?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccfb69398fb071abf71bbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69ccec35891d7b11cfcb50ba?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Mar 31 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccabbd366bb95ba54f5068?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Mar 31 |
 | **[Heard Creative](https://www.heardcreative.com/)** | **[Creative Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc8cce366bb95ba54f2c96?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Mar 31 |
@@ -73,8 +77,8 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Virginia, United States | Hybrid | Mar 31 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cc5181366bb95ba54eedf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
-| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
 | **[DYAD](https://dyadcom.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc7ef4cfdc6132f940d129?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[UX / UI Designer - Full Stack Intern](https://jobright.ai/jobs/info/69cc3c87cdb525785fb7a5ec?utm_campaign=1049&utm_source=git)** | Portland, TN, US, 37148 | On Site | Mar 31 |
 | **[REVOLVE](https://www.revolve.com/)** | **[UI Design Intern — Fashion E-Commerce](https://jobright.ai/jobs/info/69cc3c2fcdb525785fb7a4a6?utm_campaign=1049&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69caf15da8c1822476e22019?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | Mar 30 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69caf146aa3c2c1995e32151?utm_campaign=1049&utm_source=git)** | Miami, FL, US | On Site | Mar 30 |
 | ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69caf0d11b5ad028873a6ae6?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Mar 30 |
-| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69caf0af466f1e133aac8dce?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 30 |
-| ↳ | **[Student Internship – Interior Design – Summer 2026 – Southeast Region](https://jobright.ai/jobs/info/69caf09c8fc6090c5d452f1b?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Mar 30 |
-| **[Manhattanville University](http://www.mville.edu/)** | **[Assistant Director for Marketing (Graphic Design, Brand Management & Web Support)](https://jobright.ai/jobs/info/69caee19466f1e133aac8c14?utm_campaign=1049&utm_source=git)** | Harrison, NY | On Site | Mar 30 |
-| ↳ | **[Creative Director for Digital Strategy](https://jobright.ai/jobs/info/69caedbea8c1822476e21d0e?utm_campaign=1049&utm_source=git)** | Harrison, NY | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
