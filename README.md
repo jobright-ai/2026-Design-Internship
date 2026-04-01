@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Virginia, United States | Hybrid | Mar 31 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cc5181366bb95ba54eedf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
-| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
 | **[DYAD](https://dyadcom.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc7ef4cfdc6132f940d129?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[UX / UI Designer - Full Stack Intern](https://jobright.ai/jobs/info/69cc3c87cdb525785fb7a5ec?utm_campaign=1049&utm_source=git)** | Portland, TN, US, 37148 | On Site | Mar 31 |
 | **[REVOLVE](https://www.revolve.com/)** | **[UI Design Intern — Fashion E-Commerce](https://jobright.ai/jobs/info/69cc3c2fcdb525785fb7a4a6?utm_campaign=1049&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 31 |
