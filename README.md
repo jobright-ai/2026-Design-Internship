@@ -82,12 +82,14 @@ For a complete list, click the following sortable link below:
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cc1bb0891d7b11cfcaa76f?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 31 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cc6473cdb525785fb7b3dd?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Mar 31 |
 | **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69cc189fcdb525785fb796a9?utm_campaign=1049&utm_source=git)** | Saint Louis, Missouri, United States | Hybrid | Mar 31 |
-| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 31 |
+| **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b9a881476f6176ab56e2?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Mar 31 |
+| ↳ | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993c511e0bddb6acac20ec2?utm_campaign=1049&utm_source=git)** | Pleasant Prairie, WI | On Site | Mar 31 |
 | **[Crocs, Inc.](http://www.crocs.com)** | **[Intern - Visual Merchandising](https://jobright.ai/jobs/info/69af82bbdfaeda6ff597a8f1?utm_campaign=1049&utm_source=git)** | Broomfield, CO | Hybrid | Mar 31 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc085d8130af1ac833620b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Illumio](http://www.illumio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69a75dd32672cb0acb4bd120?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Mar 31 |
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc000fcdb525785fb79033?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Mar 31 |
 | **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc3775891d7b11cfcab187?utm_campaign=1049&utm_source=git)** | Knoxville, TN | Hybrid | Mar 31 |
+| **[Synopsys Inc](http://www.synopsys.com)** | **[Summer 2026 UI/UX Intern](https://jobright.ai/jobs/info/69cc9824cfdc6132f941055a?utm_campaign=1049&utm_source=git)** | Canonsburg, PA | On Site | Mar 31 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69cc56568130af1ac8337f84?utm_campaign=1049&utm_source=git)** | Bedford, NH | On Site | Mar 31 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/69bdccc5b10602456283093d?utm_campaign=1049&utm_source=git)** | United States | Remote | Mar 31 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cbf0fc366bb95ba54ecc9f?utm_campaign=1049&utm_source=git)** | Minneapolis | On Site | Mar 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRG](https://trg.agency)** | **[Art Director Intern (Summer 2026)](https://jobright.ai/jobs/info/69cacee7e565c26a700410a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69caec5fe565c26a7004277c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
 | **[Bowman Consulting](https://bowman.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69cacd81aa3c2c1995e3062c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
-| **[Stick Grips Golf](stickgripsgolf.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69cad393a8c1822476e2091d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Mar 30 |
-| **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Architectural Intern (Summer)](https://jobright.ai/jobs/info/69caa37d1b5ad028873a3370?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
