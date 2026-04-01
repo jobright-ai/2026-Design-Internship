@@ -57,14 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccabbd366bb95ba54f5068?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Mar 31 |
 | **[Heard Creative](https://www.heardcreative.com/)** | **[Creative Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc8cce366bb95ba54f2c96?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Mar 31 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc7ff5cdb525785fb7c6c2?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 31 |
 | ↳ | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 31 |
 | **[Goodself](https://goodself.com)** | **[UI Designer Summer Student Internship](https://jobright.ai/jobs/info/69cc88e08130af1ac833b48f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Mar 31 |
+| **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cca3eb8130af1ac833d95c?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 31 |
 | **[Kopari Beauty](https://www.koparibeauty.com/)** | **[Media Acquisition Internship](https://jobright.ai/jobs/info/69cc8e76891d7b11cfcafed7?utm_campaign=1049&utm_source=git)** | La Jolla Shores, CA | Hybrid | Mar 31 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Virginia, United States | Hybrid | Mar 31 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cc5181366bb95ba54eedf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
+| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
 | **[DYAD](https://dyadcom.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc7ef4cfdc6132f940d129?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[UX / UI Designer - Full Stack Intern](https://jobright.ai/jobs/info/69cc3c87cdb525785fb7a5ec?utm_campaign=1049&utm_source=git)** | Portland, TN, US, 37148 | On Site | Mar 31 |
 | **[REVOLVE](https://www.revolve.com/)** | **[UI Design Intern — Fashion E-Commerce](https://jobright.ai/jobs/info/69cc3c2fcdb525785fb7a4a6?utm_campaign=1049&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Furniture / Interior Designer Internship](https://jobright.ai/jobs/info/69cad533466f1e133aac7813?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[TRG](https://trg.agency)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69cad0a7e565c26a700411fd?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
-| **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Mar 30 |
-| **[TRG](https://trg.agency)** | **[Art Director Intern (Summer 2026)](https://jobright.ai/jobs/info/69cacee7e565c26a700410a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69caec5fe565c26a7004277c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
-| **[Bowman Consulting](https://bowman.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69cacd81aa3c2c1995e3062c?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
