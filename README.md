@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57a3466f1e133aacccc6?utm_campaign=1049&utm_source=git)** | Miami, FL, US | On Site | Mar 30 |
 | ↳ | **[Student Internship – Architecture – Summer 2026 - Southeast Region](https://jobright.ai/jobs/info/69cb57a28fc6090c5d456dac?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, US | On Site | Mar 30 |
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion & Design Intern - On site](https://jobright.ai/jobs/info/69cb5ee8a8c1822476e26618?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
-| **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69cb31c9e565c26a70045844?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Mar 30 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cb300d1b5ad028873a9734?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 30 |
 | **[TRG](https://trg.agency)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69cad0a7e565c26a700411fd?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Mar 30 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Designer Intern](https://jobright.ai/jobs/info/69caec5fe565c26a7004277c?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
