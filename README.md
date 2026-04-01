@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971220c333b6343a14d94bb?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | On Site | Apr 01 |
+| **[G2](https://www.g2.com)** | **[Summer Intern - Product Experience Design](https://jobright.ai/jobs/info/6993faf9e0bddb6acac24d2c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 01 |
+| **[Planet](http://www.planet.com)** | **[Senior Product Designer](https://jobright.ai/jobs/info/699532ae81476f6176ad1234?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
 | **[OneStream Software](https://www.onestream.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69b0802edfaeda6ff59a759c?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/6993872881476f6176ab1db1?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 01 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/69cd1a6354f00230c6ceca27?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TRG](https://trg.agency)** | **[Art Director Intern (2026 Summer)](https://jobright.ai/jobs/info/69cacee7e565c26a700410a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Mar 30 |
 | **[YINAN NEW YORK](yinan.us)** | **[Fashion & Design Intern - On site](https://jobright.ai/jobs/info/69cb5ee8a8c1822476e26618?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Mar 30 |
 | **[California State University, Los Angeles](http://www.calstatela.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/69cb300d1b5ad028873a9734?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Mar 30 |
-| **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
-| **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
-| **[Pickleball Kingdom](https://pickleballkingdom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cb9e0fcfdc6132f94086f5?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
