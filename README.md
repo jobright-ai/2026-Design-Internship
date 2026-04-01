@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OneStream Software](https://www.onestream.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69b0802edfaeda6ff59a759c?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 01 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/6993872881476f6176ab1db1?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 01 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/69cd1a6354f00230c6ceca27?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 01 |
+| **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/69aab9a92747003c3d506456?utm_campaign=1049&utm_source=git)** | Exeter, NH | On Site | Apr 01 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 01 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Apr 01 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Apr 01 |
@@ -80,8 +84,8 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Mar 31 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Virginia, United States | Hybrid | Mar 31 |
 | **[Critical Mass](http://www.criticalmass.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cc5181366bb95ba54eedf8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Mar 31 |
-| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| **[Clark Nexsen, A JMT Company](https://www.clarknexsen.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca6e3891d7b11cfcb1cc1?utm_campaign=1049&utm_source=git)** | Roanoke, VA | Hybrid | Mar 31 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69cca65acdb525785fb80f22?utm_campaign=1049&utm_source=git)** | Asheville, NC | Hybrid | Mar 31 |
 | **[DYAD](https://dyadcom.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc7ef4cfdc6132f940d129?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[UX / UI Designer - Full Stack Intern](https://jobright.ai/jobs/info/69cc3c87cdb525785fb7a5ec?utm_campaign=1049&utm_source=git)** | Portland, TN, US, 37148 | On Site | Mar 31 |
 | **[REVOLVE](https://www.revolve.com/)** | **[UI Design Intern — Fashion E-Commerce](https://jobright.ai/jobs/info/69cc3c2fcdb525785fb7a4a6?utm_campaign=1049&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 31 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern: Design/Creative Intern](https://jobright.ai/jobs/info/69cb2e3fe565c26a70045747?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Mar 30 |
 | **[Deltek](http://www.deltek.com)** | **[UX Research Internship](https://jobright.ai/jobs/info/69cb0736a8c1822476e23386?utm_campaign=1049&utm_source=git)** | US (Remote) | Remote | Mar 30 |
 | **[Pickleball Kingdom](https://pickleballkingdom.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cb9e0fcfdc6132f94086f5?utm_campaign=1049&utm_source=git)** | Gilbert, AZ | On Site | Mar 30 |
-| **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Mar 30 |
-| **[North Central College](http://www.northcentralcollege.edu/)** | **[Social Media Marketing & Graphic Design Internship (Fall 2026)](https://jobright.ai/jobs/info/69cb06428fc6090c5d453c3e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Mar 30 |
-| **[UX Woman](https://www.uxwoman.com/)** | **[Education to UX Design Career Changer](https://jobright.ai/jobs/info/69cb0328a8c1822476e22d8b?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Mar 30 |
-| ↳ | **[Customer Service to UX Research Career Changer](https://jobright.ai/jobs/info/69cb02ed8fc6090c5d453b63?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Mar 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
