@@ -125,7 +125,6 @@ For a complete list, click the following sortable link below:
 | **[BYROE](https://byroe.com)** | **[AI Creative Intern](https://jobright.ai/jobs/info/69cd8c3054f00230c6cf374d?utm_campaign=1049&utm_source=git)** | United States | Hybrid | Apr 01 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/69cd1a6354f00230c6ceca27?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 01 |
 | **[Bauer Hockey](https://www.bauer.com/)** | **[Bauer: Summer 2026 Apparel Design Internship](https://jobright.ai/jobs/info/69aab9a92747003c3d506456?utm_campaign=1049&utm_source=git)** | Exeter, NH | On Site | Apr 01 |
-| **[Macy's](http://www.macysjobs.com)** | **[Macy's Photographer Intern - Marketing, Long Island City - Full Time](https://jobright.ai/jobs/info/69cd30d054f00230c6ced3bb?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 01 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/694219f6bdcf884a5adddd44?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 01 |
 | **[Savage X Fenty](https://www.savagex.com/)** | **[Design & Merchandising Intern](https://jobright.ai/jobs/info/6978435888e2b47213bc57f1?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 01 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 01 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[DYAD](https://dyadcom.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cc7ef4cfdc6132f940d129?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Mar 31 |
 | **[Trademark Metals Recycling - A Nucor Company](http://tmrecycling.com)** | **[UX / UI Designer - Full Stack Intern](https://jobright.ai/jobs/info/69cc3c87cdb525785fb7a5ec?utm_campaign=1049&utm_source=git)** | Portland, TN, US, 37148 | On Site | Mar 31 |
 | **[REVOLVE](https://www.revolve.com/)** | **[UI Design Intern — Fashion E-Commerce](https://jobright.ai/jobs/info/69cc3c2fcdb525785fb7a4a6?utm_campaign=1049&utm_source=git)** | California-Moore St, Cerritos, CA, US | On Site | Mar 31 |
+| **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc3c0ecdb525785fb7a446?utm_campaign=1049&utm_source=git)** | Durham, North Carolina | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
