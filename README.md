@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/69ce8fa8cdb525785fb98b24?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Apr 02 |
+| **[LGA Partners](http://lga-partners.com)** | **[Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce8a01891d7b11cfcc9ab3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 02 |
+| **[C&S Companies](http://www.cscos.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ce883e366bb95ba550c6db?utm_campaign=1049&utm_source=git)** | Syracuse, NY, US | On Site | Apr 02 |
+| **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
@@ -69,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Apr 02 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/69ce6369891d7b11cfcc8240?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Apr 02 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Design, Naturium](https://jobright.ai/jobs/info/6979319a52f3c27ec6457b28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
-| **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/69ce4119398fb071abf83310?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/6977c3aa52f3c27ec643e59d?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Apr 02 |
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69cdf5e8398fb071abf7fbe0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/69cdf6d1366bb95ba55064da?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 01 |
@@ -120,7 +124,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bbd891d7b11cfcb6dda?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Apr 01 |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69cdbaf5366bb95ba55020a8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 01 |
 | **[HOK](http://www.hok.com/)** | **[Summer 2026 - Interior Design Student Intern](https://jobright.ai/jobs/info/69b05be1dfaeda6ff59a1664?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/69cd361c366bb95ba54f9b5c?utm_campaign=1049&utm_source=git)** | Greenville, Greenville, SC, US | On Site | Apr 01 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Designer](https://jobright.ai/jobs/info/69cd33f4398fb071abf72fc4?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Apr 01 |
 | **[EXM Manufacturing Ltd.](http://www.exmweb.com/)** | **[3D Motion Designer Internship](https://jobright.ai/jobs/info/69cde39a891d7b11cfcc1451?utm_campaign=1049&utm_source=git)** | Mississauga, ON | Hybrid | Apr 01 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/6993b53581476f6176ab51b7?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccabbd366bb95ba54f5068?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Mar 31 |
 | **[Heard Creative](https://www.heardcreative.com/)** | **[Creative Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc8cce366bb95ba54f2c96?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Mar 31 |
 | **[Natural Life](http://naturallife.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cde07f891d7b11cfcc10c5?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL | On Site | Mar 31 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc7ff5cdb525785fb7c6c2?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Mar 31 |
-| ↳ | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Mar 31 |
-| **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cca3eb8130af1ac833d95c?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
