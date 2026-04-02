@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 02 |
+| **[City of Philadelphia](http://www.phila.gov/)** | **[Art and Design Intern](https://jobright.ai/jobs/info/69ce9814366bb95ba550cd61?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69ce94d354f00230c6d007bf?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Apr 02 |
+| **[Pinned Golf](http://www.pinnedgolf.com)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69ce9486cfdc6132f94299a9?utm_campaign=1049&utm_source=git)** | Quincy, MA | On Site | Apr 02 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69c21e79c9ad035e829ad0e0?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 02 |
+| **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Summer 2026](https://jobright.ai/jobs/info/6977ca0352f3c27ec643eb5c?utm_campaign=1049&utm_source=git)** | Greater Orlando | On Site | Apr 02 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/69ce8fa8cdb525785fb98b24?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Apr 02 |
 | **[LGA Partners](http://lga-partners.com)** | **[Architecture Intern (Summer 2026)](https://jobright.ai/jobs/info/69ce8a01891d7b11cfcc9ab3?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 02 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 02 |
@@ -64,6 +70,8 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
 | **[Citizens for Juvenile Justice](https://www.cfjj.org/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69cd0c50cfdc6132f9415832?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 01 |
-| **[Adobe](http://www.adobe.com)** | **[2026 Digital Academy Intern - Experience Design](https://jobright.ai/jobs/info/69b097d2dfaeda6ff59abf34?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[Movado Group, Inc](http://www.movadogroup.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/69b0ac417495006450976ab8?utm_campaign=1049&utm_source=git)** | Paramus, NJ | On Site | Apr 01 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69c8fad683ea553769fede92?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 01 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccfb69398fb071abf71bbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 01 |
-| **[Delta Dental of Missouri](http://www.deltadentalmo.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69ccec35891d7b11cfcb50ba?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Mar 31 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Industrial Design - Summer 2026 - New York](https://jobright.ai/jobs/info/69ccabbd366bb95ba54f5068?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Mar 31 |
-| **[Heard Creative](https://www.heardcreative.com/)** | **[Creative Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69cc8cce366bb95ba54f2c96?utm_campaign=1049&utm_source=git)** | Rochester, NY | Hybrid | Mar 31 |
-| **[Natural Life](http://naturallife.com)** | **[Summer Intern](https://jobright.ai/jobs/info/69cde07f891d7b11cfcc10c5?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL | On Site | Mar 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
