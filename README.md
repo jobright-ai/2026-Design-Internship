@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Fabric Group](https://jobright.ai/jobs/info/69ced06b891d7b11cfcccd86?utm_campaign=1049&utm_source=git)** | Conover, NC | On Site | Apr 02 |
+| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69ced01154f00230c6d0359c?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | On Site | Apr 02 |
+| **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
+| **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Asset Management Coordinator Intern](https://jobright.ai/jobs/info/69cec391891d7b11cfccc48f?utm_campaign=1049&utm_source=git)** | Norwell, MA, United States | On Site | Apr 02 |
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Asset Management Coordinator Intern](https://jobright.ai/jobs/info/69cec374366bb95ba550f1cf?utm_campaign=1049&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Apr 02 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
-| **[Heads Up](https://www.headsupclubs.org)** | **[Summer Technology Intern](https://jobright.ai/jobs/info/69ceb51ccfdc6132f942b015?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 02 |
 | **[WGI](https://wginc.com/)** | **[Intern - Landscape Architecture Summer 2026](https://jobright.ai/jobs/info/69cea90454f00230c6d01938?utm_campaign=1049&utm_source=git)** | Fleming Island, FL | On Site | Apr 02 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69cea6e2cdb525785fb99c92?utm_campaign=1049&utm_source=git)** | Tower Point, 6th Floor, 27-43 Wormwood Street, Boston, MA 02210, United States of America, Boston | On Site | Apr 02 |
 | **[Zippo Manufacturing Company](https://www.zippo.com/)** | **[Photography Intern](https://jobright.ai/jobs/info/69cea6a4891d7b11cfccae1f?utm_campaign=1049&utm_source=git)** | Bradford, Pennsylvania, United States | On Site | Apr 02 |
@@ -95,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
-| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
-| ↳ | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bf2398fb071abf7325a?utm_campaign=1049&utm_source=git)** | Richmond, VA, US | On Site | Apr 01 |
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bcacfdc6132f9416a11?utm_campaign=1049&utm_source=git)** | Roanoke, VA, US | On Site | Apr 01 |
 | ↳ | **[INTERN](https://jobright.ai/jobs/info/69cd3bbd891d7b11cfcb6dda?utm_campaign=1049&utm_source=git)** | Baltimore, MD, US | On Site | Apr 01 |
-| **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69cdbaf5366bb95ba55020a8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 01 |
-| **[HOK](http://www.hok.com/)** | **[Summer 2026 - Interior Design Student Intern](https://jobright.ai/jobs/info/69b05be1dfaeda6ff59a1664?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 01 |
-| **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Product Designer](https://jobright.ai/jobs/info/69cd33f4398fb071abf72fc4?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
