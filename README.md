@@ -105,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b0?utm_campaign=1049&utm_source=git)** | NY-New York | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceba02366bb95ba550e706?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
