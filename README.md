@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/699652c4ce78e77b4fda559f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
+| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[rednote](https://www.linkedin.com/company/112758944)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69cf5dac54f00230c6d0940b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | **[Crusoe](https://crusoe.ai)** | **[Motion and Animation Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
@@ -105,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b0?utm_campaign=1049&utm_source=git)** | NY-New York | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceba02366bb95ba550e706?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
-| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
-| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Senior User Experience Manager](https://jobright.ai/jobs/info/69ce0ab4cfdc6132f9423de4?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Apr 01 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ce325754f00230c6cfcbc4?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 01 |
 | **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Communications Division, Graphic Design Intern](https://jobright.ai/jobs/info/69cec2c4891d7b11cfccc3a9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Remote | Apr 01 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cef02b54f00230c6d04ee1?utm_campaign=1049&utm_source=git)** | Denver | Hybrid | Apr 01 |
-| **[Crusoe](https://crusoe.ai)** | **[Motion and Animation Design Intern](https://jobright.ai/jobs/info/69cf0b93cdb525785fb9e2bc?utm_campaign=1049&utm_source=git)** | San Francisco, CA - US | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
