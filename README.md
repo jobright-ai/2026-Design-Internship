@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crusoe](https://crusoe.ai)** | **[Motion and Animation Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
+| **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Director of Creative Services](https://jobright.ai/jobs/info/69cf3f01366bb95ba5514ad1?utm_campaign=1049&utm_source=git)** | Boone, NC | On Site | Apr 02 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Apr 02 |
 | **[Knows Best LLC](www.knowsbestllc.com)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/69cf34cfcdb525785fb9ff69?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | Apr 02 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf322554f00230c6d07665?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
 | **[Mirage](https://mirage.app/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf2d95366bb95ba551375c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
@@ -134,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
-| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
-| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Communications Division, Graphic Design Intern](https://jobright.ai/jobs/info/69cec2c4891d7b11cfccc3a9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Remote | Apr 01 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cef02b54f00230c6d04ee1?utm_campaign=1049&utm_source=git)** | Denver | Hybrid | Apr 01 |
 | **[Crusoe](https://crusoe.ai)** | **[Motion and Animation Design Intern](https://jobright.ai/jobs/info/69cf0b93cdb525785fb9e2bc?utm_campaign=1049&utm_source=git)** | San Francisco, CA - US | On Site | Apr 01 |
-| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69cdac6e366bb95ba550177e?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 01 |
-| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Production Designer, Print Design, Compendium, Crown Publishing Group (Open to Remote)](https://jobright.ai/jobs/info/69cde7f254f00230c6cf808e?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 01 |
-| **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/69cd9b3a891d7b11cfcbdf1d?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Apr 01 |
-| **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Document Editor Intern](https://jobright.ai/jobs/info/69cdcb7b366bb95ba55029c6?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
