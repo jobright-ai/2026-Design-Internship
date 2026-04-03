@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
-| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
-| ↳ | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
