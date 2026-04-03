@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DL1961](https://www.dl1961.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
+| **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d03bf90b098b7a67077c4c?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Communications Specialist](https://jobright.ai/jobs/info/69d03bee891d7b11cfcd9e21?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69d031860b098b7a670777d2?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Apr 03 |
 | **[Upbound Group](https://www.upbound.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d03155891d7b11cfcd99fb?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Apr 03 |
 | **[TensorWave](https://tensorwave.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69d0312acdb525785fba8714?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
@@ -68,6 +71,7 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d0247acdb525785fba7a9d?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
 | **[Tixr](https://www.tixr.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69d02185366bb95ba551b872?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d01a37cdb525785fba75f7?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
+| **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Social Media Video Editor intern](https://jobright.ai/jobs/info/69d04018cfdc6132f9439c7b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d013b354f00230c6d0f076?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d013a60b098b7a670764b5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d01378366bb95ba551b25c?utm_campaign=1049&utm_source=git)** | Torrance, CA, US | On Site | Apr 03 |
@@ -77,6 +81,7 @@ For a complete list, click the following sortable link below:
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d00f6c891d7b11cfcd84a6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[OXOS Medical](https://www.oxos.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69d00f36cfdc6132f9438049?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
@@ -146,15 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Precept Wine & Spirits](http://preceptwine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ced758398fb071abf8970a?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69ced474cfdc6132f942ca3f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Fabric Group](https://jobright.ai/jobs/info/69ced06b891d7b11cfcccd86?utm_campaign=1049&utm_source=git)** | Conover, NC | On Site | Apr 02 |
-| **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69ced01154f00230c6d0359c?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | On Site | Apr 02 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceeafe366bb95ba551107e?utm_campaign=1049&utm_source=git)** | Crosby, MN | On Site | Apr 02 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Marketing – Assistant Graphic Designer (NFWS)](https://jobright.ai/jobs/info/69cee704398fb071abf8a8e4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Apr 02 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Creative and Learning Design Intern](https://jobright.ai/jobs/info/69cee6f5366bb95ba5510ddd?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
-| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Asset Management Coordinator Intern](https://jobright.ai/jobs/info/69cec391891d7b11cfccc48f?utm_campaign=1049&utm_source=git)** | Norwell, MA, United States | On Site | Apr 02 |
-| **[Clean Harbors](http://www.cleanharbors.com)** | **[Asset Management Coordinator Intern](https://jobright.ai/jobs/info/69cec374366bb95ba550f1cf?utm_campaign=1049&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Apr 02 |
-| ↳ | **[Asset Management Intern](https://jobright.ai/jobs/info/69cec373366bb95ba550f1c7?utm_campaign=1049&utm_source=git)** | 42 Longwater Drive, Norwell, MA, 02061-9149, US | On Site | Apr 02 |
-| **[HPC Industrial powered by Clean Harbors](www.hpc-industrial.com)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69cec365366bb95ba550f18e?utm_campaign=1049&utm_source=git)** | Norwell, MA, United States | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
