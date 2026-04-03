@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Knows Best LLC](www.knowsbestllc.com)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/69cf34cfcdb525785fb9ff69?utm_campaign=1049&utm_source=git)** | Greater Orlando | Hybrid | Apr 02 |
+| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf322554f00230c6d07665?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Apr 02 |
+| **[Mirage](https://mirage.app/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf2d95366bb95ba551375c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69cf27ef891d7b11cfcd0550?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Apr 02 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf268ccdb525785fb9f0a7?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Apr 02 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 02 |
@@ -102,6 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
+| **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
+| **[Namify](http://namify.com)** | **[UX Copywriter Intern - Exclusively In-Office May-August](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf80?utm_campaign=1049&utm_source=git)** | Springville,UT,US | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cedd0d54f00230c6d0411f?utm_campaign=1049&utm_source=git)** | Maryland, United States | On Site | Apr 02 |
 | **[C&S Companies](http://www.cscos.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69cedae2366bb95ba551037e?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Apr 02 |
 | **[Le Truc](https://www.letruc.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69ced926cfdc6132f942d02c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
@@ -139,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Apr 02 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Design, Naturium](https://jobright.ai/jobs/info/6979319a52f3c27ec6457b28?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 02 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/6977c3aa52f3c27ec643e59d?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Apr 02 |
-| ↳ | **[Architecture Intern (Urban Design) - Summer 2026](https://jobright.ai/jobs/info/69cf16a8398fb071abf8c3ea?utm_campaign=1049&utm_source=git)** | United States-California-San Francisco | On Site | Apr 02 |
 | **[PGAL](http://pgal.com)** | **[Summer Internship-Architecture](https://jobright.ai/jobs/info/69cdf5e8398fb071abf7fbe0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 01 |
 | **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/69cdf6d1366bb95ba55064da?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Senior User Experience Manager](https://jobright.ai/jobs/info/69cdd0b8cfdc6132f941fcc4?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 01 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Production Designer, Print Design, Compendium, Crown Publishing Group (Open to Remote)](https://jobright.ai/jobs/info/69cde7f254f00230c6cf808e?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 01 |
 | **[Zekelman Industries](http://www.zekelman.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/69cd9b3a891d7b11cfcbdf1d?utm_campaign=1049&utm_source=git)** | Troy, MI | On Site | Apr 01 |
 | **[Modern Technology Solutions, Inc. (MTSI)](http://www.mtsi-va.com/)** | **[Document Editor Intern](https://jobright.ai/jobs/info/69cdcb7b366bb95ba55029c6?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Apr 01 |
-| **[Lasko Products](https://www.lasko.com/)** | **[Industrial Design Summer Internship](https://jobright.ai/jobs/info/6976e084bc8e722e7b1b55d8?utm_campaign=1049&utm_source=git)** | West Chester, PA | On Site | Apr 01 |
-| **[Wan Bridge Group](https://wanbridge.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ceaff8cfdc6132f942ae56?utm_campaign=1049&utm_source=git)** | Houston,TX,US | On Site | Apr 01 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Summer/Fall 2026 - 3D Modeling Collegiate Intern (Visual Design) (Beverly Hills, CA)](https://jobright.ai/jobs/info/69cd8dfd54f00230c6cf3aa9?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 01 |
-| **[State Street](https://www.statestreet.com/)** | **[Graphic Designer, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c2c93c753c101b215615e1?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
