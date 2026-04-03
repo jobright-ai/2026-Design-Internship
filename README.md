@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 03 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69cfc81854f00230c6d0c5c4?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
 | **[Mediabistro](https://www.mediabistro.com)** | **[Design Intern, Digital Product (Business Media / UI/UX)](https://jobright.ai/jobs/info/69cfc3e3891d7b11cfcd5d2f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[Eddyfi Technologies](https://www.eddyfi.com/)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/69b38ef4a8ac8e70ff67d0c5?utm_campaign=1049&utm_source=git)** | Greater Quebec City Metropolitan Area | Hybrid | Apr 03 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | Apr 03 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf055454f00230c6d05d59?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Design and Advertising Intern](https://jobright.ai/jobs/info/69cefad4398fb071abf8b65b?utm_campaign=1049&utm_source=git)** | Watertown, MA | On Site | Apr 02 |
 | **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69cefa9b398fb071abf8b4d6?utm_campaign=1049&utm_source=git)** | SLC Triad Center | Hybrid | Apr 02 |
-| **[BetterHelp](https://www.betterhelp.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69cef791891d7b11cfccee92?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Apr 02 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69cef4d6366bb95ba55119a3?utm_campaign=1049&utm_source=git)** | Boston, KY | On Site | Apr 02 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Summer Design Internship(Korean Speaking)](https://jobright.ai/jobs/info/69cef06e398fb071abf8ad04?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 02 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Creative Content Communications (Summer 2026)](https://jobright.ai/jobs/info/69ceee70cfdc6132f942e00c?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Apr 02 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b0?utm_campaign=1049&utm_source=git)** | NY-New York | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceba02366bb95ba550e706?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
@@ -149,12 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ce8268366bb95ba550c3fe?utm_campaign=1049&utm_source=git)** | Main Campus - Crosby, MN 56441 | On Site | Apr 02 |
 | **[Zendesk](http://zendesk.com)** | **[Design Operations Intern, Product Design](https://jobright.ai/jobs/info/69969ea3ce78e77b4fdac2fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Continental](https://www.continental.com)** | **[2026 Internship - Digital Content and Videography (Hoosier Racing Tire)](https://jobright.ai/jobs/info/69cad00a1b5ad028873a539e?utm_campaign=1049&utm_source=git)** | Lakeville, IN | On Site | Apr 02 |
-| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
-| ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/69ce97e8366bb95ba550cd08?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
+| ↳ | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69ce97cecfdc6132f9429a48?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69b1c30e65de58104c70c07b?utm_campaign=1049&utm_source=git)** | Broomfield, CO | On Site | Apr 02 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 02 |
+| **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6995392bce78e77b4fd9547c?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 02 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Packaging Design](https://jobright.ai/jobs/info/697adb42c532c4768fe0918c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
-| **[Perkins&Will](http://perkinswill.com)** | **[Intern - Interior Designer](https://jobright.ai/jobs/info/69795d3252f3c27ec645ccb5?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 02 |
-| **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
