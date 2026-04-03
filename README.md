@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rednote](https://www.linkedin.com/company/112758944)** | **[Creative Content Intern](https://jobright.ai/jobs/info/69cf5dac54f00230c6d0940b?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 02 |
 | **[Crusoe](https://crusoe.ai)** | **[Motion and Animation Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 02 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[Appalachian State University](http://www.appstate.edu/)** | **[Director of Creative Services](https://jobright.ai/jobs/info/69cf3f01366bb95ba5514ad1?utm_campaign=1049&utm_source=git)** | Boone, NC | On Site | Apr 02 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69ced01154f00230c6d0359c?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | On Site | Apr 02 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
-| **[SIGMA7 design group](https://sigma7design.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69cef5f3366bb95ba55119d9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 02 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceeafe366bb95ba551107e?utm_campaign=1049&utm_source=git)** | Crosby, MN | On Site | Apr 02 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Marketing – Assistant Graphic Designer (NFWS)](https://jobright.ai/jobs/info/69cee704398fb071abf8a8e4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Apr 02 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
