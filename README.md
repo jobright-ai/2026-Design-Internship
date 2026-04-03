@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d0247acdb525785fba7a9d?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
+| **[Tixr](https://www.tixr.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69d02185366bb95ba551b872?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 03 |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d01a37cdb525785fba75f7?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
 | **[Perkins Eastman | Pfeiffer ](http://www.pfeifferpartners.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d013b354f00230c6d0f076?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d013a60b098b7a670764b5?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d01378366bb95ba551b25c?utm_campaign=1049&utm_source=git)** | Torrance, CA, US | On Site | Apr 03 |
@@ -67,15 +70,19 @@ For a complete list, click the following sortable link below:
 | **[OXOS Medical](https://www.oxos.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69d00f36cfdc6132f9438049?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 03 |
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cffb88366bb95ba551a5a0?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
-| ↳ | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cff80254f00230c6d0dfaa?utm_campaign=1049&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
+| **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 03 |
+| **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cff80254f00230c6d0dfaa?utm_campaign=1049&utm_source=git)** | Corona, California, United States | On Site | Apr 03 |
 | **[AFM Agency](https://afmagency.net/)** | **[AFM Summer Internship Program 2026 (NYC)](https://jobright.ai/jobs/info/69d015d0366bb95ba551b472?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69cff3fb891d7b11cfcd75f8?utm_campaign=1049&utm_source=git)** | Boston, KY | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69cff29f0b098b7a6707524b?utm_campaign=1049&utm_source=git)** | Florida - Orlando | Hybrid | Apr 03 |
 | **[Tixr](https://www.tixr.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cff1ae891d7b11cfcd6ff5?utm_campaign=1049&utm_source=git)** | Remote (Santa Monica, CA, US) | Remote | Apr 03 |
 | **[VPP Texas](www.vpptexas.com)** | **[Content & Creative Intern](https://jobright.ai/jobs/info/69cff18d54f00230c6d0d7f8?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Apr 03 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69cfeb25366bb95ba5519874?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | Apr 03 |
+| **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/69c5f9e81818a24cd84bce1e?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69c1e26875f7ff1cd8103e25?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69b39d3ea8ac8e70ff67e3b0?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Design Storytelling and Illustration Intern - Summer 2026](https://jobright.ai/jobs/info/69b35f99a8ac8e70ff6793b9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 03 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b0?utm_campaign=1049&utm_source=git)** | NY-New York | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceba02366bb95ba550e706?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
-| **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
-| **[Namify](http://namify.com)** | **[UX Copywriter Intern - Exclusively In-Office May-August](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf80?utm_campaign=1049&utm_source=git)** | Springville,UT,US | On Site | Apr 02 |
-| **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cedd0d54f00230c6d0411f?utm_campaign=1049&utm_source=git)** | Maryland, United States | On Site | Apr 02 |
-| **[C&S Companies](http://www.cscos.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69cedae2366bb95ba551037e?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Apr 02 |
-| **[Le Truc](https://www.letruc.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69ced926cfdc6132f942d02c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[SRF Consulting Group](http://srfconsulting.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69d00487891d7b11cfcd7c78?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 02 |
-| **[Virgo Health US](http://www.virgohealth.com/us)** | **[Design Internship](https://jobright.ai/jobs/info/69cee723cfdc6132f942dce9?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
