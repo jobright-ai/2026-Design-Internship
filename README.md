@@ -73,6 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Boncom](https://www.boncom.com/)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69cf22ae54f00230c6d06ac5?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 02 |
 | **[Canadian Musicians Co-operative](https://www.canadianmusicians.coop)** | **[Creative Services Team - Canada Wide 2026](https://jobright.ai/jobs/info/69cf197b366bb95ba5512ac4?utm_campaign=1049&utm_source=git)** | Barrie, ON | Hybrid | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MARKETING & COMMUNICATIONS: GRAPHIC DESIGN SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cf101d366bb95ba55127f7?utm_campaign=1049&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 02 |
+| **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Art and Design Intern job](https://jobright.ai/jobs/info/69cf8306cdb525785fba347c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf0797366bb95ba5512151?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Communications and Graphic Design Outreach Intern](https://jobright.ai/jobs/info/69cf068a398fb071abf8bb1d?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf055454f00230c6d05d59?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69b1ff16548f140066e82fb6?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 02 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceba0654f00230c6d023b0?utm_campaign=1049&utm_source=git)** | NY-New York | On Site | Apr 02 |
 | **[Structural Group, Inc.](http://www.structuralgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceba02366bb95ba550e706?utm_campaign=1049&utm_source=git)** | Columbia, MD | On Site | Apr 02 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb366bb95ba550e6c0?utm_campaign=1049&utm_source=git)** | DC-Washington | On Site | Apr 02 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9fb891d7b11cfccbb14?utm_campaign=1049&utm_source=git)** | TX-Dallas | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9f0cfdc6132f942b66c?utm_campaign=1049&utm_source=git)** | IL-Rosemont | On Site | Apr 02 |
 | ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69ceb9ebcdb525785fb9a851?utm_campaign=1049&utm_source=git)** | IL-Chicago | On Site | Apr 02 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69cf2bcf398fb071abf8cf82?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Designer/Intern Architect](https://jobright.ai/jobs/info/69ce0a18366bb95ba5507039?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 01 |
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Senior User Experience Manager](https://jobright.ai/jobs/info/69ce0ab4cfdc6132f9423de4?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Apr 01 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ce325754f00230c6cfcbc4?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 01 |
-| **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Communications Division, Graphic Design Intern](https://jobright.ai/jobs/info/69cec2c4891d7b11cfccc3a9?utm_campaign=1049&utm_source=git)** | Lansing, MI | Remote | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
