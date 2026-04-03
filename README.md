@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Design and Advertising Intern](https://jobright.ai/jobs/info/69cefad4398fb071abf8b65b?utm_campaign=1049&utm_source=git)** | Watertown, MA | On Site | Apr 02 |
+| **[Temple Square Hospitality Corporation](http://templesquarehospitality.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69cefa9b398fb071abf8b4d6?utm_campaign=1049&utm_source=git)** | SLC Triad Center | Hybrid | Apr 02 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69cef791891d7b11cfccee92?utm_campaign=1049&utm_source=git)** | San Jose, CA | Remote | Apr 02 |
+| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69cef4d6366bb95ba55119a3?utm_campaign=1049&utm_source=git)** | Boston, KY | On Site | Apr 02 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Summer Design Internship(Korean Speaking)](https://jobright.ai/jobs/info/69cef06e398fb071abf8ad04?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 02 |
 | **[Volvo Trucks](http://www.volvotrucks.com/)** | **[Intern: Creative Content Communications (Summer 2026)](https://jobright.ai/jobs/info/69ceee70cfdc6132f942e00c?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Apr 02 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69ceecb3398fb071abf8abb4?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Apr 02 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69ced01154f00230c6d0359c?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | On Site | Apr 02 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
+| **[SIGMA7 design group](https://sigma7design.com/)** | **[Summer Intern](https://jobright.ai/jobs/info/69cef5f3366bb95ba55119d9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 02 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceeafe366bb95ba551107e?utm_campaign=1049&utm_source=git)** | Crosby, MN | On Site | Apr 02 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Marketing – Assistant Graphic Designer (NFWS)](https://jobright.ai/jobs/info/69cee704398fb071abf8a8e4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Apr 02 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cdb956cfdc6132f941ed39?utm_campaign=1049&utm_source=git)** | Toronto, ON | Hybrid | Apr 01 |
 | **[Sony Music Entertainment](http://www.sonymusic.com)** | **[Creative Services Intern- OVO Sound](https://jobright.ai/jobs/info/69cd8724891d7b11cfcbc9c0?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Apr 01 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cde081cfdc6132f9420a53?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Apr 01 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/697015150f4e0f657ea47080?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 01 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Digital Media Services Photography (Summer 2026 - Fall 2026)](https://jobright.ai/jobs/info/69cdf13d366bb95ba5505bde?utm_campaign=1049&utm_source=git)** | Jacksonville, AL | On Site | Apr 01 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cd7ccc366bb95ba54fc48c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 01 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69cdb59fcdb525785fb8dfd8?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Apr 01 |
-| **[CEVA Logistics](https://www.cevalogistics.com/en)** | **[Graphic Designer & Marketing Intern](https://jobright.ai/jobs/info/69cde0cacfdc6132f9420ac2?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
