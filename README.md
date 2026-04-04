@@ -96,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cffb88366bb95ba551a5a0?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 03 |
