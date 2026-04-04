@@ -95,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cffb88366bb95ba551a5a0?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 03 |
@@ -144,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Vantaca](https://www.vantaca.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d06234891d7b11cfcdaf26?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Apr 02 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf0797366bb95ba5512151?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Communications and Graphic Design Outreach Intern](https://jobright.ai/jobs/info/69cf068a398fb071abf8bb1d?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Apr 02 |
+| **[CS Companies](http://www.cscompanies.net)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d0aff3891d7b11cfcde27e?utm_campaign=1049&utm_source=git)** | Syracuse, NY, US | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf055454f00230c6d05d59?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
 | **[TensorWave](https://tensorwave.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69cfe9c8cdb525785fba5903?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada | On Site | Apr 02 |
 | **[Bosch Home Comfort USA](https://www.bosch-thermotechnology.us/)** | **[Design and Advertising Intern](https://jobright.ai/jobs/info/69cefad4398fb071abf8b65b?utm_campaign=1049&utm_source=git)** | Watertown, MA | On Site | Apr 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Studio Summer Internship](https://jobright.ai/jobs/info/69ceeae6398fb071abf8aaee?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 02 |
 | **[Arena](https://arena.run/)** | **[AK-Sr. Product Designer](https://jobright.ai/jobs/info/69cf9769398fb071abf911e8?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Apr 02 |
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Data Analyst Intern](https://jobright.ai/jobs/info/69cff2be54f00230c6d0de52?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Apr 02 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
