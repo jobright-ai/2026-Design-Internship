@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[2D Artist Internship (unpaid) - Texture Painting Focus (Anime-Style Characters & Avatars)](https://jobright.ai/jobs/info/69d05855366bb95ba551d90a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | Apr 03 |
 | **[skysync](https://www.skysync.nyc/)** | **[digital designer intern](https://jobright.ai/jobs/info/69d04d9f366bb95ba551d71d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
+| **[The Plug Drink](https://theplugdrink.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d07883366bb95ba551e9a3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d04bb054f00230c6d11139?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d06634366bb95ba551e151?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[DL1961](https://www.dl1961.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Data Analyst Intern](https://jobright.ai/jobs/info/69cff2be54f00230c6d0de52?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Apr 02 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Bria Hammel Interiors](https://briahammelinteriors.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cee180891d7b11cfccdd18?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| **[Haworth](http://www.haworth.com/)** | **[Graphic Design Intern- Washington, D.C.](https://jobright.ai/jobs/info/69ced8f6398fb071abf89ced?utm_campaign=1049&utm_source=git)** | Washington, MI | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
