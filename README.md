@@ -57,10 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Neon Postgres](https://neon.tech)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e268?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
+| **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e267?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
+| **[Keep Going Athletics](keepgoingathletics.com)** | **[Fashion Design Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/69d064ee366bb95ba551e12c?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 03 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[2D Artist Internship (unpaid) - Texture Painting Focus (Anime-Style Characters & Avatars)](https://jobright.ai/jobs/info/69d05855366bb95ba551d90a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | Apr 03 |
 | **[skysync](https://www.skysync.nyc/)** | **[digital designer intern](https://jobright.ai/jobs/info/69d04d9f366bb95ba551d71d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d04bb054f00230c6d11139?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
+| **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d06634366bb95ba551e151?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 03 |
 | **[DL1961](https://www.dl1961.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d03bf90b098b7a67077c4c?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Communications Specialist](https://jobright.ai/jobs/info/69d03bee891d7b11cfcd9e21?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -135,6 +139,7 @@ For a complete list, click the following sortable link below:
 | **[Canadian Musicians Co-operative](https://www.canadianmusicians.coop)** | **[Creative Services Team - Canada Wide 2026](https://jobright.ai/jobs/info/69cf197b366bb95ba5512ac4?utm_campaign=1049&utm_source=git)** | Barrie, ON | Hybrid | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MARKETING & COMMUNICATIONS: GRAPHIC DESIGN SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cf101d366bb95ba55127f7?utm_campaign=1049&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 02 |
 | **[Philadelphia International Airport (PHL)](https://www.phl.org/)** | **[Art and Design Intern job](https://jobright.ai/jobs/info/69cf8306cdb525785fba347c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
+| **[Vantaca](https://www.vantaca.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d06234891d7b11cfcdaf26?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Apr 02 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf0797366bb95ba5512151?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 | **[Weber State University Department of Automotive Technology](https://www.weber.edu/automotive)** | **[Communications and Graphic Design Outreach Intern](https://jobright.ai/jobs/info/69cf068a398fb071abf8bb1d?utm_campaign=1049&utm_source=git)** | Ogden, UT | On Site | Apr 02 |
 | **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cf055454f00230c6d05d59?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
 | **[Bria Hammel Interiors](https://briahammelinteriors.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cee180891d7b11cfccdd18?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
 | **[Haworth](http://www.haworth.com/)** | **[Graphic Design Intern- Washington, D.C.](https://jobright.ai/jobs/info/69ced8f6398fb071abf89ced?utm_campaign=1049&utm_source=git)** | Washington, MI | On Site | Apr 02 |
-| **[Precept Wine & Spirits](http://preceptwine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ced758398fb071abf8970a?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 02 |
-| **[Greenlight](https://greenlight.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69ced474cfdc6132f942ca3f?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 02 |
-| **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Fabric Group](https://jobright.ai/jobs/info/69ced06b891d7b11cfcccd86?utm_campaign=1049&utm_source=git)** | Conover, NC | On Site | Apr 02 |
-| **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
-| **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
