@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
+| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[2D Artist Internship (unpaid) - Texture Painting Focus (Anime-Style Characters & Avatars)](https://jobright.ai/jobs/info/69d05855366bb95ba551d90a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | Apr 03 |
 | **[skysync](https://www.skysync.nyc/)** | **[digital designer intern](https://jobright.ai/jobs/info/69d04d9f366bb95ba551d71d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d04bb054f00230c6d11139?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[DL1961](https://www.dl1961.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Fabric Group](https://jobright.ai/jobs/info/69ced06b891d7b11cfcccd86?utm_campaign=1049&utm_source=git)** | Conover, NC | On Site | Apr 02 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceceb554f00230c6d0354e?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 02 |
 | **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
-| **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceeafe366bb95ba551107e?utm_campaign=1049&utm_source=git)** | Crosby, MN | On Site | Apr 02 |
-| **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Marketing – Assistant Graphic Designer (NFWS)](https://jobright.ai/jobs/info/69cee704398fb071abf8a8e4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
