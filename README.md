@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Apr 03 |
 | **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69d0a3f2cdb525785fbac72a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e268?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
@@ -78,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[BRAINS](http://brainsonfire.com)** | **[BRAINS / Brand Design Internship](https://jobright.ai/jobs/info/69d02e42cdb525785fba8372?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 03 |
 | **[Paul Carroll NY](http://www.paulcarroll.com)** | **[Fashion Design Internship: Learn, Create, and Elevate Your Skills](https://jobright.ai/jobs/info/69d02d14366bb95ba551c32f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d02ac3cfdc6132f94391cc?utm_campaign=1049&utm_source=git)** | San Diego County - San Diego, CA 92110 | On Site | Apr 03 |
-| **[BRAINS](http://brainsonfire.com)** | **[BRAINS / Brand Design Internship](https://jobright.ai/jobs/info/69d02a24366bb95ba551bfc3?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[UX Intern - AI & Innovation - Remote](https://jobright.ai/jobs/info/69d02999366bb95ba551bc35?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d0247acdb525785fba7a9d?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
 | **[Tixr](https://www.tixr.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69d02185366bb95ba551b872?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 03 |
