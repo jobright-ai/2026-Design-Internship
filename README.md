@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[skysync](https://www.skysync.nyc/)** | **[digital designer intern](https://jobright.ai/jobs/info/69d04d9f366bb95ba551d71d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
+| **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d04bb054f00230c6d11139?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
 | **[DL1961](https://www.dl1961.com)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69d03c1a366bb95ba551cc53?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d03bf90b098b7a67077c4c?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Communications Specialist](https://jobright.ai/jobs/info/69d03bee891d7b11cfcd9e21?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[U.S. Space & Rocket Center](https://www.rocketcenter.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69cece5e398fb071abf8936c?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Apr 02 |
 | **[Cuyuna Regional Medical Center](https://www.cuyunamed.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ceeafe366bb95ba551107e?utm_campaign=1049&utm_source=git)** | Crosby, MN | On Site | Apr 02 |
 | **[Grand Canyon Education, Inc.](https://www.gce.com)** | **[GCE Marketing – Assistant Graphic Designer (NFWS)](https://jobright.ai/jobs/info/69cee704398fb071abf8a8e4?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Remote | Apr 02 |
-| **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| **[Children's Hospital of Philadelphia](http://chop.edu)** | **[Creative and Learning Design Intern](https://jobright.ai/jobs/info/69cee6f5366bb95ba5510ddd?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
