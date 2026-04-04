@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945b859d1953b5d11beb85f?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 04 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Apr 04 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69b46c7e3b74eb1e2c81aef4?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 04 |
 | **[Rayburn Electric Cooperative](https://www.rayburnelectric.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/697b966d0b88cc7d6422548e?utm_campaign=1049&utm_source=git)** | Rockwall, TX | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Canadian Musicians Co-operative](https://www.canadianmusicians.coop)** | **[Creative Services Team - Canada Wide 2026](https://jobright.ai/jobs/info/69cf197b366bb95ba5512ac4?utm_campaign=1049&utm_source=git)** | Barrie, ON | Hybrid | Apr 02 |
 | **[The Global Leadership Network](https://www.globalleadership.org)** | **[MARKETING & COMMUNICATIONS: GRAPHIC DESIGN SUMMER INTERNSHIP](https://jobright.ai/jobs/info/69cf101d366bb95ba55127f7?utm_campaign=1049&utm_source=git)** | Global Leadership Network - South Barrington, IL 60010 | Hybrid | Apr 02 |
 | **[Vantaca](https://www.vantaca.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d06234891d7b11cfcdaf26?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Apr 02 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cf0797366bb95ba5512151?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
