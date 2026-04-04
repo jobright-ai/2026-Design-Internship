@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69d0a3f2cdb525785fbac72a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e268?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
 | **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e267?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Fashion Design Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/69d064ee366bb95ba551e12c?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 03 |
@@ -93,8 +95,8 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cffb88366bb95ba551a5a0?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Arena](https://arena.run/)** | **[AK-Sr. Product Designer](https://jobright.ai/jobs/info/69cf9769398fb071abf911e8?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Apr 02 |
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Data Analyst Intern](https://jobright.ai/jobs/info/69cff2be54f00230c6d0de52?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Apr 02 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 02 |
-| **[Bria Hammel Interiors](https://briahammelinteriors.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69cee180891d7b11cfccdd18?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 02 |
-| **[Haworth](http://www.haworth.com/)** | **[Graphic Design Intern- Washington, D.C.](https://jobright.ai/jobs/info/69ced8f6398fb071abf89ced?utm_campaign=1049&utm_source=git)** | Washington, MI | On Site | Apr 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
