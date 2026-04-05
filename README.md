@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Motion Designer](https://jobright.ai/jobs/info/69991b2be0bddb6acac818a7?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 04 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 04 |
 | **[Mason & Hanger](http://masonandhanger.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/697e086fce48107c0542511e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | On Site | Apr 04 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961985ae7ed9a5731ba735f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 04 |
 | **[Enilram Creative Solutions LLC](https://www.enilramcreative.com/links)** | **[Enilram Creative Solutions - 2026 Internship Program](https://jobright.ai/jobs/info/69d16974cfdc6132f9443842?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Apr 04 |
 | **[Upbound Group](https://www.upbound.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d1367c54f00230c6d18ec3?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Apr 04 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6961ca2ff3f4cd132506cc9e?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 04 |
@@ -81,8 +82,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
-| ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
+| ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69d0f342cfdc6132f9440daf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
@@ -90,6 +91,7 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d0c80954f00230c6d16539?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 04 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6914facc286ccf0a15129e86?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Apr 03 |
 | **[Project ANA](https://www.linkedin.com/company/111473992)** | **[High School Intern](https://jobright.ai/jobs/info/69d0a3f2cdb525785fbac72a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
+| **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/69d1e916cfdc6132f9447798?utm_campaign=1049&utm_source=git)** | Round Rock, TX | On Site | Apr 03 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69d1d593cfdc6132f9446b7f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e268?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
@@ -124,8 +126,8 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
+| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 03 |
 | **[Monster Energy](http://www.monsterenergy.com/)** | **[Internship - Digital Asset Management (DAM)](https://jobright.ai/jobs/info/69cffb88366bb95ba551a5a0?utm_campaign=1049&utm_source=git)** | Corona, CA | On Site | Apr 03 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloudflare](http://www.cloudflare.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69cf9f52cdb525785fba3981?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 03 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69b32bb6ad360c0340a84f00?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
-| **[Omnicom Health](http://www.omnicomhealthgroup.com/)** | **[2026 Bold Beginners - Art Direction Intern](https://jobright.ai/jobs/info/699652c4ce78e77b4fda559f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 03 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
