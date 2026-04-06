@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Marketing/Graphic Design Intern (OH)](https://jobright.ai/jobs/info/69d31e94891d7b11cfcee2c9?utm_campaign=1049&utm_source=git)** | Headquarters - Mentor, OH 44060 | On Site | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Digital Media & Communications Fellow (20717226)](https://jobright.ai/jobs/info/69d2ffadcfdc6132f944d7ab?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 05 |
 | **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699e0efcce78e77b4fe329cd?utm_campaign=1049&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
+| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b249e7ed9a5731ba865e?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Apr 05 |
 | **[CHEManager International](https://www.chemanager-online.com/en)** | **[Undergraduate Summer Intern - Visualization Researcher](https://jobright.ai/jobs/info/69d29a8954f00230c6d22234?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Apr 05 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Associate Intern](https://jobright.ai/jobs/info/69ce3b1054f00230c6cfcf50?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 05 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (Vancouver, BC)](https://jobright.ai/jobs/info/6961c5eda112b402661054ca?utm_campaign=1049&utm_source=git)** | Vancouver, BC | Hybrid | Apr 05 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69d0f342cfdc6132f9440daf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[VPP Texas](www.vpptexas.com)** | **[Content & Creative Intern](https://jobright.ai/jobs/info/69cff18d54f00230c6d0d7f8?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Apr 03 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69cfeb25366bb95ba5519874?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | Apr 03 |
 | **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/69c5f9e81818a24cd84bce1e?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Apr 03 |
-| **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69b39d3ea8ac8e70ff67e3b0?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
