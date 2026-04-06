@@ -116,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e267?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Fashion Design Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/69d064ee366bb95ba551e12c?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 03 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
-| **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[2D Artist Internship (unpaid) - Texture Painting Focus (Anime-Style Characters & Avatars)](https://jobright.ai/jobs/info/69d05855366bb95ba551d90a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | Apr 03 |
 | **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d08336cdb525785fbab195?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[skysync](https://www.skysync.nyc/)** | **[digital designer intern](https://jobright.ai/jobs/info/69d04d9f366bb95ba551d71d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 03 |
 | **[Perkins Eastman](http://www.perkinseastman.com)** | **[2026 Design Strategy Summer Intern](https://jobright.ai/jobs/info/69d04bb054f00230c6d11139?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 03 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UL Research Institutes](https://ul.org)** | **[Graphic Design Summer 2026 Intern - Fire Safety Research Institute](https://jobright.ai/jobs/info/69c5f9e81818a24cd84bce1e?utm_campaign=1049&utm_source=git)** | Columbia, MD | Hybrid | Apr 03 |
 | **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69b39d3ea8ac8e70ff67e3b0?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 03 |
 | **[Lenovo](https://www.lenovo.com/in/en/)** | **[Design Storytelling and Illustration Intern - Summer 2026](https://jobright.ai/jobs/info/69b35f99a8ac8e70ff6793b9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 03 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
