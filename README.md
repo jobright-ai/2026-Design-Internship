@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern - Interiors](https://jobright.ai/jobs/info/69d3fd61366bb95ba5539474?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Apr 06 |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d3fcb154f00230c6d2ce85?utm_campaign=1049&utm_source=git)** | US - Remote | Remote | Apr 06 |
+| **[PROJXON](www.projxon.com)** | **[Intern UI/UX Marketing Design](https://jobright.ai/jobs/info/69d3f3e7e63cea7a8b655211?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Interiors](https://jobright.ai/jobs/info/69d3ee6ecdb525785fbc4a19?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Apr 06 |
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/69d3eb8854f00230c6d2c71e?utm_campaign=1049&utm_source=git)** | Milpitas, CA | Hybrid | Apr 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e66954f00230c6d2c2e3?utm_campaign=1049&utm_source=git)** | 78712 | On Site | Apr 06 |
@@ -114,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pioneer Athletics](http://pioneerathletics.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/69d00c210b098b7a67075c0e?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | Apr 03 |
 | **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d042ce366bb95ba551ce55?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 03 |
 | **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 03 |
-| **[PwC](http://pwc.com)** | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0248f54f00230c6d0f73f?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 03 |
-| ↳ | **[Tax Innovation User Experience - Intern Summer 2026](https://jobright.ai/jobs/info/69d0247dcdb525785fba7ab9?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 03 |
-| **[MDB Capital Partners LLC](https://www.mdbcapitalpartners.com/#Leadership%20Preview)** | **[Unpaid Graphic Designer Internship](https://jobright.ai/jobs/info/69d1f034891d7b11cfce7a43?utm_campaign=1049&utm_source=git)** | Providence, RI | Remote | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
