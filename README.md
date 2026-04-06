@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[USANA Health Sciences](http://www.usana.com)** | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d31eaa366bb95ba55313de?utm_campaign=1049&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 05 |
+| **[USANA Health Sciences](http://www.usana.com)** | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d32711891d7b11cfcee390?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Apr 05 |
+| ↳ | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d31eaa366bb95ba55313de?utm_campaign=1049&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 05 |
 | **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Marketing/Graphic Design Intern (OH)](https://jobright.ai/jobs/info/69d31e94891d7b11cfcee2c9?utm_campaign=1049&utm_source=git)** | Headquarters - Mentor, OH 44060 | On Site | Apr 05 |
 | **[Maxed: Smart Workout Log](https://apps.apple.com/us/app/maxed-smart-workout-log/id6759180029)** | **[Creative Lead Intern](https://jobright.ai/jobs/info/69d30b74cdb525785fbbc939?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 05 |
 | **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Digital Media & Communications Fellow (20717226)](https://jobright.ai/jobs/info/69d2ffadcfdc6132f944d7ab?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 05 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69d0f342cfdc6132f9440daf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
@@ -125,7 +126,6 @@ For a complete list, click the following sortable link below:
 | **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69d031860b098b7a670777d2?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Apr 03 |
 | **[Upbound Group](https://www.upbound.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d03155891d7b11cfcd99fb?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Apr 03 |
 | **[TensorWave](https://tensorwave.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69d0312acdb525785fba8714?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | On Site | Apr 03 |
-| **[Paul Carroll NY](http://www.paulcarroll.com)** | **[Fashion Design Internship: Learn, Create, and Elevate Your Skills](https://jobright.ai/jobs/info/69d02d14366bb95ba551c32f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 03 |
 | **[Options For All](http://optionsforall.org)** | **[Marketing & Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d02ac3cfdc6132f94391cc?utm_campaign=1049&utm_source=git)** | San Diego County - San Diego, CA 92110 | On Site | Apr 03 |
 | **[Center for Internet Security](http://cisecurity.org/)** | **[UX Intern - AI & Innovation - Remote](https://jobright.ai/jobs/info/69d02999366bb95ba551bc35?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 03 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d0247acdb525785fba7a9d?utm_campaign=1049&utm_source=git)** | Arlington, VA | Hybrid | Apr 03 |
