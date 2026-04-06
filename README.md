@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69d3bb0ee63cea7a8b6523bf?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Apr 06 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/69d3acf9cdb525785fbc167d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 06 |
 | **[Discovery Education](http://www.discoveryeducation.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69d3acf8891d7b11cfcf26b8?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386a6cdb525785fbc0735?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
@@ -105,8 +106,8 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CDM Smith](https://www.cdmsmith.com/industry)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69cff29f0b098b7a6707524b?utm_campaign=1049&utm_source=git)** | Florida - Orlando | Hybrid | Apr 03 |
 | **[Tixr](https://www.tixr.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69cff1ae891d7b11cfcd6ff5?utm_campaign=1049&utm_source=git)** | Remote (Santa Monica, CA, US) | Remote | Apr 03 |
 | **[VPP Texas](www.vpptexas.com)** | **[Content & Creative Intern](https://jobright.ai/jobs/info/69cff18d54f00230c6d0d7f8?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Apr 03 |
-| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69cfeb25366bb95ba5519874?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
