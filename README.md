@@ -91,7 +91,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e4d8e63cea7a8b654925?utm_campaign=1049&utm_source=git)** | 2001 Robert Dedman Dr | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44acdb525785fbc43e1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44a891d7b11cfcf54fa?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Apr 06 |
-| **[Appalachian State University](http://www.appstate.edu/)** | **[Director of Creative Services](https://jobright.ai/jobs/info/69cf3f01366bb95ba5514ad1?utm_campaign=1049&utm_source=git)** | Boone, NC | On Site | Apr 06 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69d3dc1054f00230c6d2b96a?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Apr 06 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Print Design Intern](https://jobright.ai/jobs/info/69b877153b74eb1e2c86495a?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
 | ↳ | **[Summer 2026 3D Design Intern](https://jobright.ai/jobs/info/6980eb7c7f40342e15d9c279?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e267?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Fashion Design Assistant (Unpaid Internship)](https://jobright.ai/jobs/info/69d064ee366bb95ba551e12c?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 03 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
+| **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d08336cdb525785fbab195?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
