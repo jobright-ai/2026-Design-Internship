@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CDM Smith](https://www.cdmsmith.com)** | **[Architecture Intern (Summer 2026!)](https://jobright.ai/jobs/info/69d005fd366bb95ba551a984?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Interior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69d44205cdb525785fbc7e26?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (University of Georgia- Students)](https://jobright.ai/jobs/info/69d4406054f00230c6d2f963?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Apr 06 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69d43e0b891d7b11cfcf8bbe?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Apr 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69d43df2891d7b11cfcf8ba0?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 06 |
 | **[Burrell Communications](http://www.burrell.com)** | **[Intern, Social Content](https://jobright.ai/jobs/info/69be220c482822729300e127?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
 | **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Asset Management](https://jobright.ai/jobs/info/69d4333654f00230c6d2efc2?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 06 |
-| **[ONEBIT](https://onebitapp.com/)** | **[Video and Creative Intern](https://jobright.ai/jobs/info/69d43334cfdc6132f94587cd?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 06 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 06 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/696feb463ed06875134ad56e?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Apr 06 |
 | **[Bikini Village](https://www.bikinivillage.com/)** | **[BIKINI VILLAGE GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/69d43068cdb525785fbc7181?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 06 |
@@ -89,8 +89,8 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/69d3eb8854f00230c6d2c71e?utm_campaign=1049&utm_source=git)** | Milpitas, CA | Hybrid | Apr 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e66954f00230c6d2c2e3?utm_campaign=1049&utm_source=git)** | 78712 | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e4d8e63cea7a8b654925?utm_campaign=1049&utm_source=git)** | 2001 Robert Dedman Dr | On Site | Apr 06 |
-| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44acdb525785fbc43e1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44a891d7b11cfcf54fa?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Apr 06 |
+| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44acdb525785fbc43e1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69d3dc1054f00230c6d2b96a?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Apr 06 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Print Design Intern](https://jobright.ai/jobs/info/69b877153b74eb1e2c86495a?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
 | ↳ | **[Summer 2026 3D Design Intern](https://jobright.ai/jobs/info/6980eb7c7f40342e15d9c279?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 06 |
@@ -141,9 +141,9 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69d0f342cfdc6132f9440daf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
