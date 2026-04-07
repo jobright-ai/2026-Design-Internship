@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/69d51707706f771673ba07af?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
+| **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern (ATX)](https://jobright.ai/jobs/info/69b1eb4c548f140066e7ff2d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 07 |
+| **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69b85db93b74eb1e2c86138f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
 | **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Graphic Design](https://jobright.ai/jobs/info/69d50a5ee63cea7a8b65e638?utm_campaign=1049&utm_source=git)** | Grand Prairie, TX | On Site | Apr 07 |
 | **[United Airlines](https://www.united.com)** | **[Intern - UX Researcher / Insights Analyst (Summer 2026)](https://jobright.ai/jobs/info/69d50777cfdc6132f945f56d?utm_campaign=1049&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 07 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/69d506b8cfdc6132f945f3db?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Apr 07 |
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d506a7366bb95ba554212d?utm_campaign=1049&utm_source=git)** | 533 S. 3rd Street, Minneapolis, MN, 55415, US | On Site | Apr 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a04bac6f0e2546ceeec4b?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 07 |
-| **[State Street](https://www.statestreet.com/)** | **[Graphic Designer, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69c2c93c753c101b215615e1?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 07 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e60ecd046ab6061cfcdc0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/690e67bf44146d3b6ec53d00?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 07 |
 | **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 07 |
@@ -75,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Atlantic Union Bank](https://atlanticunionbank.com)** | **[Corporate Intern (Multimedia) Hybrid Schedule](https://jobright.ai/jobs/info/69d4d0b8cdb525785fbccdef?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Apr 07 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: Brand & Label Opportunities: Creative (Onsite: NY)](https://jobright.ai/jobs/info/69ba966b3b74eb1e2c88a571?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | **[Allata](https://www.allata.com/)** | **[Website UI/UX Designer](https://jobright.ai/jobs/info/69d48e37e63cea7a8b65b150?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | Hybrid | Apr 06 |
-| **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Landscape Architecture Intern (University of Georgia- Students)](https://jobright.ai/jobs/info/69d48d5ecfdc6132f945bd0d?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Motion Designer](https://jobright.ai/jobs/info/69d47fabcdb525785fbc9f4e?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 06 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 06 |
 | **[Samantha Siu New York](http://www.SamanthaSiu.com)** | **[Chinese Social Media video Editor intern](https://jobright.ai/jobs/info/69d48139e63cea7a8b65a7ea?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 06 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69d3bb0ee63cea7a8b6523bf?utm_campaign=1049&utm_source=git)** | Gainesville, FL | On Site | Apr 06 |
 | **[Indiana University Bloomington](https://www.iu.edu)** | **[Part-Time Student Graphic Design Intern, Center for Rural Engagement](https://jobright.ai/jobs/info/69d386a6cdb525785fbc0735?utm_campaign=1049&utm_source=git)** | Bloomington, IN | On Site | Apr 06 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Design and Research – Digital Experience (Summer 2026)](https://jobright.ai/jobs/info/69cc5084cdb525785fb7ad71?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
-| ↳ | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69c8fad683ea553769fede92?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 06 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d0537ce78e77b4fe1d0c5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d32711891d7b11cfcee390?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Apr 05 |
 | ↳ | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d31eaa366bb95ba55313de?utm_campaign=1049&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 05 |
