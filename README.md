@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 07 |
 | **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Summer Intern](https://jobright.ai/jobs/info/69b981da3b74eb1e2c876e14?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 07 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 07 |
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d073a81476f6176b5a39e?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 07 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | **[Airbus](https://us.airbus.com)** | **[Long-term Internship - Graphic Design](https://jobright.ai/jobs/info/69d40f1354f00230c6d2dbb5?utm_campaign=1049&utm_source=git)** | Grand Prairie, TX | On Site | Apr 06 |
 | **[Bring Change to Mind (BC2M)](https://bringchange2mind.org/)** | **[Clubs Content Creator Intern](https://jobright.ai/jobs/info/69d40a7fcdb525785fbc5beb?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Mercedes-Benz Research & Development North America, Inc.](http://www.mbrdna.com)** | **[Concept Prototype Intern](https://jobright.ai/jobs/info/69cec516cfdc6132f942c374?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 06 |
-| **[Center for Internet Security](http://cisecurity.org/)** | **[UX Intern - AI & Innovation - Remote](https://jobright.ai/jobs/info/69d402b1e63cea7a8b655d2f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 06 |
 | **[Treevah](https://filterfolder.com/)** | **[Product Design Intern (Remote, Unpaid)](https://jobright.ai/jobs/info/69d4024dcdb525785fbc5746?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Apr 06 |
 | **[Onni Creative](http://www.onnicreative.xyz)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69d41f46366bb95ba553acc5?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Apr 06 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern - Interiors](https://jobright.ai/jobs/info/69d3fd61366bb95ba5539474?utm_campaign=1049&utm_source=git)** | Pennington, NJ | On Site | Apr 06 |
