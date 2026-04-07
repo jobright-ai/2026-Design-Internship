@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lippincott](http://www.lippincott.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d56bd4cdb525785fbd0bc2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
+| **[Nomara USA](https://intermediumcorp.com)** | **[Internship-graphic designer EXPERIENCE](https://jobright.ai/jobs/info/69d56833366bb95ba5544cd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 07 |
+| **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/69d565a8cdb525785fbd0872?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercialization Intern](https://jobright.ai/jobs/info/69d56248e63cea7a8b660e04?utm_campaign=1049&utm_source=git)** | Warren, RI | On Site | Apr 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
+| **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69d5604e366bb95ba554482f?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 07 |
+| ↳ | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69d5604d706f771673ba2969?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/69d55904e63cea7a8b66074b?utm_campaign=1049&utm_source=git)** | Macungie, PA | On Site | Apr 07 |
 | **[Quaker City Mercantile](https://quakercitymercantile.com)** | **[Summer Design Internship](https://jobright.ai/jobs/info/69d557e3366bb95ba554440c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 07 |
 | **[SPACEMAN](http://spacemanmedia.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69d5567e366bb95ba554439a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
@@ -65,21 +72,21 @@ For a complete list, click the following sortable link below:
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54980cfdc6132f9460f77?utm_campaign=1049&utm_source=git)** | USA-NC - North Carolina Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54964cdb525785fbcf88b?utm_campaign=1049&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963706f771673ba1d40?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf874?utm_campaign=1049&utm_source=git)** | USA-OR - Oregon Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf871?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54961706f771673ba1d29?utm_campaign=1049&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1c?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1c?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d20?utm_campaign=1049&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69d54448891d7b11cfd00822?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[JANUS et Cie](http://www.janusetcie.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69b0618b749500645096877f?utm_campaign=1049&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 07 |
 | **[Ripple Junction Design Co.](http://ripplejunction.com)** | **[Licensing Approvals Summer Intern](https://jobright.ai/jobs/info/69d54107e63cea7a8b65fbf5?utm_campaign=1049&utm_source=git)** | West Chester, OH | On Site | Apr 07 |
@@ -139,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Sandisk](https://www.sandisk.com)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/69d3eb8854f00230c6d2c71e?utm_campaign=1049&utm_source=git)** | Milpitas, CA | Hybrid | Apr 06 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e66954f00230c6d2c2e3?utm_campaign=1049&utm_source=git)** | 78712 | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e4d8e63cea7a8b654925?utm_campaign=1049&utm_source=git)** | 2001 Robert Dedman Dr | On Site | Apr 06 |
-| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44acdb525785fbc43e1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44a891d7b11cfcf54fa?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Apr 06 |
+| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/69d3e44acdb525785fbc43e1?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Apr 06 |
 | **[Johnson, Mirmiran & Thompson](http://jmt.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69d3dc1054f00230c6d2b96a?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD | On Site | Apr 06 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Print Design Intern](https://jobright.ai/jobs/info/69b877153b74eb1e2c86495a?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 06 |
 | ↳ | **[Summer 2026 3D Design Intern](https://jobright.ai/jobs/info/6980eb7c7f40342e15d9c279?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lucid Software](https://lucid.co)** | **[UX Design Internship 2026](https://jobright.ai/jobs/info/699d0537ce78e77b4fe1d0c5?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 05 |
 | **[USANA Health Sciences](http://www.usana.com)** | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d32711891d7b11cfcee390?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Apr 05 |
 | ↳ | **[Social Media Design Intern](https://jobright.ai/jobs/info/69d31eaa366bb95ba55313de?utm_campaign=1049&utm_source=git)** | Salt Lake City, Utah | On Site | Apr 05 |
-| **[MUM Industries Inc.](https://www.mumindustries.com)** | **[Marketing/Graphic Design Intern (OH)](https://jobright.ai/jobs/info/69d31e94891d7b11cfcee2c9?utm_campaign=1049&utm_source=git)** | Headquarters - Mentor, OH 44060 | On Site | Apr 05 |
-| **[Archinect](https://archinect.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69d41dd0366bb95ba553ac6b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 05 |
-| **[CITY OF WOODLAND, CALIFORNIA](https://www.cityofwoodland.org)** | **[Digital Media & Communications Fellow (20717226)](https://jobright.ai/jobs/info/69d2ffadcfdc6132f944d7ab?utm_campaign=1049&utm_source=git)** | Lincoln, Nebraska Metropolitan Area | On Site | Apr 05 |
-| **[LVT (LiveView Technologies)](https://lvt.co/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/699e0efcce78e77b4fe329cd?utm_campaign=1049&utm_source=git)** | American Fork, UT | On Site | Apr 05 |
-| **[Uline](http://www.uline.com)** | **[Private Label Internship - Summer 2026](https://jobright.ai/jobs/info/6961b249e7ed9a5731ba865e?utm_campaign=1049&utm_source=git)** | Glenview, IL | On Site | Apr 05 |
-| **[CHEManager International](https://www.chemanager-online.com/en)** | **[Undergraduate Summer Intern - Visualization Researcher](https://jobright.ai/jobs/info/69d29a8954f00230c6d22234?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Apr 05 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Interior Design Collegiate Associate Intern](https://jobright.ai/jobs/info/69ce3b1054f00230c6cfcf50?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
