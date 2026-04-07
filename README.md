@@ -122,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[ROCK](http://www.rockventures.com/)** | **[Apparel Design Intern - Summer 2026](https://jobright.ai/jobs/info/6969db25f25a38006698a641?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 05 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6999347d81476f6176b1c04a?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 05 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 05 |
-| **[State of Michigan](http://www.michigan.gov)** | **[MDCR - Communications Division, Graphic Design Intern](https://jobright.ai/jobs/info/69d4704e891d7b11cfcfa35a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | Apr 04 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 04 |
 | **[BJ Media LLC](https://www.bjmediallc.com/)** | **[Fall 2026 Video/Photo Internship](https://jobright.ai/jobs/info/69d1a1b0cfdc6132f9444989?utm_campaign=1049&utm_source=git)** | Greater Phoenix Area | On Site | Apr 04 |
 | **[Bonneville Communications](https://www.bonnevillecommunications.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69d17185891d7b11cfce3807?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 04 |
@@ -144,9 +143,9 @@ For a complete list, click the following sortable link below:
 | **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Handbags Offprice - NYC](https://jobright.ai/jobs/info/69d0f44b0b098b7a6707ed6a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Apparel - NYC](https://jobright.ai/jobs/info/69d0f35954f00230c6d17995?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
-| ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear - LIC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcc3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
+| ↳ | **[Intern - Design, Footwear AK - LIC](https://jobright.ai/jobs/info/69d0f34f366bb95ba5523ca5?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
+| ↳ | **[Intern - Design & Merchandising, Apparel - NYC](https://jobright.ai/jobs/info/69d0f34fcdb525785fbafcbd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Denim/Almost Famous - NYC](https://jobright.ai/jobs/info/69d0f34acfdc6132f9440dd2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Accessories - NYC](https://jobright.ai/jobs/info/69d0f346cfdc6132f9440dbe?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 04 |
 | ↳ | **[Intern - Design, Footwear Inline - LIC](https://jobright.ai/jobs/info/69d0f342cfdc6132f9440daf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Entertainment Design - Summer 2026 - Los Angeles](https://jobright.ai/jobs/info/69c60e2faa9a29199e80ce51?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 03 |
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e268?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
 | **[NEON](https://neonrated.com)** | **[Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d06903366bb95ba551e267?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Apr 03 |
+| **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (May 2026)](https://jobright.ai/jobs/info/69d05894891d7b11cfcdab1e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
