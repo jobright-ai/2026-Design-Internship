@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ayres Associates](http://ayresassociates.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69d693c3cfdc6132f946acd5?utm_campaign=1049&utm_source=git)** | Eau Claire, WI | On Site | Apr 08 |
+| **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6935152a5bf5800129913?utm_campaign=1049&utm_source=git)** | US-VA-Hampton | On Site | Apr 08 |
+| **[Canary Marketing](http://canarymarketing.com)** | **[Jr. Graphic Design intern](https://jobright.ai/jobs/info/69d68fe652a5bf580012982d?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 08 |
+| **[Peet's Coffee](http://www.peets.com/)** | **[Creative & Brand Content Intern](https://jobright.ai/jobs/info/69d689c6e63cea7a8b6696e5?utm_campaign=1049&utm_source=git)** | Emeryville, California | On Site | Apr 08 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 (FED/STL)](https://jobright.ai/jobs/info/69d6815d706f771673bab06f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Apr 08 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[UI UX Design Intern l US Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69d68144e63cea7a8b66934f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[ARCHITECTURAL INTERNSHIP (SUMMER 2026)](https://jobright.ai/jobs/info/69c5dccf83ea553769fd0ccf?utm_campaign=1049&utm_source=git)** | Ithaca, NY | Hybrid | Apr 08 |
@@ -67,7 +71,7 @@ For a complete list, click the following sortable link below:
 | **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cc4efe0bddb6acacbd378?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cde76ce78e77b4fe19614?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 08 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d68800706f771673bab303?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 08 |
 | **[Carta](https://carta.com/)** | **[Marketing Internship - Graphic Designer / Art Director](https://jobright.ai/jobs/info/699eb54ece78e77b4fe45c59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
 | **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d662a752a5bf58001286ca?utm_campaign=1049&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | Apr 08 |
 | **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699ceccc81476f6176b57693?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
@@ -134,27 +138,23 @@ For a complete list, click the following sortable link below:
 | **[SPACEMAN](http://spacemanmedia.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69d5567e366bb95ba554439a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | **[Pulse NWA](https://pulsenwa.com/Home)** | **[Graphic Design Intern Summer 2026](https://jobright.ai/jobs/info/69d552e4e63cea7a8b66039c?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54964cdb525785fbcf88b?utm_campaign=1049&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963706f771673ba1d40?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf874?utm_campaign=1049&utm_source=git)** | USA-OR - Oregon Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf871?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54961706f771673ba1d29?utm_campaign=1049&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1c?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d20?utm_campaign=1049&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69d54448891d7b11cfd00822?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[JANUS et Cie](http://www.janusetcie.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69b0618b749500645096877f?utm_campaign=1049&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 07 |
 | **[Ripple Junction Design Co.](http://ripplejunction.com)** | **[Licensing Approvals Summer Intern](https://jobright.ai/jobs/info/69d54107e63cea7a8b65fbf5?utm_campaign=1049&utm_source=git)** | West Chester, OH | On Site | Apr 07 |
-| **[SSOE Group](https://www.ssoe.com/)** | **[Summer 2026 Architectural Design Intern](https://jobright.ai/jobs/info/69b86e463b74eb1e2c863b89?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Apr 07 |
-| **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Graphic Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d53981e63cea7a8b65f8af?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d549a7366bb95ba5543c87?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Apr 07 |
-| **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Creator Intern (LA)](https://jobright.ai/jobs/info/69b1e9d765de58104c7137e6?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
