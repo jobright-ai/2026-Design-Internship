@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 (FED/STL)](https://jobright.ai/jobs/info/69d6815d706f771673bab06f?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Apr 08 |
+| **[Revilo Technologies](www.reviloautocare.com)** | **[UI UX Design Intern l US Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69d68144e63cea7a8b66934f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Tetra Tech](http://www.tetratech.com)** | **[ARCHITECTURAL INTERNSHIP (SUMMER 2026)](https://jobright.ai/jobs/info/69c5dccf83ea553769fd0ccf?utm_campaign=1049&utm_source=git)** | Ithaca, NY | Hybrid | Apr 08 |
+| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Photo & Video Production](https://jobright.ai/jobs/info/69af64eadfaeda6ff59779a3?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Apr 08 |
+| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Graphic Designer Intern (Volunteer)](https://jobright.ai/jobs/info/69d6782acfdc6132f946a127?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Fast Company](http://www.fastcompany.com)** | **[Design Fellowship](https://jobright.ai/jobs/info/69d66e5152a5bf5800128aaa?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
 | **[Ayres Associates](http://ayresassociates.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69d66b35e63cea7a8b668cd5?utm_campaign=1049&utm_source=git)** | Eau Claire, Wisconsin, United States | On Site | Apr 08 |
 | **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cc4efe0bddb6acacbd378?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
@@ -91,6 +96,7 @@ For a complete list, click the following sortable link below:
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5cadacfdc6132f9465e82?utm_campaign=1049&utm_source=git)** | Educational Insights, Torrance, CA, US | On Site | Apr 07 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5cacb366bb95ba5548a58?utm_campaign=1049&utm_source=git)** | Educational Insights, Torrance, CA, US | On Site | Apr 07 |
 | **[Equinix](http://www.equinix.com)** | **[Service Design Intern](https://jobright.ai/jobs/info/69d5c948cfdc6132f9465d2f?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
+| **[UNO Branding](https://unobranding.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d677db52a5bf5800128e00?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 07 |
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Strategist Intern- Summer 2026](https://jobright.ai/jobs/info/69d5f52c891d7b11cfd072b6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | ↳ | **[3D Design Intern - Fall 2026](https://jobright.ai/jobs/info/69d5f53ae63cea7a8b6668b0?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[Digital Graphic Designer #5547](https://jobright.ai/jobs/info/69d5b354891d7b11cfd03ae3?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Apr 07 |
@@ -128,22 +134,22 @@ For a complete list, click the following sortable link below:
 | **[SPACEMAN](http://spacemanmedia.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69d5567e366bb95ba554439a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | **[Pulse NWA](https://pulsenwa.com/Home)** | **[Graphic Design Intern Summer 2026](https://jobright.ai/jobs/info/69d552e4e63cea7a8b66039c?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54964cdb525785fbcf88b?utm_campaign=1049&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963706f771673ba1d40?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf871?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf874?utm_campaign=1049&utm_source=git)** | USA-OR - Oregon Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf871?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54961706f771673ba1d29?utm_campaign=1049&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1c?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d20?utm_campaign=1049&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69d54448891d7b11cfd00822?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[JANUS et Cie](http://www.janusetcie.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69b0618b749500645096877f?utm_campaign=1049&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 07 |
 | **[Ripple Junction Design Co.](http://ripplejunction.com)** | **[Licensing Approvals Summer Intern](https://jobright.ai/jobs/info/69d54107e63cea7a8b65fbf5?utm_campaign=1049&utm_source=git)** | West Chester, OH | On Site | Apr 07 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Graphic Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d53981e63cea7a8b65f8af?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 07 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d549a7366bb95ba5543c87?utm_campaign=1049&utm_source=git)** | New York,NY,US | On Site | Apr 07 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Creator Intern (LA)](https://jobright.ai/jobs/info/69b1e9d765de58104c7137e6?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Apr 07 |
-| **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/69d51707706f771673ba07af?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 07 |
-| **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern (ATX)](https://jobright.ai/jobs/info/69b1eb4c548f140066e7ff2d?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 07 |
-| **[WPHL-TV](https://www.phl17.com)** | **[Creative Services/Weekend Philler Summer Intern](https://jobright.ai/jobs/info/69d5bf0fe63cea7a8b66364a?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 07 |
-| **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 07 |
-| **[Airbus Helicopters](http://airbushelicopters.com)** | **[Long-term Internship - Graphic Design](https://jobright.ai/jobs/info/69d50a5ee63cea7a8b65e638?utm_campaign=1049&utm_source=git)** | Grand Prairie, TX | On Site | Apr 07 |
-| **[United Airlines](https://www.united.com)** | **[Intern - UX Researcher / Insights Analyst (Summer 2026)](https://jobright.ai/jobs/info/69d50777cfdc6132f945f56d?utm_campaign=1049&utm_source=git)** | United States-IL-WHQ - Chicago - Corporate Support Center - Willis Tower | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
