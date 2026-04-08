@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Summer Intern](https://jobright.ai/jobs/info/69ba92d606c1ba00c54cb440?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
+| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699ceccc81476f6176b57693?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 08 |
+| **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d65248706f771673baa373?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
+| **[Mead & Hunt](https://meadhunt.com/)** | **[Architectural Summer Intern](https://jobright.ai/jobs/info/69ba85115697383741400977?utm_campaign=1049&utm_source=git)** | DFW Metroplex | On Site | Apr 08 |
+| **[International Justice Mission](http://www.ijm.org)** | **[Creative Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8a7a56973837414195c6?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
+| **[Klein Tools](https://www.kleintools.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ab2363142d5b4265fc5b72?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | Apr 08 |
 | **[BAMKO](https://www.bamko.net)** | **[2026 Summer Internship, Creative](https://jobright.ai/jobs/info/69bb88473b74eb1e2c89f80c?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a0f7d7d506e3808f5409b?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 08 |
 | **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ba7cd456973837413fea97?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 08 |
@@ -81,11 +87,10 @@ For a complete list, click the following sortable link below:
 | **[Equinix](http://www.equinix.com)** | **[Service Design Intern](https://jobright.ai/jobs/info/69d5c948cfdc6132f9465d2f?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
 | **[Deeplocal](http://deeplocal.com)** | **[Creative Strategist Intern- Summer 2026](https://jobright.ai/jobs/info/69d5f52c891d7b11cfd072b6?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 | ↳ | **[3D Design Intern - Fall 2026](https://jobright.ai/jobs/info/69d5f53ae63cea7a8b6668b0?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d5ba85cdb525785fbd2c4f?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 07 |
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[Digital Graphic Designer #5547](https://jobright.ai/jobs/info/69d5b354891d7b11cfd03ae3?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Apr 07 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5a8db706f771673ba4b81?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 07 |
-| **[ET GLOBAL - USA](http://www.etglobalusa.com)** | **[2D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d703706f771673ba739b?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
-| ↳ | **[3D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d704706f771673ba739c?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
+| **[ET GLOBAL - USA](http://www.etglobalusa.com)** | **[3D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d704706f771673ba739c?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
+| ↳ | **[2D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d703706f771673ba739b?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 07 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d59e37cdb525785fbd22df?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
 | **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 07 |
@@ -114,28 +119,27 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
 | **[Macmillan Learning](http://www.macmillanlearning.com/)** | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69d5604e366bb95ba554482f?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Hybrid | Apr 07 |
 | ↳ | **[Content Management - Production & Permissions Intern](https://jobright.ai/jobs/info/69d5604d706f771673ba2969?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Bureau of Education & Research](http://ber.org)** | **[Summer Intern: Graphic Design & Production](https://jobright.ai/jobs/info/69d5f317cfdc6132f94674b4?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Apr 07 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/69d55904e63cea7a8b66074b?utm_campaign=1049&utm_source=git)** | Macungie, PA | On Site | Apr 07 |
 | **[Quaker City Mercantile](https://quakercitymercantile.com)** | **[Summer Design Internship](https://jobright.ai/jobs/info/69d557e3366bb95ba554440c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 07 |
 | **[SPACEMAN](http://spacemanmedia.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69d5567e366bb95ba554439a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
 | **[Pulse NWA](https://pulsenwa.com/Home)** | **[Graphic Design Intern Summer 2026](https://jobright.ai/jobs/info/69d552e4e63cea7a8b66039c?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 07 |
 | **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54964cdb525785fbcf88b?utm_campaign=1049&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963706f771673ba1d40?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963706f771673ba1d40?utm_campaign=1049&utm_source=git)** | USA-MN - Minnesota Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87d?utm_campaign=1049&utm_source=git)** | USA-WI - Wisconsin Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87b?utm_campaign=1049&utm_source=git)** | USA-CT - Connecticut Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf87c?utm_campaign=1049&utm_source=git)** | USA-ME - Maine Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf871?utm_campaign=1049&utm_source=git)** | USA-IL - Illinois Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54962cdb525785fbcf874?utm_campaign=1049&utm_source=git)** | USA-OR - Oregon Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54961706f771673ba1d29?utm_campaign=1049&utm_source=git)** | USA-HI - Hawaii Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d20?utm_campaign=1049&utm_source=git)** | USA-WA - Washington Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
 | ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1c?utm_campaign=1049&utm_source=git)** | USA-NH - New Hampshire Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960cdb525785fbcf860?utm_campaign=1049&utm_source=git)** | USA-AL - Alabama Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d22?utm_campaign=1049&utm_source=git)** | USA-OH - Ohio Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d21?utm_campaign=1049&utm_source=git)** | USA-SD - South Dakota Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1d?utm_campaign=1049&utm_source=git)** | USA-CA - California Remote | Remote | Apr 07 |
+| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54960706f771673ba1d1f?utm_campaign=1049&utm_source=git)** | USA-KY - Kentucky Remote | Remote | Apr 07 |
 | **[HLW](http://www.hlw.com)** | **[Summer 2026 Internship-Architectural & Design](https://jobright.ai/jobs/info/69d54448891d7b11cfd00822?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[JANUS et Cie](http://www.janusetcie.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69b0618b749500645096877f?utm_campaign=1049&utm_source=git)** | Santa Fe Springs, CA | On Site | Apr 07 |
 | **[Ripple Junction Design Co.](http://ripplejunction.com)** | **[Licensing Approvals Summer Intern](https://jobright.ai/jobs/info/69d54107e63cea7a8b65fbf5?utm_campaign=1049&utm_source=git)** | West Chester, OH | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fluke Corporation](https://www.fluke.com/en-us/)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d506a7366bb95ba554212d?utm_campaign=1049&utm_source=git)** | 533 S. 3rd Street, Minneapolis, MN, 55415, US | On Site | Apr 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a04bac6f0e2546ceeec4b?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 07 |
 | **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d41f9f891d7b11cfcf79f2?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Apr 07 |
-| **[State Street](https://www.statestreet.com/)** | **[Graphic Designer, 6 Months Full-time Internship (Jul- Dec 2026)](https://jobright.ai/jobs/info/69d574a9e63cea7a8b661731?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 07 |
-| **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 07 |
-| **[Authentic Brands Group](https://authentic.com)** | **[Graphic Design - Entertainment Summer Intern](https://jobright.ai/jobs/info/69b981da3b74eb1e2c876e14?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 07 |
-| **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
