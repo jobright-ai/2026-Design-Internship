@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c9f7e11818a24cd84df676?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
+| **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7dee2f4ea471a51fe21ee?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 09 |
+| **[DEPT®](https://www.deptagency.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69d7dee1738f2f099e898dd4?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
+| **[Michael Coleman Creative Services](https://michaelcoleman.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7deaf738f2f099e898d79?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
+| **[The Old Dominion Group](https://olddominion.group)** | **[IT Intern - User Experience & Enablement](https://jobright.ai/jobs/info/69bacf0a569738374140a501?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Apr 09 |
+| **[Balco, Inc.](https://www.balcousa.com/)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d7d709869c7e25d8591d49?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 09 |
+| **[Wasserman](http://www.teamwass.com)** | **[Intern, Creative Design](https://jobright.ai/jobs/info/69d7d6ff738f2f099e898a9d?utm_campaign=1049&utm_source=git)** | USA-NC - Charlotte Office | On Site | Apr 09 |
 | **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7d6aab67cec4f9b098b29?utm_campaign=1049&utm_source=git)** | NCUS Headquarters | On Site | Apr 09 |
 | **[Reach Detroit](https://www.reachdet.com/)** | **[Content Creation & Multimedia Design Intern](https://jobright.ai/jobs/info/69d7d57c869c7e25d8591c63?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 09 |
 | **[UNDP](http://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d7d41b9f97a42dc9c18398?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 09 |
@@ -72,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Apr 09 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 | **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f13a581476f6176b8a533?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 09 |
+| **[Caraway Home](https://www.carawayhome.com)** | **[Industrial Design Internship](https://jobright.ai/jobs/info/69d7ded4869c7e25d8591f27?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69d7ad64b67cec4f9b095a47?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb64ba56973837414163c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d7d5789f97a42dc9c18626?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Apr 09 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NORTH SIX](http://northsix.net)** | **[Graphic Design intern](https://jobright.ai/jobs/info/69d6ac3d366bb95ba554ee12?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
 | **[Peet's Coffee](http://www.peets.com/)** | **[Creative & Brand Content Intern](https://jobright.ai/jobs/info/69d689c6e63cea7a8b6696e5?utm_campaign=1049&utm_source=git)** | Emeryville, California | On Site | Apr 08 |
 | **[Tetra Tech](http://www.tetratech.com)** | **[ARCHITECTURAL INTERNSHIP (SUMMER 2026)](https://jobright.ai/jobs/info/69c5dccf83ea553769fd0ccf?utm_campaign=1049&utm_source=git)** | Ithaca, NY | Hybrid | Apr 08 |
-| **[Jazwares, LLC](https://jazwares.com/)** | **[Intern - Photo & Video Production](https://jobright.ai/jobs/info/69af64eadfaeda6ff59779a3?utm_campaign=1049&utm_source=git)** | Plantation, FL | Hybrid | Apr 08 |
-| **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Graphic Designer Intern (Volunteer)](https://jobright.ai/jobs/info/69d6782acfdc6132f946a127?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Fast Company](http://www.fastcompany.com)** | **[Design Fellowship](https://jobright.ai/jobs/info/69d66e5152a5bf5800128aaa?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
-| **[Ayres Associates](http://ayresassociates.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69d66b35e63cea7a8b668cd5?utm_campaign=1049&utm_source=git)** | Eau Claire, Wisconsin, United States | On Site | Apr 08 |
-| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cc4efe0bddb6acacbd378?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
-| **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/699cde76ce78e77b4fe19614?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d68800706f771673bab303?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
