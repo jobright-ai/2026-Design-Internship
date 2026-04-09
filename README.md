@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UNDP Careers](https://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d8177e869c7e25d8593b34?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 09 |
+| **[Independent Statistical Service](https://www.statreporting.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d816c3869c7e25d8593988?utm_campaign=1049&utm_source=git)** | Chicago, IL, US | On Site | Apr 09 |
+| **[Women's National Football Conference (WNFC)](https://www.wnfcfootball.com/)** | **[WNFC Social Media Content Creator](https://jobright.ai/jobs/info/69d80fb9869c7e25d8593936?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/69d80c7b9f97a42dc9c19fd1?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
 | **[Espiritu Studio](http://www.espiritustudio.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d80a44b861c42857c48341?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Apr 09 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Summer 2026 DNC Design Internship](https://jobright.ai/jobs/info/69d809f2b861c42857c48250?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 09 |
@@ -103,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d799a2b861c42857c42c2c?utm_campaign=1049&utm_source=git)** | St Petersburg, FL, US | On Site | Apr 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 09 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69baffda06c1ba00c54d500e?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Apr 09 |
-| **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[Web Designer Intern (Wix)](https://jobright.ai/jobs/info/69d784fd706f771673bb4125?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | On Site | Apr 09 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Apr 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 09 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/69d6c16b366bb95ba554fb25?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Apr 08 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69d6c030cfdc6132f946cbea?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | Apr 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c021366bb95ba554f9cb?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 08 |
-| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01348f0c8161d2fad2e?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 08 |
-| ↳ | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01352a5bf580012bba3?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
-| **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01348f0c8161d2fad2d?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
+| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01352a5bf580012bba3?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
