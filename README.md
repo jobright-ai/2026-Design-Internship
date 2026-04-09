@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Northern Engineering & Consulting, Inc.](https://neciusa.com)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/69d72da148f0c8161d2fd834?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[Gecko Robotics](https://www.geckorobotics.com)** | **[Motion Brand Designer / Intern](https://jobright.ai/jobs/info/69d72a3048f0c8161d2fd691?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 08 |
+| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Creative Services Intern](https://jobright.ai/jobs/info/69d72c83cfdc6132f946fa21?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[LightFeather](https://lightfeather.io)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d70d01cfdc6132f946eb33?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 08 |
 | **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d70cf4cfdc6132f946eb30?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a8d52a5bf580012d656?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Apr 08 |
@@ -83,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[PIDC](https://pidcphila.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d26fe63cea7a8b66c775?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
 | **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6d029366bb95ba55501ba?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Apr 08 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69d6ccb4706f771673bae142?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Apr 08 |
-| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
-| ↳ | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| ↳ | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/69d6c530706f771673bade5d?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69d6c202cfdc6132f946d112?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69d6c1b848f0c8161d2faf65?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 08 |
@@ -141,6 +144,7 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/69a7bb60637232443f650e42?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Apr 08 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Sustainable Design Student Intern (BOS)](https://jobright.ai/jobs/info/69d61a34cfdc6132f9468a27?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 08 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
+| **[Northern Engineering & Consulting, Inc.](https://neciusa.com)** | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69d72d8dcfdc6132f946fa5b?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 07 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 07 |
 | **[Orion Innovation](https://www.orioninc.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69d5d733e63cea7a8b665712?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 07 |
 | ↳ | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69d5d71c891d7b11cfd0614c?utm_campaign=1049&utm_source=git)** | Edison, NJ | On Site | Apr 07 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[United States Senate Sergeant at Arms](https://www.senate.gov/about/officers-staff/sergeant-at-arms.htm)** | **[Digital Graphic Designer #5547](https://jobright.ai/jobs/info/69d5b354891d7b11cfd03ae3?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | On Site | Apr 07 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5a8db706f771673ba4b81?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 07 |
 | **[ET GLOBAL - USA](http://www.etglobalusa.com)** | **[3D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d704706f771673ba739c?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
-| ↳ | **[2D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d703706f771673ba739b?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
-| **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 07 |
-| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d59e37cdb525785fbd22df?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
-| **[Gecko Robotics](https://www.geckorobotics.com)** | **[Motion Brand Designer / Intern](https://jobright.ai/jobs/info/69d6d86ae63cea7a8b66c97a?utm_campaign=1049&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
