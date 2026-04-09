@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d75976706f771673bb2b9d?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Apr 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Apr 08 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c6d706f771673bb1d40?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c67706f771673bb1d33?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
@@ -92,16 +93,16 @@ For a complete list, click the following sortable link below:
 | **[PIDC](https://pidcphila.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d26fe63cea7a8b66c775?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
 | **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6d029366bb95ba55501ba?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Apr 08 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69d6ccb4706f771673bae142?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Apr 08 |
-| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
-| ↳ | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| ↳ | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/69d6c530706f771673bade5d?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69d6c202cfdc6132f946d112?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69d6c1b848f0c8161d2faf65?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 08 |
 | **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/69d6c16b366bb95ba554fb25?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Apr 08 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Video Editing Intern](https://jobright.ai/jobs/info/69d6c030cfdc6132f946cbea?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | Apr 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c021366bb95ba554f9cb?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 08 |
-| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01348f0c8161d2fad2e?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 08 |
-| ↳ | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01352a5bf580012bba3?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
+| **[Amrit Ocean Resort & Residences](https://www.amritocean.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01352a5bf580012bba3?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
+| ↳ | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01348f0c8161d2fad2e?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 08 |
 | **['Alohilani Resort Waikiki Beach](http://www.pacificbeachhotel.com/)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6c01348f0c8161d2fad2d?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | Apr 08 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6c00fe63cea7a8b66bba8?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | Apr 08 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d6bfb348f0c8161d2fab83?utm_campaign=1049&utm_source=git)** | Minneapolis | On Site | Apr 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ETA hand2mind](http://www.hand2mind.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5cadacfdc6132f9465e82?utm_campaign=1049&utm_source=git)** | Educational Insights, Torrance, CA, US | On Site | Apr 07 |
 | **[Learning Resources](https://www.learningresources.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69d5cacb366bb95ba5548a58?utm_campaign=1049&utm_source=git)** | Educational Insights, Torrance, CA, US | On Site | Apr 07 |
 | **[Equinix](http://www.equinix.com)** | **[Service Design Intern](https://jobright.ai/jobs/info/69d5c948cfdc6132f9465d2f?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 07 |
-| **[Deeplocal](http://deeplocal.com)** | **[3D Design Intern - Fall 2026](https://jobright.ai/jobs/info/69d5f53ae63cea7a8b6668b0?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
