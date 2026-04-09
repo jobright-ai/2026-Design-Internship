@@ -57,9 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Miaou](http://www.miaou.com)** | **[Apparel Production Intern](https://jobright.ai/jobs/info/69d7ef25b861c42857c475c1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
+| **[Detail Connect](https://www.detailconnect.app/)** | **[Mobile App Design Intern](https://jobright.ai/jobs/info/69d7eccd738f2f099e899243?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 09 |
+| **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69d7ec8fb67cec4f9b09931c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 09 |
+| **[HARMAN International](https://www.harman.com/)** | **[Parttime Intern - Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
+| **[DEPT®](https://www.deptagency.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69d7dee1738f2f099e898dd4?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/69d7e594b67cec4f9b099161?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
+| **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Graphic Designer (Hybrid) System Offices Shared Services](https://jobright.ai/jobs/info/69d7e558b67cec4f9b0990ef?utm_campaign=1049&utm_source=git)** | Urbana, IL | Hybrid | Apr 09 |
+| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Apr 09 |
 | **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c9f7e11818a24cd84df676?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7dee2f4ea471a51fe21ee?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 09 |
-| **[DEPT®](https://www.deptagency.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69d7dee1738f2f099e898dd4?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
 | **[Michael Coleman Creative Services](https://michaelcoleman.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7deaf738f2f099e898d79?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
 | **[The Old Dominion Group](https://olddominion.group)** | **[IT Intern - User Experience & Enablement](https://jobright.ai/jobs/info/69bacf0a569738374140a501?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Apr 09 |
 | **[Balco, Inc.](https://www.balcousa.com/)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d7d709869c7e25d8591d49?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 09 |
@@ -87,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d799a2b861c42857c42c2c?utm_campaign=1049&utm_source=git)** | St Petersburg, FL, US | On Site | Apr 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 09 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69baffda06c1ba00c54d500e?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Apr 09 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Marketing Photography intern - Summer 2026 (Georgia, United States)](https://jobright.ai/jobs/info/69d7a9f8b861c42857c437e7?utm_campaign=1049&utm_source=git)** | Georgia, United States | On Site | Apr 09 |
 | **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[Web Designer Intern (Wix)](https://jobright.ai/jobs/info/69d784fd706f771673bb4125?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | On Site | Apr 09 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Apr 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Clean Harbors](http://www.cleanharbors.com)** | **[Asset Management Coordinator Intern](https://jobright.ai/jobs/info/69d69f2e48f0c8161d2f8e9f?utm_campaign=1049&utm_source=git)** | Norwell, MA | On Site | Apr 08 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Game Designer](https://jobright.ai/jobs/info/698292aa348f733a5c357aa9?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Apr 08 |
 | **[Outright](https://www.weareoutright.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d69c0f366bb95ba554da79?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Creative & Brand Content Intern](https://jobright.ai/jobs/info/69d6984ce63cea7a8b669d75?utm_campaign=1049&utm_source=git)** | Emeryville, CA | On Site | Apr 08 |
-| **[Ayres Associates](http://ayresassociates.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69d693c3cfdc6132f946acd5?utm_campaign=1049&utm_source=git)** | Eau Claire, WI | On Site | Apr 08 |
-| **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6935152a5bf5800129913?utm_campaign=1049&utm_source=git)** | US-VA-Hampton | On Site | Apr 08 |
-| **[NORTH SIX](http://northsix.net)** | **[Graphic Design intern](https://jobright.ai/jobs/info/69d6ac3d366bb95ba554ee12?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 08 |
-| **[Peet's Coffee](http://www.peets.com/)** | **[Creative & Brand Content Intern](https://jobright.ai/jobs/info/69d689c6e63cea7a8b6696e5?utm_campaign=1049&utm_source=git)** | Emeryville, California | On Site | Apr 08 |
-| **[Tetra Tech](http://www.tetratech.com)** | **[ARCHITECTURAL INTERNSHIP (SUMMER 2026)](https://jobright.ai/jobs/info/69c5dccf83ea553769fd0ccf?utm_campaign=1049&utm_source=git)** | Ithaca, NY | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
