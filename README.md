@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69d6e4fecfdc6132f946df85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Social Media Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/69d6debf706f771673bae918?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
+| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db70e63cea7a8b66c9df?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 08 |
+| ↳ | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db69cfdc6132f946da4b?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Apr 08 |
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d70f706f771673bae5a7?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6d6e9706f771673bae590?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
 | **[Spin Master](https://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6d5bd366bb95ba555036d?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
@@ -64,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[PIDC](https://pidcphila.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d26fe63cea7a8b66c775?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
 | **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6d029366bb95ba55501ba?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Apr 08 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69d6ccb4706f771673bae142?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Apr 08 |
+| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| ↳ | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/69d6c530706f771673bade5d?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69d6c202cfdc6132f946d112?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design](https://jobright.ai/jobs/info/69d6c1b848f0c8161d2faf65?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 08 |
@@ -80,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Creative Writer](https://jobright.ai/jobs/info/69d6b5f348f0c8161d2fa5bb?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
 | **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6d15fcfdc6132f946d765?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Mount Vernon School](http://www.mountvernonschool.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d6ac7b366bb95ba554ef15?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
-| **[The Plug Drink](https://theplugdrink.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69d6a84b52a5bf580012aefd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
 | **[Toyota Insurance](https://toyotaims.com)** | **[UX/UI Digital Design Intern](https://jobright.ai/jobs/info/69d6a4e1cfdc6132f946b2f5?utm_campaign=1049&utm_source=git)** | Plano, Texas, United States | Hybrid | Apr 08 |
 | **[Westwood Community Church](https://www.westwoodcc.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6a4d7e63cea7a8b66a260?utm_campaign=1049&utm_source=git)** | Excelsior,MN,US | On Site | Apr 08 |
 | **[Jungle Kind](junglekind.com/max)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6c351cfdc6132f946d1a0?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Apr 08 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Antipiracy Design Intern, Summer 2026](https://jobright.ai/jobs/info/69d57ba5cfdc6132f9462995?utm_campaign=1049&utm_source=git)** | Burbank, CA, USA | Hybrid | Apr 07 |
 | **[Stereotaxis](http://www.stereotaxis.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d578e9706f771673ba367a?utm_campaign=1049&utm_source=git)** | Greater St. Louis | On Site | Apr 07 |
 | **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Design and Research – Digital Experience (Summer 2026)](https://jobright.ai/jobs/info/69d574bdcdb525785fbd1005?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
-| **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Unpaid Intern, Creative Services](https://jobright.ai/jobs/info/69d5735ae63cea7a8b6616cc?utm_campaign=1049&utm_source=git)** | Dayton, OH | On Site | Apr 07 |
-| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Design Internship - Home and Collaborations (Summer 2026)](https://jobright.ai/jobs/info/69d5709a891d7b11cfd01f81?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 07 |
-| **[Delta Air Lines](https://www.delta.com/)** | **[Co-op, UX Research and Experience Design - Flight Training Automation (Fall 2026)](https://jobright.ai/jobs/info/69d5f2d24a12eb12c5e14bbc?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 07 |
-| **[Lippincott](http://www.lippincott.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d56bd4cdb525785fbd0bc2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
-| **[Nomara USA](https://intermediumcorp.com)** | **[Internship-graphic designer EXPERIENCE](https://jobright.ai/jobs/info/69d56833366bb95ba5544cd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 07 |
-| **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/69d565a8cdb525785fbd0872?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
