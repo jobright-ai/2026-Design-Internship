@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d70f706f771673bae5a7?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
+| **[Highgate](https://www.highgate.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6d6e9706f771673bae590?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
+| **[Spin Master](https://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6d5bd366bb95ba555036d?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
+| ↳ | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6d5b5cfdc6132f946d8f6?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
+| **[PIDC](https://pidcphila.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d26fe63cea7a8b66c775?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
+| **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6d029366bb95ba55501ba?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Apr 08 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69d6ccb4706f771673bae142?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Apr 08 |
 | **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/69d6c530706f771673bade5d?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA | On Site | Apr 08 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Creative](https://jobright.ai/jobs/info/69d6c202cfdc6132f946d112?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
@@ -72,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Toyota Insurance](https://toyotaims.com)** | **[UX/UI Digital Design Intern](https://jobright.ai/jobs/info/69d6b94448f0c8161d2fa777?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Apr 08 |
 | **[SemSem LLC](https://www.semsem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6b724e63cea7a8b66b7d9?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 08 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Creative Writer](https://jobright.ai/jobs/info/69d6b5f348f0c8161d2fa5bb?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
+| **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d6d15fcfdc6132f946d765?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 08 |
 | **[Mount Vernon School](http://www.mountvernonschool.org)** | **[Graphic Designer](https://jobright.ai/jobs/info/69d6ac7b366bb95ba554ef15?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 08 |
 | **[The Plug Drink](https://theplugdrink.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69d6a84b52a5bf580012aefd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 08 |
 | **[Toyota Insurance](https://toyotaims.com)** | **[UX/UI Digital Design Intern](https://jobright.ai/jobs/info/69d6a4e1cfdc6132f946b2f5?utm_campaign=1049&utm_source=git)** | Plano, Texas, United States | Hybrid | Apr 08 |
@@ -130,6 +137,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[3D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d704706f771673ba739c?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 07 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 07 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d59e37cdb525785fbd22df?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 07 |
+| **[Gecko Robotics](https://www.geckorobotics.com)** | **[Motion Brand Designer / Intern](https://jobright.ai/jobs/info/69d6d86ae63cea7a8b66c97a?utm_campaign=1049&utm_source=git)** | Pittsburgh | Hybrid | Apr 07 |
 | **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 07 |
 | **[COPT Defense Properties](http://www.copt.com)** | **[Intern - Design](https://jobright.ai/jobs/info/69d594d2cfdc6132f9463628?utm_campaign=1049&utm_source=git)** | Columbia, Maryland, United States | On Site | Apr 07 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Design Internship - Home and Collaborations (Summer 2026)](https://jobright.ai/jobs/info/69d58f50366bb95ba5546133?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 07 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lippincott](http://www.lippincott.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d56bd4cdb525785fbd0bc2?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 07 |
 | **[Nomara USA](https://intermediumcorp.com)** | **[Internship-graphic designer EXPERIENCE](https://jobright.ai/jobs/info/69d56833366bb95ba5544cd8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 07 |
 | **[Elmington](http://elmingtoncapital.com)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/69d565a8cdb525785fbd0872?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 07 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/69d55904e63cea7a8b66074b?utm_campaign=1049&utm_source=git)** | Macungie, PA | On Site | Apr 07 |
-| **[Quaker City Mercantile](https://quakercitymercantile.com)** | **[Summer Design Internship](https://jobright.ai/jobs/info/69d557e3366bb95ba554440c?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | Apr 07 |
-| **[SPACEMAN](http://spacemanmedia.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69d5567e366bb95ba554439a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Apr 07 |
-| **[Pulse NWA](https://pulsenwa.com/Home)** | **[Graphic Design Intern Summer 2026](https://jobright.ai/jobs/info/69d552e4e63cea7a8b66039c?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 07 |
-| **[Wasserman](http://www.teamwass.com)** | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54964cdb525785fbcf88b?utm_campaign=1049&utm_source=git)** | USA-MO - Missouri Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf879?utm_campaign=1049&utm_source=git)** | USA-TX - Texas Remote | Remote | Apr 07 |
-| ↳ | **[Summer 2026 Internship - Design, Next Gen](https://jobright.ai/jobs/info/69d54963cdb525785fbcf881?utm_campaign=1049&utm_source=git)** | USA-NM - New Mexico Remote | Remote | Apr 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
