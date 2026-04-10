@@ -57,7 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8f1099f97a42dc9c1eebb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d8f0d69f97a42dc9c1ee8f?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Apr 10 |
+| **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0c03881476f6176bb0ca6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Apr 10 |
+| **[Axis Communications](http://www.axis.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69bc85ed4828227293fe6428?utm_campaign=1049&utm_source=git)** | Chelmsford, MA | Hybrid | Apr 10 |
+| **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d8ed285356a60f40fd6dd8?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Apr 10 |
+| **[Holland, L.P.](https://hollandco.com/)** | **[Graphic Design & UI Design Intern](https://jobright.ai/jobs/info/699f9d8381476f6176b958e2?utm_campaign=1049&utm_source=git)** | University Park, IL | On Site | Apr 10 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8cc87738f2f099e89ea50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69d8cc13b67cec4f9b09ecc3?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Apr 10 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Apr 10 |
@@ -110,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[Reach Detroit](https://www.reachdet.com/)** | **[Content Creation & Multimedia Design Intern](https://jobright.ai/jobs/info/69d7d57c869c7e25d8591c63?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 09 |
 | **[UNDP](http://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d7d41b9f97a42dc9c18398?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[THE·TEAM](http://the.team)** | **[Intern, Creative Design](https://jobright.ai/jobs/info/69d7d3229f97a42dc9c1819e?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
-| **[Michael Coleman Creative Services](https://michaelcoleman.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7deaf738f2f099e898d79?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d7d1c49f97a42dc9c17f4d?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7d0f49f97a42dc9c17dda?utm_campaign=1049&utm_source=git)** | US-MN-Golden Valley | Hybrid | Apr 09 |
 | ↳ | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7d0f2869c7e25d8591475?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, US | Hybrid | Apr 09 |
@@ -118,6 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d7d0ad738f2f099e898177?utm_campaign=1049&utm_source=git)** | Golden Valley, MN, US | Hybrid | Apr 09 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 09 |
 | **[Mary Engelbreit Studios](https://www.maryengelbreit.com)** | **[Art Department Intern](https://jobright.ai/jobs/info/69d7d03e738f2f099e89807a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 09 |
+| **[Michael Coleman Creative Services](https://michaelcoleman.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7deaf738f2f099e898d79?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bb1eca06c1ba00c54d9625?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Apr 09 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69d7fe1c9f97a42dc9c19526?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a8d52a5bf580012d656?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Apr 08 |
 | ↳ | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a51e63cea7a8b66d91f?utm_campaign=1049&utm_source=git)** | Colorado, United States | Remote | Apr 08 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69d707d352a5bf580012d54d?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Apr 08 |
-| **[Rael & Letson](https://www.rael-letson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6f8b5366bb95ba5550f88?utm_campaign=1049&utm_source=git)** | Remote in Seattle, WA | Remote | Apr 08 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f890366bb95ba5550f02?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 08 |
-| **[L&M Corrugated Container Corporation](https://lmcontainer.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/69d833f1f4ea471a51fe48cf?utm_campaign=1049&utm_source=git)** | Platteville, WI | On Site | Apr 08 |
-| **[Balco, Inc.](https://www.balcousa.com/)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d808f79f97a42dc9c199a9?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 08 |
-| **[State of Missouri](http://mo.gov)** | **[CTF Communications Intern](https://jobright.ai/jobs/info/69d6f209cfdc6132f946e296?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Apr 08 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d6f1f152a5bf580012cf94?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
