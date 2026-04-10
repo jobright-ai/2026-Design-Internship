@@ -100,6 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Balco, Inc.](https://www.balcousa.com/)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d7d709869c7e25d8591d49?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | Apr 09 |
 | **[Wasserman](http://www.teamwass.com)** | **[Intern, Creative Design](https://jobright.ai/jobs/info/69d7d6ff738f2f099e898a9d?utm_campaign=1049&utm_source=git)** | USA-NC - Charlotte Office | On Site | Apr 09 |
 | **[The National Center for Urban Solutions - NCUS](https://ncusolutions.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7d6aab67cec4f9b098b29?utm_campaign=1049&utm_source=git)** | NCUS Headquarters | On Site | Apr 09 |
+| **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d88b75869c7e25d85962cf?utm_campaign=1049&utm_source=git)** | St Louis, MO | Hybrid | Apr 09 |
 | **[Reach Detroit](https://www.reachdet.com/)** | **[Content Creation & Multimedia Design Intern](https://jobright.ai/jobs/info/69d7d57c869c7e25d8591c63?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 09 |
 | **[UNDP](http://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d7d41b9f97a42dc9c18398?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 09 |
 | **[THE·TEAM](http://the.team)** | **[Intern, Creative Design](https://jobright.ai/jobs/info/69d7d3229f97a42dc9c1819e?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Graphic Designer - Appendix D/Temporary Assignment (April 2026 - April 2027)](https://jobright.ai/jobs/info/69d78df0e63cea7a8b6726e1?utm_campaign=1049&utm_source=git)** | Hamilton, ON | Hybrid | Apr 08 |
 | **[Sherpani](https://sherpani.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6e9bc52a5bf580012cd8b?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Apr 08 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69d6e4fecfdc6132f946df85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
-| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
