@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Interior Design Intern (Boston)](https://jobright.ai/jobs/info/69d833559f97a42dc9c1afde?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 09 |
+| **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 09 |
+| **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Interior Design Intern (Boston)](https://jobright.ai/jobs/info/69d82ae0b861c42857c492bd?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Apr 09 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Summer 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/69d82808b67cec4f9b09b06d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d825e7b861c42857c4901a?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Apr 09 |
 | ↳ | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d82596b67cec4f9b09af83?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 09 |
@@ -75,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/69bb1c4106c1ba00c54d918e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69d824fb738f2f099e89add3?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Apr 09 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Visual Practitioner, Operational and Service Excellence (Internship)](https://jobright.ai/jobs/info/69d7fe629f97a42dc9c195f5?utm_campaign=1049&utm_source=git)** | Halifax, NS | On Site | Apr 09 |
-| **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d82455738f2f099e89abd1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 09 |
 | **[Miaou](http://www.miaou.com)** | **[Apparel Production Intern](https://jobright.ai/jobs/info/69d7ef25b861c42857c475c1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69d7ec8fb67cec4f9b09931c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 09 |
 | **[HARMAN International](https://www.harman.com/)** | **[Parttime Intern - Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
@@ -135,6 +138,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69d707d352a5bf580012d54d?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Apr 08 |
 | **[Rael & Letson](https://www.rael-letson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6f8b5366bb95ba5550f88?utm_campaign=1049&utm_source=git)** | Remote in Seattle, WA | Remote | Apr 08 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f890366bb95ba5550f02?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 08 |
+| **[L&M Corrugated Container Corporation](https://lmcontainer.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/69d833f1f4ea471a51fe48cf?utm_campaign=1049&utm_source=git)** | Platteville, WI | On Site | Apr 08 |
 | **[Balco, Inc.](https://www.balcousa.com/)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d808f79f97a42dc9c199a9?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 08 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 08 |
 | **[State of Missouri](http://mo.gov)** | **[CTF Communications Intern](https://jobright.ai/jobs/info/69d6f209cfdc6132f946e296?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Apr 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Spin Master](https://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6d5bd366bb95ba555036d?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
 | ↳ | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6d5b5cfdc6132f946d8f6?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
 | **[PIDC](https://pidcphila.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d26fe63cea7a8b66c775?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 08 |
-| **[Amentum](https://www.amentum.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69d6d029366bb95ba55501ba?utm_campaign=1049&utm_source=git)** | Hampton, VA | On Site | Apr 08 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op - Summer 2026](https://jobright.ai/jobs/info/69d6ccb4706f771673bae142?utm_campaign=1049&utm_source=git)** | Parsippany, NJ | On Site | Apr 08 |
-| **[Spin Master Games](http://www.spinmaster.com)** | **[Melissa & Doug Packaging Design Intern](https://jobright.ai/jobs/info/69d6e5edcfdc6132f946df8c?utm_campaign=1049&utm_source=git)** | Wilton, CT | Hybrid | Apr 08 |
-| ↳ | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6e527706f771673baeb78?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
