@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69d1d5a4891d7b11cfce6b42?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 10 |
+| **[Skydio](https://www.skydio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69bc9a4d5b89c002acf25d33?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8f1099f97a42dc9c1eebb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d8f0d69f97a42dc9c1ee8f?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Apr 10 |
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[WCVB Creative Services Intern](https://jobright.ai/jobs/info/69a0c03881476f6176bb0ca6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Apr 10 |
@@ -64,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d8ed285356a60f40fd6dd8?utm_campaign=1049&utm_source=git)** | Glendale, CA | On Site | Apr 10 |
 | **[Holland, L.P.](https://hollandco.com/)** | **[Graphic Design & UI Design Intern](https://jobright.ai/jobs/info/699f9d8381476f6176b958e2?utm_campaign=1049&utm_source=git)** | University Park, IL | On Site | Apr 10 |
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
+| ↳ | **[Photography Intern](https://jobright.ai/jobs/info/69a0e2cb0836fe79d861ebff?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8cc87738f2f099e89ea50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
 | **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69d8cc13b67cec4f9b09ecc3?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Apr 10 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gecko Robotics](https://www.geckorobotics.com)** | **[Motion Brand Designer / Intern](https://jobright.ai/jobs/info/69d72a3048f0c8161d2fd691?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 08 |
 | **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Creative Services Intern](https://jobright.ai/jobs/info/69d72c83cfdc6132f946fa21?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
 | **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d70cf4cfdc6132f946eb30?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a8d52a5bf580012d656?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Apr 08 |
-| ↳ | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a51e63cea7a8b66d91f?utm_campaign=1049&utm_source=git)** | Colorado, United States | Remote | Apr 08 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69d707d352a5bf580012d54d?utm_campaign=1049&utm_source=git)** | Cary, NC | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
