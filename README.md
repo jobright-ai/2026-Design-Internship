@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sigmatech](https://sigmatech.com)** | **[Multimedia Internship](https://jobright.ai/jobs/info/69d878e0f4ea471a51fe6226?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d86cb69f97a42dc9c1c24d?utm_campaign=1049&utm_source=git)** | Golden Valley, MN | Hybrid | Apr 09 |
 | **[altafiber](https://www.altafiber.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d85e05b861c42857c4a0c3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Design](https://jobright.ai/jobs/info/69d85bb89f97a42dc9c1bbea?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sherpani](https://sherpani.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6e9bc52a5bf580012cd8b?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Apr 08 |
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69d6e4fecfdc6132f946df85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
-| **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db70e63cea7a8b66c9df?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
