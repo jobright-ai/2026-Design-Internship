@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
+| **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8cc87738f2f099e89ea50?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
+| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69d8cc13b67cec4f9b09ecc3?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Apr 10 |
+| **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Apr 10 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d8b1d2b861c42857c4c4c0?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Apr 10 |
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern - HOK FUTURES WINNER](https://jobright.ai/jobs/info/69d89a65738f2f099e89d926?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | Hybrid | Apr 09 |
 | **[Sigmatech](https://sigmatech.com)** | **[Multimedia Internship](https://jobright.ai/jobs/info/69d878e0f4ea471a51fe6226?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Apr 09 |
@@ -72,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 09 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Interior Design Intern (Boston)](https://jobright.ai/jobs/info/69d82ae0b861c42857c492bd?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Apr 09 |
+| **[Arena](https://arena.run/)** | **[Graphic Designer for the Election Cycle at The Campaign Workshop](https://jobright.ai/jobs/info/69d8cf2f738f2f099e89eace?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Apr 09 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Summer 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/69d82808b67cec4f9b09b06d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d825e7b861c42857c4901a?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Apr 09 |
 | ↳ | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d82596b67cec4f9b09af83?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 09 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 08 |
 | **[State of Missouri](http://mo.gov)** | **[CTF Communications Intern](https://jobright.ai/jobs/info/69d6f209cfdc6132f946e296?utm_campaign=1049&utm_source=git)** | Jefferson City, MO | On Site | Apr 08 |
 | **[Ryan Companies US, Inc.](http://www.ryancompanies.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d6f1f152a5bf580012cf94?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 08 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f117e63cea7a8b66d25e?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Apr 08 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d6ee2d48f0c8161d2fbf2b?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 08 |
-| ↳ | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d6edff706f771673baed59?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 08 |
-| **[Mohawk College](http://www.mohawkcollege.ca/)** | **[Graphic Designer - Appendix D/Temporary Assignment (April 2026 - April 2027)](https://jobright.ai/jobs/info/69d78df0e63cea7a8b6726e1?utm_campaign=1049&utm_source=git)** | Hamilton, ON | Hybrid | Apr 08 |
-| **[Sherpani](https://sherpani.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6e9bc52a5bf580012cd8b?utm_campaign=1049&utm_source=git)** | Boulder, CO | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
