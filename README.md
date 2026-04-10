@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
+| **[SafetyWing](http://www.safetywing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d9116a5356a60f40fd7782?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
+| **[Meijer](https://www.meijer.com/)** | **[User Experience Intern- Summer 2026](https://jobright.ai/jobs/info/69d91102869c7e25d85989cc?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 10 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69d1d5a4891d7b11cfce6b42?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 10 |
 | **[Skydio](https://www.skydio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69bc9a4d5b89c002acf25d33?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Product Design Intern (Hybrid)](https://jobright.ai/jobs/info/69d8f1099f97a42dc9c1eebb?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Video Production, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c0348f0c8161d2fef89?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
 | ↳ | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73bc9e63cea7a8b66ff0f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 08 |
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73b0b366bb95ba55539e1?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | Apr 08 |
-| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Creative Writer](https://jobright.ai/jobs/info/69d7311fe63cea7a8b66ebdd?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 08 |
-| **[Gecko Robotics](https://www.geckorobotics.com)** | **[Motion Brand Designer / Intern](https://jobright.ai/jobs/info/69d72a3048f0c8161d2fd691?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | Hybrid | Apr 08 |
-| **[Columbus Blue Jackets](http://bluejackets.com)** | **[2026-27 Season Creative Services Intern](https://jobright.ai/jobs/info/69d72c83cfdc6132f946fa21?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 08 |
-| **[Commvault](https://www.commvault.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69d70cf4cfdc6132f946eb30?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
