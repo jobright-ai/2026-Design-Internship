@@ -57,6 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69d9444c738f2f099e8a0cfe?utm_campaign=1049&utm_source=git)** | 301 Hillsborough Street, Raleigh, NC, 27603, US | Hybrid | Apr 10 |
+| **[PlayCore](http://www.playcore.com/)** | **[Innovation Intern](https://jobright.ai/jobs/info/69d943ceb67cec4f9b0a0f29?utm_campaign=1049&utm_source=git)** | Auburn, AL 36849, USA | Remote | Apr 10 |
+| **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69d940c29f97a42dc9c20623?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 10 |
+| **[PlayCore](http://www.playcore.com/)** | **[Innovation Intern](https://jobright.ai/jobs/info/69d93fdff748bc5d08a4a151?utm_campaign=1049&utm_source=git)** | Auburn, AL | Remote | Apr 10 |
+| **[Groundscapes Inc](https://www.groundscapes.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69d93fcf738f2f099e8a09b4?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 10 |
+| **[SOCAN](http://www.socan.ca)** | **[Programs & Communications Intern](https://jobright.ai/jobs/info/69d93fc8738f2f099e8a099b?utm_campaign=1049&utm_source=git)** | North York, ON | Hybrid | Apr 10 |
+| **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69d93fc7738f2f099e8a0998?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
+| **[500 Degrees](https://www.500degreesstudio.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69d93cc2738f2f099e8a0751?utm_campaign=1049&utm_source=git)** | Columbus, Ohio Metropolitan Area | On Site | Apr 10 |
+| **[Officeworks Inc.](https://www.officeworksinc.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69d93c9a869c7e25d8599886?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
+| **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69d93c7e5356a60f40fd8562?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 10 |
+| **[GSW, powered by Syneos Health](http://www.gsw-w.com)** | **[Intern - Creative](https://jobright.ai/jobs/info/699ffc3053d97f23ee65993e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| **[HNTB](http://www.hntb.com/)** | **[Landscape/Urban Design Intern – Summer 2026](https://jobright.ai/jobs/info/69d936b2738f2f099e8a05ef?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SanMar](http://www.sanmar.com)** | **[Marketing Ops Intern, Photo Studio](https://jobright.ai/jobs/info/69bca57045e08b3dc1f96b17?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Apr 10 |
 | **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Graphic Design and Production Intern](https://jobright.ai/jobs/info/69d933fef748bc5d08a49926?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Apr 10 |
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d933f5f748bc5d08a498fe?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Apr 10 |
@@ -66,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69d926b19f97a42dc9c1fd0d?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 10 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d9236d5356a60f40fd7d54?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | Apr 10 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d922fa738f2f099e89ffa8?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | Apr 10 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
-| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
 | **[SafetyWing](http://www.safetywing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d9116a5356a60f40fd7782?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Meijer](https://www.meijer.com/)** | **[User Experience Intern- Summer 2026](https://jobright.ai/jobs/info/69d91102869c7e25d85989cc?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 10 |
 | **[Outright](https://www.weareoutright.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d934b1f748bc5d08a49b54?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
@@ -83,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Rack Room Shoes](http://www.rackroomshoes.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69a0d9c85218a8167672082b?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | ↳ | **[Photography Intern](https://jobright.ai/jobs/info/69a0e2cb0836fe79d861ebff?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 10 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 10 |
-| **[Mohawk Industries](http://www.mohawkind.com/)** | **[Photoshop Intern - Summer 2026 (Dalton, Georgia, United States)](https://jobright.ai/jobs/info/69d8cc13b67cec4f9b09ecc3?utm_campaign=1049&utm_source=git)** | Dalton, GA | On Site | Apr 10 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Apr 10 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d8b1d2b861c42857c4c4c0?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI | On Site | Apr 10 |
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern - HOK FUTURES WINNER](https://jobright.ai/jobs/info/69d89a65738f2f099e89d926?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | Hybrid | Apr 09 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Apr 09 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69d7fe1c9f97a42dc9c19526?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
 | **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f13a581476f6176b8a533?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 09 |
-| **[Caraway Home](https://www.carawayhome.com)** | **[Industrial Design Internship](https://jobright.ai/jobs/info/69d7ded4869c7e25d8591f27?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
-| **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb64ba56973837414163c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 09 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d7d5789f97a42dc9c18626?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Apr 09 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/694a0383c6f0e2546ceee8bc?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Apr 09 |
-| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d799a2b861c42857c42c2c?utm_campaign=1049&utm_source=git)** | St Petersburg, FL, US | On Site | Apr 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Interior Design Intern / Summer 2026](https://jobright.ai/jobs/info/6971194451f7264771835346?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | On Site | Apr 09 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69baffda06c1ba00c54d500e?utm_campaign=1049&utm_source=git)** | Lehi, UT | On Site | Apr 09 |
-| **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Apr 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
-| **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
