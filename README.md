@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Interior Architectural Designer Intern](https://jobright.ai/jobs/info/69d952e5b67cec4f9b0a1228?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
+| **[SanMar](http://www.sanmar.com)** | **[Merchandising Intern, Design](https://jobright.ai/jobs/info/69bca541e6a0d9792584a6a6?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Apr 10 |
+| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 10 |
+| **[Meijer](https://www.meijer.com/)** | **[User Experience Intern- Summer 2026](https://jobright.ai/jobs/info/69d949f8f748bc5d08a4a5ce?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 10 |
+| **[RSP Architects](http://www.rsparch.com)** | **[Architecture Student Intern](https://jobright.ai/jobs/info/69d94966f748bc5d08a4a522?utm_campaign=1049&utm_source=git)** | Phoenix, Tempe, AZ, US | On Site | Apr 10 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69d9444c738f2f099e8a0cfe?utm_campaign=1049&utm_source=git)** | 301 Hillsborough Street, Raleigh, NC, 27603, US | Hybrid | Apr 10 |
 | **[PlayCore](http://www.playcore.com/)** | **[Innovation Intern](https://jobright.ai/jobs/info/69d943ceb67cec4f9b0a0f29?utm_campaign=1049&utm_source=git)** | Auburn, AL 36849, USA | Remote | Apr 10 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69d940c29f97a42dc9c20623?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 10 |
@@ -74,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d933f5f748bc5d08a498fe?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Apr 10 |
 | **[Reingold, Inc.](http://reingold.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d92ed59f97a42dc9c1ff9d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
 | **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - UX Design (Unit 42)](https://jobright.ai/jobs/info/69d92e2bf748bc5d08a49751?utm_campaign=1049&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Apr 10 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Interior Architectural Designer Intern](https://jobright.ai/jobs/info/69d92db6b67cec4f9b0a0642?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69d926b19f97a42dc9c1fd0d?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 10 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d9236d5356a60f40fd7d54?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | Apr 10 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d922fa738f2f099e89ffa8?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | Apr 10 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | Apr 09 |
 | **[Mary Engelbreit Studios](https://www.maryengelbreit.com)** | **[Art Department Intern](https://jobright.ai/jobs/info/69d7d03e738f2f099e89807a?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 09 |
 | **[Michael Coleman Creative Services](https://michaelcoleman.net/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d7deaf738f2f099e898d79?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 09 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[User Experience Design Intern - Summer 2026](https://jobright.ai/jobs/info/69bb1eca06c1ba00c54d9625?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 09 |
-| **[HARMAN International](https://www.harman.com/)** | **[Summer Intern - Ui/UX Designer](https://jobright.ai/jobs/info/69827542348f733a5c3553b5?utm_campaign=1049&utm_source=git)** | Novi, MI | On Site | Apr 09 |
-| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69d7fe1c9f97a42dc9c19526?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 09 |
-| **[California State University, Fresno](https://csufresno.edu)** | **[Graphic Designer](https://jobright.ai/jobs/info/6972b5389b83b424830ebda9?utm_campaign=1049&utm_source=git)** | Fresno, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
