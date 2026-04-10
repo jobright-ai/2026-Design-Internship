@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Room & Board](https://www.roomandboard.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d86cb69f97a42dc9c1c24d?utm_campaign=1049&utm_source=git)** | Golden Valley, MN | Hybrid | Apr 09 |
 | **[altafiber](https://www.altafiber.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d85e05b861c42857c4a0c3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Design](https://jobright.ai/jobs/info/69d85bb89f97a42dc9c1bbea?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Common Arts](https://commonarts.com/)** | **[Intern, Retail Architecture](https://jobright.ai/jobs/info/69d85a5cb861c42857c49e83?utm_campaign=1049&utm_source=git)** | Long Beach, CA, US | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Game Seven Agency](https://www.gameseven.agency/)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69d6e4fecfdc6132f946df85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 08 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 08 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db70e63cea7a8b66c9df?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 08 |
-| ↳ | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db69cfdc6132f946da4b?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
