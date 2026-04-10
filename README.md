@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Design](https://jobright.ai/jobs/info/69d05faccdb525785fba9aaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 09 |
 | **[Isagani Yorke Capital Partners](https://isaganiyorke.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/69d843e8f4ea471a51fe4dc6?utm_campaign=1049&utm_source=git)** | DFW Metroplex | Hybrid | Apr 09 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Design](https://jobright.ai/jobs/info/69d84308b67cec4f9b09b9e8?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Apr 09 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Digital Graphic Design Intern (May-August 2026; $18-$20/hr)](https://jobright.ai/jobs/info/69d84047f4ea471a51fe4d33?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Art Director](https://jobright.ai/jobs/info/69d6db69cfdc6132f946da4b?utm_campaign=1049&utm_source=git)** | New York, NY, US | Hybrid | Apr 08 |
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d6d70f706f771673bae5a7?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 08 |
 | **[Highgate](https://www.highgate.com)** | **[Intern - Creative Project](https://jobright.ai/jobs/info/69d6d6e9706f771673bae590?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 08 |
-| **[Spin Master](https://www.spinmaster.com)** | **[Melissa & Doug Product Design Intern](https://jobright.ai/jobs/info/69d6d5bd366bb95ba555036d?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
