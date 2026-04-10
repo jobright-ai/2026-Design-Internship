@@ -57,14 +57,20 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SanMar](http://www.sanmar.com)** | **[Marketing Ops Intern, Photo Studio](https://jobright.ai/jobs/info/69bca57045e08b3dc1f96b17?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | Apr 10 |
+| **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Graphic Design and Production Intern](https://jobright.ai/jobs/info/69d933fef748bc5d08a49926?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Apr 10 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d933f5f748bc5d08a498fe?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | Apr 10 |
+| **[Reingold, Inc.](http://reingold.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d92ed59f97a42dc9c1ff9d?utm_campaign=1049&utm_source=git)** | Alexandria, VA | On Site | Apr 10 |
+| **[Palo Alto Networks](http://www.paloaltonetworks.com)** | **[Intern - UX Design (Unit 42)](https://jobright.ai/jobs/info/69d92e2bf748bc5d08a49751?utm_campaign=1049&utm_source=git)** | Office - USA - CA - Headquarters | On Site | Apr 10 |
+| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Interior Architectural Designer Intern](https://jobright.ai/jobs/info/69d92db6b67cec4f9b0a0642?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 10 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69d926b19f97a42dc9c1fd0d?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 10 |
-| **[SentrIQ Labs](https://sentriq.io)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d924eff748bc5d08a492c8?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d9236d5356a60f40fd7d54?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | Apr 10 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d922fa738f2f099e89ffa8?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | Apr 10 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SafetyWing](http://www.safetywing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d9116a5356a60f40fd7782?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Meijer](https://www.meijer.com/)** | **[User Experience Intern- Summer 2026](https://jobright.ai/jobs/info/69d91102869c7e25d85989cc?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 10 |
+| **[Outright](https://www.weareoutright.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d934b1f748bc5d08a49b54?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Foundation for California Community Colleges](https://foundationccc.org/)** | **[Student Intern, Graphic Design](https://jobright.ai/jobs/info/69d1d5a4891d7b11cfce6b42?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 10 |
 | **[Skydio](https://www.skydio.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69bc9a4d5b89c002acf25d33?utm_campaign=1049&utm_source=git)** | San Mateo, CA | Hybrid | Apr 10 |
 | **[Planet Home Lending, LLC](https://planethomelending.com/)** | **[Graphic Design & Production - Intern](https://jobright.ai/jobs/info/69d923c0f748bc5d08a48fe3?utm_campaign=1049&utm_source=git)** | Hybrid, 5020 Riverside Dr., Irving, Texas, United States of America | Hybrid | Apr 10 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | Apr 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/699fabcb81476f6176b964db?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 09 |
 | **[JetZero](https://www.jetzero.aero)** | **[2026 Product Design Summer Internship](https://jobright.ai/jobs/info/69996be9e0bddb6acac8a78a?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 09 |
-| **[LaBella Associates](http://www.labellapc.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d775d3e63cea7a8b671e9c?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Apr 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69881a818da7a612046332cc?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
-| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 09 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Themed Finishing Internship Summer/Fall 2026](https://jobright.ai/jobs/info/69d75976706f771673bb2b9d?utm_campaign=1049&utm_source=git)** | Glendale, CA, USA | On Site | Apr 09 |
-| **[DLR Group](http://www.dlrgroup.com/)** | **[Landscape Design Intern / Summer 2026](https://jobright.ai/jobs/info/697a4b31a5b9804527e020f9?utm_campaign=1049&utm_source=git)** | Overland Park, Kansas, United States | On Site | Apr 08 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/69d73c6d706f771673bb1d40?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | Apr 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
