@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PROJXON](www.projxon.com)** | **[Graphic Design (Intern)](https://jobright.ai/jobs/info/69d9d62e738f2f099e8a50f6?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/69d9caef5356a60f40fdc757?utm_campaign=1049&utm_source=git)** | Los Angeles, New York City | Hybrid | Apr 10 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69d9cadd9f97a42dc9c2449a?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
 | ↳ | **[Intern - Creative Strategy, Sports](https://jobright.ai/jobs/info/69d9caa05356a60f40fdc67d?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69d824fb738f2f099e89add3?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Apr 09 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Visual Practitioner, Operational and Service Excellence (Internship)](https://jobright.ai/jobs/info/69d7fe629f97a42dc9c195f5?utm_campaign=1049&utm_source=git)** | Halifax, NS | On Site | Apr 09 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69d7ec8fb67cec4f9b09931c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 09 |
-| **[HARMAN International](https://www.harman.com/)** | **[Parttime Intern - Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
