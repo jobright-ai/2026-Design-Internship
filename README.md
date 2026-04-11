@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Digital Creative Intern](https://jobright.ai/jobs/info/69a108526b458d060735be8b?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 11 |
 | **[Age of Learning](http://www.ageoflearning.com)** | **[Digital Content Intern](https://jobright.ai/jobs/info/69bdf061b106024562834eed?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Apr 11 |
 | **[PROJXON](www.projxon.com)** | **[Graphic Design (Intern)](https://jobright.ai/jobs/info/69d9d62e738f2f099e8a50f6?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/69d9caef5356a60f40fdc757?utm_campaign=1049&utm_source=git)** | Los Angeles, New York City | Hybrid | Apr 10 |
@@ -138,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69711b5b333b6343a14d90e7?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Apr 09 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Interior Design Intern (Boston)](https://jobright.ai/jobs/info/69d82ae0b861c42857c492bd?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Apr 09 |
-| **[Arena](https://arena.run/)** | **[Graphic Designer for the Election Cycle at The Campaign Workshop](https://jobright.ai/jobs/info/69d8cf2f738f2f099e89eace?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | Apr 09 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Summer 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/69d82808b67cec4f9b09b06d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d825e7b861c42857c4901a?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Apr 09 |
 | ↳ | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d82596b67cec4f9b09af83?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Apr 09 |
