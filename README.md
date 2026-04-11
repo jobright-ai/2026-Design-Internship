@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Senior Designer - Random House Children's Books - (Hybrid)](https://jobright.ai/jobs/info/69d993a8738f2f099e8a289d?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 10 |
 | **[Design Observer](http://designobserver.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d988ad9f97a42dc9c22198?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[USCAPE](https://www.uscapeapparel.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d98883869c7e25d859b670?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 10 |
 | **[Affinitiv](http://www.affinitiv.com)** | **[Graphic Design Internship, Advertising Agency (Summer 2026)](https://jobright.ai/jobs/info/6980e0577f40342e15d9a76d?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
@@ -97,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[DLR Group](http://www.dlrgroup.com/)** | **[Architectural Design Intern / Summer 2026](https://jobright.ai/jobs/info/69d926b19f97a42dc9c1fd0d?utm_campaign=1049&utm_source=git)** | Phoenix, Arizona, United States | On Site | Apr 10 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d9236d5356a60f40fd7d54?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | Apr 10 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/69d922fa738f2f099e89ffa8?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | Apr 10 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
-| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a40?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 10 |
+| ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d91929f748bc5d08a48a41?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
 | **[SafetyWing](http://www.safetywing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d9116a5356a60f40fd7782?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
 | **[Meijer](https://www.meijer.com/)** | **[User Experience Intern- Summer 2026](https://jobright.ai/jobs/info/69d91102869c7e25d85989cc?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | Hybrid | Apr 10 |
 | **[Outright](https://www.weareoutright.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d934b1f748bc5d08a49b54?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DEPT®](https://www.deptagency.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d7e594b67cec4f9b099161?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Graphic Designer (Hybrid) System Offices Shared Services](https://jobright.ai/jobs/info/69d7e558b67cec4f9b0990ef?utm_campaign=1049&utm_source=git)** | Urbana, IL | Hybrid | Apr 09 |
 | **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Apr 09 |
-| **[M/I Homes, Inc.](https://www.mihomes.com/)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69c9f7e11818a24cd84df676?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
