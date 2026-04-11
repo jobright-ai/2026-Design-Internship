@@ -72,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[Telligen](https://www.telligen.com/)** | **[Marketing and Communications Intern (Summer 2026)](https://jobright.ai/jobs/info/69d97671b67cec4f9b0a2215?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | Apr 10 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69a5bb0c359fe034b1d0591d?utm_campaign=1049&utm_source=git)** | Pittston, PA | On Site | Apr 10 |
 | ↳ | **[Interior Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6994e2e6e0bddb6acac36323?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 10 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Summer 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/69d9692f9f97a42dc9c21632?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 10 |
 | **[Discovery World](https://discoveryworld.org)** | **[Design Intern](https://jobright.ai/jobs/info/69d968bef748bc5d08a4b212?utm_campaign=1049&utm_source=git)** | Corporate HeadQuarters - Milwaukee, WI 53202 | On Site | Apr 10 |
 | **[Volto Santo](voltosantoclothing.com)** | **[Graphic Design & Fashion Design Intern](https://jobright.ai/jobs/info/69d961d0b67cec4f9b0a1be7?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 10 |
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/696ff80782817106e97709e1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Prescient Edge](https://www.prescientedge.com/)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69d824fb738f2f099e89add3?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | Apr 09 |
 | **[Government of Nova Scotia](https://novascotia.ca/government/)** | **[Visual Practitioner, Operational and Service Excellence (Internship)](https://jobright.ai/jobs/info/69d7fe629f97a42dc9c195f5?utm_campaign=1049&utm_source=git)** | Halifax, NS | On Site | Apr 09 |
 | **[CSW Industrials Inc.](http://www.cswindustrials.com)** | **[Digital Graphic Design Intern](https://jobright.ai/jobs/info/69d7ec8fb67cec4f9b09931c?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 09 |
+| **[HARMAN International](https://www.harman.com/)** | **[Parttime Intern - Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
