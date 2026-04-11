@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Eillien's Candies, Inc](https://eilliens.com/)** | **[GRAPHICS INTERN](https://jobright.ai/jobs/info/69d9a3fc9f97a42dc9c23167?utm_campaign=1049&utm_source=git)** | Main Location - Green Bay, WI 54304 | On Site | Apr 10 |
 | **[Penguin Random House](https://www.penguinrandomhouse.com/)** | **[Senior Designer - Random House Children's Books - (Hybrid)](https://jobright.ai/jobs/info/69d993a8738f2f099e8a289d?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 10 |
 | **[Design Observer](http://designobserver.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d988ad9f97a42dc9c22198?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 10 |
 | **[USCAPE](https://www.uscapeapparel.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d98883869c7e25d859b670?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ideum](http://www.ideum.com)** | **[Graphic Production Intern (Summer 2026)](https://jobright.ai/jobs/info/69d80821f4ea471a51fe2ec6?utm_campaign=1049&utm_source=git)** | Corrales, NM | On Site | Apr 09 |
 | **[DEPT®](https://www.deptagency.com)** | **[Design Intern](https://jobright.ai/jobs/info/69d7e594b67cec4f9b099161?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Apr 09 |
 | **[University of Illinois Urbana-Champaign](http://illinois.edu)** | **[Graphic Designer (Hybrid) System Offices Shared Services](https://jobright.ai/jobs/info/69d7e558b67cec4f9b0990ef?utm_campaign=1049&utm_source=git)** | Urbana, IL | Hybrid | Apr 09 |
-| **[PC Construction Company](http://www.pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/69bb24265697383741412272?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
