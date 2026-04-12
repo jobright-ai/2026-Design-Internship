@@ -58,8 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 11 |
-| **[Corgan](http://www.corgan.com/)** | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 11 |
-| ↳ | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
+| **[Corgan](http://www.corgan.com/)** | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399b?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 11 |
+| ↳ | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 11 |
 | ↳ | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daab05f748bc5d08a55534?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 11 |
 | ↳ | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daab055356a60f40fe3962?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 11 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaaff869c7e25d85a4ccc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 11 |
@@ -148,6 +148,7 @@ For a complete list, click the following sortable link below:
 | **[HOK](http://www.hok.com/)** | **[Interiors Student Intern - HOK FUTURES WINNER](https://jobright.ai/jobs/info/69d89a65738f2f099e89d926?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, USA | Hybrid | Apr 09 |
 | **[Sigmatech](https://sigmatech.com)** | **[Multimedia Internship](https://jobright.ai/jobs/info/69d878e0f4ea471a51fe6226?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | Apr 09 |
 | **[Room & Board](https://www.roomandboard.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69d86cb69f97a42dc9c1c24d?utm_campaign=1049&utm_source=git)** | Golden Valley, MN | Hybrid | Apr 09 |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69db0ca65356a60f40fe47f5?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 09 |
 | **[altafiber](https://www.altafiber.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d85e05b861c42857c4a0c3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 09 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Design](https://jobright.ai/jobs/info/69d85bb89f97a42dc9c1bbea?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 09 |
 | **[Common Arts](https://commonarts.com/)** | **[Intern, Retail Architecture](https://jobright.ai/jobs/info/69d85a5cb861c42857c49e83?utm_campaign=1049&utm_source=git)** | Long Beach, CA, US | On Site | Apr 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Isagani Yorke Capital Partners](https://isaganiyorke.com)** | **[Video Content Creator Intern](https://jobright.ai/jobs/info/69d843e8f4ea471a51fe4dc6?utm_campaign=1049&utm_source=git)** | DFW Metroplex | Hybrid | Apr 09 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Design](https://jobright.ai/jobs/info/69d84308b67cec4f9b09b9e8?utm_campaign=1049&utm_source=git)** | New York, New York, USA | Hybrid | Apr 09 |
 | **[Beyer Blinder Belle](http://beyerblinderbelle.com)** | **[Interior Design Intern (Boston)](https://jobright.ai/jobs/info/69d833559f97a42dc9c1afde?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 09 |
-| **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
