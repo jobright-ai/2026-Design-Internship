@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
+| **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Data Analyst Intern](https://jobright.ai/jobs/info/69deb281433ac8430e0dbf3a?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Apr 14 |
+| **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Retouching Coordination Intern](https://jobright.ai/jobs/info/69cfd7da54f00230c6d0cf29?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 14 |
+| **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/69deae10e34484770f1a41af?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | Apr 14 |
+| **[Lotus and Luna](https://www.lotusandluna.com)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/69deade436823d1b42583174?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 14 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5cf433ac8430e0db774?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Apr 14 |
 | ↳ | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5ce36823d1b42582def?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | On Site | Apr 14 |
 | **[Solve Industrial Motion Group](https://solveindustrial.com/)** | **[Marketing Intern (Graphic Design)](https://jobright.ai/jobs/info/69dea307aba61f1417316a8a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
@@ -84,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968d?utm_campaign=1049&utm_source=git)** | Westminster, CO | Remote | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de6553aba61f1417314b11?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de6540aba61f1417314b01?utm_campaign=1049&utm_source=git)** | Irving, TX | Remote | Apr 14 |
 | **[Savette](www.savette.com)** | **[Fashion Design & Product Development Intern (Paid)](https://jobright.ai/jobs/info/69de653718cf504166e2cbec?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Application Designer](https://jobright.ai/jobs/info/69a5fbbc0da45516f16ecd5e?utm_campaign=1049&utm_source=git)** | Mississippi, United States | Remote | Apr 14 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Graphic Services Research Intern - IT Research and Innovation](https://jobright.ai/jobs/info/69de612c433ac8430e0d9579?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
@@ -97,17 +101,16 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b5faba61f1417314258?utm_campaign=1049&utm_source=git)** | US-CO-Westminster | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b25433ac8430e0d8e38?utm_campaign=1049&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2236823d1b42580398?utm_campaign=1049&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b21e34484770f1a13b1?utm_campaign=1049&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b215913ad339813c759?utm_campaign=1049&utm_source=git)** | Westminster, CO, US | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b21e34484770f1a13b1?utm_campaign=1049&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b20e34484770f1a13b0?utm_campaign=1049&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2036823d1b4258038f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Design Intern](https://jobright.ai/jobs/info/69c169ec75f7ff1cd80f64ad?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69c1832d2c312363dcd4714e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | Hybrid | Apr 14 |
 | **[altafiber](https://www.altafiber.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d85e05b861c42857c4a0c3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
 | **[Senior Living Residences](http://seniorlivingresidences.com)** | **[Video Production Intern](https://jobright.ai/jobs/info/69dddc6e433ac8430e0d76cb?utm_campaign=1049&utm_source=git)** | Braintree, MA | On Site | Apr 13 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Quilly Social Media UX/UI Intern (Unpaid)](https://jobright.ai/jobs/info/69dddbef18cf504166e2aafc?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 13 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 13 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 13 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/69ddbec68182b27d347415bf?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | Remote | Apr 13 |
@@ -137,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Jostens](http://jostens.com)** | **[Lead UX Designer & Systems Engineer](https://jobright.ai/jobs/info/69dd60a8bc6f6622c9911fa0?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 13 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern, Art Director](https://jobright.ai/jobs/info/69dd6080bc6f6622c9911f50?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Apr 13 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dd5fbd61f6ed54321fcfee?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Apr 13 |
-| **[Dekker](http://dpsdesign.org)** | **[Student Intern (Interior Design)](https://jobright.ai/jobs/info/69dd5a38738f2f099e8b5dcd?utm_campaign=1049&utm_source=git)** | El Paso, Texas, United States | Hybrid | Apr 13 |
-| ↳ | **[Student Intern (Interior Design)](https://jobright.ai/jobs/info/69dd5a38738f2f099e8b5dcb?utm_campaign=1049&utm_source=git)** | Albuquerque, New Mexico, United States | Hybrid | Apr 13 |
+| **[Dekker](http://dpsdesign.org)** | **[Student Intern (Interior Design)](https://jobright.ai/jobs/info/69dd5a38738f2f099e8b5dcb?utm_campaign=1049&utm_source=git)** | Albuquerque, New Mexico, United States | Hybrid | Apr 13 |
+| ↳ | **[Student Intern (Interior Design)](https://jobright.ai/jobs/info/69dd5a38738f2f099e8b5dcd?utm_campaign=1049&utm_source=git)** | El Paso, Texas, United States | Hybrid | Apr 13 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dd5a04f748bc5d08a5f6af?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Apr 13 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69dd5816bc6f6622c9911bd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dd8d2561f6ed54321fe06b?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Apr 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah State University](http://www.usu.edu)** | **[Extension Landscape Architecture Intern](https://jobright.ai/jobs/info/69dd484ff748bc5d08a5ef96?utm_campaign=1049&utm_source=git)** | Cache County, UT | Hybrid | Apr 13 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Apr 13 |
 | **[Tremco CPG Inc.](https://www.tremcocpg.com)** | **[Marketing: Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dd37cf9f97a42dc9c350bd?utm_campaign=1049&utm_source=git)** | 2150 Schuetz Rd, Saint Louis, MO, 63146, US | On Site | Apr 13 |
-| **[Westgate Resorts](https://www.westgateresorts.com/)** | **[Interior Architectural Designer Intern](https://jobright.ai/jobs/info/69d952e5b67cec4f9b0a1228?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 13 |
-| **[ET GLOBAL - USA](http://www.etglobalusa.com)** | **[2D Exhibit Designer Intern](https://jobright.ai/jobs/info/69d5d703706f771673ba739b?utm_campaign=1049&utm_source=git)** | Suwanee, GA | On Site | Apr 13 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
