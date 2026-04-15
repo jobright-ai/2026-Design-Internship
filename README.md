@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship - Brand Design - Summer 2026 - Boston](https://jobright.ai/jobs/info/69dfa2334920452a85dce775?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69cf5f31891d7b11cfcd2d8e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 15 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69c365b794007a2195dfd436?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69c7ba4e83ea553769fe5d08?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Apr 15 |
@@ -131,9 +132,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2236823d1b42580398?utm_campaign=1049&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b21e34484770f1a13b1?utm_campaign=1049&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b215913ad339813c759?utm_campaign=1049&utm_source=git)** | Westminster, CO, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2036823d1b4258038f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b20e34484770f1a13b0?utm_campaign=1049&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2036823d1b4258038f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Design Intern](https://jobright.ai/jobs/info/69c169ec75f7ff1cd80f64ad?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3a4361f6ed54321fc041?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - Creative Strategy, Sports](https://jobright.ai/jobs/info/69dda2bf8182b27d34740691?utm_campaign=1049&utm_source=git)** | El Segundo, CA, US | Hybrid | Apr 13 |
 | ↳ | **[Intern - Creative Strategy, Sports](https://jobright.ai/jobs/info/69dda29ae34484770f19dfdd?utm_campaign=1049&utm_source=git)** | US-CA-El Segundo | Hybrid | Apr 13 |
 | **[thyssenkrupp](https://www.thyssenkrupp.com)** | **[Product Photography & Graphic Design Intern](https://jobright.ai/jobs/info/69dda1ea8182b27d347402fb?utm_campaign=1049&utm_source=git)** | Poway, CA | On Site | Apr 13 |
-| **[Applied Digital](https://AppliedDigital.com)** | **[Graphic Design & Creative Intern](https://jobright.ai/jobs/info/69dd9f3f8182b27d3473ff88?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | Hybrid | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
