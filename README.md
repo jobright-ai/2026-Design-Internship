@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lumerse Studio](https://www.linkedin.com/company/104404079)** | **[Architectural Visualization Intern](https://jobright.ai/jobs/info/69dfdaa34920452a85dcfe17?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Apr 15 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c3256cec22f8310ab1559d?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
+| **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c41d3633eecf3107943ad6?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
+| **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69ce6edb54f00230c6cff2f4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
+| **[Denver7 (KMGH-TV)](http://thedenverchannel.com)** | **[Scripps Sports Intern-Graphic Design (SUMMER)](https://jobright.ai/jobs/info/69dfd5ea4920452a85dcfb2e?utm_campaign=1049&utm_source=git)** | Home Office - Ohio | Remote | Apr 15 |
 | **[Collection XIIX, Ltd.](http://www.collection18.com)** | **[Design Intern](https://jobright.ai/jobs/info/69dfcdede34484770f1aa9c2?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 15 |
 | **[Goodwyn Mills Cawood (GMC)](http://www.gmcnetwork.com/)** | **[Architecture Intern (Education & Communities)](https://jobright.ai/jobs/info/69dfcaa54920452a85dcf871?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 15 |
@@ -88,6 +93,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfb2ca433ac8430e0e17e1?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Apr 14 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern – Interior Design](https://jobright.ai/jobs/info/69defaceaba61f1417319343?utm_campaign=1049&utm_source=git)** | La Crosse, WI | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69defa1818cf504166e315e4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 14 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfd658aba61f141731dabc?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
 | **[charity: water](http://www.charitywater.org)** | **[VP of Creative (Onsite, Nashville)](https://jobright.ai/jobs/info/69def8d618cf504166e313f6?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 14 |
 | **[Savette](www.savette.com)** | **[Fashion Design & Product Development Intern (Paid)](https://jobright.ai/jobs/info/69def3a2aba61f1417318f20?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 14 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69def37018cf504166e3101c?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Apr 14 |
@@ -131,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Cindy Castro New York](https://www.cindycastro.com)** | **[Fashion Design Intern - Summer 26](https://jobright.ai/jobs/info/69de6a5f433ac8430e0d985d?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 | **[Messer Construction Co.](http://www.messer.com)** | **[Graphic Design Intern (Summer 2026) - Cincinnati, OH](https://jobright.ai/jobs/info/69d82808b67cec4f9b09b06d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Boise State University](https://jobright.ai/jobs/info/69de65db433ac8430e0d96cb?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Apr 14 |
-| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968d?utm_campaign=1049&utm_source=git)** | Westminster, CO | Remote | Apr 14 |
+| **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968d?utm_campaign=1049&utm_source=git)** | Westminster, CO | Remote | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de6553aba61f1417314b11?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Apr 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Application Designer](https://jobright.ai/jobs/info/69a5fbbc0da45516f16ecd5e?utm_campaign=1049&utm_source=git)** | Mississippi, United States | Remote | Apr 14 |
 | **[UNDP Careers](https://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d8177e869c7e25d8593b34?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 14 |
@@ -142,19 +148,13 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b5faba61f1417314258?utm_campaign=1049&utm_source=git)** | US-CO-Westminster | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b25433ac8430e0d8e38?utm_campaign=1049&utm_source=git)** | Chicago, IL, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2236823d1b42580398?utm_campaign=1049&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b215913ad339813c759?utm_campaign=1049&utm_source=git)** | Westminster, CO, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b21e34484770f1a13b1?utm_campaign=1049&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b215913ad339813c759?utm_campaign=1049&utm_source=git)** | Westminster, CO, US | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b20e34484770f1a13b0?utm_campaign=1049&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2036823d1b4258038f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
+| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
 | **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Design Intern](https://jobright.ai/jobs/info/69c169ec75f7ff1cd80f64ad?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 14 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3a4361f6ed54321fc041?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
 | ↳ | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd31469f97a42dc9c34ea2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69c1832d2c312363dcd4714e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | Hybrid | Apr 14 |
-| **[altafiber](https://www.altafiber.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d85e05b861c42857c4a0c3?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Apr 14 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Motion Design Internship Summer 2026 (On-site, New York)](https://jobright.ai/jobs/info/69dd310df748bc5d08a5e946?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 13 |
-| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 13 |
-| **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/69ddbec68182b27d347415bf?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | Remote | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
