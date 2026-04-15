@@ -102,7 +102,6 @@ For a complete list, click the following sortable link below:
 | **[Epsilon](https://www.epsilon.com/us)** | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968d?utm_campaign=1049&utm_source=git)** | Westminster, CO | Remote | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de65a7433ac8430e0d968c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de6553aba61f1417314b11?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Apr 14 |
-| **[Savette](www.savette.com)** | **[Fashion Design & Product Development Intern (Paid)](https://jobright.ai/jobs/info/69de653718cf504166e2cbec?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 14 |
 | **[Gainwell Technologies](https://www.gainwelltechnologies.com/)** | **[Senior Professional Application Designer](https://jobright.ai/jobs/info/69a5fbbc0da45516f16ecd5e?utm_campaign=1049&utm_source=git)** | Mississippi, United States | Remote | Apr 14 |
 | **[Nationwide Children's Hospital](http://www.nationwidechildrens.org)** | **[Graphic Services Research Intern - IT Research and Innovation](https://jobright.ai/jobs/info/69de612c433ac8430e0d9579?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 14 |
 | **[UNDP Careers](https://www.undp.org)** | **[RBA Graphic Design & Animation Intern](https://jobright.ai/jobs/info/69d8177e869c7e25d8593b34?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dd5a04f748bc5d08a5f6af?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Apr 13 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[UNPAID Graphic Design Specialist Intern](https://jobright.ai/jobs/info/69dd5816bc6f6622c9911bd0?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 13 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dd8d2561f6ed54321fe06b?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | Hybrid | Apr 13 |
+| **[Raffel Systems LLC](https://www.raffel.com/)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/69dd53e461f6ed54321fca1a?utm_campaign=1049&utm_source=git)** | Germantown, WI | On Site | Apr 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
