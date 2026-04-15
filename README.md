@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Architecture49 Inc.](https://architecture49.com/en/)** | **[Intern, Architect](https://jobright.ai/jobs/info/69a7776676bbe83d3afadbb5?utm_campaign=1049&utm_source=git)** | Ottawa, ON | Hybrid | Apr 15 |
+| **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/69d9caef5356a60f40fdc757?utm_campaign=1049&utm_source=git)** | Los Angeles, New York City | Hybrid | Apr 15 |
+| **[AFM Agency](https://afmagency.net/)** | **[AFM Summer Internship Program 2026 (NYC)](https://jobright.ai/jobs/info/69dfe40b433ac8430e0e2d7c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
+| **[Leuchtturm Gruppe USA](https://www.lighthouse.us/)** | **[Graphic Design, Content Marketing Intern](https://jobright.ai/jobs/info/69dfe40a433ac8430e0e2d7a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Apr 15 |
+| **[InEvent Careers](https://inevent.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69dfdfa84920452a85dd0009?utm_campaign=1049&utm_source=git)** | Fully remote | Remote | Apr 15 |
 | **[Lumerse Studio](https://www.linkedin.com/company/104404079)** | **[Architectural Visualization Intern](https://jobright.ai/jobs/info/69dfdaa34920452a85dcfe17?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Apr 15 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c3256cec22f8310ab1559d?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c41d3633eecf3107943ad6?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
@@ -91,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Design Intern, Creative Agency](https://jobright.ai/jobs/info/69df09eb18cf504166e31ef6?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfb2e75913ad33981450a8?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 14 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfb2ca433ac8430e0e17e1?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Apr 14 |
+| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfe3d04920452a85dd0107?utm_campaign=1049&utm_source=git)** | Rochester, MN | Hybrid | Apr 14 |
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern – Interior Design](https://jobright.ai/jobs/info/69defaceaba61f1417319343?utm_campaign=1049&utm_source=git)** | La Crosse, WI | Hybrid | Apr 14 |
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69defa1818cf504166e315e4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 14 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfd658aba61f141731dabc?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2236823d1b42580398?utm_campaign=1049&utm_source=git)** | US-IL-Chicago | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b21e34484770f1a13b1?utm_campaign=1049&utm_source=git)** | US-MA-Boston | On Site | Apr 14 |
 | ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b215913ad339813c759?utm_campaign=1049&utm_source=git)** | Westminster, CO, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b20e34484770f1a13b0?utm_campaign=1049&utm_source=git)** | Irving, TX, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2036823d1b4258038f?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 14 |
-| ↳ | **[Intern Program - PhD Data Visualization Intern](https://jobright.ai/jobs/info/69de4b2018cf504166e2c385?utm_campaign=1049&utm_source=git)** | US-TX-Irving | On Site | Apr 14 |
-| **[Live Nation Entertainment](https://www.livenationentertainment.com)** | **[LN Urban, Creative Design Intern](https://jobright.ai/jobs/info/69c169ec75f7ff1cd80f64ad?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA | On Site | Apr 14 |
-| **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd3a4361f6ed54321fc041?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
-| ↳ | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd31469f97a42dc9c34ea2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
