@@ -60,7 +60,6 @@ For a complete list, click the following sortable link below:
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e059259564e855a25dce7f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Equinix](http://www.equinix.com)** | **[UX Research Operations Intern](https://jobright.ai/jobs/info/69e075b8b20fd532b4ae1b53?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e05468c5691b27c176ca54?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e04f68ba9bd32d0336f8b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -71,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Technical Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69dd313e5356a60f40fecf7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Retrofête](https://retrofete.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e02b9a433ac8430e0e4bf0?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 15 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e02a52aba61f141731fc65?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 15 |
-| **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e01b7d14bf245fc7a6fef5?utm_campaign=1049&utm_source=git)** | USA | Remote | Apr 15 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e01af7aba61f141731f88e?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Apr 15 |
 | **[GRO](https://www.readysetgro.io/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69e0150f5913ad3398147c83?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Paragon Parenting & Personal Development](www.paragonparenting.com)** | **[Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/69e00d69e34484770f1ac551?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
@@ -155,6 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Retouching Coordination Intern](https://jobright.ai/jobs/info/69cfd7da54f00230c6d0cf29?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 14 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/69deae10e34484770f1a41af?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | Apr 14 |
 | **[Lotus and Luna](https://www.lotusandluna.com)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/69deade436823d1b42583174?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 14 |
-| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5cf433ac8430e0db774?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Apr 14 |
-| ↳ | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5ce36823d1b42582def?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | On Site | Apr 14 |
+| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Industrial Design Intern](https://jobright.ai/jobs/info/69dea5cf433ac8430e0db774?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Apr 14 |
+| ↳ | **[Internship - 2026 Undergraduate SIBG Industrial Design Intern](https://jobright.ai/jobs/info/69dea5ce36823d1b42582def?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | On Site | Apr 14 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Designer - Austin](https://jobright.ai/jobs/info/69debe2e18cf504166e2f9e9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 14 |
+| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[AI Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69de9d6c18cf504166e2e887?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
