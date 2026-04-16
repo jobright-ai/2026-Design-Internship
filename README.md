@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fuentes Media](https://fuentesmedia.com/)** | **[Graphic Design & Pinterest Marketing Internship](https://jobright.ai/jobs/info/69e11b74d612782e61146e92?utm_campaign=1049&utm_source=git)** | Covington, LA | On Site | Apr 16 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
+| **[Vladimir Jones](http://vladimirjones.com)** | **[Intern - Integrated Media & Data](https://jobright.ai/jobs/info/69d5cc42cfdc6132f9466012?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 16 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Arcadis](http://www.arcadis.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/69e10ce7d612782e61146aa5?utm_campaign=1049&utm_source=git)** | 1901 L Street, Suite 310, Washington, DC, 20036, US | On Site | Apr 16 |
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69c42388d5a1016e98db2e07?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, SharePoint Site Redesign (Global Supply Chain)](https://jobright.ai/jobs/info/69c42fd46f4f855eeda69388?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e102fafd1c0456f3fac195?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f7d36c20aa114953ebcb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
+| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69e119d8ff71e82d604b521a?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 16 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f76b40a62c1fa93b5d9f?utm_campaign=1049&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Apr 16 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491fd1c0456f3fabae0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491acc736112f5c10c0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
@@ -124,7 +128,6 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69ce6edb54f00230c6cff2f4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Denver7 (KMGH-TV)](http://thedenverchannel.com)** | **[Scripps Sports Intern-Graphic Design (SUMMER)](https://jobright.ai/jobs/info/69dfd5ea4920452a85dcfb2e?utm_campaign=1049&utm_source=git)** | Home Office - Ohio | Remote | Apr 15 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 15 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Design Internship In Paris](https://jobright.ai/jobs/info/69dfb7dbaba61f141731ce7f?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 15 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69dfb69d433ac8430e0e1955?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698c14ea0f6f7e7a2ce7a6d7?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69defa1818cf504166e315e4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 14 |
 | ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfd658aba61f141731dabc?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
 | **[charity: water](http://www.charitywater.org)** | **[VP of Creative (Onsite, Nashville)](https://jobright.ai/jobs/info/69def8d618cf504166e313f6?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 14 |
-| **[Savette](www.savette.com)** | **[Fashion Design & Product Development Intern (Paid)](https://jobright.ai/jobs/info/69def3a2aba61f1417318f20?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 14 |
-| **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Design Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decdc65913ad33981403a6?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Apr 14 |
-| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Design Intern, Creative Agency](https://jobright.ai/jobs/info/69deccc35913ad3398140244?utm_campaign=1049&utm_source=git)** | CA-AB-Edmonton-South | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
