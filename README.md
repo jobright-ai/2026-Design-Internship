@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a8a89879f3f4037f42ec6c?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 16 |
+| ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69aa822b9ca4e908ec65dc20?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Apr 16 |
 | **[MOIRAI 3](https://moirai3.com/)** | **[SOCIAL MEDIA DESIGN INTERN (UNPAID)](https://jobright.ai/jobs/info/69e0d2f1acc736112f5c005d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | Apr 16 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/697f079dabff4c399a9db487?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Photography Focus / Summer Internship 2026](https://jobright.ai/jobs/info/69e0d3e7acc736112f5c034b?utm_campaign=1049&utm_source=git)** | Odessa, FL | On Site | Apr 16 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Tennessee Board of Regents (TBR)](https://www.tbr.edu/)** | **[College Work Study Program (Student Graphic Designer)](https://jobright.ai/jobs/info/69e0b34eff71e82d604b2e6a?utm_campaign=1049&utm_source=git)** | Memphis, TN | On Site | Apr 16 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e01af7aba61f141731f88e?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Apr 15 |
 | **[GRO](https://www.readysetgro.io/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69e0150f5913ad3398147c83?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Paragon Parenting & Personal Development](www.paragonparenting.com)** | **[Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/69e00d69e34484770f1ac551?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
-| **[7 HOLLYWOOD](https://www.linkedin.com/company/83116602)** | **[L.A. FASHION PHOTOGRAPHER - CELEBRITY MAGAZINE - PRODUCTION INTERN](https://jobright.ai/jobs/info/69e02a6f14bf245fc7a7028d?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Apr 15 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e009b2433ac8430e0e405b?utm_campaign=1049&utm_source=git)** | Thorp, WI | On Site | Apr 15 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[Student Intern, Interactive Media and Creative Design](https://jobright.ai/jobs/info/69e0072ce34484770f1ac3d9?utm_campaign=1049&utm_source=git)** | Prince William County, VA | On Site | Apr 15 |
 | **[Inference.ai](https://www.inference.ai/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/69e006caaba61f141731f2c4?utm_campaign=1049&utm_source=git)** | Redwood City, CA | Hybrid | Apr 15 |
@@ -119,7 +121,6 @@ For a complete list, click the following sortable link below:
 | **[Richemont](https://www.richemont.com/)** | **[Intern, IT Client Experience](https://jobright.ai/jobs/info/69a72bee2672cb0acb4b9a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69cf5f31891d7b11cfcd2d8e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 15 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69c365b794007a2195dfd436?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 15 |
-| **[City of Manhattan, Kansas](https://www.manhattanks.gov/)** | **[Intern - Park Planner](https://jobright.ai/jobs/info/69e0d78bacc736112f5c06ed?utm_campaign=1049&utm_source=git)** | Manhattan, KS | On Site | Apr 15 |
 | **[CDN](https://www.cdncontrols.ca)** | **[Summer Student – Graphic Designer and Website Support](https://jobright.ai/jobs/info/69e0c98ed612782e611451ae?utm_campaign=1049&utm_source=git)** | Calgary, AB | On Site | Apr 15 |
 | **[Guidewire Software](http://www.guidewire.com)** | **[AI UX Design Intern](https://jobright.ai/jobs/info/69df69e9aba61f141731bb4e?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Apr 15 |
 | **[Altec](https://www.altec.com/altec-capital/)** | **[Marketing Intern - Graphic Design](https://jobright.ai/jobs/info/69a6613fd706a731db384e78?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Solve Industrial Motion Group](https://solveindustrial.com/)** | **[Marketing Intern (Graphic Design)](https://jobright.ai/jobs/info/69deb67636823d1b42583631?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 14 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 14 |
 | **[FedPoint](https://www.fedpointusa.com/)** | **[UX Research and Data Analyst Intern](https://jobright.ai/jobs/info/69deb281433ac8430e0dbf3a?utm_campaign=1049&utm_source=git)** | Portsmouth, NH | Hybrid | Apr 14 |
-| **[Nuovo Artistic Photography](https://nuovophotography.com)** | **[Retouching Coordination Intern](https://jobright.ai/jobs/info/69cfd7da54f00230c6d0cf29?utm_campaign=1049&utm_source=git)** | Montreal, QC | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
