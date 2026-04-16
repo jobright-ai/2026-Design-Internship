@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[KMA Design Group Costa Rica](http://kmadesign.net)** | **[Architectural Conceptual 3D Modeler](https://jobright.ai/jobs/info/69e12c23acc736112f5c239a?utm_campaign=1049&utm_source=git)** | North York, ON | Hybrid | Apr 16 |
+| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e139986c20aa1149540035?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
+| **[AITHER](http://www.aither.co)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e1399440a62c1fa93b7464?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 16 |
+| **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69ddacd34d3bec4144b4d640?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 16 |
 | **[KHAITE](https://khaite.com/)** | **[Production, Non-Apparel Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d7b333eecf310795457b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69c46f00d5a1016e98dbaa11?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 16 |
@@ -72,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69c42388d5a1016e98db2e07?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
 | **[Coherent Corp.](https://www.coherent.com/)** | **[Intern, SharePoint Site Redesign (Global Supply Chain)](https://jobright.ai/jobs/info/69c42fd46f4f855eeda69388?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Apr 16 |
 | **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e102fafd1c0456f3fac195?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f7d36c20aa114953ebcb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/69e119d8ff71e82d604b521a?utm_campaign=1049&utm_source=git)** | Toronto, ON | Remote | Apr 16 |
 | **[Staples](http://www.staples.com)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f76b40a62c1fa93b5d9f?utm_campaign=1049&utm_source=git)** | 300 Tri State International Drive, Lincolnshire, IL, 60069, US | Hybrid | Apr 16 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491fd1c0456f3fabae0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PBS North Carolina](https://www.pbsnc.org/)** | **[Visual & Broadcast Design Intern](https://jobright.ai/jobs/info/69df80a15913ad33981442d7?utm_campaign=1049&utm_source=git)** | Triangle, NC | Hybrid | Apr 14 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/69df80845913ad3398144256?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Screen Print Production Artist](https://jobright.ai/jobs/info/69df1ee9433ac8430e0dee47?utm_campaign=1049&utm_source=git)** | Overland Park, KS, US | On Site | Apr 14 |
-| **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Design Intern, Creative Agency](https://jobright.ai/jobs/info/69df09eb18cf504166e31ef6?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
