@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e059259564e855a25dce7f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
@@ -123,6 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern – Interior Design](https://jobright.ai/jobs/info/69df4da514bf245fc7a6bd5d?utm_campaign=1049&utm_source=git)** | La Crosse, WI | Hybrid | Apr 15 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - CRI Designer - DRI Duck](https://jobright.ai/jobs/info/69df3a14e34484770f1a83d9?utm_campaign=1049&utm_source=git)** | Overland Park, KS, US | On Site | Apr 15 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/69dfbc485913ad3398145638?utm_campaign=1049&utm_source=git)** | Detroit Lakes, MN | On Site | Apr 14 |
+| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69e0984aba9bd32d0337126e?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 14 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Creative Intern — Photography & Book Development](https://jobright.ai/jobs/info/69df80a95913ad33981442f9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[PBS North Carolina](https://www.pbsnc.org/)** | **[Visual & Broadcast Design Intern](https://jobright.ai/jobs/info/69df80a15913ad33981442d7?utm_campaign=1049&utm_source=git)** | Triangle, NC | Hybrid | Apr 14 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/69df80845913ad3398144256?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lotus and Luna](https://www.lotusandluna.com)** | **[Fashion Production Intern](https://jobright.ai/jobs/info/69deade436823d1b42583174?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 14 |
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5cf433ac8430e0db774?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Apr 14 |
 | ↳ | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5ce36823d1b42582def?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | On Site | Apr 14 |
-| **[Stantec](http://www.stantec.com)** | **[Interior Designer - Austin](https://jobright.ai/jobs/info/69debe2e18cf504166e2f9e9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[AI Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69de9d6c18cf504166e2e887?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
