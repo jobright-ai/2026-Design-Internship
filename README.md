@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KMA Design Group Costa Rica](http://kmadesign.net)** | **[Architectural Conceptual 3D Modeler](https://jobright.ai/jobs/info/69e12c23acc736112f5c239a?utm_campaign=1049&utm_source=git)** | North York, ON | Hybrid | Apr 16 |
+| **[KHAITE](https://khaite.com/)** | **[Production, Non-Apparel Intern, Summer 2026](https://jobright.ai/jobs/info/69c4d7b333eecf310795457b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[OneFourTwo Design Group](https://142designgroup.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6952d694f1f8465b79ea1f75?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 16 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69c46f00d5a1016e98dbaa11?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 16 |
+| **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | Apr 16 |
+| **[Appalachian State University](http://www.appstate.edu/)** | **[Director of Creative Services](https://jobright.ai/jobs/info/69e12266acc736112f5c2102?utm_campaign=1049&utm_source=git)** | Boone, NC | On Site | Apr 16 |
+| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69c522358bf5e74cea163024?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
 | **[Fuentes Media](https://fuentesmedia.com/)** | **[Graphic Design & Pinterest Marketing Internship](https://jobright.ai/jobs/info/69e11b74d612782e61146e92?utm_campaign=1049&utm_source=git)** | Covington, LA | On Site | Apr 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
 | **[Vladimir Jones](http://vladimirjones.com)** | **[Intern - Integrated Media & Data](https://jobright.ai/jobs/info/69d5cc42cfdc6132f9466012?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 16 |
@@ -112,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/69e0122be34484770f1ac71e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Brand Design - Summer 2026 - Boston](https://jobright.ai/jobs/info/69dff362433ac8430e0e34ef?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff319433ac8430e0e349e?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff280e34484770f1ab83b?utm_campaign=1049&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
-| ↳ | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff28014bf245fc7a6ed1c?utm_campaign=1049&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff28014bf245fc7a6ed1c?utm_campaign=1049&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
+| ↳ | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff280e34484770f1ab83b?utm_campaign=1049&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69dff24aaba61f141731e666?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff056433ac8430e0e31fa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Apr 15 |
 | **[Hart Howerton](http://harthowerton.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69dff026e34484770f1ab66e?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
@@ -145,16 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern – Interior Design](https://jobright.ai/jobs/info/69df4da514bf245fc7a6bd5d?utm_campaign=1049&utm_source=git)** | La Crosse, WI | Hybrid | Apr 15 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - CRI Designer - DRI Duck](https://jobright.ai/jobs/info/69df3a14e34484770f1a83d9?utm_campaign=1049&utm_source=git)** | Overland Park, KS, US | On Site | Apr 15 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/69dfbc485913ad3398145638?utm_campaign=1049&utm_source=git)** | Detroit Lakes, MN | On Site | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69e0984aba9bd32d0337126e?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | Hybrid | Apr 14 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Creative Intern — Photography & Book Development](https://jobright.ai/jobs/info/69df80a95913ad33981442f9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[PBS North Carolina](https://www.pbsnc.org/)** | **[Visual & Broadcast Design Intern](https://jobright.ai/jobs/info/69df80a15913ad33981442d7?utm_campaign=1049&utm_source=git)** | Triangle, NC | Hybrid | Apr 14 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/69df80845913ad3398144256?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 14 |
 | **[Caps Direct](https://www.capsdirect.com)** | **[Intern - Screen Print Production Artist](https://jobright.ai/jobs/info/69df1ee9433ac8430e0dee47?utm_campaign=1049&utm_source=git)** | Overland Park, KS, US | On Site | Apr 14 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Design Intern, Creative Agency](https://jobright.ai/jobs/info/69df09eb18cf504166e31ef6?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfb2ca433ac8430e0e17e1?utm_campaign=1049&utm_source=git)** | Tucson, AZ | Hybrid | Apr 14 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfe3d04920452a85dd0107?utm_campaign=1049&utm_source=git)** | Rochester, MN | Hybrid | Apr 14 |
-| **[Gundersen Health System](https://www.gundersenhealth.org)** | **[Intern – Interior Design](https://jobright.ai/jobs/info/69defaceaba61f1417319343?utm_campaign=1049&utm_source=git)** | La Crosse, WI | Hybrid | Apr 14 |
-| **[IBM](http://www.ibm.com)** | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69defa1818cf504166e315e4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Apr 14 |
-| ↳ | **[Technical Content Professional Intern 2026](https://jobright.ai/jobs/info/69dfd658aba61f141731dabc?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 14 |
-| **[charity: water](http://www.charitywater.org)** | **[VP of Creative (Onsite, Nashville)](https://jobright.ai/jobs/info/69def8d618cf504166e313f6?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
