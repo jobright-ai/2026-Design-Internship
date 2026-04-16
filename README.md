@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e059259564e855a25dce7f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e05468c5691b27c176ca54?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e04f68ba9bd32d0336f8b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: MCA: Creative (Onsite: TN)](https://jobright.ai/jobs/info/69e036cdaba61f14173202f8?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Apr 15 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e036235913ad3398148744?utm_campaign=1049&utm_source=git)** | Hybrid (Woodland Hills, CA) | Hybrid | Apr 15 |
+| **[Montana Travel Co](https://www.linkedin.com/company/108997248)** | **[Furniture / Interior Designer Internship](https://jobright.ai/jobs/info/69e04f34c17d1d52543339af?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 15 |
 | **[United Wholesale Mortgage](http://uwm.com)** | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69e0300114bf245fc7a706cc?utm_campaign=1049&utm_source=git)** | Pontiac, MI | On Site | Apr 15 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Technical Design Internship (Summer 2026)](https://jobright.ai/jobs/info/69dd313e5356a60f40fecf7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Retrofête](https://retrofete.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e02b9a433ac8430e0e4bf0?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 15 |
@@ -73,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[Student Intern, Interactive Media and Creative Design](https://jobright.ai/jobs/info/69e0072ce34484770f1ac3d9?utm_campaign=1049&utm_source=git)** | Prince William County, VA | On Site | Apr 15 |
 | **[TESO Group](https://www.tesolife.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69e006f5433ac8430e0e3fb2?utm_campaign=1049&utm_source=git)** | Queens, New York, United States | Hybrid | Apr 15 |
 | **[Inference.ai](https://www.inference.ai/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/69e006caaba61f141731f2c4?utm_campaign=1049&utm_source=git)** | Redwood City, CA | Hybrid | Apr 15 |
-| **[Arrow International, Inc.](http://arrowinternational.com)** | **[Art Intern - Chicago Studio](https://jobright.ai/jobs/info/69e0054a4920452a85dd131b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Parfums Christian Dior](https://www.dior.com)** | **[Store Design Intern, Travel Retail America](https://jobright.ai/jobs/info/69e003feaba61f141731f0fc?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Apr 15 |
 | **[WorkSpace+](https://workspaceplus.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e0017f5913ad339814737b?utm_campaign=1049&utm_source=git)** | Thorp, WI, US | On Site | Apr 15 |
 | **[Equinix](http://www.equinix.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69dfffede34484770f1abfe7?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5cf433ac8430e0db774?utm_campaign=1049&utm_source=git)** | US, Minnesota, Maplewood | On Site | Apr 14 |
 | ↳ | **[Internship - 2026 Undergraduate SIBG Design Intern](https://jobright.ai/jobs/info/69dea5ce36823d1b42582def?utm_campaign=1049&utm_source=git)** | US, Texas, Austin | On Site | Apr 14 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer - Austin](https://jobright.ai/jobs/info/69debe2e18cf504166e2f9e9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 14 |
-| **[Bandwidth Inc.](http://www.bandwidth.com)** | **[AI Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69de9d6c18cf504166e2e887?utm_campaign=1049&utm_source=git)** | Raleigh, NC | Hybrid | Apr 14 |
-| **[Fuentes Media](https://fuentesmedia.com/)** | **[Graphic Design & Pinterest Marketing Internship](https://jobright.ai/jobs/info/69de98a05913ad339813e4fd?utm_campaign=1049&utm_source=git)** | Covington, LA | On Site | Apr 14 |
-| **[International Rescue Committee](http://www.rescue.org/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/69de9668e34484770f1a3653?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
