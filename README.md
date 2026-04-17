@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lenovo](https://www.lenovo.com/in/en)** | **[North America Category Visuals Intern - Summer 2026](https://jobright.ai/jobs/info/69b26252ad360c0340a72e2e?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 17 |
 | **[Corpay](https://payments.corpay.com)** | **[Graphic Design and Multimedia Intern](https://jobright.ai/jobs/info/69d7b718b67cec4f9b096c03?utm_campaign=1049&utm_source=git)** | Toronto, ON | On Site | Apr 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Creative Strategy Internship Summer 2026](https://jobright.ai/jobs/info/69e27bd83ce36005badbe553?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Legends Global](http://legends.net)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69e27995be46fa3a4ef57673?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[TH Experiential](https://thexperiential.com)** | **[Graphic Design Internship Summer 2026](https://jobright.ai/jobs/info/69e271f82f2865359307690d?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 17 |
 | **[The Jed Foundation (JED)](https://www.jedfoundation.org)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69e2719bbe46fa3a4ef57296?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 17 |
+| **[AECOM](http://www.aecom.com/)** | **[Architectural Designer / Intern Architect](https://jobright.ai/jobs/info/69e2883b2f28653593076f91?utm_campaign=1049&utm_source=git)** | Ottawa, ON | On Site | Apr 17 |
 | **[hand2mind](http://www.hand2mind.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d808f4f4ea471a51fe2ff8?utm_campaign=1049&utm_source=git)** | Vernon Hills, IL | Hybrid | Apr 17 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69e27f745c44d4710fe256fe?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
 | **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c59b9883ea553769fcd22e?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 17 |
@@ -133,7 +135,6 @@ For a complete list, click the following sortable link below:
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e1b9c840a62c1fa93b9d62?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Apr 15 |
 | **[Equinix](http://www.equinix.com)** | **[UX Research Operations Intern](https://jobright.ai/jobs/info/69e075b8b20fd532b4ae1b53?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e05468c5691b27c176ca54?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e04f68ba9bd32d0336f8b8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ThreatLocker](https://www.threatlocker.com)** | **[Graphic Design Intern - Part-Time Role (25-30 hours per week)](https://jobright.ai/jobs/info/69dffa53aba61f141731ecfc?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 15 |
 | **[Universal Music Group](https://www.universalmusic.com)** | **[Universal Music Group 2026 Summer Internship Program: MCA: Creative (Onsite: TN)](https://jobright.ai/jobs/info/69dff738aba61f141731eb5b?utm_campaign=1049&utm_source=git)** | Santa Monica, California | On Site | Apr 15 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69dff65ee34484770f1abb38?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 15 |
-| **[AECOM](http://www.aecom.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69dff5bf433ac8430e0e35ef?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
