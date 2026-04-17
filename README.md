@@ -108,6 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/697f079dabff4c399a9db487?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Elite Podcast Studio](ElitePodcastStudio.com)** | **[Photography Focus / Summer Internship 2026](https://jobright.ai/jobs/info/69e0d3e7acc736112f5c034b?utm_campaign=1049&utm_source=git)** | Odessa, FL | On Site | Apr 16 |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Researcher](https://jobright.ai/jobs/info/69e1fefad612782e6114de84?utm_campaign=1049&utm_source=git)** | Waltham, MA | Remote | Apr 16 |
+| **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Mixed Media](https://jobright.ai/jobs/info/69c3256cec22f8310ab1559d?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 15 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c41d3633eecf3107943ad6?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | Apr 15 |
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69ce6edb54f00230c6cff2f4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
-| **[Denver7 (KMGH-TV)](http://thedenverchannel.com)** | **[Scripps Sports Intern-Graphic Design (SUMMER)](https://jobright.ai/jobs/info/69dfd5ea4920452a85dcfb2e?utm_campaign=1049&utm_source=git)** | Home Office - Ohio | Remote | Apr 15 |
-| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
