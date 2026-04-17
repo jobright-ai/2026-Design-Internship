@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 17 |
 | **[Khan Academy](http://khanacademy.org/)** | **[Staff User Experience Researcher, Foundations and Enablement](https://jobright.ai/jobs/info/69e1c6c76c20aa1149542e40?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Hybrid | Apr 16 |
-| **[GenPark](https://genpark.ai)** | **[User Interface Intern](https://jobright.ai/jobs/info/69e1bb18d612782e6114a218?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Post Studios Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542477?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69e1a9c0d612782e61149c21?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern-to-Hire](https://jobright.ai/jobs/info/69e1a8baacc736112f5c4b9d?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 16 |
