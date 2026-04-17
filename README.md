@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Khan Academy](http://khanacademy.org/)** | **[Staff User Experience Researcher, Foundations and Enablement](https://jobright.ai/jobs/info/69e1c6c76c20aa1149542e40?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Hybrid | Apr 16 |
 | **[GenPark](https://genpark.ai)** | **[User Interface Intern](https://jobright.ai/jobs/info/69e1bb18d612782e6114a218?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 16 |
 | **[New York Post](http://nypost.com/)** | **[Post Studios Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542477?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
 | ↳ | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69e1a9c0d612782e61149c21?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Applied Materials](http://www.appliedmaterials.com)** | **[2026 Summer UX Research Intern (Bachelors - Austin, TX)](https://jobright.ai/jobs/info/69ce6edb54f00230c6cff2f4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 15 |
 | **[Denver7 (KMGH-TV)](http://thedenverchannel.com)** | **[Scripps Sports Intern-Graphic Design (SUMMER)](https://jobright.ai/jobs/info/69dfd5ea4920452a85dcfb2e?utm_campaign=1049&utm_source=git)** | Home Office - Ohio | Remote | Apr 15 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 15 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
