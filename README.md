@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern-to-Hire](https://jobright.ai/jobs/info/69e16ecaacc736112f5c3af3?utm_campaign=1049&utm_source=git)** | Great Seattle area | Hybrid | Apr 15 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e01af7aba61f141731f88e?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Apr 15 |
 | **[GRO](https://www.readysetgro.io/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69e0150f5913ad3398147c83?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
-| **[Paragon Parenting & Personal Development](www.paragonparenting.com)** | **[Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/69e00d69e34484770f1ac551?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e0ee21ff71e82d604b426b?utm_campaign=1049&utm_source=git)** | USA | Remote | Apr 15 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e009b2433ac8430e0e405b?utm_campaign=1049&utm_source=git)** | Thorp, WI | On Site | Apr 15 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[Student Intern, Interactive Media and Creative Design](https://jobright.ai/jobs/info/69e0072ce34484770f1ac3d9?utm_campaign=1049&utm_source=git)** | Prince William County, VA | On Site | Apr 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Hart Howerton](http://harthowerton.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69dff026e34484770f1ab66e?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
 | **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/69d9caef5356a60f40fdc757?utm_campaign=1049&utm_source=git)** | Los Angeles, New York City | Hybrid | Apr 15 |
 | **[Leuchtturm Gruppe USA](https://www.lighthouse.us/)** | **[Graphic Design, Content Marketing Intern](https://jobright.ai/jobs/info/69dfe40a433ac8430e0e2d7a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
+| **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
