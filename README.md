@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New York Post](http://nypost.com/)** | **[Post Studios Intern](https://jobright.ai/jobs/info/69e1aaf86c20aa1149542477?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| ↳ | **[Digital Design and Brand Creative Intern](https://jobright.ai/jobs/info/69e1a9c0d612782e61149c21?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 16 |
+| **[Sleeper](https://sleeper.com)** | **[Product Design Intern-to-Hire](https://jobright.ai/jobs/info/69e1a8baacc736112f5c4b9d?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 16 |
 | **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69e19d8cacc736112f5c46d1?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 16 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/69e19683d612782e61149443?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Apr 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e19376ff71e82d604b7842?utm_campaign=1049&utm_source=git)** | Terrell, TX | On Site | Apr 16 |
@@ -136,8 +139,8 @@ For a complete list, click the following sortable link below:
 | **[IMEG](http://www.imegcorp.com/)** | **[Architectural Lighting Designer Intern / Manhattan, New York](https://jobright.ai/jobs/info/69e0122be34484770f1ac71e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 15 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Brand Design - Summer 2026 - Boston](https://jobright.ai/jobs/info/69dff362433ac8430e0e34ef?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff319433ac8430e0e349e?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 15 |
-| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff28014bf245fc7a6ed1c?utm_campaign=1049&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
-| ↳ | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff280e34484770f1ab83b?utm_campaign=1049&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
+| **[United Wholesale Mortgage](http://uwm.com)** | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff280e34484770f1ab83b?utm_campaign=1049&utm_source=git)** | Pontiac, MI, US | On Site | Apr 15 |
+| ↳ | **[2026 UX Research & Design Summer Internship Program](https://jobright.ai/jobs/info/69dff28014bf245fc7a6ed1c?utm_campaign=1049&utm_source=git)** | US-MI-Pontiac | On Site | Apr 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69dff24aaba61f141731e666?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff056433ac8430e0e31fa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Apr 15 |
 | **[Hart Howerton](http://harthowerton.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69dff026e34484770f1ab66e?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Summer 2026 Design Intern](https://jobright.ai/jobs/info/69c34d31753c101b2156f4c1?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 15 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69dfb69d433ac8430e0e1955?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 15 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698c14ea0f6f7e7a2ce7a6d7?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Apr 15 |
-| **[Branigan](https://www.braniganinc.com/)** | **[Graphic/Digital Design Intern](https://jobright.ai/jobs/info/69dfb32d433ac8430e0e18bb?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 15 |
-| **[3M](https://www.3m.com)** | **[Internship - 2026 Undergraduate SIBG Industrial Design Intern](https://jobright.ai/jobs/info/69def37018cf504166e3101c?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Apr 15 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship - Brand Design - Summer 2026 - Boston](https://jobright.ai/jobs/info/69dfa2334920452a85dce775?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
