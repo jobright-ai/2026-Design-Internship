@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O.M.G Entertainment](https://www.omgbayarea.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/69e185df6c20aa114954187e?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Apr 16 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69e17739d612782e61148d59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 16 |
 | **[Atomic Industries](https://www.atomic.industries)** | **[Cross-Disciplinary Internship](https://jobright.ai/jobs/info/69e16ff1ff71e82d604b70a2?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Apr 16 |
 | **[437](https://shop437.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69e154c940a62c1fa93b7e60?utm_campaign=1049&utm_source=git)** | Canada | Hybrid | Apr 16 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architecture Internship - Summer 2026](https://jobright.ai/jobs/info/69e146f240a62c1fa93b79d3?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 16 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Mimosa Graphic Designer (Summer 2026 - Fall 2026)](https://jobright.ai/jobs/info/69e1652cfd1c0456f3fae16a?utm_campaign=1049&utm_source=git)** | Jacksonville, AL | On Site | Apr 16 |
 | **[Filevine](http://filevine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16838fd1c0456f3fae2bd?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Apr 16 |
-| **[Vosyn](https://vosyn.ai)** | **[Product Designer — Master-Level Internship](https://jobright.ai/jobs/info/69e13f46fd1c0456f3fad403?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 16 |
 | **[RHUDE](https://rh-ude.com)** | **[Graphic Development Intern](https://jobright.ai/jobs/info/69e13b1bff71e82d604b5d90?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e139986c20aa1149540035?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 16 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69ddacd34d3bec4144b4d640?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | Apr 16 |
@@ -82,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69c522358bf5e74cea163024?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Apr 16 |
 | **[Fuentes Media](https://fuentesmedia.com/)** | **[Graphic Design & Pinterest Marketing Internship](https://jobright.ai/jobs/info/69e11b74d612782e61146e92?utm_campaign=1049&utm_source=git)** | Covington, LA | On Site | Apr 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
+| **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e18c656c20aa1149541a35?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[Vladimir Jones](http://vladimirjones.com)** | **[Intern - Integrated Media & Data](https://jobright.ai/jobs/info/69d5cc42cfdc6132f9466012?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 16 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[Arcadis](http://www.arcadis.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/69e10ce7d612782e61146aa5?utm_campaign=1049&utm_source=git)** | 1901 L Street, Suite 310, Washington, DC, 20036, US | On Site | Apr 16 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69dff24aaba61f141731e666?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 15 |
 | ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69dff056433ac8430e0e31fa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | Apr 15 |
 | **[Hart Howerton](http://harthowerton.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69dff026e34484770f1ab66e?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | Apr 15 |
-| **[Architecture49 Inc.](https://architecture49.com/en/)** | **[Intern, Architect](https://jobright.ai/jobs/info/69a7776676bbe83d3afadbb5?utm_campaign=1049&utm_source=git)** | Ottawa, ON | Hybrid | Apr 15 |
 | **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/69d9caef5356a60f40fdc757?utm_campaign=1049&utm_source=git)** | Los Angeles, New York City | Hybrid | Apr 15 |
 | **[Leuchtturm Gruppe USA](https://www.lighthouse.us/)** | **[Graphic Design, Content Marketing Intern](https://jobright.ai/jobs/info/69dfe40a433ac8430e0e2d7a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 15 |
 | **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | Apr 15 |
