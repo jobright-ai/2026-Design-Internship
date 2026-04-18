@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e19376ff71e82d604b7842?utm_campaign=1049&utm_source=git)** | Terrell, TX | On Site | Apr 18 |
+| **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Apr 18 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Apr 18 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c700d7e565c26a70024c6f?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Apr 18 |
+| **[HDR](http://www.hdrinc.com)** | **[Intern Architectural](https://jobright.ai/jobs/info/69c700e083ea553769fdf909?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 18 |
+| ↳ | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69c700d7e565c26a70024c6f?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | Apr 18 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/693a279e56b68f3dc4e77b0e?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 18 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Design Intern](https://jobright.ai/jobs/info/6903df3363502c0aded6d9e6?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | Apr 18 |
@@ -75,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[PROJXON](www.projxon.com)** | **[Workspace UI/UX Intern](https://jobright.ai/jobs/info/69e2d693fcfcbd43860a4c2e?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 17 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research / PM / Intern Summer 2026](https://jobright.ai/jobs/info/69e2d6bbfcfcbd43860a4d3c?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Apr 17 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 17 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
-| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e295ae3770bd5361cd9204?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Halton Region](https://www.halton.ca)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69e2d5dabe46fa3a4ef58fc8?utm_campaign=1049&utm_source=git)** | Oakville, ON | Hybrid | Apr 17 |
 | **[Namify](http://namify.com)** | **[UX Copywriter Intern](https://jobright.ai/jobs/info/69e28e20be46fa3a4ef57aa6?utm_campaign=1049&utm_source=git)** | Springville, UT | On Site | Apr 17 |
@@ -112,7 +116,6 @@ For a complete list, click the following sortable link below:
 | **[Sleeper](https://sleeper.com)** | **[Product Design Intern-to-Hire](https://jobright.ai/jobs/info/69e1a8baacc736112f5c4b9d?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 16 |
 | **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/69e19d8cacc736112f5c46d1?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | On Site | Apr 16 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/69e19683d612782e61149443?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Apr 16 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e19376ff71e82d604b7842?utm_campaign=1049&utm_source=git)** | Terrell, TX | On Site | Apr 16 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69e17739d612782e61148d59?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 16 |
 | **[Atomic Industries](https://www.atomic.industries)** | **[Cross-Disciplinary Internship](https://jobright.ai/jobs/info/69e16ff1ff71e82d604b70a2?utm_campaign=1049&utm_source=git)** | Warren, MI | On Site | Apr 16 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Apr 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
-| **[Skylight Music Theatre](https://www.skylightmusictheatre.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e313d95c44d4710fe27765?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | Hybrid | Apr 15 |
-| **[Equinix](http://www.equinix.com)** | **[UX Research Operations Intern](https://jobright.ai/jobs/info/69e075b8b20fd532b4ae1b53?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 15 |
-| **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e05468c5691b27c176ca54?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
