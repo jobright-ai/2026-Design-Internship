@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 17 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69e2b21d3ce36005badbf43f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e295ae3770bd5361cd9204?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, Intern, UX Research](https://jobright.ai/jobs/info/69e0ee21ff71e82d604b426b?utm_campaign=1049&utm_source=git)** | USA | Remote | Apr 15 |
 | **[WB Manufacturing](https://www.wbmfg.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e009b2433ac8430e0e405b?utm_campaign=1049&utm_source=git)** | Thorp, WI | On Site | Apr 15 |
 | **[Prince William County Public Schools](https://marstellerms.pwcs.edu)** | **[Student Intern, Interactive Media and Creative Design](https://jobright.ai/jobs/info/69e0072ce34484770f1ac3d9?utm_campaign=1049&utm_source=git)** | Prince William County, VA | On Site | Apr 15 |
-| **[Inference.ai](https://www.inference.ai/)** | **[UX/UI Intern](https://jobright.ai/jobs/info/69e006caaba61f141731f2c4?utm_campaign=1049&utm_source=git)** | Redwood City, CA | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
