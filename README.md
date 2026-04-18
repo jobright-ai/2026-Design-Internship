@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VMG Entertainment](worldofvmg.com)** | **[Fashion Design & Social Media Internship – Miami, FL](https://jobright.ai/jobs/info/69e403472664c278c1dd58a9?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Apr 18 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/69c522358bf5e74cea163024?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Apr 18 |
 | **[Flex](https://getflex.com)** | **[Staff Brand Designer](https://jobright.ai/jobs/info/69ab92cf7e1fab39d382feac?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 18 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69e22894cda04a632939fd71?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Apr 16 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
-| **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
