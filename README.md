@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sway](https://www.linkedin.com/company/110098183)** | **[Brand & Design Intern](https://jobright.ai/jobs/info/69e552673aa0c47964390ee0?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Remote | Apr 19 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/69e53d519b6eb37e26f7cd15?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e50bb37820c036924ccdc7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 19 |
@@ -90,8 +91,8 @@ For a complete list, click the following sortable link below:
 | **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e4bb183cfd986aa6f80142?utm_campaign=1049&utm_source=git)** | 209 W Jackson Blvd suite 601, Chicago, IL 60606, USA | Hybrid | Apr 17 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research / PM / Intern Summer 2026](https://jobright.ai/jobs/info/69e2d6bbfcfcbd43860a4d3c?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Apr 17 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 17 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
-| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e295ae3770bd5361cd9204?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Halton Region](https://www.halton.ca)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69e2d5dabe46fa3a4ef58fc8?utm_campaign=1049&utm_source=git)** | Oakville, ON | Hybrid | Apr 17 |
 | **[Namify](http://namify.com)** | **[UX Copywriter Intern](https://jobright.ai/jobs/info/69e28e20be46fa3a4ef57aa6?utm_campaign=1049&utm_source=git)** | Springville, UT | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69c42388d5a1016e98db2e07?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
 | **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e102fafd1c0456f3fac195?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
 | **[Staples Canada](http://www.staples.ca)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491fd1c0456f3fabae0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
-| **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f21c6c20aa114953e7c4?utm_campaign=1049&utm_source=git)** | 30 North Lasalle Street, Chicago, IL, 60602, US | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
