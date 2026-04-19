@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Revilo Technologies](www.reviloautocare.com)** | **[UI UX Design Intern l US Based Aftermarket Automotive AI Startup](https://jobright.ai/jobs/info/69e4e2cb7820c036924cc963?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69e477ad3aa0c4796438eccf?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Apr 18 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e4949b9b6eb37e26f7a7f0?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Apr 18 |
@@ -79,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Cushman & Wakefield](https://www.cushmanwakefield.com)** | **[EIC Graphic Design Intern](https://jobright.ai/jobs/info/69c702dab773006330b751f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 18 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e2e1a02f28653593078a60?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e2e18e5c44d4710fe27512?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Apr 17 |
-| **[Match Group](https://mtch.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e135b36c20aa114953fe62?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[TicketNetwork](http://www.ticketnetwork.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e4c255f8fa2f3ec329dabe?utm_campaign=1049&utm_source=git)** | South Windsor, CT 06074, USA | On Site | Apr 17 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69e135b36c20aa114953fe62?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 17 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e3370a2f28653593079918?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Apr 17 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e2d7bcbe46fa3a4ef59251?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Staples Canada](http://www.staples.ca)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491fd1c0456f3fabae0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
 | **[WSP in the U.S.](http://www.ccrd.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69e0f21c6c20aa114953e7c4?utm_campaign=1049&utm_source=git)** | 30 North Lasalle Street, Chicago, IL, 60602, US | On Site | Apr 16 |
 | **[CPH](http://cphcorp.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69e0f033fd1c0456f3fab83d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 16 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a8a89879f3f4037f42ec6c?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
