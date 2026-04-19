@@ -75,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e2e1a02f28653593078a60?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 17 |
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e2e18e5c44d4710fe27512?utm_campaign=1049&utm_source=git)** | Brea, CA | On Site | Apr 17 |
 | **[Match Group](https://mtch.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e135b36c20aa114953fe62?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
+| **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69e477ad3aa0c4796438eccf?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Apr 17 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 17 |
 | **[goop](https://goop.com)** | **[Summer Assistant, Designer - GWYN](https://jobright.ai/jobs/info/69cb0669aa3c2c1995e33016?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | Apr 17 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e3370a2f28653593079918?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Waco Tribune-Herald](http://wacotrib.com)** | **[Technical Editor](https://jobright.ai/jobs/info/69e22894cda04a632939fd71?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | Apr 16 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e097f5b20fd532b4ae2694?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 16 |
 | **[Fordham University](https://www.fordham.edu/)** | **[Creative Director](https://jobright.ai/jobs/info/69e080fdc5691b27c176dcf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 15 |
-| **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e075f7cf5a9e0c33c86aa0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
