@@ -63,6 +63,7 @@ For a complete list, click the following sortable link below:
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/69e53d519b6eb37e26f7cd15?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69e477ad3aa0c4796438eccf?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Apr 18 |
+| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Digital Media Services Photography (Summer 2026 - Fall 2026)](https://jobright.ai/jobs/info/69e5d4c63aa0c47964391516?utm_campaign=1049&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e4949b9b6eb37e26f7a7f0?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Apr 18 |
 | **[VMG Entertainment](worldofvmg.com)** | **[Fashion Design & Social Media Internship – Miami, FL](https://jobright.ai/jobs/info/69e403472664c278c1dd58a9?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Apr 18 |
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69e4d39bf8fa2f3ec329e251?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | Apr 18 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 | **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69c42388d5a1016e98db2e07?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
 | **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e102fafd1c0456f3fac195?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
-| **[Staples Canada](http://www.staples.ca)** | **[Quill Junior Design Intern - June 2026](https://jobright.ai/jobs/info/69e0f491fd1c0456f3fabae0?utm_campaign=1049&utm_source=git)** | Lincolnshire, IL, United States | Hybrid | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
