@@ -65,9 +65,11 @@ For a complete list, click the following sortable link below:
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/69e53d519b6eb37e26f7cd15?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/69e477ad3aa0c4796438eccf?utm_campaign=1049&utm_source=git)** | CAD Remote – ON | Remote | Apr 18 |
+| ↳ | **[UX Intern](https://jobright.ai/jobs/info/69e60d3d3cfd986aa6f838b8?utm_campaign=1049&utm_source=git)** | Ontario, Canada | On Site | Apr 18 |
 | **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Digital Media Services Photography (Summer 2026 - Fall 2026)](https://jobright.ai/jobs/info/69e5d4c63aa0c47964391516?utm_campaign=1049&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e4949b9b6eb37e26f7a7f0?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Apr 18 |
 | **[VMG Entertainment](worldofvmg.com)** | **[Fashion Design & Social Media Internship – Miami, FL](https://jobright.ai/jobs/info/69e403472664c278c1dd58a9?utm_campaign=1049&utm_source=git)** | Atlanta Metro | On Site | Apr 18 |
+| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69e60cec3cfd986aa6f83605?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Apr 18 |
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69e4d39bf8fa2f3ec329e251?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | Apr 18 |
 | **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e6ee2f64d441a1650ad8e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
 | ↳ | **[Landscape Design Intern](https://jobright.ai/jobs/info/69c522358bf5e74cea163024?utm_campaign=1049&utm_source=git)** | Franklin, TN | On Site | Apr 18 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fuentes Media](https://fuentesmedia.com/)** | **[Graphic Design & Pinterest Marketing Internship](https://jobright.ai/jobs/info/69e11b74d612782e61146e92?utm_campaign=1049&utm_source=git)** | Covington, LA | On Site | Apr 16 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 16 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e18c656c20aa1149541a35?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
-| **[Vladimir Jones](http://vladimirjones.com)** | **[Intern - Integrated Media & Data](https://jobright.ai/jobs/info/69d5cc42cfdc6132f9466012?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 16 |
-| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
