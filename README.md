@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Apr 20 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - UX/Product Design Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6aae0cd471b2f123248?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 19 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 19 |
 | **[Printemps New York](https://us.printemps.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69e567463aa0c47964390f7d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e18c656c20aa1149541a35?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 16 |
 | **[Vladimir Jones](http://vladimirjones.com)** | **[Intern - Integrated Media & Data](https://jobright.ai/jobs/info/69d5cc42cfdc6132f9466012?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Apr 16 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 16 |
-| **[ProAmpac](http://www.proampac.com)** | **[DASL Intern](https://jobright.ai/jobs/info/69c42388d5a1016e98db2e07?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 16 |
-| **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e102fafd1c0456f3fac195?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
