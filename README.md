@@ -138,8 +138,8 @@ For a complete list, click the following sortable link below:
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 19 |
 | **[Open Invite](https://openinvite.studio/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e6aae67820c036924d1ce3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 19 |
-| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e697df3aa0c47964395151?utm_campaign=1049&utm_source=git)** | Conyers, GA | Hybrid | Apr 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69e4c1d07820c036924cbf12?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 19 |
+| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e4c1d07820c036924cbf12?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 19 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69e697df3aa0c47964395151?utm_campaign=1049&utm_source=git)** | Conyers, GA | Hybrid | Apr 19 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/69e53d519b6eb37e26f7cd15?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Apr 18 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/695a1f01f1f8465b79f07067?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 18 |
-| ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e19376ff71e82d604b7842?utm_campaign=1049&utm_source=git)** | Terrell, TX | On Site | Apr 18 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69e19376ff71e82d604b7842?utm_campaign=1049&utm_source=git)** | Terrell, TX | On Site | Apr 18 |
+| ↳ | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/695a1f01f1f8465b79f07067?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 18 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
