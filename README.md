@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Adapt SuperWater](https://adaptbrands.com)** | **[Creative Intern - Social,Ecomm](https://jobright.ai/jobs/info/69e6f7803aa0c479643968a8?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 20 |
 | **[Hawthorne Residential Partners](https://www.hrpliving.com)** | **[Design intern](https://jobright.ai/jobs/info/69e6f1679b6eb37e26f82a20?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Apr 20 |
 | **[MDB Management Innovations LLC](https://www.mdbmanagementinnovations.com)** | **[Unpaid Graphic Design Intern](https://jobright.ai/jobs/info/69e6ec68f8fa2f3ec32a3fd3?utm_campaign=1049&utm_source=git)** | Maine, United States | Remote | Apr 20 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern - Visual Merchandising](https://jobright.ai/jobs/info/69e6de513cfd986aa6f87d08?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 20 |
@@ -136,8 +137,8 @@ For a complete list, click the following sortable link below:
 | **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e4bb183cfd986aa6f80142?utm_campaign=1049&utm_source=git)** | 209 W Jackson Blvd suite 601, Chicago, IL 60606, USA | Hybrid | Apr 17 |
 | **[Phygtl, Inc](https://www.phygtl.xyz)** | **[User Research / PM / Intern Summer 2026](https://jobright.ai/jobs/info/69e2d6bbfcfcbd43860a4d3c?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | Apr 17 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 17 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
-| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e532f28653593079eda?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 17 |
+| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69e34e543ce36005badc17dc?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 17 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Designer / Intern Architect](https://jobright.ai/jobs/info/69e6499ff8fa2f3ec32a0a0f?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | Hybrid | Apr 17 |
 | **[Open Influence](https://www.openinfluence.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69e295ae3770bd5361cd9204?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Apr 17 |
 | **[Halton Region](https://www.halton.ca)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69e2d5dabe46fa3a4ef58fc8?utm_campaign=1049&utm_source=git)** | Oakville, ON | Hybrid | Apr 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a95f5c44d4710fe26068?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Apr 17 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Summer 2026 Creative Design and Print Intern](https://jobright.ai/jobs/info/69e4c0a3e0cd471b2f120fab?utm_campaign=1049&utm_source=git)** | Longwood,FL,US | Hybrid | Apr 17 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69e27f745c44d4710fe256fe?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 17 |
-| **[Nextdoor](http://nextdoor.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69c59b9883ea553769fcd22e?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | Apr 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
