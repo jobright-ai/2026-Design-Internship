@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Direct Supply](http://www.directsupply.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e80b813aa0c4796439d8dc?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69e7fe85f8fa2f3ec32aada8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7f84158811370cb11f879?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Apr 21 |
 | **[Sense of Agency](https://sense-of-agency.com)** | **[Web Design Intern — Plastic Reduction Project (Remote, Unpaid for Credit)](https://jobright.ai/jobs/info/69e7f7cf3aa0c4796439cede?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e80cacf8fa2f3ec32ab2f8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[Exhibits Internship](https://jobright.ai/jobs/info/69e7e286f8fa2f3ec32aa219?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Apr 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Creative Design Studio Intern - Summer 2026](https://jobright.ai/jobs/info/69e7e27e0a6e09555302ccc8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7e234f8fa2f3ec32aa168?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 21 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[OPB (Ontario Pension Board)](http://www.opb.ca)** | **[Digital Experience (UX/UI) Assistant (Intern)](https://jobright.ai/jobs/info/69e7ef9ff8fa2f3ec32aa848?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Tauck](https://www.tauck.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7c4a27820c036924d8219?utm_campaign=1049&utm_source=git)** | Wilton, CT | On Site | Apr 21 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69e7be6d3aa0c4796439b91b?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 21 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e7be56e0cd471b2f12d27f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
 | **[7th Peak Marketing](https://www.7thpeakmarketing.com/)** | **[Marketing Summer Internship (Graphic Design)](https://jobright.ai/jobs/info/69e7b841f8fa2f3ec32a942d?utm_campaign=1049&utm_source=git)** | Charlotte, NC | Hybrid | Apr 21 |
 | **[Tauck](https://www.tauck.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69829686348f733a5c357d31?utm_campaign=1049&utm_source=git)** | Wilton, CT, United States | On Site | Apr 21 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69e7b0f9f8fa2f3ec32a924d?utm_campaign=1049&utm_source=git)** | Ottawa, ON | On Site | Apr 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Apr 18 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 18 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | Apr 18 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/695a1f01f1f8465b79f07067?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
