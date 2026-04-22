@@ -94,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Make It Pop Advertising](https://www.makeitpopadvertising.com)** | **[Freelance / Internship Graphic Designer](https://jobright.ai/jobs/info/69e77dd67820c036924d6b2e?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | Hybrid | Apr 21 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Apr 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e755d4f8fa2f3ec32a6fc6?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Apr 21 |
+| **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Editorial Design Intern (Fall)](https://jobright.ai/jobs/info/69e8128f3aa0c4796439da1a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad897aa3c2c1995e30a5c?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Apr 21 |
 | ↳ | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
 | **[Minnetonka Public Schools](https://www.minnetonka.k12.mn.us)** | **[Writing/Social Media Student Intern](https://jobright.ai/jobs/info/69e75de358811370cb11c83f?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | Hybrid | Apr 21 |
@@ -109,7 +110,6 @@ For a complete list, click the following sortable link below:
 | **[Laughlin Constable](http://laughlin.com/)** | **[Art Direction Intern](https://jobright.ai/jobs/info/69e6ab1c3cfd986aa6f87330?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 20 |
 | **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69e746edf8fa2f3ec32a6c85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[The Tech Interactive](https://www.thetech.org)** | **[Exhibits Internship](https://jobright.ai/jobs/info/69e70b943cfd986aa6f88421?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Apr 20 |
-| **[Tencent](https://www.tencent.com/)** | **[3D Art Intern](https://jobright.ai/jobs/info/69e74f560a6e09555302a0ec?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69e69184f8fa2f3ec32a28a8?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 20 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e689a0e0cd471b2f1264ae?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Apr 20 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Apr 20 |
