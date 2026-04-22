@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[UX Designer Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69e849a5e0cd471b2f130eae?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e848d07820c036924dba27?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e8250c58811370cb120c3c?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Apr 21 |
 | **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Communications - Central Office, Hayward](https://jobright.ai/jobs/info/69e823a33aa0c4796439e109?utm_campaign=1049&utm_source=git)** | Hayward, CA | On Site | Apr 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69e822337820c036924da68e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 21 |
+| **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Graphic Designer Intern (Unpaid) Spencer Magazine / Toronto (Yorkville Office)](https://jobright.ai/jobs/info/69e848b57820c036924db99c?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e80b813aa0c4796439d8dc?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 21 |
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69e7fe85f8fa2f3ec32aada8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7f84158811370cb11f879?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Apr 21 |
@@ -71,7 +74,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e7e22ef8fa2f3ec32aa157?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Apr 21 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69e7e22b58811370cb11f087?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7e1f558811370cb11ef73?utm_campaign=1049&utm_source=git)** | Durham, North Carolina | On Site | Apr 21 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69e7e1e5e0cd471b2f12df4d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7de057820c036924d89f6?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Apr 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[EEV Graphic Design Student Intern](https://jobright.ai/jobs/info/69e7ddb63aa0c4796439c2fa?utm_campaign=1049&utm_source=git)** | Texas | Remote | Apr 21 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc9b7820c036924d891d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
@@ -95,6 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca3b88e2b47213bbbfa9?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Apr 21 |
 | **[Make It Pop Advertising](https://www.makeitpopadvertising.com)** | **[Freelance / Internship Graphic Designer](https://jobright.ai/jobs/info/69e77dd67820c036924d6b2e?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | Hybrid | Apr 21 |
+| **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69e848217820c036924db5c9?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Apr 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e755d4f8fa2f3ec32a6fc6?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Editorial Design Intern (Fall)](https://jobright.ai/jobs/info/69e8128f3aa0c4796439da1a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
@@ -143,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 19 |
 | **[Open Invite](https://openinvite.studio/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e6aae67820c036924d1ce3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 19 |
-| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e4c1d07820c036924cbf12?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69e697df3aa0c47964395151?utm_campaign=1049&utm_source=git)** | Conyers, GA | Hybrid | Apr 19 |
+| **[Raymond](https://raymond.global)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e697df3aa0c47964395151?utm_campaign=1049&utm_source=git)** | Conyers, GA | Hybrid | Apr 19 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69e4c1d07820c036924cbf12?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 19 |
 | **[Indira Cesarine Studio](http://indiracesarine.com)** | **[Photo/Video Internship](https://jobright.ai/jobs/info/69e53d519b6eb37e26f7cd15?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 19 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 19 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e4949b9b6eb37e26f7a7f0?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Apr 18 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69e60cec3cfd986aa6f83605?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Apr 18 |
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69e4d39bf8fa2f3ec329e251?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | Apr 18 |
-| **[Pape-Dawson](http://pape-dawson.com)** | **[Landscape Design Intern](https://jobright.ai/jobs/info/698e6ee2f64d441a1650ad8e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 18 |
-| **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | Apr 18 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
