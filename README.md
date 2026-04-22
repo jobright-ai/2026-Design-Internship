@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sports Excitement](https://linktr.ee/sports_excitement)** | **[Non Paid UX Designers Internship US Residents Only](https://jobright.ai/jobs/info/69e87370e0cd471b2f13559c?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 22 |
+| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69e872dbe0cd471b2f135571?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | Apr 22 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69e86c1be0cd471b2f1353fd?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Apr 21 |
 | **[CliquePrize - Local Giveaway Marketing for Small Businesses](https://www.cliqueprize.com)** | **[UX Designer Intern (Academic Credit Only)](https://jobright.ai/jobs/info/69e849a5e0cd471b2f130eae?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e848d07820c036924dba27?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
@@ -140,10 +142,11 @@ For a complete list, click the following sortable link below:
 | **[Baudville Brands](http://www.baudvillebrands.com)** | **[Production Art Intern](https://jobright.ai/jobs/info/69e675d67820c036924d08c4?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 20 |
 | **[Fortress OS](https://www.fortresstech.io)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/69e671eb9b6eb37e26f80486?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
 | **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69e65ee49b6eb37e26f7fc4a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fbef66ea51a7610f22a0b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Bellevue, WA | Hybrid | Apr 20 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/698fb0650cc8ea15f1da49e1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 20 |
+| **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fb0650cc8ea15f1da49e1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 20 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/698fbef66ea51a7610f22a0b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Bellevue, WA | Hybrid | Apr 20 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Apr 20 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - UX/Product Design Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/69e5f6aae0cd471b2f123248?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 20 |
+| **[Waco Tribune-Herald](http://wacotrib.com)** | **[Manager, Safety, Manager, Construction Operations, Graphic Design Intern](https://jobright.ai/jobs/info/69e870dd7820c036924e0130?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 19 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | Apr 19 |
 | **[Open Invite](https://openinvite.studio/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e6aae67820c036924d1ce3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 19 |
 | **[ACLU](https://www.aclu.org/)** | **[Spring 2026 Undergraduate Intern, Product Design- Technology and Analytics Department](https://jobright.ai/jobs/info/69533b39f1f8465b79ea8a9c?utm_campaign=1049&utm_source=git)** | Remote/Hybrid- New York City | Remote | Apr 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 18 |
 | **[County of Santa Barbara](http://www.countyofsb.org)** | **[Architect](https://jobright.ai/jobs/info/69e79314f8fa2f3ec32a87d0?utm_campaign=1049&utm_source=git)** | California, United States | On Site | Apr 18 |
 | **[Garver](https://garverusa.com/)** | **[Federal Intern - Landscape Architecture](https://jobright.ai/jobs/info/68ad1426daf1431824c9a40d?utm_campaign=1049&utm_source=git)** | Wichita, KS | On Site | Apr 18 |
-| **[Jacksonville State University](http://www.jsu.edu/)** | **[University Student Assistant - Digital Media Services Photography (Summer 2026 - Fall 2026)](https://jobright.ai/jobs/info/69e5d4c63aa0c47964391516?utm_campaign=1049&utm_source=git)** | Jacksonville, AL | On Site | Apr 18 |
-| **[TapBlaze](http://www.tapblaze.com)** | **[Game Design Intern](https://jobright.ai/jobs/info/69e4949b9b6eb37e26f7a7f0?utm_campaign=1049&utm_source=git)** | Los Angeles Office | On Site | Apr 18 |
-| **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69e60cec3cfd986aa6f83605?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | Apr 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
