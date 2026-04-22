@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/69e903013aa0c479643a67b0?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 22 |
+| **[CAMI NYC](http://www.caminyc.com)** | **[Technical Design Studio Intern](https://jobright.ai/jobs/info/69e901ce3aa0c479643a65e2?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 22 |
+| **[GenPark](https://genpark.ai)** | **[User experience intern](https://jobright.ai/jobs/info/69e8fd973aa0c479643a643b?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 22 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995b2ff81476f6176ad8c6f?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Apr 22 |
 | **[Monument Realty](https://www.monumentrealtytx.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69e8e97e4b0fa35a70769f53?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 22 |
 | **[Visit York County](http://www.visityorkcounty.com)** | **[Graphic Design Paid Intern (Summer 2026)](https://jobright.ai/jobs/info/69e8e8c1e0cd471b2f138cbf?utm_campaign=1049&utm_source=git)** | Rock Hill, SC | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Gift Solution Internship (Alpharetta, GA)](https://jobright.ai/jobs/info/69e8e8203aa0c479643a592a?utm_campaign=1049&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 22 |
@@ -91,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[The Tech Interactive](https://www.thetech.org)** | **[Exhibits Internship](https://jobright.ai/jobs/info/69e7e286f8fa2f3ec32aa219?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Apr 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Creative Design Studio Intern - Summer 2026](https://jobright.ai/jobs/info/69e7e27e0a6e09555302ccc8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7e234f8fa2f3ec32aa168?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 21 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e7e22ef8fa2f3ec32aa157?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Apr 21 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69e7e22b58811370cb11f087?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 | **[Cubic Corporation](http://cubic.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7e1f558811370cb11ef73?utm_campaign=1049&utm_source=git)** | Durham, North Carolina | On Site | Apr 21 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7de057820c036924d89f6?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Apr 21 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Design](https://jobright.ai/jobs/info/69e67c47f8fa2f3ec32a2127?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 20 |
 | **[Boys & Girls Clubs of Greater Dallas](http://www.bgcdallas.org)** | **[CONTENT CREATION & DIGITAL MEDIA SUMMER INTERN](https://jobright.ai/jobs/info/69e675e9f8fa2f3ec32a1f85?utm_campaign=1049&utm_source=git)** | 4816 Worth St, Dallas, TX | Hybrid | Apr 20 |
 | **[Baudville Brands](http://www.baudvillebrands.com)** | **[Production Art Intern](https://jobright.ai/jobs/info/69e675d67820c036924d08c4?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 20 |
-| **[Fortress OS](https://www.fortresstech.io)** | **[Intern - Summer 2026 Architectural Design](https://jobright.ai/jobs/info/69e671eb9b6eb37e26f80486?utm_campaign=1049&utm_source=git)** | Nashville, TN | On Site | Apr 20 |
-| **[Shake Shack](careers.shakeshack.com)** | **[Intern - Creative Studio](https://jobright.ai/jobs/info/69e65ee49b6eb37e26f7fc4a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[Typeface](https://www.typeface.ai)** | **[Product Design Intern](https://jobright.ai/jobs/info/698fbef66ea51a7610f22a0b?utm_campaign=1049&utm_source=git)** | Palo Alto, CA or Bellevue, WA | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
