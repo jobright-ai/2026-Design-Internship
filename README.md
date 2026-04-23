@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
 | **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/69ea3cb84b0fa35a70772cc9?utm_campaign=1049&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 23 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 23 |
 | **[Great American Media](https://gacmedia.com/)** | **[UX/UI Summer Intern](https://jobright.ai/jobs/info/69ea21e2dc35f7132c4a8874?utm_campaign=1049&utm_source=git)** | Arlington, TX | Hybrid | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Typeface](https://www.typeface.ai)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69af491cdfaeda6ff5976911?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 21 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Creative Design Studio Intern - Summer 2026](https://jobright.ai/jobs/info/69e79b76f8fa2f3ec32a8ba9?utm_campaign=1049&utm_source=git)** | Austin (Oakhill, Office) | On Site | Apr 21 |
-| **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e77e7be0cd471b2f12bf2e?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
