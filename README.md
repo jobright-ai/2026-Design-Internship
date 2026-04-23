@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Zest Lab](https://thezestlab.com )** | **[Multidisciplinary Design + Account Internship](https://jobright.ai/jobs/info/69ea8df03aa0c479643b08ed?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 23 |
 | **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ea7253dc35f7132c4a9fd1?utm_campaign=1049&utm_source=git)** | 11800 Sunrise Valley Drive, Reston, VA, USA | Hybrid | Apr 23 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
@@ -66,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[International Rescue Committee](http://www.rescue.org)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/69de9668e34484770f1a3653?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/69ea3cb84b0fa35a70772cc9?utm_campaign=1049&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 23 |
+| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69ea8db63aa0c479643b081a?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 23 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 23 |
 | **[Arcadis](http://www.arcadis.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ea713c3aa0c479643afa18?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ea73464b0fa35a707745cd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[EEV Graphic Design Student Intern](https://jobright.ai/jobs/info/69e7ddb63aa0c4796439c2fa?utm_campaign=1049&utm_source=git)** | Texas | Remote | Apr 21 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc9b7820c036924d891d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc977820c036924d890d?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Apr 21 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc907820c036924d88e8?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 21 |
-| **[Interplan - Architecture and Interiors](https://interplaninc.com)** | **[Architectural / Interior Design Intern](https://jobright.ai/jobs/info/69e7db380a6e09555302c8f1?utm_campaign=1049&utm_source=git)** | Merrifield, VA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
