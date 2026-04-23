@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Apr 23 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Remote Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/69e9f65c58811370cb12f82b?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 23 |
+| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | Apr 22 |
-| **[City of Seattle](http://www.seattle.gov/)** | **[Graduate Intern - Parks Landscape Architecture](https://jobright.ai/jobs/info/69e9a38b3aa0c479643ab133?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 22 |
 | **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69e69184f8fa2f3ec32a28a8?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 22 |
 | **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69e99e0de0cd471b2f13e7cc?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Apr 22 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/69e94d4ce0cd471b2f13c6d7?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/69e96b3ce0cd471b2f13d4a3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Apr 22 |
 | **[Ariat International](http://www.ariat.com)** | **[Men's Denim and Bottoms Design Intern](https://jobright.ai/jobs/info/69e9481b0a6e09555303ac14?utm_campaign=1049&utm_source=git)** | San Leandro, CA | Hybrid | Apr 22 |
-| **[OCAD University](http://www.ocadu.ca/)** | **[Studio Assistant (THIRDSPACE)](https://jobright.ai/jobs/info/69e972777820c036924e81b8?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 22 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e979537820c036924e8ab9?utm_campaign=1049&utm_source=git)** | Psychological Assessment - Lutz, FL 33549 | On Site | Apr 22 |
 | **[OneOff](https://oneoff.world/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e94193e0cd471b2f13c287?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | Hybrid | Apr 22 |
 | **[Landor](https://landor.com)** | **[3D Design Co-op](https://jobright.ai/jobs/info/69e95c9e0a6e09555303b656?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69e848217820c036924db5c9?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e755d4f8fa2f3ec32a6fc6?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Editorial Design Intern (Fall)](https://jobright.ai/jobs/info/69e8128f3aa0c4796439da1a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad897aa3c2c1995e30a5c?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
