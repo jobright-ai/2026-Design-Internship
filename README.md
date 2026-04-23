@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[City of Seattle](http://www.seattle.gov/)** | **[Graduate Intern - Parks Landscape Architecture](https://jobright.ai/jobs/info/69e9a38b3aa0c479643ab133?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 22 |
+| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69e69184f8fa2f3ec32a28a8?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 22 |
+| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69e99e0de0cd471b2f13e7cc?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Apr 22 |
+| **[Give Kids The World Village](https://www.gktw.org)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69e9a3664b0fa35a7076f8fa?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | Apr 22 |
 | **[Design Observer](http://designobserver.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69e961150a6e09555303b903?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 22 |
 | **[Entrepreneurs of Tomorrow](http://www.entrepreneursoftomorrow.org)** | **[Graphic Designer Intern (Volunteer)](https://jobright.ai/jobs/info/69e94e834b0fa35a7076d7fe?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 22 |
 | **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/69e94d824b0fa35a7076d703?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | Apr 22 |
@@ -149,12 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca3b88e2b47213bbbfa9?utm_campaign=1049&utm_source=git)** | Staunton, VA | On Site | Apr 21 |
 | **[Make It Pop Advertising](https://www.makeitpopadvertising.com)** | **[Freelance / Internship Graphic Designer](https://jobright.ai/jobs/info/69e77dd67820c036924d6b2e?utm_campaign=1049&utm_source=git)** | Atlantic City, NJ | Hybrid | Apr 21 |
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69e848217820c036924db5c9?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
-| **[National Safety Apparel](http://thinknsa.com)** | **[Design & Creative Production Intern](https://jobright.ai/jobs/info/69e991214b0fa35a7076f616?utm_campaign=1049&utm_source=git)** | Brooklyn, OH | On Site | Apr 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e755d4f8fa2f3ec32a6fc6?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Editorial Design Intern (Fall)](https://jobright.ai/jobs/info/69e8128f3aa0c4796439da1a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
 | **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
 | ↳ | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad897aa3c2c1995e30a5c?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Apr 21 |
-| **[Minnetonka Public Schools](https://www.minnetonka.k12.mn.us)** | **[Writing/Social Media Student Intern](https://jobright.ai/jobs/info/69e75de358811370cb11c83f?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | Hybrid | Apr 21 |
-| **[Adapt SuperWater](https://adaptbrands.com)** | **[Creative Intern - Social,Ecomm](https://jobright.ai/jobs/info/69e6f7803aa0c479643968a8?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 20 |
-| **[Hawthorne Residential Partners](https://www.hrpliving.com)** | **[Design intern](https://jobright.ai/jobs/info/69e6f1679b6eb37e26f82a20?utm_campaign=1049&utm_source=git)** | Greensboro, NC | On Site | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
