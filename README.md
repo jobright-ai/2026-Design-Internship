@@ -62,6 +62,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/69e94d4ce0cd471b2f13c6d7?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | Apr 22 |
 | **[Ariat International](http://www.ariat.com)** | **[Men's Denim and Bottoms Design Intern](https://jobright.ai/jobs/info/69e9481b0a6e09555303ac14?utm_campaign=1049&utm_source=git)** | San Leandro, CA | Hybrid | Apr 22 |
 | **[OneOff](https://oneoff.world/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e94193e0cd471b2f13c287?utm_campaign=1049&utm_source=git)** | West Hollywood, CA | Hybrid | Apr 22 |
+| **[The Village Companies](https://www.thevillage.bz/)** | **[Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/69e95ca358811370cb12ceaf?utm_campaign=1049&utm_source=git)** | Pulaski, WI | On Site | Apr 22 |
+| **[Landor](https://landor.com)** | **[3D Design Co-op](https://jobright.ai/jobs/info/69e95c9e0a6e09555303b656?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Apr 22 |
 | **[EVOLV](www.theevolv.com )** | **[Production Studio Intern](https://jobright.ai/jobs/info/69e92d4e0a6e095553039f75?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | On Site | Apr 22 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Experience Design – Summer 2026 – Austin](https://jobright.ai/jobs/info/69e9447b3aa0c479643a8c18?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 22 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Business Analyst to UX Research Career Changer](https://jobright.ai/jobs/info/69e9252c7820c036924e5e92?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Summer Design Internship(Korean Speaking)](https://jobright.ai/jobs/info/69e6af999b6eb37e26f81bb8?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 20 |
 | **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e6d5727820c036924d255a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
 | **[Laughlin Constable](http://laughlin.com/)** | **[Art Direction Intern](https://jobright.ai/jobs/info/69e6ab1c3cfd986aa6f87330?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 20 |
-| **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Summer/Fall '26](https://jobright.ai/jobs/info/69e746edf8fa2f3ec32a6c85?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 20 |
-| **[The Tech Interactive](https://www.thetech.org)** | **[Exhibits Internship](https://jobright.ai/jobs/info/69e70b943cfd986aa6f88421?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Apr 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
