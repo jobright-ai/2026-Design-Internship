@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ea7253dc35f7132c4a9fd1?utm_campaign=1049&utm_source=git)** | 11800 Sunrise Valley Drive, Reston, VA, USA | Hybrid | Apr 23 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 | **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
 | **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/69ea3cb84b0fa35a70772cc9?utm_campaign=1049&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 23 |
 | **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 23 |
+| **[Arcadis](http://www.arcadis.com)** | **[Design Intern](https://jobright.ai/jobs/info/69ea713c3aa0c479643afa18?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 23 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69ea73464b0fa35a707745cd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 23 |
 | **[Great American Media](https://gacmedia.com/)** | **[UX/UI Summer Intern](https://jobright.ai/jobs/info/69ea21e2dc35f7132c4a8874?utm_campaign=1049&utm_source=git)** | Arlington, TX | Hybrid | Apr 23 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cd7ccc366bb95ba54fc48c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 23 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Apr 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Interplan - Architecture and Interiors](https://interplaninc.com)** | **[Architectural / Interior Design Intern](https://jobright.ai/jobs/info/69e7db380a6e09555302c8f1?utm_campaign=1049&utm_source=git)** | Merrifield, VA | On Site | Apr 21 |
 | **[OPB (Ontario Pension Board)](http://www.opb.ca)** | **[Digital Experience (UX/UI) Assistant (Intern)](https://jobright.ai/jobs/info/69e7ef9ff8fa2f3ec32aa848?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 21 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69e7be6d3aa0c4796439b91b?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 21 |
-| **[Tauck](https://www.tauck.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69829686348f733a5c357d31?utm_campaign=1049&utm_source=git)** | Wilton, CT, United States | On Site | Apr 21 |
-| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Summer)](https://jobright.ai/jobs/info/69e7b0f9f8fa2f3ec32a924d?utm_campaign=1049&utm_source=git)** | Ottawa, ON | On Site | Apr 21 |
-| **[Typeface](https://www.typeface.ai)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69af491cdfaeda6ff5976911?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
