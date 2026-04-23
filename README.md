@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fashion Design to UX Design Career Changer](https://jobright.ai/jobs/info/69e923d358811370cb12b069?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
 | **[OM Performance Marketing](https://growwithom.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69e944c77820c036924e6f26?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Apr 22 |
 | **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Pink Palm Puff Miami Pop-Up Event Intern](https://jobright.ai/jobs/info/69e91f980a6e095553038f87?utm_campaign=1049&utm_source=git)** | Miami Beach, FL | On Site | Apr 22 |
-| **[Applied Information Group](https://www.appliedinformation.group/)** | **[Information Design Internship](https://jobright.ai/jobs/info/69e94e497820c036924e735a?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 22 |
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69e979a23aa0c479643aaa37?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 22 |
 | **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69e9777c7820c036924e829c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
 | **[Arcadis](http://www.arcadis.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e94f857820c036924e749f?utm_campaign=1049&utm_source=git)** | 2839 Paces Ferry Road, Suite 1000, Atlanta, GA, 30339, US | On Site | Apr 22 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Schaefer Advertising Co.](https://schaeferadvertising.com/)** | **[2026 Summer Intern](https://jobright.ai/jobs/info/69e848217820c036924db5c9?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 21 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69e755d4f8fa2f3ec32a6fc6?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Apr 21 |
 | **[Beautiful Lives Thrift Boutique](http://beautifullivesboutique.com)** | **[Editorial Design Intern (Fall)](https://jobright.ai/jobs/info/69e8128f3aa0c4796439da1a?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
-| **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
-| ↳ | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad897aa3c2c1995e30a5c?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Apr 21 |
+| **[Edelman](http://www.edelman.com)** | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad897aa3c2c1995e30a5c?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA | Hybrid | Apr 21 |
+| ↳ | **[Creative Intern, Art Direction](https://jobright.ai/jobs/info/69cad265466f1e133aac7789?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 21 |
+| **[Minnetonka Public Schools](https://www.minnetonka.k12.mn.us)** | **[Writing/Social Media Student Intern](https://jobright.ai/jobs/info/69e75de358811370cb11c83f?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
