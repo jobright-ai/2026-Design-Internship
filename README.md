@@ -92,11 +92,9 @@ For a complete list, click the following sortable link below:
 | **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69e979a23aa0c479643aaa37?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 22 |
 | **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69e9777c7820c036924e829c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
 | **[Arcadis](http://www.arcadis.com)** | **[Design Intern](https://jobright.ai/jobs/info/69e94f857820c036924e749f?utm_campaign=1049&utm_source=git)** | 2839 Paces Ferry Road, Suite 1000, Atlanta, GA, 30339, US | On Site | Apr 22 |
-| **[Schafer Condon Carter (SCC)](https://schafercondoncarter.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69e910d24b0fa35a7076b3dd?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 22 |
 | **[Hustle House PR & Media](www.hustlehouse.ca)** | **[Graphic Design Intern (Unpaid)](https://jobright.ai/jobs/info/69e90904e0cd471b2f13a0db?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 22 |
 | **[UX Woman](https://www.uxwoman.com/)** | **[Academic Research to UX Research Career Changer](https://jobright.ai/jobs/info/69e924434b0fa35a7076c17d?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
 | **[Uline](http://www.uline.com)** | **[UX Research Internship - Summer 2026](https://jobright.ai/jobs/info/69938f19ce78e77b4fd761e4?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | Apr 22 |
-| **[Find Me](https://fyndme.co)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/69e903013aa0c479643a67b0?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 22 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Technical Design Studio Intern](https://jobright.ai/jobs/info/69e901ce3aa0c479643a65e2?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 22 |
 | **[Danger Zone Marketing](https://aceyourbusiness.com)** | **[Paid Graphic Design Internship](https://jobright.ai/jobs/info/69e923a67820c036924e5b13?utm_campaign=1049&utm_source=git)** | Knoxville, TN | Hybrid | Apr 22 |
 | **[American Geophysical Union](https://www.agu.org)** | **[Intern, Graphic Design (51341)](https://jobright.ai/jobs/info/69e91fd1e0cd471b2f13a77b?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 22 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e77e7be0cd471b2f12bf2e?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
 | **[HAUS](https://www.deeptech.agency/)** | **[Visual Communications Design Fellow](https://jobright.ai/jobs/info/69e77a153aa0c4796439a1d5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
 | **[ngram](https://www.ngram.com/)** | **[Product Designer - Intern](https://jobright.ai/jobs/info/69e7a2b5e0cd471b2f12cb30?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 21 |
+| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69e76ad158811370cb11cb26?utm_campaign=1049&utm_source=git)** | Boston, KY | On Site | Apr 21 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
