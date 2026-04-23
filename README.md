@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/69ea3cb84b0fa35a70772cc9?utm_campaign=1049&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 23 |
+| **[University of Notre Dame](http://mendoza.nd.edu)** | **[Graphic Design and Marketing Student Assistant](https://jobright.ai/jobs/info/69ce89bb366bb95ba550c837?utm_campaign=1049&utm_source=git)** | Notre Dame, IN | On Site | Apr 23 |
 | **[Great American Media](https://gacmedia.com/)** | **[UX/UI Summer Intern](https://jobright.ai/jobs/info/69ea21e2dc35f7132c4a8874?utm_campaign=1049&utm_source=git)** | Arlington, TX | Hybrid | Apr 23 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | Apr 23 |
+| **[Equity LifeStyle Properties, Inc.](https://www.equitylifestyleproperties.com)** | **[Intern - Graphic Design and Video Editing](https://jobright.ai/jobs/info/6993ac47ce78e77b4fd77ffb?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | Apr 23 |
 | **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6977ca2dfdeb8243a27ab6c9?utm_campaign=1049&utm_source=git)** | Christiansburg, VA | On Site | Apr 23 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6977c2a3fdeb8243a27aaed1?utm_campaign=1049&utm_source=git)** | Midlothian, VA | On Site | Apr 23 |
@@ -109,6 +112,7 @@ For a complete list, click the following sortable link below:
 | **[Visit York County](http://www.visityorkcounty.com)** | **[Graphic Design Paid Intern (Summer 2026)](https://jobright.ai/jobs/info/69e8e8c1e0cd471b2f138cbf?utm_campaign=1049&utm_source=git)** | Rock Hill, SC | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Gift Solution Internship (Alpharetta, GA)](https://jobright.ai/jobs/info/69e8e8203aa0c479643a592a?utm_campaign=1049&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 22 |
 | **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69e6d5cc3cfd986aa6f87be4?utm_campaign=1049&utm_source=git)** | Hopkins, MN | Hybrid | Apr 22 |
+| **[SmarterPaw, Meowijuana® & Doggijuana®](https://smarterpaw.com)** | **[Creative Services & Design Intern](https://jobright.ai/jobs/info/69ea3b3bdc35f7132c4a8b7e?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | Apr 22 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Apr 22 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 22 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Architectural Student Intern - Summer 2026](https://jobright.ai/jobs/info/6977e5eb88e2b47213bbe296?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | On Site | Apr 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Creative Design Studio Intern - Summer 2026](https://jobright.ai/jobs/info/69e79b76f8fa2f3ec32a8ba9?utm_campaign=1049&utm_source=git)** | Austin (Oakhill, Office) | On Site | Apr 21 |
 | **[BioBridge Global](https://biobridgeglobal.org)** | **[Digital Services Intern](https://jobright.ai/jobs/info/69e77e7be0cd471b2f12bf2e?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 21 |
-| **[HAUS](https://www.deeptech.agency/)** | **[Visual Communications Design Fellow](https://jobright.ai/jobs/info/69e77a153aa0c4796439a1d5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 21 |
-| **[ngram](https://www.ngram.com/)** | **[Product Designer - Intern](https://jobright.ai/jobs/info/69e7a2b5e0cd471b2f12cb30?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | Apr 21 |
-| **[PA Consulting](http://www.paconsulting.com/)** | **[Industrial Design Intern - Boston (May 2026)](https://jobright.ai/jobs/info/69e76ad158811370cb11cb26?utm_campaign=1049&utm_source=git)** | Boston, KY | On Site | Apr 21 |
-| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
