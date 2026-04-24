@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rothe Development Inc](https://rothe.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69eae35758811370cb135f33?utm_campaign=1049&utm_source=git)** | Greenbelt, MD | On Site | Apr 23 |
+| **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/69eae10c0a6e095553043772?utm_campaign=1049&utm_source=git)** | Tulsa, OK 74103, USA | On Site | Apr 23 |
 | **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/69eabe7558811370cb134e30?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
 | **[7 Brew Coffee](https://7brew.com)** | **[Development Intern](https://jobright.ai/jobs/info/69eaa7f24b0fa35a707759f0?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | Apr 23 |
@@ -126,8 +128,7 @@ For a complete list, click the following sortable link below:
 | **[Give Kids The World Village](https://www.gktw.org)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69e94f290a6e09555303b0e2?utm_campaign=1049&utm_source=git)** | Give Kids The World - Kissimmee, FL 34746 | On Site | Apr 22 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69cc56568130af1ac8337f84?utm_campaign=1049&utm_source=git)** | Bedford, NH | On Site | Apr 22 |
 | **[Fiserv](http://www.fiserv.com)** | **[Gift Solution Internship (Alpharetta, GA)](https://jobright.ai/jobs/info/69e913c00a6e095553038aff?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 22 |
-| **[Visit York County](http://www.visityorkcounty.com)** | **[Graphic Design Paid Intern (Summer 2026)](https://jobright.ai/jobs/info/69e8e8c1e0cd471b2f138cbf?utm_campaign=1049&utm_source=git)** | Rock Hill, SC | On Site | Apr 22 |
-| **[Fiserv](http://www.fiserv.com)** | **[Gift Solution Internship (Alpharetta, GA)](https://jobright.ai/jobs/info/69e8e8203aa0c479643a592a?utm_campaign=1049&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 22 |
+| ↳ | **[Gift Solution Internship (Alpharetta, GA)](https://jobright.ai/jobs/info/69e8e8203aa0c479643a592a?utm_campaign=1049&utm_source=git)** | Alpharetta, Georgia, US | On Site | Apr 22 |
 | **[Medica](https://www.medica.com)** | **[Digital Asset Management Intern](https://jobright.ai/jobs/info/69e6d5cc3cfd986aa6f87be4?utm_campaign=1049&utm_source=git)** | Hopkins, MN | Hybrid | Apr 22 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/699666fece78e77b4fda72ac?utm_campaign=1049&utm_source=git)** | Los Angeles, CA (Santa Monica) | On Site | Apr 22 |
 | **[KORE](https://www.korewireless.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69cc8c7c891d7b11cfcafc4a?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Tech Interactive](https://www.thetech.org)** | **[Exhibits Internship](https://jobright.ai/jobs/info/69e7e286f8fa2f3ec32aa219?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Apr 21 |
 | **[NXP Semiconductors](https://www.nxp.com)** | **[Creative Design Studio Intern - Summer 2026](https://jobright.ai/jobs/info/69e7e27e0a6e09555302ccc8?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7e234f8fa2f3ec32aa168?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Apr 21 |
-| **[Ghafari Associates](https://www.ghafari.com/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69e7e22b58811370cb11f087?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
