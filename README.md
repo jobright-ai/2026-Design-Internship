@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/69ebc51e0a6e09555304a5fc?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| ↳ | **[Studio Design Intern](https://jobright.ai/jobs/info/69ebc3ad58811370cb13c53e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
+| **[XP Health](http://xphealth.co)** | **[Product Design Intern](https://jobright.ai/jobs/info/69ebd339dc35f7132c4b3b43?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
+| **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/69ebc3ad58811370cb13c53e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69ebc2974b0fa35a7077e137?utm_campaign=1049&utm_source=git)** | New York | On Site | Apr 24 |
 | **[O3](https://www.o3world.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69ebba027820c036924f67ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
