@@ -148,7 +148,6 @@ For a complete list, click the following sortable link below:
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69e872dbe0cd471b2f135571?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | Apr 22 |
 | **[One Workplace](http://www.oneworkplace.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69e86c1be0cd471b2f1353fd?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | On Site | Apr 21 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69e8a50a4b0fa35a70767bcc?utm_campaign=1049&utm_source=git)** | Pittsfield, Massachusetts | On Site | Apr 21 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e848d07820c036924dba27?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69e8250c58811370cb120c3c?utm_campaign=1049&utm_source=git)** | Honolulu, HI | On Site | Apr 21 |
 | **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Communications - Central Office, Hayward](https://jobright.ai/jobs/info/69e823a33aa0c4796439e109?utm_campaign=1049&utm_source=git)** | Hayward, CA | On Site | Apr 21 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69e822337820c036924da68e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Apr 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69e7fe85f8fa2f3ec32aada8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7f84158811370cb11f879?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Apr 21 |
 | **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Graphic Design & Visual Communications Intern](https://jobright.ai/jobs/info/69e8b37b4b0fa35a707688ba?utm_campaign=1049&utm_source=git)** | ROMULUS,MI,US | On Site | Apr 21 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e80cacf8fa2f3ec32ab2f8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
