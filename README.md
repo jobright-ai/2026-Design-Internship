@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7 Brew Coffee](https://7brew.com)** | **[Development Intern](https://jobright.ai/jobs/info/69eaa7f24b0fa35a707759f0?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
+| **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | Apr 23 |
 | **[The Zest Lab](https://thezestlab.com )** | **[Multidisciplinary Design + Account Internship](https://jobright.ai/jobs/info/69ea8df03aa0c479643b08ed?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 23 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e7de057820c036924d89f6?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | Hybrid | Apr 21 |
 | **[The University of Texas at Austin](http://www.mccombs.utexas.edu)** | **[EEV Graphic Design Student Intern](https://jobright.ai/jobs/info/69e7ddb63aa0c4796439c2fa?utm_campaign=1049&utm_source=git)** | Texas | Remote | Apr 21 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc9b7820c036924d891d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 21 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc977820c036924d890d?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | Apr 21 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/69e7dc907820c036924d88e8?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
