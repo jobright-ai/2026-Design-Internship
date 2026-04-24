@@ -66,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/69eabe7558811370cb134e30?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 23 |
 | **[7 Brew Coffee](https://7brew.com)** | **[Development Intern](https://jobright.ai/jobs/info/69eaa7f24b0fa35a707759f0?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | Apr 23 |
+| ↳ | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eb257916b2612c2a1192bf?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 23 |
 | **[The Zest Lab](https://thezestlab.com )** | **[Multidisciplinary Design + Account Internship](https://jobright.ai/jobs/info/69ea8df03aa0c479643b08ed?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 23 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LEO A DALY](http://www.leoadaly.com)** | **[Intern, Interior Design](https://jobright.ai/jobs/info/69e7fe85f8fa2f3ec32aada8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 21 |
 | **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e7f84158811370cb11f879?utm_campaign=1049&utm_source=git)** | Arlington, TX | On Site | Apr 21 |
 | **[Public Service Credit Union, Michigan](https://www.pscunow.com/)** | **[Graphic Design & Visual Communications Intern](https://jobright.ai/jobs/info/69e8b37b4b0fa35a707688ba?utm_campaign=1049&utm_source=git)** | ROMULUS,MI,US | On Site | Apr 21 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Intern - WSR Graphic Design](https://jobright.ai/jobs/info/69e80cacf8fa2f3ec32ab2f8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Apr 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
