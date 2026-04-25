@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 25 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69e892db7820c036924e054f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 25 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcc871f748bc5d08a5c738?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 25 |
@@ -102,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ebdddc0a6e09555304aee1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69eba74e58811370cb13b825?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Apr 24 |
 | **[SignAI](https://signai.ca/)** | **[Graphic Designer Co-op Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69eba744dc35f7132c4b23c3?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Apr 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris](https://jobright.ai/jobs/info/69eb9a3f0a6e0955530490d5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
