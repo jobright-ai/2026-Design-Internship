@@ -57,8 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 24 |
+| **[Echelon](https://teamechelon.com)** | **[Digital and Media Operations Intern](https://jobright.ai/jobs/info/69ebfb9a7820c036924f84e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
+| **[ConsumerDirect, Inc.](https://www.consumerdirect.com/)** | **[Summer Interns — Multiple Departments!](https://jobright.ai/jobs/info/69ebfb9216b2612c2a1201fb?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Apr 24 |
+| **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
+| **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ebf4cfdc35f7132c4b47fc?utm_campaign=1049&utm_source=git)** | Green Bay, WI, USA | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f642?utm_campaign=1049&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | Apr 24 |
+| **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[Funky Junque](https://www.funky-junque.net)** | **[Summer AI Creative Intern – Video & Content Creation](https://jobright.ai/jobs/info/69ebdcb6dc35f7132c4b3cbd?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Apr 24 |
+| **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
+| **[Hennepin County Sheriff](https://www.hennepinsheriff.org/)** | **[Internship: Communication](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/69ebc3ad58811370cb13c53e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69ebc2974b0fa35a7077e137?utm_campaign=1049&utm_source=git)** | New York | On Site | Apr 24 |
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Design Storytelling and Illustration Intern - Summer 2026](https://jobright.ai/jobs/info/69b35f99a8ac8e70ff6793b9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e979537820c036924e8ab9?utm_campaign=1049&utm_source=git)** | Psychological Assessment - Lutz, FL 33549 | On Site | Apr 22 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69eb9531dc35f7132c4b1d78?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | Apr 22 |
 | **[Bandwidth Inc.](http://www.bandwidth.com)** | **[AI Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69eacd5e7820c036924efc2a?utm_campaign=1049&utm_source=git)** | Raleigh, NC, US | On Site | Apr 22 |
-| **[Landor](https://landor.com)** | **[3D Design Co-op](https://jobright.ai/jobs/info/69e95c9e0a6e09555303b656?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | Apr 22 |
-| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69eace8c7820c036924efe91?utm_campaign=1049&utm_source=git)** | Lee's Summit, MO, US | On Site | Apr 22 |
-| **[EVOLV](www.theevolv.com )** | **[Production Studio Intern](https://jobright.ai/jobs/info/69e92d4e0a6e095553039f75?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | On Site | Apr 22 |
-| **[UX Woman](https://www.uxwoman.com/)** | **[Business Analyst to UX Research Career Changer](https://jobright.ai/jobs/info/69e9252c7820c036924e5e92?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
-| ↳ | **[Market Research to UX Research Career Changer](https://jobright.ai/jobs/info/69e924434b0fa35a7076c178?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
-| ↳ | **[Fashion Design to UX Design Career Changer](https://jobright.ai/jobs/info/69e923d358811370cb12b069?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Remote | Apr 22 |
-| **[CLD PR & Experiential Productions](https://cldstylehouse.com)** | **[Pink Palm Puff Miami Pop-Up Event Intern](https://jobright.ai/jobs/info/69e91f980a6e095553038f87?utm_campaign=1049&utm_source=git)** | Miami Beach, FL | On Site | Apr 22 |
-| **[Goettl Air Conditioning & Plumbing](http://www.goettl.com)** | **[Intern](https://jobright.ai/jobs/info/69e979a23aa0c479643aaa37?utm_campaign=1049&utm_source=git)** | Las Vegas, NV 89113, USA | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
