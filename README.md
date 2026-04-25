@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 25 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | Apr 23 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern, Interiors](https://jobright.ai/jobs/info/6977c3aa52f3c27ec643e59d?utm_campaign=1049&utm_source=git)** | Greater Houston | On Site | Apr 23 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69eb94394b0fa35a7077d073?utm_campaign=1049&utm_source=git)** | Chicago, IL, US | On Site | Apr 23 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
