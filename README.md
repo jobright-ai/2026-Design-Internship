@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brahmaputra Infrastructure Ltd](https://brahmaputragroup.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ec63a8dc35f7132c4b6cb7?utm_campaign=1049&utm_source=git)** | Delhi, NY | On Site | Apr 24 |
+| **[RPNZL](www.rpnzlbeauty.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/69ec56a04b0fa35a70781e1f?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ec32e516b2612c2a12173b?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Apr 24 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
 | **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
+| **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec17c24b0fa35a7078093f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/69ec17c14b0fa35a7078093b?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Graphic Design Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0abb4b0fa35a707806d7?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
@@ -77,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f642?utm_campaign=1049&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[Funky Junque](https://www.funky-junque.net)** | **[Summer AI Creative Intern – Video & Content Creation](https://jobright.ai/jobs/info/69ebdcb6dc35f7132c4b3cbd?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Apr 24 |
+| **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69ec5eef58811370cb13fe14?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 24 |
 | **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69ec02ed16b2612c2a120623?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Hennepin County Sheriff](https://www.hennepinsheriff.org/)** | **[Internship: Communication](https://jobright.ai/jobs/info/69ebfbb84b0fa35a7077fbc1?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/69eb971358811370cb13b11b?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, US | Hybrid | Apr 23 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69eb96310a6e095553048afd?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI, US | On Site | Apr 23 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | Apr 22 |
-| **[Stateside Brands](http://www.statesidevodka.com/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/69e69184f8fa2f3ec32a28a8?utm_campaign=1049&utm_source=git)** | Feasterville-Trevose, PA | On Site | Apr 22 |
-| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69e99e0de0cd471b2f13e7cc?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 22 |
-| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Apr 22 |
-| **[Archinect](https://archinect.com)** | **[Student Intern / Junior Architect (1~3 years Experience)](https://jobright.ai/jobs/info/69ea1910dc35f7132c4a8692?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
