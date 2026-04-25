@@ -67,6 +67,7 @@ For a complete list, click the following sortable link below:
 | **[ConsumerDirect, Inc.](https://www.consumerdirect.com/)** | **[Summer Interns — Multiple Departments!](https://jobright.ai/jobs/info/69ebfb9216b2612c2a1201fb?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ebf4cfdc35f7132c4b47fc?utm_campaign=1049&utm_source=git)** | Green Bay, WI, USA | On Site | Apr 24 |
+| **[Hoefer Welker](https://hoeferwelker.com)** | **[Architectural Intern - Entry Level/Seasonal](https://jobright.ai/jobs/info/69ec27004b0fa35a707810db?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69ec11880a6e09555304c58e?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f642?utm_campaign=1049&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
@@ -82,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ebdddc0a6e09555304aee1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Mizkan America](http://mizkan.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/69ebae8f4b0fa35a7077daa2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 24 |
-| ↳ | **[Intern, Graphic Design](https://jobright.ai/jobs/info/69ebaaf9dc35f7132c4b2650?utm_campaign=1049&utm_source=git)** | Schaumburg, IL, 60173, United States | On Site | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69eba74e58811370cb13b825?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Apr 24 |
 | **[SignAI](https://signai.ca/)** | **[Graphic Designer Co-op Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69eba744dc35f7132c4b23c3?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Apr 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
