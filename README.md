@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Brahmaputra Infrastructure Ltd](https://brahmaputragroup.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ec63a8dc35f7132c4b6cb7?utm_campaign=1049&utm_source=git)** | Delhi, NY | On Site | Apr 24 |
 | **[RPNZL](www.rpnzlbeauty.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/69ec56a04b0fa35a70781e1f?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69eb92f216b2612c2a11d15a?utm_campaign=1049&utm_source=git)** | Waltham, MA, US | Hybrid | Apr 23 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/69eb971358811370cb13b11b?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, US | Hybrid | Apr 23 |
 | **[Landscape Forms](https://www.landscapeforms.com)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69eb96310a6e095553048afd?utm_campaign=1049&utm_source=git)** | Kalamazoo, MI, US | On Site | Apr 23 |
-| **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | Apr 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
