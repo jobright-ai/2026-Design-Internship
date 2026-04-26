@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Apr 26 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/69bc68665b89c002acf20cab?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/69e06d5cc5691b27c176d414?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[Connect2Learn](https://lms.connect2learn.live/c2l)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ee08854b0fa35a70785d43?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Apr 26 |
@@ -79,14 +80,12 @@ For a complete list, click the following sortable link below:
 | **[Acima](https://www.acima.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69ecda4d58811370cb140ac8?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Apr 25 |
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcf8eebc6f6622c990f643?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696177d6a112b402660ffc5f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
-| **[The F* Word](https://thefword.ai/)** | **[AI Featured Fashion Designer Program (8 days)](https://jobright.ai/jobs/info/69ed1d0e0a6e09555304f685?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Apr 25 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
 | **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 25 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Brahmaputra Infrastructure Ltd](https://brahmaputragroup.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ec63a8dc35f7132c4b6cb7?utm_campaign=1049&utm_source=git)** | Delhi, NY | On Site | Apr 24 |
-| **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/69ec56a04b0fa35a70781e1f?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ec32e516b2612c2a12173b?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Apr 24 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
@@ -120,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[SignAI](https://signai.ca/)** | **[Graphic Designer Co-op Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69eba744dc35f7132c4b23c3?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Apr 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
-| **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Summer Fashion Internship in Paris](https://jobright.ai/jobs/info/69eb9a3f0a6e0955530490d5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 24 |
 | **[Teneo](https://www.teneo.com)** | **[Design Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69eb99750a6e095553048f71?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
 | ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69eb996716b2612c2a11d6be?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Apr 24 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
+| **[SOCAN](http://www.socan.ca)** | **[Programs & Communications Intern](https://jobright.ai/jobs/info/69d93fc8738f2f099e8a099b?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 23 |
+| **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
