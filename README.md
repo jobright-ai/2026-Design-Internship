@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/69e06d5cc5691b27c176d414?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[Connect2Learn](https://lms.connect2learn.live/c2l)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ee08854b0fa35a70785d43?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 | **[SOCAN](http://www.socan.ca)** | **[Programs & Communications Intern](https://jobright.ai/jobs/info/69d93fc8738f2f099e8a099b?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 23 |
-| **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
