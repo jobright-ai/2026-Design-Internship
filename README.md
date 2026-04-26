@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 26 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc571?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Apr 25 |
 | **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2ab1dc35f7132c4b825f?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Apr 23 |
 | **[OUTFRONT Media](https://www.outfront.com)** | **[Summer Intern, Creative](https://jobright.ai/jobs/info/69ea3cb84b0fa35a70772cc9?utm_campaign=1049&utm_source=git)** | Fairfield, NJ, US | On Site | Apr 23 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69ea8db63aa0c479643b081a?utm_campaign=1049&utm_source=git)** | Poughkeepsie, AR | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
