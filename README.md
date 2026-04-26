@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Connect2Learn](https://lms.connect2learn.live/c2l)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ee08854b0fa35a70785d43?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | Apr 26 |
+| **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 26 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc571?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Apr 25 |
@@ -82,7 +84,7 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Brahmaputra Infrastructure Ltd](https://brahmaputragroup.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ec63a8dc35f7132c4b6cb7?utm_campaign=1049&utm_source=git)** | Delhi, NY | On Site | Apr 24 |
-| **[RPNZL](www.rpnzlbeauty.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/69ec56a04b0fa35a70781e1f?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | Apr 24 |
+| **[RPNZL Beauty](www.rpnzlbeauty.com)** | **[Photography and Videography Intern](https://jobright.ai/jobs/info/69ec56a04b0fa35a70781e1f?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ec32e516b2612c2a12173b?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Apr 24 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 | **[SOCAN](http://www.socan.ca)** | **[Programs & Communications Intern](https://jobright.ai/jobs/info/69d93fc8738f2f099e8a099b?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 23 |
 | **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
-| **[Momentum Worldwide](http://www.momentumww.com)** | **[2026 Momentum Worldwide Internship Experience](https://jobright.ai/jobs/info/69c53cf5aa3c2c1995dfc51f?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 23 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: CMF Industrial Design Co-op (July through December)](https://jobright.ai/jobs/info/6995a0d5e0bddb6acac42bfe?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
