@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
+| **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef7e2758811370cb1469cf?utm_campaign=1049&utm_source=git)** | Des Moines,IA,US | On Site | Apr 27 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/69ef7c94e624fe645d531685?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Apr 27 |
 | **[Which Side Digital](whichsidedigital.com)** | **[Student Intern - Design Department](https://jobright.ai/jobs/info/69ef62254b0fa35a70788e52?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
 | ↳ | **[Student Intern - Web Design Department](https://jobright.ai/jobs/info/69ef565d0a6e09555305435f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d87707b67cec4f9b09c9cd?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
@@ -90,11 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 25 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
-| **[Brahmaputra Infrastructure Ltd](https://brahmaputragroup.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ec63a8dc35f7132c4b6cb7?utm_campaign=1049&utm_source=git)** | Delhi, NY | On Site | Apr 24 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
 | **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ec32e516b2612c2a12173b?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Apr 24 |
-| **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 24 |
 | **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec17c24b0fa35a7078093f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
-| **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
