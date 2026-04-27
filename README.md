@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69ef9b1ae624fe645d5323cc?utm_campaign=1049&utm_source=git)** | Golden, CO, US | On Site | Apr 27 |
 | **[Chef Driven Hospitality](https://www.chefdriven.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ef92490a6e095553055d0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef9238fbe0994a40eb7194?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 27 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
@@ -109,8 +110,7 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ebf4cfdc35f7132c4b47fc?utm_campaign=1049&utm_source=git)** | Green Bay, WI, USA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69ec11880a6e09555304c58e?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 24 |
-| **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ebe4db4b0fa35a7077f642?utm_campaign=1049&utm_source=git)** | Metro 9 - West Valley City, US | Hybrid | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
+| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[Funky Junque](https://www.funky-junque.net)** | **[Summer AI Creative Intern – Video & Content Creation](https://jobright.ai/jobs/info/69ebdcb6dc35f7132c4b3cbd?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Apr 24 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69ec5eef58811370cb13fe14?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 24 |
 | **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
