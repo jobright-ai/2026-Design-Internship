@@ -97,8 +97,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/69ec17c14b0fa35a7078093b?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Graphic Design Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0abb4b0fa35a707806d7?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | ↳ | **[Product & Digital Experience Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab4dc35f7132c4b544b?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
-| **[Echelon](https://teamechelon.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec030edc35f7132c4b5086?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
-| ↳ | **[Digital and Media Operations Intern](https://jobright.ai/jobs/info/69ebfb9a7820c036924f84e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
+| **[Echelon](https://teamechelon.com)** | **[Digital and Media Operations Intern](https://jobright.ai/jobs/info/69ebfb9a7820c036924f84e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 24 |
 | **[ConsumerDirect, Inc.](https://www.consumerdirect.com/)** | **[Summer Interns — Multiple Departments!](https://jobright.ai/jobs/info/69ebfb9216b2612c2a1201fb?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
 | **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 | **[SOCAN](http://www.socan.ca)** | **[Programs & Communications Intern](https://jobright.ai/jobs/info/69d93fc8738f2f099e8a099b?utm_campaign=1049&utm_source=git)** | North York, Ontario, Canada | Hybrid | Apr 23 |
+| **[Zak Designs](http://www.zak.com)** | **[Graphic Design Studio Intern](https://jobright.ai/jobs/info/69ea53390a6e095553040333?utm_campaign=1049&utm_source=git)** | Airway Heights,WA,US | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
