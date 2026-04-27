@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69efb83a16b2612c2a12b0a6?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
+| **[Three Omens](https://threeomens.com)** | **[Post-Production Intern](https://jobright.ai/jobs/info/69efb7c4fbe0994a40eb7dfd?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Apr 27 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design 2026 Summer Intern](https://jobright.ai/jobs/info/69efad7f4b0fa35a7078ae93?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69ef9b1ae624fe645d5323cc?utm_campaign=1049&utm_source=git)** | Golden, CO, US | On Site | Apr 27 |
 | **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef9238fbe0994a40eb7194?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 27 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UL Solutions](https://www.ul.com/solutions)** | **[Senior User Experience Manager](https://jobright.ai/jobs/info/69cdd0b8cfdc6132f941fcc4?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
 | **[Niles Bolton Associates](http://nilesbolton.com)** | **[Summer Intern, Landscape Architecture](https://jobright.ai/jobs/info/69eb52b358811370cb1387c5?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 23 |
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
-| **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
-| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
-| **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
