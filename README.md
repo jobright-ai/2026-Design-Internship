@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Chef Driven Hospitality](https://www.chefdriven.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ef92490a6e095553055d0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
+| **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef9238fbe0994a40eb7194?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 27 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef7e2758811370cb1469cf?utm_campaign=1049&utm_source=git)** | Des Moines,IA,US | On Site | Apr 27 |
@@ -95,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Snap Finance](http://snapfinance.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ec32e516b2612c2a12173b?utm_campaign=1049&utm_source=git)** | West Valley City, UT | Hybrid | Apr 24 |
 | **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
 | **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec17c24b0fa35a7078093f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
@@ -137,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6945222ad1953b5d11be1e12?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Apr 24 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d5f4b9cfdc6132f946764b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Apr 24 |
 | **[CDN](https://www.cdncontrols.ca)** | **[Summer Student – Graphic Designer and Website Support](https://jobright.ai/jobs/info/69eb3e0e16b2612c2a11a76d?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern - High School](https://jobright.ai/jobs/info/699906b7e0bddb6acac7fd4d?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship](https://jobright.ai/jobs/info/69bb28fa06c1ba00c54da201?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 23 |
 | **[Wallace Design Collective](https://wallace.design/)** | **[Landscape Architecture Summer Internship](https://jobright.ai/jobs/info/69eae10c0a6e095553043772?utm_campaign=1049&utm_source=git)** | Tulsa, OK 74103, USA | On Site | Apr 23 |
 | **[Rothe Development Inc](https://rothe.com/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69ec32f358811370cb13f3e5?utm_campaign=1049&utm_source=git)** | Greenbelt, MD | On Site | Apr 23 |
