@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69ef9b1ae624fe645d5323cc?utm_campaign=1049&utm_source=git)** | Golden, CO, US | On Site | Apr 27 |
-| **[Chef Driven Hospitality](https://www.chefdriven.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ef92490a6e095553055d0e?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 27 |
 | **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef9238fbe0994a40eb7194?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 27 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Wofford College](http://www.wofford.edu)** | **[Athletics Creative Content Intern](https://jobright.ai/jobs/info/69ea679558811370cb132ef8?utm_campaign=1049&utm_source=git)** | Spartanburg, South Carolina, US | On Site | Apr 23 |
 | **[Henny Penny](http://hennypenny.com)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/69ea5d824b0fa35a707739af?utm_campaign=1049&utm_source=git)** | Eaton, OH (Headquarters), US | On Site | Apr 23 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Web Production Intern](https://jobright.ai/jobs/info/69e0f1ae40a62c1fa93b5b65?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 23 |
+| **[Bachman's Inc.](http://bachmans.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/69ea5c5e3aa0c479643af2cb?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
