@@ -57,15 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Intelas](intelashealth.com)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69efd7e216b2612c2a12c068?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Apr 27 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Interior Design/Furniture](https://jobright.ai/jobs/info/69efd6f20a6e09555305780b?utm_campaign=1049&utm_source=git)** | Columbia, MO (Headquarters) | On Site | Apr 27 |
+| **[Hill House Home](http://www.hillhousehome.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69efd69f58811370cb148c06?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Apr 27 |
+| **[POCONO CANDLE](https://www.poconocandle.com)** | **[Graphic Design Intern (Brand Rebuild)](https://jobright.ai/jobs/info/69efd64216b2612c2a12be2d?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69efd5b4fbe0994a40eb8a5a?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 27 |
+| **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69efd52e58811370cb148adf?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Apr 27 |
+| **[Providence](http://www.providence.org)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efd37b16b2612c2a12bb8e?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/69efc6cce624fe645d533644?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8794?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69efc652fbe0994a40eb8774?utm_campaign=1049&utm_source=git)** | Doral, FL | On Site | Apr 27 |
 | **[UNO Branding](https://unobranding.com/)** | **[Junior Brand Designer (Apprenticeship Track)](https://jobright.ai/jobs/info/69efc62c0a6e0955530571ef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[Nice Recovery Systems](http://nicerecovery.com/)** | **[Graphic Production Artist Intern](https://jobright.ai/jobs/info/69efc62c0a6e0955530571f4?utm_campaign=1049&utm_source=git)** | Boulder, CO | Hybrid | Apr 27 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69efb83a16b2612c2a12b0a6?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
-| ↳ | **[Graphic Design 2026 Summer Intern](https://jobright.ai/jobs/info/69efad7f4b0fa35a7078ae93?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
+| **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Planning/Reporting/Communications Intern (Graduate) – Summer 2026](https://jobright.ai/jobs/info/69efd5a80a6e0955530575f9?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | On Site | Apr 27 |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly- Design Print Lab Monitor](https://jobright.ai/jobs/info/69efd64158811370cb148ba8?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | Apr 27 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design 2026 Summer Intern](https://jobright.ai/jobs/info/69efad7f4b0fa35a7078ae93?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69ef9b1ae624fe645d5323cc?utm_campaign=1049&utm_source=git)** | Golden, CO, US | On Site | Apr 27 |
-| **[iSPACE Environments](https://ispaceenvironments.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69ef9238fbe0994a40eb7194?utm_campaign=1049&utm_source=git)** | Des Moines, IA | On Site | Apr 27 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/69ef7c94e624fe645d531685?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Apr 27 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[KC Current](https://www.kansascitycurrent.com)** | **[Intern, UX & UI Design](https://jobright.ai/jobs/info/69eb4b387820c036924f2afc?utm_campaign=1049&utm_source=git)** | Riverside, MO | On Site | Apr 23 |
 | ↳ | **[Intern, Graphic Design](https://jobright.ai/jobs/info/69eb4b1116b2612c2a11ab3f?utm_campaign=1049&utm_source=git)** | Riverside, MO | On Site | Apr 23 |
 | **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Photo and Design Intern](https://jobright.ai/jobs/info/69eb0bf17820c036924f0b78?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 23 |
-| **[Catalyst Marketing](https://thelyst.com/)** | **[Production Graphic Designer Intern](https://jobright.ai/jobs/info/69ebf0320a6e09555304b600?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Apr 23 |
-| **[Orlando City SC](http://www.orlandocitysc.com/)** | **[Creative - Graphic Design Associate](https://jobright.ai/jobs/info/69ec17ab7820c036924f90ac?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 23 |
-| **[7 Brew Coffee](https://7brew.com)** | **[Development Intern](https://jobright.ai/jobs/info/69eaa7f24b0fa35a707759f0?utm_campaign=1049&utm_source=git)** | Springdale, AR | On Site | Apr 23 |
-| **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | Apr 23 |
-| **[Garver](https://garverusa.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69eb40e87820c036924f24eb?utm_campaign=1049&utm_source=git)** | North Little Rock, AR | On Site | Apr 23 |
-| **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eb257916b2612c2a1192bf?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 23 |
-| **[Alberta New Home Warranty Program](https://www.anhwp.com)** | **[Graphic Designer Summer Student](https://jobright.ai/jobs/info/69eb418a7820c036924f2630?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | Hybrid | Apr 23 |
-| **[The Zest Lab](https://thezestlab.com )** | **[Multidisciplinary Design + Account Internship](https://jobright.ai/jobs/info/69ea8df03aa0c479643b08ed?utm_campaign=1049&utm_source=git)** | Richmond, VA | Hybrid | Apr 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
