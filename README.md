@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f066028feca91f1491aadc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f03726a4aa3545d8a5d8f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Infante Real Estate](https://infanterealestate.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f03711b27fee43e8cd2c70?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 27 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/69f02bd42b095843b0311c72?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lenovo](https://www.lenovo.com/in/en)** | **[Design Storytelling and Illustration Intern - Summer 2026](https://jobright.ai/jobs/info/69b35f99a8ac8e70ff6793b9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
 | **[O3](https://www.o3world.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69ebba027820c036924f67ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ebdddc0a6e09555304aee1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
-| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
