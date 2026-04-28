@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f0fbea8feca91f1491dd24?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 28 |
+| **[Vivacity Technologies](https://www.linkedin.com/company/75586881)** | **[Marketing & UX/UI Design Co-op/Intern](https://jobright.ai/jobs/info/69f0fba1b27fee43e8cd67a3?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | Hybrid | Apr 28 |
+| **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Technical Packaging Intern](https://jobright.ai/jobs/info/69f0fb6662b48c6838792eb5?utm_campaign=1049&utm_source=git)** | New York Metropolitan - Hybrid | Hybrid | Apr 28 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[Weissman](https://www.weissmans.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69f0ee4b8feca91f1491d745?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[TYLin](http://www.tylin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0d6b8b27fee43e8cd5c12?utm_campaign=1049&utm_source=git)** | US | NY | New York - 322 Eighth Avenue, US | On Site | Apr 28 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Brand Design](https://jobright.ai/jobs/info/69f0d029ecbc8c2f732020c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
@@ -67,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcf8eebc6f6622c990f641?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 28 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d41715891d7b11cfcf71b6?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Apr 28 |
 | **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 28 |
-| **[Sandisk](https://www.sandisk.com)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/69d410d2cfdc6132f9457440?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Apr 28 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69b86db03b74eb1e2c863adc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69f08197825a315d7ca32229?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 24 |
 | **[ConsumerDirect, Inc.](https://www.consumerdirect.com/)** | **[Summer Interns — Multiple Departments!](https://jobright.ai/jobs/info/69ebfb9216b2612c2a1201fb?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
-| **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ebf4cfdc35f7132c4b47fc?utm_campaign=1049&utm_source=git)** | Green Bay, WI, USA | On Site | Apr 24 |
-| **[Legends Global](http://legends.net)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69ec11880a6e09555304c58e?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 24 |
-| ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
