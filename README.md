@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Brand Design](https://jobright.ai/jobs/info/69f0d029ecbc8c2f732020c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
+| **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d41f9f891d7b11cfcf79f2?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d9f14cb67cec4f9b0a6954?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Apr 28 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d41715891d7b11cfcf71b6?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Apr 28 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f03726a4aa3545d8a5d8f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
-| **[Infante Real Estate](https://infanterealestate.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f03711b27fee43e8cd2c70?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 27 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/69f02bd42b095843b0311c72?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0285f8feca91f14919d77?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f01e38b27fee43e8cd21a2?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Remote | Apr 27 |
@@ -94,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69efd5b4fbe0994a40eb8a5a?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69efd52e58811370cb148adf?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Apr 27 |
 | **[Providence](http://www.providence.org)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efd37b16b2612c2a12bb8e?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
-| **[Fortress Consulting](https://gofortress.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f06cfaa4aa3545d8a5e1d0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/69efc6cce624fe645d533644?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[Warp + Weft](https://warpweftworld.com/)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69efe5a04b0fa35a7078c853?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8794?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
