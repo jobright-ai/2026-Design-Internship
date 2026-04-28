@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69f08197825a315d7ca32229?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 28 |
+| **[Paramount Computer Systems](http://paramountassure.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f07637825a315d7ca320c5?utm_campaign=1049&utm_source=git)** | Campus, IL | On Site | Apr 28 |
 | **[Swedish](http://www.swedish.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f06fa2ecbc8c2f731ff8bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 28 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
@@ -74,8 +76,7 @@ For a complete list, click the following sortable link below:
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[Talbot Media LLC.](talbotmedia.tv)** | **[Summer 2026 Creative Fellowship Program](https://jobright.ai/jobs/info/69f02878b27fee43e8cd2549?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69f00148fbe0994a40eb9f12?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Apr 27 |
-| **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69effe96e624fe645d5349e5?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 27 |
-| **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
+| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc5ae624fe645d534967?utm_campaign=1049&utm_source=git)** | US-CA-Pasadena | Hybrid | Apr 27 |
 | **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efeeb64b0fa35a7078d17d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69ec02ed16b2612c2a120623?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/69ebc3ad58811370cb13c53e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69ebc2974b0fa35a7077e137?utm_campaign=1049&utm_source=git)** | New York | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
