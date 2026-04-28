@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69f0e0328d8d624381a98d7b?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69f0dfa7b27fee43e8cd5e56?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Weissman](https://www.weissmans.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69f0ee4b8feca91f1491d745?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[TYLin](http://www.tylin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0d6b8b27fee43e8cd5c12?utm_campaign=1049&utm_source=git)** | US | NY | New York - 322 Eighth Avenue, US | On Site | Apr 28 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Brand Design](https://jobright.ai/jobs/info/69f0d029ecbc8c2f732020c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
+| **[TYLin](http://www.tylin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0e72f62b48c68387928ad?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d41f9f891d7b11cfcf79f2?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Apr 28 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d9f14cb67cec4f9b0a6954?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Apr 28 |
