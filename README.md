@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BetterHelp](https://www.betterhelp.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d41715891d7b11cfcf71b6?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Apr 28 |
+| **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 28 |
+| **[Sandisk](https://www.sandisk.com)** | **[Intern - Industrial Design](https://jobright.ai/jobs/info/69d410d2cfdc6132f9457440?utm_campaign=1049&utm_source=git)** | Milpitas, CA | On Site | Apr 28 |
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69b86db03b74eb1e2c863adc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69f08197825a315d7ca32229?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 28 |
 | **[Paramount Computer Systems](http://paramountassure.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f07637825a315d7ca320c5?utm_campaign=1049&utm_source=git)** | Campus, IL | On Site | Apr 28 |
 | **[Swedish](http://www.swedish.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f06fa2ecbc8c2f731ff8bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 28 |
-| **[Circuit of The Americas](http://circuitoftheamericas.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f09e518d8d624381a967f8?utm_campaign=1049&utm_source=git)** | Del Valle, TX | On Site | Apr 28 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f066028feca91f1491aadc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
@@ -101,7 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69efc652fbe0994a40eb8774?utm_campaign=1049&utm_source=git)** | Doral, FL | On Site | Apr 27 |
 | **[UNO Branding](https://unobranding.com/)** | **[Junior Brand Designer (Apprenticeship Track)](https://jobright.ai/jobs/info/69efc62c0a6e0955530571ef?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Apr 27 |
 | **[Nice Recovery Systems](http://nicerecovery.com/)** | **[Graphic Production Artist Intern](https://jobright.ai/jobs/info/69efc62c0a6e0955530571f4?utm_campaign=1049&utm_source=git)** | Boulder, CO | Hybrid | Apr 27 |
-| **[CrossCheck Studios](https://www.linkedin.com/company/75580886)** | **[Digital & Creative Intern](https://jobright.ai/jobs/info/69f001bc16b2612c2a12d20c?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 27 |
+| **[CROSSCHECK](https://www.linkedin.com/company/75580886)** | **[Digital & Creative Intern](https://jobright.ai/jobs/info/69f001bc16b2612c2a12d20c?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 27 |
 | **[Achievers](http://www.achievers.com)** | **[Video & Social Media Co-op](https://jobright.ai/jobs/info/69efe31716b2612c2a12c404?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Apr 27 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69efb83a16b2612c2a12b0a6?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | Apr 27 |
 | **[Northeast Corridor Commission](http://nec-commission.com/)** | **[Planning/Reporting/Communications Intern (Graduate) – Summer 2026](https://jobright.ai/jobs/info/69efd5a80a6e0955530575f9?utm_campaign=1049&utm_source=git)** | DC-Baltimore Area | On Site | Apr 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Summer Event Intern](https://jobright.ai/jobs/info/69ec11880a6e09555304c58e?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | Apr 24 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Apr 24 |
 | **[Funky Junque](https://www.funky-junque.net)** | **[Summer AI Creative Intern – Video & Content Creation](https://jobright.ai/jobs/info/69ebdcb6dc35f7132c4b3cbd?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Apr 24 |
-| **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69ec5eef58811370cb13fe14?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 24 |
-| **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
