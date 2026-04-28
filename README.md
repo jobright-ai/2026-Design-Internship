@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Which Side Digital](whichsidedigital.com)** | **[Student Intern - Design Department](https://jobright.ai/jobs/info/69ef62254b0fa35a70788e52?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
 | ↳ | **[Student Intern - Web Design Department](https://jobright.ai/jobs/info/69ef565d0a6e09555305435f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d87707b67cec4f9b09c9cd?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
-| **[Jaipur Rugs](http://www.jaipurrugsco.com)** | **[Design & Business Intern](https://jobright.ai/jobs/info/69eefa550a6e0955530535c7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 26 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69f001964b0fa35a7078d5b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/69ee974c7820c036924ff1c1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Apr 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[O3](https://www.o3world.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69ebba027820c036924f67ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ebdddc0a6e09555304aee1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
