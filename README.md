@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/69f02bd42b095843b0311c72?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
+| **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0285f8feca91f14919d77?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[RJMedex](https://rjmedex.com/)** | **[Sr Designer UX/UI with Web  Front End & Back End Development Intern to Full Time - Remote](https://jobright.ai/jobs/info/69f01faeb27fee43e8cd2315?utm_campaign=1049&utm_source=git)** | Maryland, United States | Remote | Apr 27 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f01e38b27fee43e8cd21a2?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Remote | Apr 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f00a3bfbe0994a40eba191?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 27 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69f027b48feca91f14919d43?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
+| **[Talbot Media LLC.](talbotmedia.tv)** | **[Summer 2026 Creative Fellowship Program](https://jobright.ai/jobs/info/69f02878b27fee43e8cd2549?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69f00148fbe0994a40eb9f12?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Apr 27 |
 | **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69effe96e624fe645d5349e5?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SignAI](https://signai.ca/)** | **[Graphic Designer Co-op Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69eba744dc35f7132c4b23c3?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Apr 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
 | **[Teneo](https://www.teneo.com)** | **[Design Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 24 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69eb99750a6e095553048f71?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Apr 24 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69eb996716b2612c2a11d6be?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Apr 24 |
-| **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69eb99d40a6e095553048fce?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
-| **[Crusoe](https://crusoe.ai)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
