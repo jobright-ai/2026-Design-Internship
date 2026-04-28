@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f00a3bfbe0994a40eba191?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 27 |
+| **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
+| **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69f00148fbe0994a40eb9f12?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Apr 27 |
 | **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69effe96e624fe645d5349e5?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc5ae624fe645d534967?utm_campaign=1049&utm_source=git)** | US-CA-Pasadena | Hybrid | Apr 27 |
 | **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efeeb64b0fa35a7078d17d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
-| **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
-| **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
 | **[Hoefer Welker](https://hoeferwelker.com)** | **[Architectural Intern - Entry Level/Seasonal](https://jobright.ai/jobs/info/69efe6bce624fe645d534054?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe52be624fe645d533f3f?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[Pacific Medical Centers](https://www.pacificmedicalcenters.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe1790a6e095553057bf3?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
@@ -129,7 +131,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/69ec17c14b0fa35a7078093b?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[APMEX, Inc.](http://www.apmex.com)** | **[Graphic Design Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0abb4b0fa35a707806d7?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
 | ↳ | **[Product & Digital Experience Intern-Onsite OKC, OK](https://jobright.ai/jobs/info/69ec0ab4dc35f7132c4b544b?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Apr 24 |
-| **[Echelon](https://teamechelon.com)** | **[Digital and Media Operations Intern](https://jobright.ai/jobs/info/69ebfb9a7820c036924f84e5?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Apr 24 |
 | **[ConsumerDirect, Inc.](https://www.consumerdirect.com/)** | **[Summer Interns — Multiple Departments!](https://jobright.ai/jobs/info/69ebfb9216b2612c2a1201fb?utm_campaign=1049&utm_source=git)** | Orange County, CA | On Site | Apr 24 |
 | **[Legends Global](http://legends.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebf4ec7820c036924f834c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ennead Architects](http://www.ennead.com)** | **[Intern](https://jobright.ai/jobs/info/69b2de38a8ac8e70ff66fc00?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 24 |
 | **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ece37f4b0fa35a707838f0?utm_campaign=1049&utm_source=git)** | Reston, VA, US | Hybrid | Apr 24 |
-| **[Hollman, Inc.](https://hollman.com/)** | **[Creative Content Intern (Graphics & Social Media)](https://jobright.ai/jobs/info/69ebc4f5dc35f7132c4b3711?utm_campaign=1049&utm_source=git)** | Irving, TX | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
