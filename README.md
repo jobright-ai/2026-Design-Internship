@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/69f1266262b48c6838794007?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Apr 28 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Creative Internship](https://jobright.ai/jobs/info/69f118b28feca91f1491e829?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
-| **[LangPal](www.lang-pal.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69f118278d8d624381a9a55b?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
 | **[City of Newton, KS](http://www.newtonkansas.com)** | **[CVB Intern](https://jobright.ai/jobs/info/69f10ed98d8d624381a9a0ef?utm_campaign=1049&utm_source=git)** | City Hall, Newton, KS, US | On Site | Apr 28 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f1038a8feca91f1491de8a?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f0fbea8feca91f1491dd24?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 28 |
@@ -92,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/69f0371ea4aa3545d8a5d8cd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 27 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69f027b48feca91f14919d43?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
-| **[Talbot Media LLC.](talbotmedia.tv)** | **[Summer 2026 Creative Fellowship Program](https://jobright.ai/jobs/info/69f02878b27fee43e8cd2549?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 27 |
 | **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69f00148fbe0994a40eb9f12?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Apr 27 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
 | ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc5ae624fe645d534967?utm_campaign=1049&utm_source=git)** | US-CA-Pasadena | Hybrid | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
+| **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
