@@ -57,11 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Light Management](http://redlightmanagement.com/)** | **[Creative Internship](https://jobright.ai/jobs/info/69f118b28feca91f1491e829?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
+| **[LangPal](www.lang-pal.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69f118278d8d624381a9a55b?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
+| **[City of Newton, KS](http://www.newtonkansas.com)** | **[CVB Intern](https://jobright.ai/jobs/info/69f10ed98d8d624381a9a0ef?utm_campaign=1049&utm_source=git)** | City Hall, Newton, KS, US | On Site | Apr 28 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f1038a8feca91f1491de8a?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f0fbea8feca91f1491dd24?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 28 |
 | **[Vivacity Technologies](https://www.linkedin.com/company/75586881)** | **[Marketing & UX/UI Design Co-op/Intern](https://jobright.ai/jobs/info/69f0fba1b27fee43e8cd67a3?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | Hybrid | Apr 28 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Technical Packaging Intern](https://jobright.ai/jobs/info/69f0fb6662b48c6838792eb5?utm_campaign=1049&utm_source=git)** | New York Metropolitan - Hybrid | Hybrid | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[REVOLVE](https://www.revolve.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69f10ded8feca91f1491e1f9?utm_campaign=1049&utm_source=git)** | Cerritos, CA | On Site | Apr 28 |
 | **[Weissman](https://www.weissmans.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69f0ee4b8feca91f1491d745?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f10410ecbc8c2f732032f6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Technology Internships – Academic Year](https://jobright.ai/jobs/info/69f10445ecbc8c2f732033cd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
-| **[Gensler](http://www.gensler.com)** | **[Resource Library Intern - Temporary Part-Time](https://jobright.ai/jobs/info/69e2a47f3770bd5361cd9496?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 24 |
-| **[Tombras](http://tombras.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69ec17c24b0fa35a7078093f?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
-| ↳ | **[Art Director Intern](https://jobright.ai/jobs/info/69ec17c14b0fa35a7078093b?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
