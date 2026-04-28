@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d9f14cb67cec4f9b0a6954?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Apr 28 |
 | **[BetterHelp](https://www.betterhelp.com)** | **[Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d41715891d7b11cfcf71b6?utm_campaign=1049&utm_source=git)** | Mountain View, CA | Remote | Apr 28 |
 | **[Kadant Black Clawson LLC](http://fiberprocessing.kadant.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/69b881d056973837413de5d6?utm_campaign=1049&utm_source=git)** | Lebanon, OH | On Site | Apr 28 |
@@ -67,13 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Swedish](http://www.swedish.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f06fa2ecbc8c2f731ff8bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 28 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f066028feca91f1491aadc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f03726a4aa3545d8a5d8f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
 | **[Infante Real Estate](https://infanterealestate.com)** | **[Summer Internship](https://jobright.ai/jobs/info/69f03711b27fee43e8cd2c70?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 27 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/69f02bd42b095843b0311c72?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0285f8feca91f14919d77?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f01e38b27fee43e8cd21a2?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Remote | Apr 27 |
-| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f00a3bfbe0994a40eba191?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 27 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/69f0371ea4aa3545d8a5d8cd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 27 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69f027b48feca91f14919d43?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Funky Junque](https://www.funky-junque.net)** | **[Summer AI Creative Intern – Video & Content Creation](https://jobright.ai/jobs/info/69ebdcb6dc35f7132c4b3cbd?utm_campaign=1049&utm_source=git)** | Northbrook, IL | On Site | Apr 24 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/69ec5eef58811370cb13fe14?utm_campaign=1049&utm_source=git)** | 740 Horizon Dr, Grand Junction, CO, 81506, US | On Site | Apr 24 |
 | **[Fenton](http://fenton.com/)** | **[Intern](https://jobright.ai/jobs/info/69ebfcf77820c036924f875d?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Apr 24 |
+| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69ec02ed16b2612c2a120623?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
