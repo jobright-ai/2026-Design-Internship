@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Swedish](http://www.swedish.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f06fa2ecbc8c2f731ff8bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 28 |
+| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f066028feca91f1491aadc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f03726a4aa3545d8a5d8f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
@@ -88,6 +90,7 @@ For a complete list, click the following sortable link below:
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69efd5b4fbe0994a40eb8a5a?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | Apr 27 |
 | **[National Laboratory of the Rockies](http://www.nrel.gov)** | **[Undergraduate/Graduate (Year-Round) Intern - UX Design](https://jobright.ai/jobs/info/69efd52e58811370cb148adf?utm_campaign=1049&utm_source=git)** | Golden, CO | On Site | Apr 27 |
 | **[Providence](http://www.providence.org)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efd37b16b2612c2a12bb8e?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
+| **[Fortress Consulting](https://gofortress.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f06cfaa4aa3545d8a5e1d0?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 27 |
 | **[CAMI NYC](http://www.caminyc.com)** | **[Design Internship](https://jobright.ai/jobs/info/69efc6cce624fe645d533644?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 27 |
 | **[Warp + Weft](https://warpweftworld.com/)** | **[Summer Design Intern](https://jobright.ai/jobs/info/69efe5a04b0fa35a7078c853?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
 | **[Hill House Home](http://www.hillhousehome.com/)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69efc656fbe0994a40eb8794?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/69ec02ed16b2612c2a120623?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 24 |
 | **[Tombras](http://tombras.com)** | **[Studio Design Intern](https://jobright.ai/jobs/info/69ebc3ad58811370cb13c53e?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Apr 24 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69ebc2974b0fa35a7077e137?utm_campaign=1049&utm_source=git)** | New York | On Site | Apr 24 |
-| **[Lenovo](https://www.lenovo.com/in/en)** | **[Design Storytelling and Illustration Intern - Summer 2026](https://jobright.ai/jobs/info/69b35f99a8ac8e70ff6793b9?utm_campaign=1049&utm_source=git)** | North Carolina, United States | On Site | Apr 24 |
-| **[O3](https://www.o3world.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69ebba027820c036924f67ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
-| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
