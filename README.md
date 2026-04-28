@@ -57,14 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tencent](https://www.tencent.com/)** | **[Game Art Intern](https://jobright.ai/jobs/info/69f135c162b48c68387944d5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[Pond & Company](https://www.pondco.com)** | **[Architect Intern - Architecture](https://jobright.ai/jobs/info/69f12d3f825a315d7ca363d5?utm_campaign=1049&utm_source=git)** | North Atlanta, GA | On Site | Apr 28 |
+| **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/69f1297fb27fee43e8cd77f8?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 28 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/69f1266262b48c6838794007?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Apr 28 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Creative Internship](https://jobright.ai/jobs/info/69f118b28feca91f1491e829?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
+| **[Auctor](https://getauctor.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69f135a7ecbc8c2f732048fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
+| **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f135028feca91f1491efff?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
 | **[City of Newton, KS](http://www.newtonkansas.com)** | **[CVB Intern](https://jobright.ai/jobs/info/69f10ed98d8d624381a9a0ef?utm_campaign=1049&utm_source=git)** | City Hall, Newton, KS, US | On Site | Apr 28 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f1038a8feca91f1491de8a?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Apr 28 |
+| **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Communications - Central Office, Hayward](https://jobright.ai/jobs/info/69f12d1e825a315d7ca3633c?utm_campaign=1049&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f0fbea8feca91f1491dd24?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 28 |
 | **[Vivacity Technologies](https://www.linkedin.com/company/75586881)** | **[Marketing & UX/UI Design Co-op/Intern](https://jobright.ai/jobs/info/69f0fba1b27fee43e8cd67a3?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | Hybrid | Apr 28 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Technical Packaging Intern](https://jobright.ai/jobs/info/69f0fb6662b48c6838792eb5?utm_campaign=1049&utm_source=git)** | New York Metropolitan - Hybrid | Hybrid | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
+| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Creative & Digital Design Internships – Academic Year](https://jobright.ai/jobs/info/69f12d5a825a315d7ca3648c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69f10ded8feca91f1491e1f9?utm_campaign=1049&utm_source=git)** | Cerritos, CA | On Site | Apr 28 |
 | **[Weissman](https://www.weissmans.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69f0ee4b8feca91f1491d745?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f10410ecbc8c2f732032f6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
@@ -125,8 +133,7 @@ For a complete list, click the following sortable link below:
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | Apr 27 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/69ef7c94e624fe645d531685?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Apr 27 |
-| **[Which Side Digital](whichsidedigital.com)** | **[Student Intern - Design Department](https://jobright.ai/jobs/info/69ef62254b0fa35a70788e52?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
-| ↳ | **[Student Intern - Web Design Department](https://jobright.ai/jobs/info/69ef565d0a6e09555305435f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
+| **[Which Side Digital](whichsidedigital.com)** | **[Student Intern - Web Design Department](https://jobright.ai/jobs/info/69ef565d0a6e09555305435f?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 27 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d87707b67cec4f9b09c9cd?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69f001964b0fa35a7078d5b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 26 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Apr 26 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kensho Technologies](https://kensho.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcc871f748bc5d08a5c738?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 25 |
 | ↳ | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcf8eebc6f6622c990f643?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 25 |
 | **[Minitab](http://www.minitab.com/en-us/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/696177d6a112b402660ffc5f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 25 |
-| **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6997a2bbce78e77b4fdbf8b9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 25 |
-| **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69d01ff6366bb95ba551b7c2?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | Apr 25 |
-| **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | Apr 25 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design, Visual Merchandising](https://jobright.ai/jobs/info/69a55659359fe034b1cfed52?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 25 |
-| **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec8dfa58811370cb140279?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 25 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 24 |
-| **[Greenville Triumph SC](https://www.greenvilletriumph.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69ec416516b2612c2a121e1e?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
