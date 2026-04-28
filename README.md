@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
+| **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efeeb64b0fa35a7078d17d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
 | **[Hoefer Welker](https://hoeferwelker.com)** | **[Architectural Intern - Entry Level/Seasonal](https://jobright.ai/jobs/info/69efe6bce624fe645d534054?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe52be624fe645d533f3f?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[Pacific Medical Centers](https://www.pacificmedicalcenters.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe1790a6e095553057bf3?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[O3](https://www.o3world.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69ebba027820c036924f67ac?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 24 |
 | **[Leapfrog Brands](http://www.leapfrogbrands.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ebb9e97820c036924f6756?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Apr 24 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69ebdddc0a6e09555304aee1?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 24 |
-| **[HUGO BOSS](https://www.hugoboss.com/)** | **[Summer Internship 2026 - Visual Merchandising](https://jobright.ai/jobs/info/69cee716398fb071abf8a949?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
 | **[SignAI](https://signai.ca/)** | **[Graphic Designer Co-op Summer 2026 (UNPAID)](https://jobright.ai/jobs/info/69eba744dc35f7132c4b23c3?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Apr 24 |
 | **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern - Summer 2026 - FED/FTW](https://jobright.ai/jobs/info/695dda04e4cdbb1454cfd245?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | Hybrid | Apr 24 |
 | **[Teneo](https://www.teneo.com)** | **[Design Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Apr 24 |
