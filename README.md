@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RJMedex](https://rjmedex.com/)** | **[Sr Designer UX/UI with Web  Front End & Back End Development Intern to Full Time - Remote](https://jobright.ai/jobs/info/69f01faeb27fee43e8cd2315?utm_campaign=1049&utm_source=git)** | Maryland, United States | Remote | Apr 27 |
+| **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f01e38b27fee43e8cd21a2?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Remote | Apr 27 |
 | **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f00a3bfbe0994a40eba191?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, USA | Remote | Apr 27 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
@@ -68,6 +70,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
 | **[Hoefer Welker](https://hoeferwelker.com)** | **[Architectural Intern - Entry Level/Seasonal](https://jobright.ai/jobs/info/69efe6bce624fe645d534054?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe52be624fe645d533f3f?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
+| **[Covenant Health](https://www.covenanthealth.org)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f01e288feca91f14919ac9?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[Pacific Medical Centers](https://www.pacificmedicalcenters.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe1790a6e095553057bf3?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Interior Design/Furniture](https://jobright.ai/jobs/info/69efddb716b2612c2a12c22a?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Apr 27 |
 | **[Intelas](intelashealth.com)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69efd7e216b2612c2a12c068?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69eb996716b2612c2a11d6be?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Apr 24 |
 | **[IBM](http://www.ibm.com)** | **[Designer Intern 2026](https://jobright.ai/jobs/info/69eb99d40a6e095553048fce?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 24 |
 | **[Crusoe](https://crusoe.ai)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 24 |
-| **[Ennead Architects](http://www.ennead.com)** | **[Intern](https://jobright.ai/jobs/info/69b2de38a8ac8e70ff66fc00?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 24 |
-| **[Spencer's](http://www.spencersonline.com/)** | **[Creative Services Summer Internship 2026](https://jobright.ai/jobs/info/698e6c3d0f6f7e7a2cea7ac8?utm_campaign=1049&utm_source=git)** | Egg Harbor, NJ | On Site | Apr 24 |
-| **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ece37f4b0fa35a707838f0?utm_campaign=1049&utm_source=git)** | Reston, VA, US | Hybrid | Apr 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
