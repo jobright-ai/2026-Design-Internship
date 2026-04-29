@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Creative & Digital Design Internships – Academic Year](https://jobright.ai/jobs/info/69f12d5a825a315d7ca3648c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[REVOLVE](https://www.revolve.com/)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69f10ded8feca91f1491e1f9?utm_campaign=1049&utm_source=git)** | Cerritos, CA | On Site | Apr 28 |
 | **[Weissman](https://www.weissmans.com/)** | **[Summer Internship Program](https://jobright.ai/jobs/info/69f0ee4b8feca91f1491d745?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 28 |
-| **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f10410ecbc8c2f732032f6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Technology Internships – Academic Year](https://jobright.ai/jobs/info/69f10445ecbc8c2f732033cd?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[TYLin](http://www.tylin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0d6b8b27fee43e8cd5c12?utm_campaign=1049&utm_source=git)** | US | NY | New York - 322 Eighth Avenue, US | On Site | Apr 28 |
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Brand Design](https://jobright.ai/jobs/info/69f0d029ecbc8c2f732020c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
