@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 | **[Supergood](https://www.gosupergood.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/69f18cce62b48c683879616e?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, UX/UI Design - MA](https://jobright.ai/jobs/info/69f1657e825a315d7ca378e6?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
 | **[ETHĒA](etheastudios.com)** | **[ETHĒA – Spring/Summer Internship](https://jobright.ai/jobs/info/69f186da8d8d624381a9cac5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d010bd0b098b7a6707626d?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 25 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/68cb75889e3a822f5d24631a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
