@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69f224aaab4ec4779fff777d?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 29 |
+| **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2249aab4ec4779fff774e?utm_campaign=1049&utm_source=git)** | Minnetonka, MN, US | On Site | Apr 29 |
 | **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ba7cd456973837413fea97?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 29 |
 | **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 29 |
+| **[Delta Air Lines](https://www.delta.com/)** | **[Intern, Design and Research – Digital Experience (Summer 2026)](https://jobright.ai/jobs/info/69f22413825a315d7ca3aef6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
@@ -80,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Creative Internship](https://jobright.ai/jobs/info/69f118b28feca91f1491e829?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[Auctor](https://getauctor.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69f135a7ecbc8c2f732048fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f135028feca91f1491efff?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Apr 28 |
-| **[Stanley Martin Homes](http://stanleymartin.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69f140c88d8d624381a9b390?utm_campaign=1049&utm_source=git)** | Chantilly, VA | On Site | Apr 28 |
 | **[City of Newton, KS](http://www.newtonkansas.com)** | **[CVB Intern](https://jobright.ai/jobs/info/69f10ed98d8d624381a9a0ef?utm_campaign=1049&utm_source=git)** | City Hall, Newton, KS, US | On Site | Apr 28 |
 | **[More Views Media](https://moreviewsmedia.com/)** | **[MLB Graphic Designer/Social Media Intern](https://jobright.ai/jobs/info/69f1410b8d8d624381a9b4dc?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Aramark](http://www.aramark.com)** | **[UNC Student Graphic Design summer intern: Carolina Dining services](https://jobright.ai/jobs/info/69f1411f62b48c6838794aee?utm_campaign=1049&utm_source=git)** | Chapel Hill, NC | On Site | Apr 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Roanoke)](https://jobright.ai/jobs/info/69bc68665b89c002acf20cab?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | Apr 26 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/69e06d5cc5691b27c176d414?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 26 |
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446b2450bbaf76505668b8?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | Apr 26 |
-| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
