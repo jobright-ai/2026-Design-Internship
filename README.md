@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 | **[Supergood](https://www.gosupergood.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/69f18cce62b48c683879616e?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, UX/UI Design - MA](https://jobright.ai/jobs/info/69f1657e825a315d7ca378e6?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2ab1dc35f7132c4b825f?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
-| **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d010bd0b098b7a6707626d?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
