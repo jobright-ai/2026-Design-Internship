@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Valley Forge Fabrics, Inc.](http://valleyforge.com)** | **[Junior Interior Design Curation Intern](https://jobright.ai/jobs/info/69f23ca4ecbc8c2f73209907?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, 33309, US | On Site | Apr 29 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69f231ff825a315d7ca3b48d?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 29 |
 | **[4G Clinical](http://4gclinical.com)** | **[Marketing Graphic & Visual Design Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f22a33f154d768fbaa58cc?utm_campaign=1049&utm_source=git)** | WELLESLEY, MA 02481, USA | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69f224aaab4ec4779fff777d?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 29 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2249aab4ec4779fff774e?utm_campaign=1049&utm_source=git)** | Minnetonka, MN, US | On Site | Apr 29 |
 | **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69ba7cd456973837413fea97?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 29 |
-| **[Tatari](https://www.tatari.tv/)** | **[Product Design Intern](https://jobright.ai/jobs/info/69f23191825a315d7ca3b281?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 29 |
 | **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
