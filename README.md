@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Supergood](https://www.gosupergood.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/69f18cce62b48c683879616e?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
+| **[Beautynbrushes](http://www.beautynbrushes.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69f181608feca91f14920a08?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, UX/UI Design - MA](https://jobright.ai/jobs/info/69f1657e825a315d7ca378e6?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
+| **[ETHĒA](etheastudios.com)** | **[ETHĒA – Spring/Summer Internship](https://jobright.ai/jobs/info/69f186da8d8d624381a9cac5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern](https://jobright.ai/jobs/info/69f150e88feca91f1491fbe0?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | Apr 28 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69f1666a825a315d7ca37a54?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | Apr 28 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/69a7bb60637232443f650e42?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Apr 28 |
@@ -99,11 +102,9 @@ For a complete list, click the following sortable link below:
 | **[L'OCCITANE Group (B Corp)](https://group.loccitane.com/)** | **[Digital Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69b82eb43b74eb1e2c85d093?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Apr 28 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Landscape Architecture + Planning Intern / Co-op - Summer 2026](https://jobright.ai/jobs/info/69b86db03b74eb1e2c863adc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[BARDO Hotels](http://mansiononforsythpark.com)** | **[Marketing + Creative Intern](https://jobright.ai/jobs/info/69f08197825a315d7ca32229?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | Apr 28 |
-| **[Swedish](http://www.swedish.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f06fa2ecbc8c2f731ff8bf?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Apr 28 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Apr 28 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Graphic Design Summer Associate](https://jobright.ai/jobs/info/69f05a11b27fee43e8cd33d6?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f03726a4aa3545d8a5d8f1?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 27 |
-| **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/69f02bd42b095843b0311c72?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | Apr 27 |
 | **[Indiana Sports Corp](https://www.indianasportscorp.org/events/2022-indy-ultimate)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0285f8feca91f14919d77?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Apr 27 |
 | **[SUPPLIFLEX](https://suppliflex.tech)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f01e38b27fee43e8cd21a2?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | Remote | Apr 27 |
 | **[Central California Alliance for Health](https://thealliance.health/)** | **[Multimedia Designer (Temporary)](https://jobright.ai/jobs/info/69ddce834d3bec4144b4e5b8?utm_campaign=1049&utm_source=git)** | California, United States | Hybrid | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2ab1dc35f7132c4b825f?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
-| **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d010bd0b098b7a6707626d?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
