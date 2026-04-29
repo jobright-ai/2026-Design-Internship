@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Design / Graphics Internship](https://jobright.ai/jobs/info/69f1f8fb8feca91f14922943?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 29 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/69ec418416b2612c2a121eeb?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Apr 29 |
 | **[Supergood](https://www.gosupergood.com)** | **[Intern - Art Director](https://jobright.ai/jobs/info/69f18cce62b48c683879616e?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 28 |
 | **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, UX/UI Design - MA](https://jobright.ai/jobs/info/69f1657e825a315d7ca378e6?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
 | **[ETHĒA](etheastudios.com)** | **[ETHĒA – Spring/Summer Internship](https://jobright.ai/jobs/info/69f186da8d8d624381a9cac5?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 28 |
@@ -83,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Eden Housing, Inc.](http://www.edenhousing.org)** | **[Summer Intern Communications - Central Office, Hayward](https://jobright.ai/jobs/info/69f12d1e825a315d7ca3633c?utm_campaign=1049&utm_source=git)** | Hayward, CA | On Site | Apr 28 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 28 |
 | **[Realtor.com](https://www.realtor.com/)** | **[Intern, User Experience - Masters level](https://jobright.ai/jobs/info/69f0fbea8feca91f1491dd24?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | Hybrid | Apr 28 |
-| **[Vivacity Technologies](https://www.linkedin.com/company/75586881)** | **[Marketing & UX/UI Design Co-op/Intern](https://jobright.ai/jobs/info/69f0fba1b27fee43e8cd67a3?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | Hybrid | Apr 28 |
+| **[Vivacity Technologies](www.vvctec.com)** | **[Marketing & UX/UI Design Co-op/Intern](https://jobright.ai/jobs/info/69f0fba1b27fee43e8cd67a3?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | Hybrid | Apr 28 |
 | **[Sol de Janeiro](https://soldejaneiro.com/)** | **[Technical Packaging Intern](https://jobright.ai/jobs/info/69f0fb6662b48c6838792eb5?utm_campaign=1049&utm_source=git)** | New York Metropolitan - Hybrid | Hybrid | Apr 28 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[NBC News Creative & Digital Design Internships – Academic Year](https://jobright.ai/jobs/info/69f12d5a825a315d7ca3648c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -121,7 +124,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/69efe74fe624fe645d534199?utm_campaign=1049&utm_source=git)** | New York City | On Site | Apr 27 |
 | **[Hoefer Welker](https://hoeferwelker.com)** | **[Architectural Intern - Entry Level/Seasonal](https://jobright.ai/jobs/info/69efe6bce624fe645d534054?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 27 |
 | **[Providence Health & Services](https://www.providence.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe52be624fe645d533f3f?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
-| **[Covenant Health](https://www.covenanthealth.org)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f01e288feca91f14919ac9?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
+| **[Covenant Health](https://www.providence.org/locations/covenant-health/school-of-nursing)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69f01e288feca91f14919ac9?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[Pacific Medical Centers](https://www.pacificmedicalcenters.org/)** | **[Experience Design Intern (Graduate Level)](https://jobright.ai/jobs/info/69efe1790a6e095553057bf3?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Apr 27 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Interior Design/Furniture](https://jobright.ai/jobs/info/69efddb716b2612c2a12c22a?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Apr 27 |
 | **[Intelas](intelashealth.com)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69efd7e216b2612c2a12c068?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | Apr 27 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/697d7833137a051025669af3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Apr 26 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Apr 26 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2b387820c036924fc571?utm_campaign=1049&utm_source=git)** | St Paul, MN | Hybrid | Apr 25 |
-| **[Converged Security Solutions (Now Evolver)](https://www.convergedsecuritysolutions.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ed2ab1dc35f7132c4b825f?utm_campaign=1049&utm_source=git)** | Reston, VA | Hybrid | Apr 25 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
