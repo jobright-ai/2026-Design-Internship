@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[VeraAI Technologies Inc.](https://veraai.co)** | **[UX/UI Design Intern (AI-Assisted Kitchen Design Tool) – Summer 2026 (Unpaid)](https://jobright.ai/jobs/info/69f24d96825a315d7ca3be15?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 29 |
+| **[BSH Home Appliances Corporation - North America](https://www.bsh-group.com/us)** | **[BSH (Bosch) Intern, Industrial Design](https://jobright.ai/jobs/info/69f24d62ecbc8c2f73209d54?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | Apr 29 |
+| **[Automation Alley](http://www.automationalley.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f24592f154d768fbaa62d3?utm_campaign=1049&utm_source=git)** | Troy, MI | Hybrid | Apr 29 |
 | **[Valley Forge Fabrics, Inc.](http://valleyforge.com)** | **[Junior Interior Design Curation Intern](https://jobright.ai/jobs/info/69f23ca4ecbc8c2f73209907?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, 33309, US | On Site | Apr 29 |
 | **[Woolpert](http://www.woolpert.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69f231ff825a315d7ca3b48d?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 29 |
 | **[4G Clinical](http://4gclinical.com)** | **[Marketing Graphic & Visual Design Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f22a33f154d768fbaa58cc?utm_campaign=1049&utm_source=git)** | WELLESLEY, MA 02481, USA | On Site | Apr 29 |
@@ -121,9 +124,7 @@ For a complete list, click the following sortable link below:
 | **[Orlando Health](https://www.orlandohealth.com/)** | **[Web Mgmt & Videography Intern](https://jobright.ai/jobs/info/69f0371ea4aa3545d8a5d8cd?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Apr 27 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Houston](https://jobright.ai/jobs/info/69f027b48feca91f14919d43?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Apr 27 |
 | **[The Huntington](http://www.huntington.org/)** | **[Digital Asset Management Metadata Intern](https://jobright.ai/jobs/info/69f004ec16b2612c2a12d310?utm_campaign=1049&utm_source=git)** | San Marino, US | On Site | Apr 27 |
-| **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69f00148fbe0994a40eb9f12?utm_campaign=1049&utm_source=git)** | Pasadena, CA | Hybrid | Apr 27 |
-| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
-| ↳ | **[Planning Intern](https://jobright.ai/jobs/info/69effc5ae624fe645d534967?utm_campaign=1049&utm_source=git)** | US-CA-Pasadena | Hybrid | Apr 27 |
+| **[Dudek](http://www.dudek.com)** | **[Planning Intern](https://jobright.ai/jobs/info/69effc944b0fa35a7078d4cf?utm_campaign=1049&utm_source=git)** | Pasadena, CA, US | Hybrid | Apr 27 |
 | **[TENEX.AI](https://tenex.ai)** | **[Social Media & Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69f1080f8feca91f1491e10f?utm_campaign=1049&utm_source=git)** | Kansas City Metro | On Site | Apr 27 |
 | **[Auctor](https://getauctor.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69f103c162b48c6838793280?utm_campaign=1049&utm_source=git)** | New York | On Site | Apr 27 |
 | **[RADAR](https://goradar.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69efeeb64b0fa35a7078d17d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/69ef7c94e624fe645d531685?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Apr 27 |
 | **[Centric Brands](https://centricbrands.com)** | **[Centric Brands - Stage d'été en Design Summer Internship - Montreal](https://jobright.ai/jobs/info/69d87707b67cec4f9b09c9cd?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 27 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Color Library Intern](https://jobright.ai/jobs/info/69f001964b0fa35a7078d5b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 26 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69a3dedc0da45516f16cd059?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Apr 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
