@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](http://www.federalreserve.gov)** | **[Graduate Intern, UX/UI Design - MA](https://jobright.ai/jobs/info/69f1657e825a315d7ca378e6?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Apr 28 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern](https://jobright.ai/jobs/info/69f150e88feca91f1491fbe0?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | Apr 28 |
+| **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69f1666a825a315d7ca37a54?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | Apr 28 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, UX Research](https://jobright.ai/jobs/info/69a7bb60637232443f650e42?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | Remote | Apr 28 |
 | **[Tencent](https://www.tencent.com/)** | **[Game Art Intern](https://jobright.ai/jobs/info/69f135c162b48c68387944d5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 28 |
 | **[AMA - Alberta Motor Association](https://ama.ab.ca/)** | **[Design Intern, Creative Agency](https://jobright.ai/jobs/info/69df09eb18cf504166e31ef6?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Apr 28 |
 | **[Pond & Company](https://www.pondco.com)** | **[Architect Intern - Architecture](https://jobright.ai/jobs/info/69f12d3f825a315d7ca363d5?utm_campaign=1049&utm_source=git)** | North Atlanta, GA | On Site | Apr 28 |
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/69f1297fb27fee43e8cd77f8?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Apr 28 |
+| **[TENEX.AI](https://tenex.ai)** | **[Social Media & Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69f1662a825a315d7ca3793b?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Apr 28 |
+| ↳ | **[Social Media & Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69f165df62b48c6838795479?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f141f0b27fee43e8cd8466?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Creative Internship](https://jobright.ai/jobs/info/69f118b28feca91f1491e829?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Apr 28 |
 | **[Auctor](https://getauctor.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69f135a7ecbc8c2f732048fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | Apr 25 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/699651e3ce78e77b4fda543a?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 25 |
 | **[Educational Insights](http://www.educationalinsights.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d010bd0b098b7a6707626d?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | Apr 25 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[2025-2026 Design Leadership Development Program – Full Time and Summer Internship](https://jobright.ai/jobs/info/68cb75889e3a822f5d24631a?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Apr 25 |
-| **[Steve Madden](http://www.stevemadden.com)** | **[Intern - Design, Handbag AK - NYC](https://jobright.ai/jobs/info/69d0f4530b098b7a6707ed9b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 25 |
-| **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69ed23154b0fa35a70783f27?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Apr 25 |
-| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6943459fdd382f5f566946d3?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | Apr 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
