@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 | **[Ariat International](http://www.ariat.com)** | **[Apparel Technical Design Intern](https://jobright.ai/jobs/info/69f3abf01f90bd6ae23d1371?utm_campaign=1049&utm_source=git)** | San Leandro, CA | On Site | Apr 30 |
 | **[Jelly Collective](www.jellycollective.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69f3a59158b23a2329da65a3?utm_campaign=1049&utm_source=git)** | Redmond, WA | Hybrid | Apr 30 |
 | **[Multistudio](https://www.multi.studio)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69f3a53a461b9b613a622329?utm_campaign=1049&utm_source=git)** | PHX, Phoenix, AZ, US | Hybrid | Apr 30 |
@@ -110,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[Altruist](www.altruistbuilt.com)** | **[Architecture Intern — Summer Program](https://jobright.ai/jobs/info/69f28975ab4ec4779fff9955?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Apr 29 |
 | **[Pond & Company](https://www.pondco.com)** | **[Architect Intern - Architecture](https://jobright.ai/jobs/info/69f2853a825a315d7ca3cf67?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Apr 29 |
 | ↳ | **[Interior Designer Intern - Interior Design](https://jobright.ai/jobs/info/69f284e5ab4ec4779fff97e7?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Apr 29 |
-| ↳ | **[Architect Intern - Architecture](https://jobright.ai/jobs/info/69f284868d8d624381aa1389?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Apr 29 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | **[AECOM](http://www.aecom.com/)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69f27a008feca91f14924f22?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA | Hybrid | Apr 29 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | Apr 29 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29634825a315d7ca3d5f5?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29635825a315d7ca3d5f9?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2956e8feca91f14925af4?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
+| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29635825a315d7ca3d5f9?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e1ab4ec4779fff9cc2?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f29a26825a315d7ca3d8fc?utm_campaign=1049&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 29 |
@@ -139,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69f224aaab4ec4779fff777d?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 29 |
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2249aab4ec4779fff774e?utm_campaign=1049&utm_source=git)** | Minnetonka, MN, US | On Site | Apr 29 |
-| **[Cranial Technologies, Inc.](http://www.cranialtech.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69d59552e63cea7a8b662787?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Remote | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[TENEX.AI](https://tenex.ai)** | **[Social Media & Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69f1662a825a315d7ca3793b?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | Apr 28 |
 | ↳ | **[Social Media & Graphic Design Marketing Intern](https://jobright.ai/jobs/info/69f165df62b48c6838795479?utm_campaign=1049&utm_source=git)** | Overland Park, KS | On Site | Apr 28 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f141f0b27fee43e8cd8466?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Apr 28 |
+| **[Auctor](https://getauctor.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/69f135a7ecbc8c2f732048fa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
