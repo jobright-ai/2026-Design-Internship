@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d65248706f771673baa373?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69df0a71e34484770f1a68b7?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
+| **[Octave](https://www.octave.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69ba928306c1ba00c54cb2c8?utm_campaign=1049&utm_source=git)** | Madison, AL | Remote | Apr 30 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/69f33cd21f90bd6ae23cdee6?utm_campaign=1049&utm_source=git)** | Canada | Remote | Apr 30 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Graphic Design Intern - Podcast Company & Record Label](https://jobright.ai/jobs/info/69f31e1e343eef4fb0a99208?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
@@ -71,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2aefc825a315d7ca3def7?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Berlin Packaging](http://berlinpackaging.com/)** | **[Intern - Brand Design](https://jobright.ai/jobs/info/69f0d029ecbc8c2f732020c3?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Apr 28 |
 | **[TYLin](http://www.tylin.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f0e72f62b48c68387928ad?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
 | **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d9f14cb67cec4f9b0a6954?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 28 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Apr 28 |
-| **[S&P Global](https://www.spglobal.com)** | **[Product Design Intern - Summer 2026](https://jobright.ai/jobs/info/69dcf8eebc6f6622c990f641?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | Apr 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
