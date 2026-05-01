@@ -79,7 +79,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design & Creative Internships – Academic Year](https://jobright.ai/jobs/info/69f3df8a343eef4fb0a9eae8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Ariat International](http://www.ariat.com)** | **[Apparel Technical Design Intern](https://jobright.ai/jobs/info/69f3abf01f90bd6ae23d1371?utm_campaign=1049&utm_source=git)** | San Leandro, CA | On Site | Apr 30 |
 | **[Multistudio](https://www.multi.studio)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69f3a53a461b9b613a622329?utm_campaign=1049&utm_source=git)** | PHX, Phoenix, AZ, US | Hybrid | Apr 30 |
-| **[K9 Wear](https://www.k9wear.com)** | **[Visual Content Creator Internship- Pet & Lifestyle](https://jobright.ai/jobs/info/69f3a50b1f90bd6ae23d1220?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
 | **[VMG Entertainment](worldofvmg.com)** | **[Fashion Design & Branding Internship – Miami, FL](https://jobright.ai/jobs/info/69f3dcc9461b9b613a62499e?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | Apr 30 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a51e63cea7a8b66d91f?utm_campaign=1049&utm_source=git)** | Colorado, United States | Remote | Apr 30 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f3d8e5461b9b613a6245f7?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Woolpert](http://www.woolpert.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69f231ff825a315d7ca3b48d?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | Hybrid | Apr 29 |
 | **[4G Clinical](http://4gclinical.com)** | **[Marketing Graphic & Visual Design Intern (Summer Intern 2026)](https://jobright.ai/jobs/info/69f22a33f154d768fbaa58cc?utm_campaign=1049&utm_source=git)** | WELLESLEY, MA 02481, USA | On Site | Apr 29 |
 | **[Targetbase](https://targetbase.com/)** | **[Intern - Strategy](https://jobright.ai/jobs/info/69b0853c0b2db6275c049e5c?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69f224aaab4ec4779fff777d?utm_campaign=1049&utm_source=git)** | Tampa, FL, US | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
