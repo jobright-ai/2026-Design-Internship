@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Akia](https://www.akia.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f406e3c78b9e451895918f?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Apr 30 |
 | **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/69f3eba0c78b9e4518958c7f?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | Apr 30 |
 | **[Hisense USA](http://hisense-usa.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f3eb5e343eef4fb0a9f188?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
 | **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/69f404c058b23a2329da93ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
@@ -109,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2aefc825a315d7ca3def7?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
@@ -133,9 +134,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29634825a315d7ca3d5f5?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2956e8feca91f14925af4?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29635825a315d7ca3d5f9?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
+| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29635825a315d7ca3d5f9?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
+| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2956e8feca91f14925af4?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e1ab4ec4779fff9cc2?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f29a26825a315d7ca3d8fc?utm_campaign=1049&utm_source=git)** | San Antonio, TX, USA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Focal Point, LLC](https://www.focalpointlights.com/)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2249aab4ec4779fff774e?utm_campaign=1049&utm_source=git)** | Minnetonka, MN, US | On Site | Apr 29 |
 | **[Provation](https://www.provationmedical.com)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/69d50a83cdb525785fbce062?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | Hybrid | Apr 29 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/69b82f6956973837413d5b44?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | Apr 29 |
-| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69d56151cdb525785fbd06c0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
