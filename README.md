@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
+| **[American Outdoor Brands Inc.](http://www.aob.com/)** | **[Production Artist Intern](https://jobright.ai/jobs/info/69f52c7c81706a5bd2165445?utm_campaign=1049&utm_source=git)** | Columbia, MO, US | On Site | May 01 |
 | **[Tinder](http://www.tinder.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69f529790b36ff0354750cbc?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | May 01 |
 | **[Stanley Consultants](https://www.stanleyconsultants.com/)** | **[Architect Intern](https://jobright.ai/jobs/info/69f5108a0b36ff0354750592?utm_campaign=1049&utm_source=git)** | Muscatine, IA | On Site | May 01 |
 | **[HARMAN International](https://www.harman.com/)** | **[Parttime Intern - Martin Professional Lighting](https://jobright.ai/jobs/info/69bb25f906c1ba00c54d9e64?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | May 01 |
 | **[Ethos Veterinary Health](https://www.ethosvet.com)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f50d8bdb88714bcdfb1b81?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
+| **[moomoo](https://www.moomoo.com)** | **[Unpaid - Motion Design Intern](https://jobright.ai/jobs/info/69f5360d81706a5bd2165870?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 01 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69f506b881706a5bd216468c?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | May 01 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 01 |
 | **[QI COLLECTIVE](http://qicollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f52a2512f2811ab5a636fa?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292dbecbc8c2f7320b44a?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29634825a315d7ca3d5f5?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2956e8feca91f14925af4?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f29635825a315d7ca3d5f9?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Apr 29 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
