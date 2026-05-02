@@ -104,6 +104,7 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Creative](https://jobright.ai/jobs/info/69f3d0eb6942c746fa694cf0?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 30 |
 | **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69f4050e58b23a2329da9429?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
+| **[Buraq AI Inc.](https://buraq-ai.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f58bb043a25828a8d19053?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design & Creative Internships – Academic Year](https://jobright.ai/jobs/info/69f3df8a343eef4fb0a9eae8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 30 |
 | **[Ariat International](http://www.ariat.com)** | **[Apparel Technical Design Intern](https://jobright.ai/jobs/info/69f3abf01f90bd6ae23d1371?utm_campaign=1049&utm_source=git)** | San Leandro, CA | On Site | Apr 30 |
 | **[Multistudio](https://www.multi.studio)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69f3a53a461b9b613a622329?utm_campaign=1049&utm_source=git)** | PHX, Phoenix, AZ, US | Hybrid | Apr 30 |
@@ -139,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2aefc825a315d7ca3def7?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69f28aa5ab4ec4779fff99ce?utm_campaign=1049&utm_source=git)** | 6501 Americas Parkway NE Suite 700, Albuquerque, NM, 87110, US | Hybrid | Apr 29 |
 | **[Altruist](www.altruistbuilt.com)** | **[Architecture Intern — Summer Program](https://jobright.ai/jobs/info/69f28975ab4ec4779fff9955?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Apr 29 |
 | **[Pond & Company](https://www.pondco.com)** | **[Interior Designer Intern - Interior Design](https://jobright.ai/jobs/info/69f284e5ab4ec4779fff97e7?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Apr 29 |
-| **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
