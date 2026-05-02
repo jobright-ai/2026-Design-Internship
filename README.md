@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Design Intern – Design System](https://jobright.ai/jobs/info/69f65778582f810f9c8c8b9a?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Design Intern – Design System](https://jobright.ai/jobs/info/69f6538db1fc847fc1ae302b?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
+| **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69d9cadd9f97a42dc9c2449a?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 02 |
 | **[SFCS Architects](http://sfcs.com)** | **[Summer Interior Design Intern](https://jobright.ai/jobs/info/69f647acdb88714bcdfb5d25?utm_campaign=1049&utm_source=git)** | Blue Bell, PA | On Site | May 02 |
 | **[That One Media Studio](https://dot.cards/thatonemediastudio)** | **[Creative Intern](https://jobright.ai/jobs/info/69f63f0a81706a5bd2168570?utm_campaign=1049&utm_source=git)** | Savannah, GA | Hybrid | May 02 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f619b581706a5bd21683da?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 02 |
@@ -85,7 +87,6 @@ For a complete list, click the following sortable link below:
 | **[Ethos Veterinary Health](https://www.ethosvet.com)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f50d8bdb88714bcdfb1b81?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69f506b881706a5bd216468c?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | May 01 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 01 |
-| **[QI COLLECTIVE](http://qicollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f52a2512f2811ab5a636fa?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 01 |
 | **[Elemet Group](https://elemetgroup.com)** | **[Content Intern](https://jobright.ai/jobs/info/69f5016a12f2811ab5a625cf?utm_campaign=1049&utm_source=git)** | Glenn Metalcraft Inc - Princeton, MN 55371 | On Site | May 01 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 | **[The Convenient App](www.theconvenientapp.com)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/69f52a0ca3d34b4f76f54005?utm_campaign=1049&utm_source=git)** | Worcester, MA | Hybrid | May 01 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2a7dcab4ec4779fffa318?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 29 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
