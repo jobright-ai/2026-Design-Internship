@@ -121,7 +121,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f117e63cea7a8b66d25e?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Apr 30 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 30 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 30 |
-| **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture and Interior Design Internship](https://jobright.ai/jobs/info/69f3ad646942c746fa6936d0?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69da2dd2b67cec4f9b0a811a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 | ↳ | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d9f23c869c7e25d859fdc8?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 30 |
 | **[Acadium](http://www.acadium.com)** | **[Web Design Intern (WordPress / Elementor)](https://jobright.ai/jobs/info/69f37b07461b9b613a620771?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f29a2fab4ec4779fff9f2d?utm_campaign=1049&utm_source=git)** | Madison,WI,US | On Site | Apr 29 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f2971aecbc8c2f7320b7fa?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 29 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Design Intern -Summer Term](https://jobright.ai/jobs/info/69f2930eab4ec4779fff9d9a?utm_campaign=1049&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 29 |
+| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69f28aa5ab4ec4779fff99ce?utm_campaign=1049&utm_source=git)** | 6501 Americas Parkway NE Suite 700, Albuquerque, NM, 87110, US | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
