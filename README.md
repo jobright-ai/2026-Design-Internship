@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Visual Design, Emerging Talent (Fall)](https://jobright.ai/jobs/info/69f59ff843a25828a8d19324?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 01 |
 | **[Pivot Interiors](https://www.pivotinteriors.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f54c70db88714bcdfb31a7?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | May 01 |
-| **[Gift](https://www.shine.gift)** | **[AI Art and Editing Intern](https://jobright.ai/jobs/info/69f5442112f2811ab5a640d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
 | **[Skydance Animation](https://skydance.com/animation/#-)** | **[Character Design Apprentice](https://jobright.ai/jobs/info/69f543e8db88714bcdfb30f3?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 01 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 01 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
@@ -98,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f5005781706a5bd2164261?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[Barton & Gray Mariners Club](http://www.bartonandgray.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f51d5a12f2811ab5a62f5d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 01 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Web & Digital Communications](https://jobright.ai/jobs/info/69f4f184a3d34b4f76f529bf?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | On Site | May 01 |
-| **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69f4ea8d43a25828a8d15c33?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | May 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | May 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | May 01 |
@@ -148,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 | **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f3df77343eef4fb0a9ea9d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 29 |
 | **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship](https://jobright.ai/jobs/info/69f3d71ac78b9e4518957e4d?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
+| **[Multistudio](https://www.multi.studio)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69f3ebbb343eef4fb0a9f315?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Apr 29 |
+| **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f29a2fab4ec4779fff9f2d?utm_campaign=1049&utm_source=git)** | Madison,WI,US | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
