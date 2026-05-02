@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/69f5a90381706a5bd2166de8?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 02 |
+| **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | May 02 |
+| **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Visual Design, Emerging Talent (Fall)](https://jobright.ai/jobs/info/69f59ff843a25828a8d19324?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 01 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 01 |
 | **[Pivot Interiors](https://www.pivotinteriors.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f54c70db88714bcdfb31a7?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | May 01 |
 | **[Gift](https://www.shine.gift)** | **[AI Art and Editing Intern](https://jobright.ai/jobs/info/69f5442112f2811ab5a640d9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 01 |
@@ -91,6 +94,7 @@ For a complete list, click the following sortable link below:
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69f4ea8d43a25828a8d15c33?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | May 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | May 01 |
+| **[Arena](https://arena.run/)** | **[Video Editor](https://jobright.ai/jobs/info/69f5a4d343a25828a8d19514?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | May 01 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[UI/UX Figma Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69f456b3343eef4fb0aa09ca?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | May 01 |
 | **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69f423ef343eef4fb0a9fe8c?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 30 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f29a2fab4ec4779fff9f2d?utm_campaign=1049&utm_source=git)** | Madison,WI,US | On Site | Apr 29 |
 | **[Spurs Sports & Entertainment](https://www.nba.com/spurs/careers)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f2971aecbc8c2f7320b7fa?utm_campaign=1049&utm_source=git)** | San Antonio, TX | On Site | Apr 29 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Design Intern -Summer Term](https://jobright.ai/jobs/info/69f2930eab4ec4779fff9d9a?utm_campaign=1049&utm_source=git)** | Brampton, Ontario, Canada | On Site | Apr 29 |
-| **[Stantec](http://www.stantec.com)** | **[Student Intern, Architecture - Buildings (Summer 2026)](https://jobright.ai/jobs/info/69f28aa5ab4ec4779fff99ce?utm_campaign=1049&utm_source=git)** | 6501 Americas Parkway NE Suite 700, Albuquerque, NM, 87110, US | Hybrid | Apr 29 |
-| **[Altruist](www.altruistbuilt.com)** | **[Architecture Intern — Summer Program](https://jobright.ai/jobs/info/69f28975ab4ec4779fff9955?utm_campaign=1049&utm_source=git)** | Boise, ID | On Site | Apr 29 |
-| **[Pond & Company](https://www.pondco.com)** | **[Interior Designer Intern - Interior Design](https://jobright.ai/jobs/info/69f284e5ab4ec4779fff97e7?utm_campaign=1049&utm_source=git)** | Peachtree Corners, GA | On Site | Apr 29 |
-| **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
