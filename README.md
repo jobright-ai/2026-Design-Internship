@@ -89,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[The Convenient App](www.theconvenientapp.com)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/69f52a0ca3d34b4f76f54005?utm_campaign=1049&utm_source=git)** | Worcester, MA | Hybrid | May 01 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/69f510bc0b36ff03547505f1?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 01 |
-| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f4ea9e43a25828a8d15c47?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 01 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f4e40aa3d34b4f76f5250a?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 01 |
@@ -102,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Toho Water Authority](https://www.tohowater.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69f4ea8d43a25828a8d15c33?utm_campaign=1049&utm_source=git)** | Kissimmee, FL | On Site | May 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | May 01 |
-| **[Arena](https://arena.run/)** | **[Video Editor](https://jobright.ai/jobs/info/69f5a4d343a25828a8d19514?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | May 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | May 01 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[UI/UX Figma Internship - Summer/Fall 2026](https://jobright.ai/jobs/info/69f456b3343eef4fb0aa09ca?utm_campaign=1049&utm_source=git)** | Clearwater, FL | Remote | May 01 |
 | **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69f423ef343eef4fb0a9fe8c?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 30 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2a7dcab4ec4779fffa318?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
+| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f3df77343eef4fb0a9ea9d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 29 |
+| **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship](https://jobright.ai/jobs/info/69f3d71ac78b9e4518957e4d?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
