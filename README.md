@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f619b581706a5bd21683da?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 02 |
 | **[GovCIO](https://govcio.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f5f50112f2811ab5a664fe?utm_campaign=1049&utm_source=git)** | Fairfax, VA | Remote | May 02 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 02 |
+| **[General Dynamics Ordnance and Tactical Systems](http://www.gd-ots.com)** | **[2026 Summer Intern (Graphic Design)](https://jobright.ai/jobs/info/69d933f5f748bc5d08a498fe?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL | On Site | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 02 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f5d2090b36ff0354752faf?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2a7dcab4ec4779fffa318?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 29 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
-| **[Dreamwear](https://www.dreamwear.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f3df77343eef4fb0a9ea9d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 29 |
-| **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship](https://jobright.ai/jobs/info/69f3d71ac78b9e4518957e4d?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
