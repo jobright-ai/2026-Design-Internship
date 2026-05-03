@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cuddles Learning](https://www.cuddleskidz.com/)** | **[Game Design Intern](https://jobright.ai/jobs/info/69f7ce33db88714bcdfb984e?utm_campaign=1049&utm_source=git)** | Markham, Ontario, Canada | Remote | May 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daa282b67cec4f9b0abc2f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 03 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 03 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
-| **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
