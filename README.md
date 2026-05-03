@@ -70,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 02 |
 | **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f5d2090b36ff0354752faf?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 02 |
-| **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/69f5a90381706a5bd2166de8?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 02 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | May 02 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f5de330b36ff03547530ac?utm_campaign=1049&utm_source=git)** | Pittsfield, Massachusetts | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Visual Design, Emerging Talent (Fall)](https://jobright.ai/jobs/info/69f59ff843a25828a8d19324?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2a7dcab4ec4779fffa318?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 29 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
