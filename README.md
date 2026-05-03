@@ -97,9 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 01 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f4d77d0b36ff035474f7f3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4d58843a25828a8d15643?utm_campaign=1049&utm_source=git)** | Morristown, NJ, US | On Site | May 01 |
-| **[Barton & Gray Mariners Club](http://www.bartonandgray.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f4cc530b36ff035474ee64?utm_campaign=1049&utm_source=git)** | Boston Office, Boston, MA, US | On Site | May 01 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f5005781706a5bd2164261?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Barton & Gray Mariners Club](http://www.bartonandgray.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f51d5a12f2811ab5a62f5d?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 01 |
 | **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Web & Digital Communications](https://jobright.ai/jobs/info/69f4f184a3d34b4f76f529bf?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | On Site | May 01 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | May 01 |
@@ -137,6 +135,7 @@ For a complete list, click the following sortable link below:
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f890366bb95ba5550f02?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 30 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d65248706f771673baa373?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 30 |
+| **[KQED](http://www.kqed.org)** | **[Visual Journalism Intern](https://jobright.ai/jobs/info/69f755c1a3d34b4f76f5b455?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Apr 30 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Creative Intern - Fall 2026](https://jobright.ai/jobs/info/69bb8a7a56973837414195c6?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Apr 30 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69df0a71e34484770f1a68b7?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Apr 30 |
 | **[Octave](https://www.octave.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69ba928306c1ba00c54cb2c8?utm_campaign=1049&utm_source=git)** | Madison, AL | Remote | Apr 30 |
@@ -151,10 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Apr 29 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/69f2add7ab4ec4779fffa620?utm_campaign=1049&utm_source=git)** | New Orleans, LA | On Site | Apr 29 |
 | **[Legrand, North America](http://www.legrand.us)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f2c495ecbc8c2f7320d740?utm_campaign=1049&utm_source=git)** | Minnetonka, MN | On Site | Apr 29 |
 | **[Atmosphere Commercial Interiors](https://www.atmosphereci.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f2a7dcab4ec4779fffa318?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | Apr 29 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
