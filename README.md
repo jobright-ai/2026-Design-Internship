@@ -57,7 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69f8978ba3d34b4f76f5cf66?utm_campaign=1049&utm_source=git)** | United States | Remote | May 04 |
+| **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Intern](https://jobright.ai/jobs/info/69f8beba81706a5bd216e13c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 04 |
+| **[Mango Mango Dessert](http://mangomangodessert.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f8b9c7582f810f9c8ce03e?utm_campaign=1049&utm_source=git)** | Bay Shore, NY | On Site | May 04 |
+| **[Textbook Painting](https://www.textbookadmin.com/)** | **[Content Creation (Photography & Videography) - Summer Internship](https://jobright.ai/jobs/info/69f8a5010b36ff035475a107?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | May 04 |
+| **[Acadium](http://www.acadium.com)** | **[Content and Social Media Marketing, and Graphic Design Intern](https://jobright.ai/jobs/info/69f8a45da3d34b4f76f5d0bf?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | May 04 |
+| ↳ | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69f8978ba3d34b4f76f5cf66?utm_campaign=1049&utm_source=git)** | United States | Remote | May 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Technology and Digital Asset Management](https://jobright.ai/jobs/info/69f86ba80b36ff03547594eb?utm_campaign=1049&utm_source=git)** | Tempe, AZ, US | Hybrid | May 04 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 03 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f558670b36ff0354751b2c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 03 |
@@ -99,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 01 |
 | **[Elemet Group](https://elemetgroup.com)** | **[Content Intern](https://jobright.ai/jobs/info/69f5016a12f2811ab5a625cf?utm_campaign=1049&utm_source=git)** | Glenn Metalcraft Inc - Princeton, MN 55371 | On Site | May 01 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
-| **[The Convenient App](www.theconvenientapp.com)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/69f52a0ca3d34b4f76f54005?utm_campaign=1049&utm_source=git)** | Worcester, MA | Hybrid | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 01 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f4e40aa3d34b4f76f5250a?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
@@ -138,8 +141,6 @@ For a complete list, click the following sortable link below:
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69da2dd2b67cec4f9b0a811a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 | ↳ | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d9f23c869c7e25d859fdc8?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 30 |
 | **[Acadium](http://www.acadium.com)** | **[Web Design Intern (WordPress / Elementor)](https://jobright.ai/jobs/info/69f37b07461b9b613a620771?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
-| **[Anduril Industries](https://www.anduril.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/699f13a581476f6176b8a533?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Apr 30 |
-| **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Intern](https://jobright.ai/jobs/info/69f3667a6942c746fa691015?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f890366bb95ba5550f02?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Apr 30 |
 | **[EwingCole](http://www.ewingcole.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/69d65248706f771673baa373?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Apr 30 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/69d6db7be63cea7a8b66ca3c?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Apr 30 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship (with potential of full time employment)](https://jobright.ai/jobs/info/69f6d459b1fc847fc1ae4803?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
 | ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f30c1534c4af7a79ab8b5c?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
