@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69f912cc0b36ff035475ceef?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 04 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Intimates 1](https://jobright.ai/jobs/info/69f912b30b36ff035475ced8?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 04 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69f91288582f810f9c8d01c4?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 04 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Free People Design Intern Summer 2026 - Intimates 1](https://jobright.ai/jobs/info/69f91282582f810f9c8d01b1?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, US | On Site | May 04 |
+| **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69f90c58b1fc847fc1aea509?utm_campaign=1049&utm_source=git)** | Hagerstown, Maryland, United States | On Site | May 04 |
+| **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69f907b80b36ff035475c92e?utm_campaign=1049&utm_source=git)** | Edmonton, AB - 10160 103 St. NW, CA | Remote | May 04 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
 | **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[CDI Curb Adapters](http://www.cdicurbs.com)** | **[Drafting and Design Intern](https://jobright.ai/jobs/info/69f8f332a3d34b4f76f5f168?utm_campaign=1049&utm_source=git)** | Plymouth,MN,US | On Site | May 04 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f3d8e5461b9b613a6245f7?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | Apr 30 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Graphic Artist Intern (Peanuts Worldwide)](https://jobright.ai/jobs/info/69f3e340c78b9e4518958684?utm_campaign=1049&utm_source=git)** | New York, US | Hybrid | Apr 30 |
 | **[Hisense USA](http://hisense-usa.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f39737461b9b613a621f68?utm_campaign=1049&utm_source=git)** | Alpharetta, Georgia, United States | On Site | Apr 30 |
-| **[THE·TEAM](https://www.linkedin.com/redir/suspicious-page?url=http%3A%2F%2Fthe%2eteam)** | **[Summer 2026 Internship - Graphic Design, Global Communications](https://jobright.ai/jobs/info/69f38fce461b9b613a621cb2?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Apr 30 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d70a8d52a5bf580012d656?utm_campaign=1049&utm_source=git)** | North Carolina, United States | Remote | Apr 30 |
-| ↳ | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f117e63cea7a8b66d25e?utm_campaign=1049&utm_source=git)** | Arizona, United States | Remote | Apr 30 |
-| **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 30 |
-| **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 30 |
-| **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69da2dd2b67cec4f9b0a811a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
