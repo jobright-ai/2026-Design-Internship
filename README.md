@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uprise Labs](https://www.uprisedetroit.org/)** | **[Website Design Intern](https://jobright.ai/jobs/info/69f8d469db88714bcdfbb9a6?utm_campaign=1049&utm_source=git)** | Metro Detroit, MI | Hybrid | May 04 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8ceec0b36ff035475adfb?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | May 04 |
+| ↳ | **[Interior Designer Intern - Buildings (Fall 2026) – 4 or 8 Month Term](https://jobright.ai/jobs/info/69f8ceea0b36ff035475adf6?utm_campaign=1049&utm_source=git)** | 2nd Floor 4910 53 Street, Yellowknife, NT, X1A 2P4, CA | On Site | May 04 |
+| **[BlueChips](www.bluechips.com)** | **[Visual Communications and Brand Designer Intern](https://jobright.ai/jobs/info/69f8cdbe582f810f9c8ce4c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Motion Design Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c8e1582f810f9c8ce2e0?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | ↳ | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c217a3d34b4f76f5dbec?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Intern](https://jobright.ai/jobs/info/69f8beba81706a5bd216e13c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Apr 30 |
 | **[Valley Forge Fabrics, Inc.](http://valleyforge.com)** | **[Junior Interior Design Curation Intern](https://jobright.ai/jobs/info/69f341d36942c746fa6904cf?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL | On Site | Apr 30 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f32f86c78b9e4518953976?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Apr 30 |
-| **[Blaze (YC S24)](https://blaze.money/)** | **[Special Projects Intern — AI Content & Creative Operations](https://jobright.ai/jobs/info/69f2e1d834c4af7a79ab7d24?utm_campaign=1049&utm_source=git)** | Remote (US) | Remote | Apr 29 |
-| **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[UX / UI Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31bc?utm_campaign=1049&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
-| **[XP Health](http://xphealth.co)** | **[Design Intern](https://jobright.ai/jobs/info/69f2cf99ab4ec4779fffc433?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Apr 29 |
-| **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship (with potential of full time employment)](https://jobright.ai/jobs/info/69f6d459b1fc847fc1ae4803?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
