@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Motion Design Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c8e1582f810f9c8ce2e0?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
+| ↳ | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c217a3d34b4f76f5dbec?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Intern](https://jobright.ai/jobs/info/69f8beba81706a5bd216e13c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 04 |
 | **[Mango Mango Dessert](http://mangomangodessert.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f8b9c7582f810f9c8ce03e?utm_campaign=1049&utm_source=git)** | Bay Shore, NY | On Site | May 04 |
 | **[Textbook Painting](https://www.textbookadmin.com/)** | **[Content Creation (Photography & Videography) - Summer Internship](https://jobright.ai/jobs/info/69f8a5010b36ff035475a107?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | May 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Intelcom | Dragonfly](https://intelcom.ca/en)** | **[UX / UI Intern](https://jobright.ai/jobs/info/69f3251658b23a2329da31bc?utm_campaign=1049&utm_source=git)** | Canada, Quebec, Montreal, CA | On Site | Apr 29 |
 | **[XP Health](http://xphealth.co)** | **[Design Intern](https://jobright.ai/jobs/info/69f2cf99ab4ec4779fffc433?utm_campaign=1049&utm_source=git)** | San Carlos, CA | Hybrid | Apr 29 |
 | **[Archinect](https://archinect.com)** | **[Architecture and Exhibition Design Summer Internship (with potential of full time employment)](https://jobright.ai/jobs/info/69f6d459b1fc847fc1ae4803?utm_campaign=1049&utm_source=git)** | Somerville, MA | Hybrid | Apr 29 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f302e6ecbc8c2f7320f820?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Apr 29 |
-| ↳ | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | Apr 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
