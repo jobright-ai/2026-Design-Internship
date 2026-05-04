@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
+| **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[CDI Curb Adapters](http://www.cdicurbs.com)** | **[Drafting and Design Intern](https://jobright.ai/jobs/info/69f8f332a3d34b4f76f5f168?utm_campaign=1049&utm_source=git)** | Plymouth,MN,US | On Site | May 04 |
 | **[CSM Senior Living Management](https://www.csmmanagement.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69f8e81adb88714bcdfbc2bf?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | May 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Student Intern — Summer 2026 (Buildings + Places)](https://jobright.ai/jobs/info/69f8e73fdb88714bcdfbc1df?utm_campaign=1049&utm_source=git)** | Markham, ON, Canada | On Site | May 04 |
@@ -71,7 +73,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Designer Intern - Buildings (Fall 2026) – 4 or 8 Month Term](https://jobright.ai/jobs/info/69f8ceea0b36ff035475adf6?utm_campaign=1049&utm_source=git)** | 2nd Floor 4910 53 Street, Yellowknife, NT, X1A 2P4, CA | On Site | May 04 |
 | **[BlueChips](www.bluechips.com)** | **[Visual Communications and Brand Designer Intern](https://jobright.ai/jobs/info/69f8cdbe582f810f9c8ce4c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Motion Design Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c8e1582f810f9c8ce2e0?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
-| ↳ | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c217a3d34b4f76f5dbec?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
+| **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 04 |
+| **[BrokerLink](http://www.brokerlink.ca)** | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c217a3d34b4f76f5dbec?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[BCI Brands](https://www.bcibrands.com)** | **[Vince Camuto Design Intern](https://jobright.ai/jobs/info/69f8beba81706a5bd216e13c?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 04 |
 | **[Textbook Painting](https://www.textbookadmin.com/)** | **[Content Creation (Photography & Videography) - Summer Internship](https://jobright.ai/jobs/info/69f8a5010b36ff035475a107?utm_campaign=1049&utm_source=git)** | Cleveland, OH | On Site | May 04 |
 | **[Acadium](http://www.acadium.com)** | **[Content and Social Media Marketing, and Graphic Design Intern](https://jobright.ai/jobs/info/69f8a45da3d34b4f76f5d0bf?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | May 04 |
@@ -96,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[SanMar](http://www.sanmar.com)** | **[Merchandising Intern, Design](https://jobright.ai/jobs/info/69bca541e6a0d9792584a6a6?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | May 02 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69d9cadd9f97a42dc9c2449a?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 02 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f619b581706a5bd21683da?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 02 |
-| **[GovCIO](https://govcio.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f5f50112f2811ab5a664fe?utm_campaign=1049&utm_source=git)** | Fairfax, VA | Remote | May 02 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Apr 30 |
 | **[Rocket Lawyer](https://www.rocketlawyer.com)** | **[UX Research Intern, AI Experience](https://jobright.ai/jobs/info/69d6f266366bb95ba5550ce1?utm_campaign=1049&utm_source=git)** | Utah, United States | Remote | Apr 30 |
 | **[Forvis Mazars US](https://www.forvis.com)** | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69da2dd2b67cec4f9b0a811a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Apr 30 |
-| ↳ | **[Graphic Design Intern / Multiple Locations](https://jobright.ai/jobs/info/69d9f23c869c7e25d859fdc8?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | Apr 30 |
-| **[Acadium](http://www.acadium.com)** | **[Web Design Intern (WordPress / Elementor)](https://jobright.ai/jobs/info/69f37b07461b9b613a620771?utm_campaign=1049&utm_source=git)** | United States | Remote | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
