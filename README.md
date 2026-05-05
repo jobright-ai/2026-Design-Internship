@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Sodalis Group](https://www.sodalisgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa3a5cb1fc847fc1aeedb2?utm_campaign=1049&utm_source=git)** | Westport, CT | Hybrid | May 05 |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69fa5524b1fc847fc1aefb35?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
+| **[Cerese D, Inc.](https://ceresed.com/pages/our-story-purpose)** | **[Creative and Social Media Intern](https://jobright.ai/jobs/info/69fa52db0b36ff0354761f1a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 05 |
+| **[Sodalis Group](https://www.sodalisgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa52670b36ff0354761e67?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | May 05 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa3a5cb1fc847fc1aeedb2?utm_campaign=1049&utm_source=git)** | Westport, CT | Hybrid | May 05 |
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c130b36ff0354760f47?utm_campaign=1049&utm_source=git)** | Los Angeles, California, USA, US | Hybrid | May 05 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c07a3d34b4f76f64570?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA, US | Hybrid | May 05 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2bb7b1fc847fc1aee9bb?utm_campaign=1049&utm_source=git)** | New York, New York, USA, US | Hybrid | May 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 01 |
 | **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f4d77d0b36ff035474f7f3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4d58843a25828a8d15643?utm_campaign=1049&utm_source=git)** | Morristown, NJ, US | On Site | May 01 |
-| **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f5005781706a5bd2164261?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
-| **[GoodWork Environmental Jobs](http://www.GoodWork.ca)** | **[Summer job: Web & Digital Communications](https://jobright.ai/jobs/info/69f4f184a3d34b4f76f529bf?utm_campaign=1049&utm_source=git)** | Waterloo, Ontario, Canada | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
