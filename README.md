@@ -57,16 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Edelman](http://www.edelman.com)** | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c130b36ff0354760f47?utm_campaign=1049&utm_source=git)** | Los Angeles, California, USA, US | Hybrid | May 05 |
+| ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c07a3d34b4f76f64570?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA, US | Hybrid | May 05 |
+| ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2bb7b1fc847fc1aee9bb?utm_campaign=1049&utm_source=git)** | New York, New York, USA, US | Hybrid | May 05 |
 | **[WATG and Wimberly Interiors](https://www.watg.com/)** | **[Intern - Architecture](https://jobright.ai/jobs/info/69fa20d581706a5bd2173eb3?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | May 05 |
 | ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/69fa20a5582f810f9c8d4349?utm_campaign=1049&utm_source=git)** | Dallas, Texas, United States | On Site | May 05 |
-| ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/69fa20a3db88714bcdfc14e6?utm_campaign=1049&utm_source=git)** | Tustin, California, United States | On Site | May 05 |
 | ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/69fa2090a3d34b4f76f640ef?utm_campaign=1049&utm_source=git)** | Honolulu, Hawaii, United States | On Site | May 05 |
 | ↳ | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69fa2090a3d34b4f76f640f1?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | May 05 |
 | ↳ | **[Intern - Landscape Architecture](https://jobright.ai/jobs/info/69fa206f0b36ff0354760aad?utm_campaign=1049&utm_source=git)** | Tustin, California, United States | On Site | May 05 |
 | ↳ | **[Intern - Architecture](https://jobright.ai/jobs/info/69fa204bb1fc847fc1aee49c?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1fca0b36ff0354760a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1bb481706a5bd2173ce4?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
-| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UX Writer + Content Writer Intern](https://jobright.ai/jobs/info/69fa188fa3d34b4f76f63e60?utm_campaign=1049&utm_source=git)** | United States | Remote | May 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fa122bdb88714bcdfc101f?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | May 05 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 01 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f4e40aa3d34b4f76f5250a?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
-| **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
