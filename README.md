@@ -70,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | May 04 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
 | **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
 | **[CDI Curb Adapters](http://www.cdicurbs.com)** | **[Drafting and Design Intern](https://jobright.ai/jobs/info/69f8f332a3d34b4f76f5f168?utm_campaign=1049&utm_source=git)** | Plymouth,MN,US | On Site | May 04 |
 | **[CSM Senior Living Management](https://www.csmmanagement.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69f8e81adb88714bcdfbc2bf?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | May 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Student Intern — Summer 2026 (Buildings + Places)](https://jobright.ai/jobs/info/69f8e73fdb88714bcdfbc1df?utm_campaign=1049&utm_source=git)** | Markham, ON, Canada | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Creative](https://jobright.ai/jobs/info/69f3d0eb6942c746fa694cf0?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 30 |
 | **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69f4050e58b23a2329da9429?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
-| **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design & Creative Internships – Academic Year](https://jobright.ai/jobs/info/69f3df8a343eef4fb0a9eae8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
