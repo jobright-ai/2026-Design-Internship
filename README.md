@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69f94d84b1fc847fc1aeba77?utm_campaign=1049&utm_source=git)** | Fresno,CA,US | Remote | May 04 |
 | **[EB Denim](https://www.ebdenim.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f9362581706a5bd217107c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f67b1fc847fc1aeb691?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
 | ↳ | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69f4050e58b23a2329da9429?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design & Creative Internships – Academic Year](https://jobright.ai/jobs/info/69f3df8a343eef4fb0a9eae8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 30 |
-| **[Ariat International](http://www.ariat.com)** | **[Apparel Technical Design Intern](https://jobright.ai/jobs/info/69f3abf01f90bd6ae23d1371?utm_campaign=1049&utm_source=git)** | San Leandro, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
