@@ -77,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Student Intern — Summer 2026 (Buildings + Places)](https://jobright.ai/jobs/info/69f8e73fdb88714bcdfbc1df?utm_campaign=1049&utm_source=git)** | Markham, ON, Canada | On Site | May 04 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8e5410b36ff035475b24a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 04 |
 | **[Axioo](https://axioo.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f8e403582f810f9c8ce6fd?utm_campaign=1049&utm_source=git)** | United States | Remote | May 04 |
-| **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/69f8e39f81706a5bd216e7e7?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | May 04 |
 | **[QI COLLECTIVE](http://qicollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69f8e38cdb88714bcdfbbcc7?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | May 04 |
 | **[LaBella Associates](http://www.labellapc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69f8dd2fa3d34b4f76f5e081?utm_campaign=1049&utm_source=git)** | Buffalo, New York, United States | On Site | May 04 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69f8dbd7a3d34b4f76f5e021?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Endless Studios](http://www.endlessstudios.com)** | **[University Game Club Program: Brand & Design Intern](https://jobright.ai/jobs/info/69f3d8a8343eef4fb0a9e677?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Apr 30 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f3d2e06942c746fa69518e?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Apr 30 |
 | **[Publicis Groupe ANZ](http://www.publicisgroupeanz.com)** | **[Intern, Creative](https://jobright.ai/jobs/info/69f3d0eb6942c746fa694cf0?utm_campaign=1049&utm_source=git)** | US-NY-New York | Hybrid | Apr 30 |
+| **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
