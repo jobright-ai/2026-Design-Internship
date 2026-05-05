@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartly](http://smartly.io)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69fa70260b36ff03547627d9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 05 |
+| **[Uprise Labs](https://www.uprisedetroit.org/)** | **[Website Design Intern (Squarespace)](https://jobright.ai/jobs/info/69fa693d582f810f9c8d5b12?utm_campaign=1049&utm_source=git)** | United States | Hybrid | May 05 |
+| **[Clemson University](http://www.clemson.edu)** | **[NSF REU Summer Intern (Visual Computing)](https://jobright.ai/jobs/info/69fa648d0b36ff0354762136?utm_campaign=1049&utm_source=git)** | Clemson, SC | On Site | May 05 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69fa5524b1fc847fc1aefb35?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Cerese D, Inc.](https://ceresed.com/pages/our-story-purpose)** | **[Creative and Social Media Intern](https://jobright.ai/jobs/info/69fa52db0b36ff0354761f1a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Sodalis Group](https://www.sodalisgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa52670b36ff0354761e67?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | May 05 |
@@ -64,8 +67,10 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c130b36ff0354760f47?utm_campaign=1049&utm_source=git)** | Los Angeles, California, USA, US | Hybrid | May 05 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2c07a3d34b4f76f64570?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, USA, US | Hybrid | May 05 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fa2bb7b1fc847fc1aee9bb?utm_campaign=1049&utm_source=git)** | New York, New York, USA, US | Hybrid | May 05 |
+| **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/69dd4e7abc6f6622c99115f9?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1fca0b36ff0354760a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1bb481706a5bd2173ce4?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
+| **[Komar](http://komarbrands.com)** | **[Design Internship](https://jobright.ai/jobs/info/69fa649fb1fc847fc1aefccd?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fa122bdb88714bcdfc101f?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | May 05 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
@@ -90,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69fa05a7582f810f9c8d3a06?utm_campaign=1049&utm_source=git)** | Hagerstown, Maryland, United States, US | On Site | May 04 |
 | **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
-| **[CDI Curb Adapters](http://www.cdicurbs.com)** | **[Drafting and Design Intern](https://jobright.ai/jobs/info/69f8f332a3d34b4f76f5f168?utm_campaign=1049&utm_source=git)** | Plymouth,MN,US | On Site | May 04 |
 | **[CSM Senior Living Management](https://www.csmmanagement.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69f8e81adb88714bcdfbc2bf?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | May 04 |
 | **[AECOM](http://www.aecom.com/)** | **[Architecture Student Intern — Summer 2026 (Buildings + Places)](https://jobright.ai/jobs/info/69f8e73fdb88714bcdfbc1df?utm_campaign=1049&utm_source=git)** | Markham, ON, Canada | On Site | May 04 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8e5410b36ff035475b24a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 04 |
@@ -133,7 +137,6 @@ For a complete list, click the following sortable link below:
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 02 |
-| **[IMAX Enhanced | Streaming & Consumer Technology](http://ssimwave.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f5d2090b36ff0354752faf?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 02 |
 | **[FIRST](https://firstagency.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/69dec4e8aba61f1417317a9b?utm_campaign=1049&utm_source=git)** | FIRST - New York | On Site | May 02 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f5de330b36ff03547530ac?utm_campaign=1049&utm_source=git)** | Pittsfield, Massachusetts | On Site | May 01 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Visual Design, Emerging Talent (Fall)](https://jobright.ai/jobs/info/69f59ff843a25828a8d19324?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 01 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 01 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f4e40aa3d34b4f76f5250a?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
-| **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
-| **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 01 |
-| **[Getty Images](https://www.gettyimages.com)** | **[Intern for Editorial Entertainment Photography](https://jobright.ai/jobs/info/69f4d77d0b36ff035474f7f3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
