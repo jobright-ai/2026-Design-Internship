@@ -80,7 +80,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/69f8dbd7a3d34b4f76f5e021?utm_campaign=1049&utm_source=git)** | Buffalo, NY | On Site | May 04 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8ceec0b36ff035475adfb?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | May 04 |
 | ↳ | **[Interior Designer Intern - Buildings (Fall 2026) – 4 or 8 Month Term](https://jobright.ai/jobs/info/69f8ceea0b36ff035475adf6?utm_campaign=1049&utm_source=git)** | 2nd Floor 4910 53 Street, Yellowknife, NT, X1A 2P4, CA | On Site | May 04 |
-| **[BlueChips](www.bluechips.com)** | **[Visual Communications and Brand Designer Intern](https://jobright.ai/jobs/info/69f8cdbe582f810f9c8ce4c7?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Motion Design Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c8e1582f810f9c8ce2e0?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69deb2b25913ad339813f048?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69f8c217a3d34b4f76f5dbec?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Micro Systems Engineering, Inc.](http://www.mst.com/MSTgroup/msei)** | **[User Experience (UX) Intern](https://jobright.ai/jobs/info/69f3c37a343eef4fb0a9e090?utm_campaign=1049&utm_source=git)** | Lake Oswego, OR | On Site | Apr 30 |
 | **[Detroit City FC](https://www.detcityfc.com)** | **[Motion Graphics Intern](https://jobright.ai/jobs/info/69f4050e58b23a2329da9429?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Apr 30 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Graphic Design & Creative Internships – Academic Year](https://jobright.ai/jobs/info/69f3df8a343eef4fb0a9eae8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Apr 30 |
+| **[Ariat International](http://www.ariat.com)** | **[Apparel Technical Design Intern](https://jobright.ai/jobs/info/69f3abf01f90bd6ae23d1371?utm_campaign=1049&utm_source=git)** | San Leandro, CA | On Site | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
