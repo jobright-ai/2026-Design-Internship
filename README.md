@@ -57,11 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1bb481706a5bd2173ce4?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
+| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[UX Writer + Content Writer Intern](https://jobright.ai/jobs/info/69fa188fa3d34b4f76f63e60?utm_campaign=1049&utm_source=git)** | United States | Remote | May 05 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fa122bdb88714bcdfc101f?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | May 05 |
+| **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
+| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
+| **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa121581706a5bd2173a23?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | May 05 |
 | **[The Family Centered Educational Agency](https://familycentered.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69fa0ae581706a5bd217389a?utm_campaign=1049&utm_source=git)** | South Holland, IL | On Site | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa01af582f810f9c8d3999?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Illustrator Intern](https://jobright.ai/jobs/info/69fa019d582f810f9c8d3963?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa0141b1fc847fc1aedae8?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
 | **[SurgiBox Inc.](https://www.surgibox.com/)** | **[Paid Design & Marketing Intern (Massachusetts Based- 10 weeks)](https://jobright.ai/jobs/info/69fa05c0db88714bcdfc0c79?utm_campaign=1049&utm_source=git)** | Cambridge, MA | On Site | May 05 |
+| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69f94d84b1fc847fc1aeba77?utm_campaign=1049&utm_source=git)** | Fresno,CA,US | Remote | May 04 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f67b1fc847fc1aeb691?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
 | ↳ | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 01 |
 | **[NV5](http://www.nv5.com)** | **[Landscape Architecture Student Intern](https://jobright.ai/jobs/info/699fec5753d97f23ee657ca2?utm_campaign=1049&utm_source=git)** | Alachua, FL | On Site | May 01 |
 | **[Forbes](https://www.forbesmagazine.com)** | **[Forbes Summer 2026 Design Intern](https://jobright.ai/jobs/info/69d7d065738f2f099e8980e9?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | Hybrid | May 01 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/69f653710b36ff0354754e4b?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | Apr 30 |
-| **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69f423ef343eef4fb0a9fe8c?utm_campaign=1049&utm_source=git)** | Long Beach, CA | On Site | Apr 30 |
-| **[Archinect](https://archinect.com)** | **[Architecture / Design Intern – Ròhme Architects (Hybrid, Los Angeles)](https://jobright.ai/jobs/info/69f486ba12f2811ab5a5ea6a?utm_campaign=1049&utm_source=git)** | LA Metro Area | Hybrid | Apr 30 |
-| **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69f41de91f90bd6ae23d3789?utm_campaign=1049&utm_source=git)** | Long Beach CA | On Site | Apr 30 |
-| **[Hisense USA](http://hisense-usa.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/69f3eb5e343eef4fb0a9f188?utm_campaign=1049&utm_source=git)** | Alpharetta, GA | On Site | Apr 30 |
-| **[Dôen](https://shopdoen.com)** | **[Technical Designer - Intern](https://jobright.ai/jobs/info/69f404c058b23a2329da93ef?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Apr 30 |
-| **[Endless Studios](http://www.endlessstudios.com)** | **[University Game Club Program: Brand & Design Intern](https://jobright.ai/jobs/info/69f3d8a8343eef4fb0a9e677?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Apr 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
