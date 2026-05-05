@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/69f9b792582f810f9c8d23fb?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 04 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69f94d84b1fc847fc1aeba77?utm_campaign=1049&utm_source=git)** | Fresno,CA,US | Remote | May 04 |
 | **[EB Denim](https://www.ebdenim.com)** | **[Design Intern](https://jobright.ai/jobs/info/69f9362581706a5bd217107c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 04 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f67b1fc847fc1aeb691?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
@@ -69,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69f90c58b1fc847fc1aea509?utm_campaign=1049&utm_source=git)** | Hagerstown, Maryland, United States | On Site | May 04 |
 | **[Dotdash Meredith](https://www.dotdashmeredith.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69f907b80b36ff035475c92e?utm_campaign=1049&utm_source=git)** | Edmonton, AB - 10160 103 St. NW, CA | Remote | May 04 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | May 04 |
+| **[Birth Of Royal Child](https://birthofroyalchild.com/)** | **[Fashion Design Intern (Unpaid – Onsite Only)](https://jobright.ai/jobs/info/69f9ee9b582f810f9c8d300c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
 | **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
