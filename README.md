@@ -59,8 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Teneo](https://www.teneo.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/69fae82886d5cd46527d0fdd?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fadf5ed21cf86d1e3cd49b?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, L5R 0G1 | On Site | May 05 |
+| **[Matic Robots](https://maticrobots.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69fb3da518b94b2515be0cb8?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | May 05 |
 | **[Twice as Good Hair](https://twiceasgoodhair.com/)** | **[Content + Creative Intern](https://jobright.ai/jobs/info/69fa9ff67800004087b434a3?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | May 05 |
-| **[Matic Robots](https://maticrobots.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69faaede87a4820e6da81ab2?utm_campaign=1049&utm_source=git)** | Mountain View, CA | On Site | May 05 |
+| **[Taylor Corporation](https://taylor.taylor.com)** | **[Production & Design Intern](https://jobright.ai/jobs/info/69fb3b1e86d5cd46527d40ca?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb3d7818b94b2515be0c51?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 05 |
 | **[O.C. Tanner](http://octanner.com)** | **[Product Design (UX) Intern - (Part-Time)](https://jobright.ai/jobs/info/69fa8425db88714bcdfc3373?utm_campaign=1049&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters, US | On Site | May 05 |
 | **[Castelion](https://www.castelion.com)** | **[Graphic Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69fb3506d21cf86d1e3d0ff8?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
 | **[Dôen](https://shopdoen.com)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fb2d6387a4820e6da86213?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 05 |
@@ -94,8 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa121581706a5bd2173a23?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | May 05 |
 | **[Jacobs](http://www.jacobs.com)** | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf185913ad339813a3d3?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | May 05 |
-| **[The Family Centered Educational Agency](https://familycentered.org/)** | **[Multimedia Intern](https://jobright.ai/jobs/info/69fa0ae581706a5bd217389a?utm_campaign=1049&utm_source=git)** | South Holland, IL | On Site | May 05 |
-| **[Jacobs](http://www.jacobs.com)** | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf0a433ac8430e0d6a21?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | May 05 |
+| ↳ | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf0a433ac8430e0d6a21?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa01af582f810f9c8d3999?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Illustrator Intern](https://jobright.ai/jobs/info/69fa019d582f810f9c8d3963?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa0141b1fc847fc1aedae8?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[Content and Social Media Marketing, and Graphic Design Intern](https://jobright.ai/jobs/info/69f8a45da3d34b4f76f5d0bf?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | May 04 |
 | ↳ | **[Graphic Design & Video Editing Intern](https://jobright.ai/jobs/info/69f8978ba3d34b4f76f5cf66?utm_campaign=1049&utm_source=git)** | United States | Remote | May 04 |
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Technology and Digital Asset Management](https://jobright.ai/jobs/info/69fabb9d18b94b2515bdc147?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | May 04 |
-| **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/69fabdca87a4820e6da81e8d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
