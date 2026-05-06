@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[O.C. Tanner](http://octanner.com)** | **[Product Design (UX) Intern - (Part-Time)](https://jobright.ai/jobs/info/69fa8425db88714bcdfc3373?utm_campaign=1049&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters, US | On Site | May 05 |
 | **[Smartly](http://smartly.io)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69fa70260b36ff03547627d9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 05 |
+| **[Elafiya Health](https://elafiyahealth.com/)** | **[Creative Media Summer Intern](https://jobright.ai/jobs/info/69fa8b750b36ff0354762ecc?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 05 |
 | **[Clemson University](http://www.clemson.edu)** | **[NSF REU Summer Intern (Visual Computing)](https://jobright.ai/jobs/info/69fa648d0b36ff0354762136?utm_campaign=1049&utm_source=git)** | Clemson, SC | On Site | May 05 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69fa5524b1fc847fc1aefb35?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Yigal Azrouël, Inc.](http://yigal-azrouel.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69fa7fe2a3d34b4f76f65dc6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daaadbf748bc5d08a554cd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daaad89f97a42dc9c2bb6f?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 03 |
-| ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaadbf748bc5d08a554d1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 03 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaaf9738f2f099e8abdc2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 03 |
+| ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaadbf748bc5d08a554d1?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 03 |
 | **[Sloane Strategy](https://sloanestrategy.com)** | **[Content Creator Internship Summer 2026 (Washington, DC based)](https://jobright.ai/jobs/info/69f67f65db88714bcdfb6955?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | May 02 |
 | **[Commonwealth of Massachusetts](https://www.mass.gov/)** | **[Design Intern – Design System](https://jobright.ai/jobs/info/69f65778582f810f9c8c8b9a?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Design Intern – Design System](https://jobright.ai/jobs/info/69f6538db1fc847fc1ae302b?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69f506b881706a5bd216468c?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | May 01 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 01 |
 | **[Elemet Group](https://elemetgroup.com)** | **[Content Intern](https://jobright.ai/jobs/info/69f5016a12f2811ab5a625cf?utm_campaign=1049&utm_source=git)** | Glenn Metalcraft Inc - Princeton, MN 55371 | On Site | May 01 |
-| **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
