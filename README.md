@@ -97,7 +97,6 @@ For a complete list, click the following sortable link below:
 | **[Yigal Azrouël, Inc.](http://yigal-azrouel.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69fa7fe2a3d34b4f76f65dc6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Cerese D, Inc.](https://ceresed.com)** | **[Creative and Social Media Intern](https://jobright.ai/jobs/info/69fa52db0b36ff0354761f1a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Sodalis Group](https://www.sodalisgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa52670b36ff0354761e67?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | May 05 |
-| **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69fb214f38179b6f1ae758d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1fb5e156000841156a1a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | May 05 |
 | **[Skillz](http://www.skillz.com)** | **[Co-op, Creative Design](https://jobright.ai/jobs/info/69fb21d487a4820e6da85577?utm_campaign=1049&utm_source=git)** | LV Metro Area | On Site | May 05 |
 | **[Towson University](http://www.towson.edu/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1eea18b94b2515bdf5d5?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | May 05 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69fada6918b94b2515bdcb20?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 04 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
+| **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69fad9a9d21cf86d1e3cd3d2?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
