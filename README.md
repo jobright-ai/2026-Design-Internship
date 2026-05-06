@@ -58,9 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Smartly](http://smartly.io)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/69fa70260b36ff03547627d9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 05 |
-| **[Uprise Labs](https://www.uprisedetroit.org/)** | **[Website Design Intern (Squarespace)](https://jobright.ai/jobs/info/69fa693d582f810f9c8d5b12?utm_campaign=1049&utm_source=git)** | United States | Hybrid | May 05 |
 | **[Clemson University](http://www.clemson.edu)** | **[NSF REU Summer Intern (Visual Computing)](https://jobright.ai/jobs/info/69fa648d0b36ff0354762136?utm_campaign=1049&utm_source=git)** | Clemson, SC | On Site | May 05 |
 | **[AECOM](http://www.aecom.com/)** | **[Landscape & Urban Design Intern](https://jobright.ai/jobs/info/69fa5524b1fc847fc1aefb35?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
+| **[Yigal Azrouël, Inc.](http://yigal-azrouel.com)** | **[Fashion Design Intern](https://jobright.ai/jobs/info/69fa7fe2a3d34b4f76f65dc6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[Cerese D, Inc.](https://ceresed.com/pages/our-story-purpose)** | **[Creative and Social Media Intern](https://jobright.ai/jobs/info/69fa52db0b36ff0354761f1a?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 05 |
 | **[Sodalis Group](https://www.sodalisgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa52670b36ff0354761e67?utm_campaign=1049&utm_source=git)** | Westport, CT | On Site | May 05 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa3a5cb1fc847fc1aeedb2?utm_campaign=1049&utm_source=git)** | Westport, CT | Hybrid | May 05 |
@@ -133,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Design Intern – Design System](https://jobright.ai/jobs/info/69f6538db1fc847fc1ae302b?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 02 |
 | **[SanMar](http://www.sanmar.com)** | **[Merchandising Intern, Design](https://jobright.ai/jobs/info/69bca541e6a0d9792584a6a6?utm_campaign=1049&utm_source=git)** | Issaquah, WA | Hybrid | May 02 |
 | **[Saatchi US](http://www.wearesaatchi.com)** | **[Intern - Copywriter](https://jobright.ai/jobs/info/69d9cadd9f97a42dc9c2449a?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | May 02 |
-| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69f619b581706a5bd21683da?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 02 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 02 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 02 |
 | **[Golden 1 Credit Union](https://www.golden1.com/)** | **[Marketing - Senior Graphic Designer](https://jobright.ai/jobs/info/699ff17981476f6176b9d04c?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 01 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 01 |
 | **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f4e40aa3d34b4f76f5250a?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 01 |
+| **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
