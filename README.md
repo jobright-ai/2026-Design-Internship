@@ -85,6 +85,8 @@ For a complete list, click the following sortable link below:
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa01af582f810f9c8d3999?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Illustrator Intern](https://jobright.ai/jobs/info/69fa019d582f810f9c8d3963?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa0141b1fc847fc1aedae8?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
+| **[Stewart Title](https://www.stewart.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb0d30e156000841155ac0?utm_campaign=1049&utm_source=git)** | Greater Houston | Hybrid | May 05 |
+| **[JLG Industries](http://www.jlg.com/en)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69fb0639d21cf86d1e3cf046?utm_campaign=1049&utm_source=git)** | Hagerstown, MD | On Site | May 05 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Design Group Intern](https://jobright.ai/jobs/info/69fafc2687a4820e6da84105?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 05 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69f94d84b1fc847fc1aeba77?utm_campaign=1049&utm_source=git)** | Fresno,CA,US | Remote | May 04 |
@@ -146,8 +148,8 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daa282b67cec4f9b0abc2f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 03 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaaff869c7e25d85a4ccc?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 03 |
 | ↳ | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daaadbf748bc5d08a554d0?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 03 |
-| ↳ | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 03 |
 | ↳ | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daab05f748bc5d08a55534?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 03 |
+| ↳ | **[Sustainability Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daab215356a60f40fe399a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | May 03 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026](https://jobright.ai/jobs/info/69daa29e869c7e25d85a4ba5?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 03 |
 | ↳ | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daaafe5356a60f40fe3958?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Interior Design Internship / Summer 2026](https://jobright.ai/jobs/info/69daa27db67cec4f9b0abc1d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 03 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 03 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Design Intern -Summer Term](https://jobright.ai/jobs/info/69f2930eab4ec4779fff9d9a?utm_campaign=1049&utm_source=git)** | Brampton, Ontario, Canada | On Site | May 03 |
-| **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 03 |
-| ↳ | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
