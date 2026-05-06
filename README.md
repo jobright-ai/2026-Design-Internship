@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 06 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Graphic Design Intern - Columbia](https://jobright.ai/jobs/info/69fb7c22d21cf86d1e3d35d1?utm_campaign=1049&utm_source=git)** | Richland County, SC | On Site | May 06 |
 | **[Teneo](https://www.teneo.com)** | **[Studio (Creative) Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fb739018b94b2515be29ad?utm_campaign=1049&utm_source=git)** | US - WI - Madison, US | Hybrid | May 06 |
+| **[Uprise Labs](https://www.uprisedetroit.org/)** | **[Website Design Intern - Squarespace](https://jobright.ai/jobs/info/69fb8b54ffa73664aeb00330?utm_campaign=1049&utm_source=git)** | United States | Hybrid | May 06 |
+| **[Hitch](https://www.hitchmedia.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69fb8ad918b94b2515be3109?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 06 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb6545d21cf86d1e3d2c08?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Real Estate Design Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fb589f18b94b2515be1c51?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69fb57fb18b94b2515be1a7d?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 06 |
+| **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Real Estate Design Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fb81f9d21cf86d1e3d37da?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/69fb573a18b94b2515be1931?utm_campaign=1049&utm_source=git)** | Louisiana, United States | Remote | May 06 |
 | **[Bio-Rad Laboratories](https://www.bio-rad.com/)** | **[CRM User Experience Intern](https://jobright.ai/jobs/info/69a6558e2c0d8b0f5cd06f2b?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fb6c7cffa73664aeaff7fd?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 06 |
@@ -78,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/69fae82886d5cd46527d0fdd?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fadf5ed21cf86d1e3cd49b?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, L5R 0G1 | On Site | May 05 |
 | **[TJX Canada – Winners, Marshalls, HomeSense](https://jobs.tjx.com/global/en/locations-ca)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fb4b1918b94b2515be133f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 05 |
-| **[Twice as Good Hair](https://twiceasgoodhair.com/)** | **[Content + Creative Intern](https://jobright.ai/jobs/info/69fa9ff67800004087b434a3?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | May 05 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Intern (Summer/ Fall '26) — Bags & Accessories](https://jobright.ai/jobs/info/69fb48b5ffa73664aeafe1e3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb3d7818b94b2515be0c51?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 05 |
 | **[O.C. Tanner](http://octanner.com)** | **[Product Design (UX) Intern - (Part-Time)](https://jobright.ai/jobs/info/69fa8425db88714bcdfc3373?utm_campaign=1049&utm_source=git)** | USA - Utah-Salt Lake City-Headquarters, US | On Site | May 05 |
@@ -131,6 +134,7 @@ For a complete list, click the following sortable link below:
 | **[Butter Girl NYC](https://www.buttergirlnyc.com/)** | **[In-Churn-Ship (Content, Design, Digital)](https://jobright.ai/jobs/info/69fae77486d5cd46527d0ec0?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | May 04 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f67b1fc847fc1aeb691?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
 | ↳ | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
+| **[LaBella Associates](http://www.labellapc.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69fb829a87a4820e6da889b4?utm_campaign=1049&utm_source=git)** | Buffalo, NY, US | On Site | May 04 |
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69f912cc0b36ff035475ceef?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 04 |
 | ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69f91288582f810f9c8d01c4?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 04 |
 | **[Pierce Manufacturing](http://www.piercemfg.com/)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69f90c58b1fc847fc1aea509?utm_campaign=1049&utm_source=git)** | Hagerstown, Maryland, United States | On Site | May 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69fad46038179b6f1ae725cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Intact](http://www.intactfc.com)** | **[Product Designer – 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae01918b94b2515bdcdb5?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
 | ↳ | **[Motion Design Intern- 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae00cd21cf86d1e3cd5ff?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
-| ↳ | **[UX Writer - 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fae020d21cf86d1e3cd647?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 04 |
-| **[CSM Senior Living Management](https://www.csmmanagement.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69f8e81adb88714bcdfbc2bf?utm_campaign=1049&utm_source=git)** | Roanoke, VA | On Site | May 04 |
-| **[AECOM](http://www.aecom.com/)** | **[Architecture Student Intern — Summer 2026 (Buildings + Places)](https://jobright.ai/jobs/info/69f8e73fdb88714bcdfbc1df?utm_campaign=1049&utm_source=git)** | Markham, ON, Canada | On Site | May 04 |
-| **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8e5410b36ff035475b24a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
