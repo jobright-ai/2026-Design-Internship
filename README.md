@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BMW Group US](http://www.bmwusa.com)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcae89938a651755f95e70?utm_campaign=1049&utm_source=git)** | Mountain View, Cali, US | Hybrid | May 07 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcad8e666f063d3d6cff95?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
+| ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcad4d5cff890b03f32c8a?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | May 07 |
+| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcad41b113035a9f8eafb5?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 07 |
+| ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcad3a938a651755f95db0?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 07 |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | May 07 |
 | **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69fc6e985cff890b03f309ea?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 07 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Rootstock Architecture Inc.](http://www.rootstock.ca)** | **[Architect / Intern / Designer (Intermediate)](https://jobright.ai/jobs/info/69fc22f776c60e7b70af22d9?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | May 05 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1fca0b36ff0354760a4c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 | ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/69fa1bb481706a5bd2173ce4?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
-| **[Komar](http://komarbrands.com)** | **[Design Internship](https://jobright.ai/jobs/info/69fa649fb1fc847fc1aefccd?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 05 |
-| **[Jacobs](http://www.jacobs.com)** | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddb96caba61f1417311dec?utm_campaign=1049&utm_source=git)** | Tempe, AZ | Hybrid | May 05 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fa122bdb88714bcdfc101f?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | May 05 |
-| **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
-| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
