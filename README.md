@@ -57,12 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69fc6e985cff890b03f309ea?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fc694d5cff890b03f2fa8d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 06 |
+| ↳ | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fc63b448ae18086721369a?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
+| **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/69fc34812275c9640f52c8ae?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fc577a48d4483e4b639091?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
+| ↳ | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fc5317cf5c6d31006973f3?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
+| **[Youlify](https://www.youlify.ai)** | **[Paid Graphic Design Intern](https://jobright.ai/jobs/info/69fc349b9fc67a0b39f4727b?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | May 06 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69fc4ca948d4483e4b638b1e?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | On Site | May 06 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/69fc4297633e68586cd3006f?utm_campaign=1049&utm_source=git)** | MO, US | On Site | May 06 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fc43d83431b1292b9b5eb9?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 06 |
 | **[Inspire](https://inspirebrands.com)** | **[Service Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fc05953160b250eb1bb12c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 06 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fc4c7e48d4483e4b638b05?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI | On Site | May 06 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 06 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fc312676c60e7b70af2737?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 06 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Graphic Design Summer Internship](https://jobright.ai/jobs/info/69fc166ec39b9a66c0c56455?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 06 |
-| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69fc3134a5949019c55b3782?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | May 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69fbf66176c60e7b70af10a8?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Henricksen](http://www.henricksen.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbefdb2f9f6b7cf690fe13?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
@@ -86,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 06 |
 | **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Project Intern: Immigrants in the Arts (Unpaid Internship)](https://jobright.ai/jobs/info/69fbeede76c60e7b70af09f9?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | May 06 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern](https://jobright.ai/jobs/info/69debc61aba61f141731770b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Graphic Design Intern - Columbia](https://jobright.ai/jobs/info/69fb7c22d21cf86d1e3d35d1?utm_campaign=1049&utm_source=git)** | Richland County, SC | On Site | May 06 |
-| **[State of South Carolina](https://sc.gov/)** | **[Graphic Design Intern - Columbia](https://jobright.ai/jobs/info/69fbf5e4c39b9a66c0c5582e?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | May 06 |
+| **[D2L](http://www.d2l.com)** | **[Web Experience Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/69fc3cf12275c9640f52cd5d?utm_campaign=1049&utm_source=git)** | Kitchener, Ontario, Canada | On Site | May 06 |
+| ↳ | **[User Experience Researcher - Fall 2026 Co-op](https://jobright.ai/jobs/info/69fc3cb90940765d3b501bb4?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 06 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 06 |
 | **[Teneo](https://www.teneo.com)** | **[Studio (Creative) Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fb739018b94b2515be29ad?utm_campaign=1049&utm_source=git)** | US - WI - Madison, US | Hybrid | May 06 |
@@ -146,15 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa121581706a5bd2173a23?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | May 05 |
-| **[Jacobs](http://www.jacobs.com)** | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf185913ad339813a3d3?utm_campaign=1049&utm_source=git)** | Greenville, SC | Hybrid | May 05 |
-| ↳ | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf0a433ac8430e0d6a21?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | Hybrid | May 05 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/69fa01af582f810f9c8d3999?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
-| ↳ | **[Product Design Internship](https://jobright.ai/jobs/info/69fa0141b1fc847fc1aedae8?utm_campaign=1049&utm_source=git)** | NYC Global HQ | On Site | May 05 |
-| **[Jacobs](http://www.jacobs.com)** | **[Design Technician Intern - Data Centers](https://jobright.ai/jobs/info/69ddbf0e5913ad339813a3a4?utm_campaign=1049&utm_source=git)** | Dallas, TX | Hybrid | May 05 |
-| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 05 |
-| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69fb13c518b94b2515bdef71?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | May 05 |
-| **[AprilAire](https://www.aprilaire.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69fb122886d5cd46527d2561?utm_campaign=1049&utm_source=git)** | Sun Prairie, WI | On Site | May 05 |
-| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | May 05 |
-| **[JLG Industries](http://www.jlg.com/en)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69fb0639d21cf86d1e3cf046?utm_campaign=1049&utm_source=git)** | Hagerstown, MD | On Site | May 05 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
