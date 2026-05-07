@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | May 07 |
+| **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69fc6e985cff890b03f309ea?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fc694d5cff890b03f2fa8d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 06 |
 | ↳ | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fc63b448ae18086721369a?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fa122bdb88714bcdfc101f?utm_campaign=1049&utm_source=git)** | United States-Texas-Dallas | On Site | May 05 |
 | **[ESCO Retail Services](https://escoretail.com)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1217582f810f9c8d3eb9?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | May 05 |
-| **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fa121581706a5bd2173a23?utm_campaign=1049&utm_source=git)** | GA, Duluth, US | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
