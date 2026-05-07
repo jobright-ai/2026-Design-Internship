@@ -134,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[BJ Media LLC](https://www.bjmediallc.com/)** | **[Fall 2026 Video/Photo Internship](https://jobright.ai/jobs/info/69fb5ed086d5cd46527d50b7?utm_campaign=1049&utm_source=git)** | Greater Phoenix Area | On Site | May 04 |
 | **[Lyons Magnus](https://www.lyonsmagnus.com/)** | **[Junior Design Intern](https://jobright.ai/jobs/info/69f94d84b1fc847fc1aeba77?utm_campaign=1049&utm_source=git)** | Fresno,CA,US | Remote | May 04 |
 | ↳ | **[Junior Design Intern](https://jobright.ai/jobs/info/69faf62087a4820e6da83c1f?utm_campaign=1049&utm_source=git)** | Fresno, CA | Remote | May 04 |
-| **[Temenos](http://www.temenos.com)** | **[Intern - Product Design UX/UI](https://jobright.ai/jobs/info/69faf12d86d5cd46527d128e?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | May 04 |
 | **[Butter Girl NYC](https://www.buttergirlnyc.com/)** | **[In-Churn-Ship (Content, Design, Digital)](https://jobright.ai/jobs/info/69fae77486d5cd46527d0ec0?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | May 04 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f67b1fc847fc1aeb691?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
 | ↳ | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69fada6918b94b2515bdcb20?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 04 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69fad9a9d21cf86d1e3cd3d2?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 04 |
+| **[Uniti Group Inc.](http://uniti.com)** | **[Intern of Communication Design (IT)](https://jobright.ai/jobs/info/69fadc4a38179b6f1ae72b36?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
