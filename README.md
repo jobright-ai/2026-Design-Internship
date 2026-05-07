@@ -59,8 +59,9 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
+| **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 06 |
+| **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Subscription & Product](https://jobright.ai/jobs/info/69fbea9ac39b9a66c0c53e44?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 06 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 06 |
-| **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69fbdc66ffa73664aeb02895?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | May 06 |
 | **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdd55d21cf86d1e3d56f2?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
 | **[Intact](http://www.intactfc.com)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbdb7f86d5cd46527d863a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 06 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Design Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decdc65913ad33981403a6?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | May 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hour Children, Inc.](https://www.hourchildren.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fae82de156000841154b68?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 04 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/69fae46386d5cd46527d09ad?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 04 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
-| **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern - Buildings (Fall 2026) – 4 or 8 Month Term](https://jobright.ai/jobs/info/69faf10c86d5cd46527d121f?utm_campaign=1049&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
