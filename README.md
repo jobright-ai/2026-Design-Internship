@@ -57,17 +57,24 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 06 |
+| **[Rightworks](https://www.rightworks.com/)** | **[User Experience Intern](https://jobright.ai/jobs/info/69fbdc66ffa73664aeb02895?utm_campaign=1049&utm_source=git)** | Nashua, NH | On Site | May 06 |
+| **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdd55d21cf86d1e3d56f2?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
+| **[Intact](http://www.intactfc.com)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbdb7f86d5cd46527d863a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 06 |
 | **[CoStar Group](http://www.costargroup.com/)** | **[Summer 2026 Product Design Intern (Richmond, VA)](https://jobright.ai/jobs/info/69decdc65913ad33981403a6?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | May 06 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c41d3633eecf3107943ad6?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | May 06 |
 | **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 06 |
 | **[South Carolina Department of Employment and Workforce](http://dew.sc.gov)** | **[Graphic Design Intern - Columbia](https://jobright.ai/jobs/info/69fb7c22d21cf86d1e3d35d1?utm_campaign=1049&utm_source=git)** | Richland County, SC | On Site | May 06 |
+| **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 06 |
 | **[Teneo](https://www.teneo.com)** | **[Studio (Creative) Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fb739018b94b2515be29ad?utm_campaign=1049&utm_source=git)** | US - WI - Madison, US | Hybrid | May 06 |
 | **[Bionix®](https://www.bionix.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb913b38179b6f1ae794c9?utm_campaign=1049&utm_source=git)** | Maumee, OH | On Site | May 06 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69fb8ad918b94b2515be3109?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 06 |
 | **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb90c938179b6f1ae79477?utm_campaign=1049&utm_source=git)** | Connecticut, United States | Remote | May 06 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb6545d21cf86d1e3d2c08?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
+| **[DEW-EL CORPORATION](http://dew-el.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdacc86d5cd46527d852c?utm_campaign=1049&utm_source=git)** | Holland, MI | Hybrid | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Real Estate Design Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fb589f18b94b2515be1c51?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/69fb57fb18b94b2515be1a7d?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Real Estate Design Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fb81f9d21cf86d1e3d37da?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 06 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern (Summer 2026)](https://jobright.ai/jobs/info/69fae46386d5cd46527d09ad?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 04 |
 | **[Gulf Coast Bank and Trust Company](https://gulfbank.com)** | **[Intern - Marketing (Graphic Design)](https://jobright.ai/jobs/info/69f8ff9681706a5bd216fcdd?utm_campaign=1049&utm_source=git)** | Metairie, LA | On Site | May 04 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Designer Intern - Buildings (Fall 2026) – 4 or 8 Month Term](https://jobright.ai/jobs/info/69faf10c86d5cd46527d121f?utm_campaign=1049&utm_source=git)** | Yellowknife, Northwest Territories, Canada | On Site | May 04 |
-| **[Oshkosh Corporation](https://www.oshkoshcorp.com/)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69fa05a7582f810f9c8d3a06?utm_campaign=1049&utm_source=git)** | Hagerstown, Maryland, United States, US | On Site | May 04 |
-| **[University of Oklahoma](http://www.ou.edu)** | **[Student Design Intern (Summer)](https://jobright.ai/jobs/info/69faedce87a4820e6da8386b?utm_campaign=1049&utm_source=git)** | Norman, OK | On Site | May 04 |
-| **[Trooh](https://trooh.com/)** | **[Junior Graphic Designer Internship](https://jobright.ai/jobs/info/69f8f80db1fc847fc1aea037?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 04 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/69fada6918b94b2515bdcb20?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 04 |
-| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 04 |
-| **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/69fad9a9d21cf86d1e3cd3d2?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 04 |
-| **[Uniti Group Inc.](http://uniti.com)** | **[Intern of Communication Design (IT)](https://jobright.ai/jobs/info/69fadc4a38179b6f1ae72b36?utm_campaign=1049&utm_source=git)** | Little Rock, AR | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
