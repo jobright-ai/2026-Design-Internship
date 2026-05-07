@@ -59,8 +59,10 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Inspire](https://inspirebrands.com)** | **[Service Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fc05953160b250eb1bb12c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 06 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 06 |
+| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fc312676c60e7b70af2737?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 06 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Graphic Design Summer Internship](https://jobright.ai/jobs/info/69fc166ec39b9a66c0c56455?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
 | **[Consensus Cloud Solutions](https://www.consensus.com/)** | **[UI/UX Software Design Intern](https://jobright.ai/jobs/info/69eaa4a90a6e095553042474?utm_campaign=1049&utm_source=git)** | US, Remote | Remote | May 06 |
+| **[Grow Financial Federal Credit Union](http://www.growfinancial.org)** | **[Marketing (Creative) Summer Intern](https://jobright.ai/jobs/info/69fc3134a5949019c55b3782?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | May 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69fbf66176c60e7b70af10a8?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Henricksen](http://www.henricksen.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbefdb2f9f6b7cf690fe13?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | May 05 |
 | **[JLG Industries](http://www.jlg.com/en)** | **[Marketing Intern - Graphic Design (Summer 2026)](https://jobright.ai/jobs/info/69fb0639d21cf86d1e3cf046?utm_campaign=1049&utm_source=git)** | Hagerstown, MD | On Site | May 05 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/696aaa535fc862418539a243?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 05 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Design Group Intern](https://jobright.ai/jobs/info/69fafc2687a4820e6da84105?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 05 |
-| **[BJ Media LLC](https://www.bjmediallc.com/)** | **[Fall 2026 Video/Photo Internship](https://jobright.ai/jobs/info/69fb5ed086d5cd46527d50b7?utm_campaign=1049&utm_source=git)** | Greater Phoenix Area | On Site | May 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
