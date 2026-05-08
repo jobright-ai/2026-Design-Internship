@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
+| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | **[BrickStreet Marketing](https://brickstreetmarketing.com)** | **[Summer Creative Intern](https://jobright.ai/jobs/info/69fe2cf77714cd50b90feafe?utm_campaign=1049&utm_source=git)** | Albion, MI | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2026)](https://jobright.ai/jobs/info/69fe2b4e7714cd50b90fe9ae?utm_campaign=1049&utm_source=git)** | United States | On Site | May 08 |
 | ↳ | **[Graphic Design & eCommerce Seasonal Intern](https://jobright.ai/jobs/info/69fe2a5ead691a11f34ebfdc?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA, US | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Studio (Creative) Intern](https://jobright.ai/jobs/info/69eb9a154b0fa35a7077d3f0?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 06 |
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fb739018b94b2515be29ad?utm_campaign=1049&utm_source=git)** | US - WI - Madison, US | Hybrid | May 06 |
 | **[Bionix®](https://www.bionix.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb913b38179b6f1ae794c9?utm_campaign=1049&utm_source=git)** | Maumee, OH | On Site | May 06 |
-| **[Hitch](https://www.hitchmedia.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69fb8ad918b94b2515be3109?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 06 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb6545d21cf86d1e3d2c08?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
