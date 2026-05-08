@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TAKTL, LLC](http://taktl-llc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69fe57ee52e2b44f558b0bba?utm_campaign=1049&utm_source=git)** | Turtle Creek, PA | On Site | May 08 |
+| **[HYBE AMERICA](https://hybecorp.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fe53b14b9bbf21744b0b82?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | May 08 |
+| **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69fe4d86f363bc4dc339dddd?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69fe49176bcf315dc8f568fa?utm_campaign=1049&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/69fe45777714cd50b90ffb77?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 08 |
 | ↳ | **[Overheard Intern (Editorial)](https://jobright.ai/jobs/info/69fe45724b9bbf21744b003d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 08 |
@@ -66,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2026)](https://jobright.ai/jobs/info/69fe2b4e7714cd50b90fe9ae?utm_campaign=1049&utm_source=git)** | United States | On Site | May 08 |
 | ↳ | **[Graphic Design & eCommerce Seasonal Intern](https://jobright.ai/jobs/info/69fe2a5ead691a11f34ebfdc?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA, US | On Site | May 08 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fe292f4b9bbf21744aeac3?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 08 |
-| **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Art Department Internship (Illustration, Animation, Graphic Design)](https://jobright.ai/jobs/info/69fe28eaf363bc4dc339bdd8?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 | **[Cashably](https://cashably.com)** | **[Fintech Content Creation - UGC Intern](https://jobright.ai/jobs/info/69fe28b3ad691a11f34ebe6a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications  (Summer 2026)](https://jobright.ai/jobs/info/69fe100d6bcf315dc8f54723?utm_campaign=1049&utm_source=git)** | NEA Headquarters, US | Hybrid | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Project Intern: Immigrants in the Arts (Unpaid Internship)](https://jobright.ai/jobs/info/69fbeede76c60e7b70af09f9?utm_campaign=1049&utm_source=git)** | Miami-FTL Area | Remote | May 06 |
 | **[FIRST](https://firstagency.com/)** | **[Video Design Intern](https://jobright.ai/jobs/info/69debc61aba61f141731770b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[D2L](http://www.d2l.com)** | **[Web Experience Coordinator - Fall 2026 Co-op](https://jobright.ai/jobs/info/69fc3cf12275c9640f52cd5d?utm_campaign=1049&utm_source=git)** | Kitchener, Ontario, Canada | On Site | May 06 |
-| ↳ | **[User Experience Researcher - Fall 2026 Co-op](https://jobright.ai/jobs/info/69fc3cb90940765d3b501bb4?utm_campaign=1049&utm_source=git)** | Winnipeg, Manitoba, Canada | On Site | May 06 |
-| **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
