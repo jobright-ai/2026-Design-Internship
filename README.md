@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Graphic Design (Unpaid)](https://jobright.ai/jobs/info/69fdf84f7714cd50b90fd55b?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69fdc0e44b9bbf21744ac368?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[Stoss Landscape Urbanism](https://www.stoss.net)** | **[Internship--Landscape Architecture + Urbanism](https://jobright.ai/jobs/info/69fdb96cf363bc4dc3399442?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/69fd4ca92839d87f06ce4152?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 07 |
 | **[TERMINAX](www.terminax.com)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69fd47a36b5b765031e81e3c?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 07 |
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/69fd1dde432a3c4da8e01de2?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fd11106b788e7e7a5c4e35?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
@@ -119,8 +119,8 @@ For a complete list, click the following sortable link below:
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbeec43802c7621fd8e24f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | ↳ | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbef0cc39b9a66c0c552aa?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fc0c673160b250eb1bb67c?utm_campaign=1049&utm_source=git)** | Wyoming, MI, 49519, United States | On Site | May 06 |
-| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
+| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
 | **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 06 |
 | **[Soccer XS](http://www.soccerxs.com)** | **[Photography & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69fbf64176c60e7b70af1015?utm_campaign=1049&utm_source=git)** | Farmington, CT | Hybrid | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Subscription & Product](https://jobright.ai/jobs/info/69fbea9ac39b9a66c0c53e44?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 06 |
