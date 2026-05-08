@@ -88,6 +88,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcad41b113035a9f8eafb5?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcad3a938a651755f95db0?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 07 |
 | **[Green View Landscaping Co](https://www.greenview.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fcc8f36b788e7e7a5c2772?utm_campaign=1049&utm_source=git)** | Springfield, Illinois, United States | On Site | May 07 |
+| **[CPH](http://cphcorp.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69e0f033fd1c0456f3fab83d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 07 |
 | **[Hiebing](http://hiebing.com)** | **[Studio (Graphic) Artist Intern](https://jobright.ai/jobs/info/69fcc8e7938a651755f9689b?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 07 |
 | **[Fleet Farm](http://www.fleetfarm.com/)** | **[Graphic Design Corporate Intern](https://jobright.ai/jobs/info/69fcc8b5432a3c4da8dfeee5?utm_campaign=1049&utm_source=git)** | Appleton, Wisconsin, United States | On Site | May 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698c14ea0f6f7e7a2ce7a6d7?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Edelman](http://www.edelman.com)** | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fb5d41ffa73664aeaff028?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 06 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fb54e1ffa73664aeafea0b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 06 |
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fb54da18b94b2515be16b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69c1832d2c312363dcd4714e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | Hybrid | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
