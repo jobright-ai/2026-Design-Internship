@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Stoss Landscape Urbanism](https://www.stoss.net)** | **[Internship--Landscape Architecture + Urbanism](https://jobright.ai/jobs/info/69fdb96cf363bc4dc3399442?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/69fd4ca92839d87f06ce4152?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69dd1cfb738f2f099e8b49d8?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 07 |
 | **[TERMINAX](www.terminax.com)** | **[Digital Media Specialist](https://jobright.ai/jobs/info/69fd47a36b5b765031e81e3c?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UEG Summer Internship (Copywriting/Art Direction)](https://jobright.ai/jobs/info/69fb54da18b94b2515be16b6?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Fortune Brands Innovations](http://www.fbhs.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69c1832d2c312363dcd4714e?utm_campaign=1049&utm_source=git)** | Deerfield, IL | Hybrid | May 06 |
 | **[Teneo](https://www.teneo.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/69fae82886d5cd46527d0fdd?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 06 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fadf5ed21cf86d1e3cd49b?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, L5R 0G1 | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
