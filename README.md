@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/69fd1dde432a3c4da8e01de2?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fd11106b788e7e7a5c4e35?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
 | **[EXP](http://www.exp.com/)** | **[Intern](https://jobright.ai/jobs/info/69fd0b6e5cff890b03f35b48?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | May 07 |
 | **[Li & Fung](http://www.lifung.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fd01e8938a651755f98559?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 07 |
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern(rolling)](https://jobright.ai/jobs/info/69fcfcd3b113035a9f8ed775?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Designer Intern](https://jobright.ai/jobs/info/69fcf7556b788e7e7a5c408c?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience  Intern](https://jobright.ai/jobs/info/69fce826b113035a9f8ec9d7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 07 |
-| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Designer Intern](https://jobright.ai/jobs/info/69fce7e7432a3c4da8dffec8?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce08d938a651755f974f3?utm_campaign=1049&utm_source=git)** | US-TX-Abilene | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce084b113035a9f8ec6c6?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
 | **[Marathon Strategies LLC](https://marathonstrategies.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69fcdc33b113035a9f8ec412?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 07 |
@@ -136,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Exact Sciences](https://www.exactsciences.com)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fb739018b94b2515be29ad?utm_campaign=1049&utm_source=git)** | US - WI - Madison, US | Hybrid | May 06 |
 | **[Bionix®](https://www.bionix.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb913b38179b6f1ae794c9?utm_campaign=1049&utm_source=git)** | Maumee, OH | On Site | May 06 |
 | **[Hitch](https://www.hitchmedia.co)** | **[Content Creation Intern](https://jobright.ai/jobs/info/69fb8ad918b94b2515be3109?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 06 |
-| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fb90c938179b6f1ae79477?utm_campaign=1049&utm_source=git)** | Connecticut, United States | Remote | May 06 |
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb6545d21cf86d1e3d2c08?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
 | **[DEW-EL CORPORATION](http://dew-el.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdacc86d5cd46527d852c?utm_campaign=1049&utm_source=git)** | Holland, MI | Hybrid | May 06 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Velocity - Real Estate Design Internship/Co-Op - Fall 2026](https://jobright.ai/jobs/info/69fb589f18b94b2515be1c51?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Teneo](https://www.teneo.com)** | **[Summer 2026 Studio Intern](https://jobright.ai/jobs/info/69fae82886d5cd46527d0fdd?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 06 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fadf5ed21cf86d1e3cd49b?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, L5R 0G1 | On Site | May 05 |
 | **[TJX Canada – Winners, Marshalls, HomeSense](https://jobs.tjx.com/global/en/locations-ca)** | **[Fall Term Creative Store Experience Coordinator Co-op/Intern](https://jobright.ai/jobs/info/69fb4b1918b94b2515be133f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 05 |
+| **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Intern (Summer/ Fall '26) — Bags & Accessories](https://jobright.ai/jobs/info/69fb48b5ffa73664aeafe1e3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
