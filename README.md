@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Commercial Furniture Dealer Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 09 |
 | **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design / Community Intern](https://jobright.ai/jobs/info/69ff5e03238f143e835253ea?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
 | **[The RAM Group / Marketing Consultancy](http://www.theram-group.com)** | **[Summer Intern – Graphic Designer](https://jobright.ai/jobs/info/69ff4fd5238f143e835252e1?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | May 09 |
 | ↳ | **[Summer Intern – Video Editor / Motion Graphics](https://jobright.ai/jobs/info/69ff4f96fa1aa73213d8ba45?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Graphic Design Summer Internship](https://jobright.ai/jobs/info/69fc166ec39b9a66c0c56455?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69fbf66176c60e7b70af10a8?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Henricksen](http://www.henricksen.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbefdb2f9f6b7cf690fe13?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
