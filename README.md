@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design / Community Intern](https://jobright.ai/jobs/info/69ff5e03238f143e835253ea?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
 | **[The RAM Group / Marketing Consultancy](http://www.theram-group.com)** | **[Summer Intern – Graphic Designer](https://jobright.ai/jobs/info/69ff4fd5238f143e835252e1?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | May 09 |
 | ↳ | **[Summer Intern – Video Editor / Motion Graphics](https://jobright.ai/jobs/info/69ff4f96fa1aa73213d8ba45?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | May 09 |
+| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e651157820c036924cf62e?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 09 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fa?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | May 09 |
 | **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 09 |
@@ -67,7 +69,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69fed9d6fa1aa73213d89bb5?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | May 08 |
 | **[Jaipur Rugs](http://www.jaipurrugsco.com)** | **[Design & Business Intern](https://jobright.ai/jobs/info/69fed96fa0eddc08c2396b6c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 08 |
 | **[Doner](http://doner.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe9d2bf363bc4dc339f7ea?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | May 08 |
-| **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69fe97fcf363bc4dc339f56c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/69fe82ac52e2b44f558b2265?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe82816bcf315dc8f5811c?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | ↳ | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe827ff363bc4dc339f19f?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
@@ -91,6 +92,7 @@ For a complete list, click the following sortable link below:
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications  (Summer 2026)](https://jobright.ai/jobs/info/69fe100d6bcf315dc8f54723?utm_campaign=1049&utm_source=git)** | NEA Headquarters, US | Hybrid | May 08 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69fe0ba66bcf315dc8f54333?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | May 08 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 08 |
+| **[Enhanced](https://www.enhanced.com/)** | **[AI Ads Creative Intern](https://jobright.ai/jobs/info/69f558670b36ff0354751b2c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Graphic Design (Unpaid)](https://jobright.ai/jobs/info/69fdf84f7714cd50b90fd55b?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69aa48d71f59c56275e3238d?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[OCDO Communications Intern](https://jobright.ai/jobs/info/69fe1bcc4b9bbf21744ae730?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hyundai America Technical Center, Inc. (HATCI)](http://www.hatci.com/)** | **[Kia Exterior Design Intern (Internship - Summer 2026)](https://jobright.ai/jobs/info/69fbf66176c60e7b70af10a8?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 06 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Henricksen](http://www.henricksen.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbefdb2f9f6b7cf690fe13?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbeec43802c7621fd8e24f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fc0c673160b250eb1bb67c?utm_campaign=1049&utm_source=git)** | Wyoming, MI, 49519, United States | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
