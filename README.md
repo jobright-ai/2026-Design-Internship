@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doner](http://doner.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe9d2bf363bc4dc339f7ea?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | May 08 |
+| **[CoPatible](https://copatible.com)** | **[Product Designer Intern](https://jobright.ai/jobs/info/69fe97fcf363bc4dc339f56c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Remote | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/69fe82ac52e2b44f558b2265?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe82816bcf315dc8f5811c?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | ↳ | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe827ff363bc4dc339f19f?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 08 |
-| **[The Narrative Vintage Edit](https://www.thenarrativevintage.com/)** | **[Creative Content & Fashion Intern](https://jobright.ai/jobs/info/69fe74a8ad691a11f34ede0e?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 08 |
 | **[Livingston International](http://www.livingstonintl.com)** | **[Intern](https://jobright.ai/jobs/info/69fe593a4b9bbf21744b0cdf?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
 | **[TAKTL, LLC](http://taktl-llc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69fe57ee52e2b44f558b0bba?utm_campaign=1049&utm_source=git)** | Turtle Creek, PA | On Site | May 08 |
 | **[HYBE AMERICA](https://hybecorp.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fe53b14b9bbf21744b0b82?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | May 08 |
@@ -84,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[USA Lacrosse](http://www.uslacrosse.org)** | **[Intern, Graphic Design (Unpaid)](https://jobright.ai/jobs/info/69fdf84f7714cd50b90fd55b?utm_campaign=1049&utm_source=git)** | Hunt Valley, MD (Hybrid) | Hybrid | May 08 |
 | **[Verkada](https://www.verkada.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/69aa48d71f59c56275e3238d?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | May 08 |
 | **[New York State Executive Chamber](https://www.governor.ny.gov)** | **[OCDO Communications Intern](https://jobright.ai/jobs/info/69fe1bcc4b9bbf21744ae730?utm_campaign=1049&utm_source=git)** | Albany, NY | On Site | May 08 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a8a89879f3f4037f42ec6c?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | May 08 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69fdc0e44b9bbf21744ac368?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[Stoss Landscape Urbanism](https://www.stoss.net)** | **[Internship--Landscape Architecture + Urbanism](https://jobright.ai/jobs/info/69fdb96cf363bc4dc3399442?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[Taylor Morrison](http://www.taylormorrison.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/697f079dabff4c399a9db487?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | May 08 |
@@ -144,8 +146,8 @@ For a complete list, click the following sortable link below:
 | **[Henricksen](http://www.henricksen.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbefdb2f9f6b7cf690fe13?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | May 06 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/69fbeec43802c7621fd8e24f?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 06 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fc0c673160b250eb1bb67c?utm_campaign=1049&utm_source=git)** | Wyoming, MI, 49519, United States | On Site | May 06 |
-| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
+| **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdab3d21cf86d1e3d5482?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ, US | Hybrid | May 06 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdad8ffa73664aeb025b5?utm_campaign=1049&utm_source=git)** | US-NJ-Tinton Falls | Hybrid | May 06 |
 | **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 06 |
 | **[Soccer XS](http://www.soccerxs.com)** | **[Photography & Marketing Intern (Summer 2026)](https://jobright.ai/jobs/info/69fbf64176c60e7b70af1015?utm_campaign=1049&utm_source=git)** | Farmington, CT | Hybrid | May 06 |
 | **[Democracy Docket](https://www.democracydocket.com)** | **[Fall 2026 Internship - Subscription & Product](https://jobright.ai/jobs/info/69fbea9ac39b9a66c0c53e44?utm_campaign=1049&utm_source=git)** | Jersey City, NJ | On Site | May 06 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 06 |
 | **[STUN Agency](http://stundesign.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbeeb23802c7621fd8e206?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | May 06 |
 | **[Pure Fishing](https://www.purefishing.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69c41d3633eecf3107943ad6?utm_campaign=1049&utm_source=git)** | Columbia, SC | On Site | May 06 |
-| **[Maytronics](http://www.maytronics.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fbdd55d21cf86d1e3d56f2?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 06 |
-| **[Intact](http://www.intactfc.com)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/69fbdb7f86d5cd46527d863a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
