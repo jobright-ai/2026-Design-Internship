@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SevenThirty](https://seventhirtygoods.com/)** | **[Product Design & UX/UI Intern](https://jobright.ai/jobs/info/6a00925afa1aa73213d902c8?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 10 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 10 |
 | **[Blackjack Horticulture, Inc.](https://www.blackjackhorticulture.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0045d3c2ffb31f45361c67?utm_campaign=1049&utm_source=git)** | Birmingham, AL 35210 | On Site | May 10 |
 | **[Silueta.ai](https://silueta.ai)** | **[Brand Designer & Social Media Intern (Unpaid)](https://jobright.ai/jobs/info/69fffd04a0eddc08c239ae42?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/69fc34812275c9640f52c8ae?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | May 06 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fc577a48d4483e4b639091?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
 | ↳ | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fc5317cf5c6d31006973f3?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL, US | On Site | May 06 |
+| **[Youlify](https://www.youlify.ai)** | **[Paid Graphic Design Intern](https://jobright.ai/jobs/info/69fc349b9fc67a0b39f4727b?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
