@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Toronto](https://jobright.ai/jobs/info/6a0230c5df52f1450d84862e?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | May 11 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern - Footwear Design](https://jobright.ai/jobs/info/6a02307ac4b08448a0b23d3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0226693053db70a1174c80?utm_campaign=1049&utm_source=git)** | Park City, KS, 67219, United States | On Site | May 11 |
+| **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a022525c2ffb31f45369fc0?utm_campaign=1049&utm_source=git)** | Montclair, NJ | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a022493df52f1450d847afa?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
 | **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a020f15c2ffb31f453696fc?utm_campaign=1049&utm_source=git)** | Chester, NJ | Hybrid | May 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a55238f143e83530196?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 11 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern - UI/UX](https://jobright.ai/jobs/info/69fcd959432a3c4da8dff846?utm_campaign=1049&utm_source=git)** | MO, US | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcd8d4666f063d3d6d11de?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcd8c8b113035a9f8ec17c?utm_campaign=1049&utm_source=git)** | Culver City, CA, US | On Site | May 07 |
-| **[Beacon Wellness Brands](https://beaconwb.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69fcd240b113035a9f8ebe33?utm_campaign=1049&utm_source=git)** | Newton, Massachusetts, United States | Hybrid | May 07 |
-| **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
-| ↳ | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
