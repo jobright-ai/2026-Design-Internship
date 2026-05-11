@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohana Growth Partners, LLC](https://www.planetfitness.com)** | **[Intern, Marketing Creative Director (Planet Fitness)](https://jobright.ai/jobs/info/6a01bc5e238f143e8352d788?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | May 11 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6a01b236fa1aa73213d93f63?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 11 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC, Architect / Landscape Architect Intern - Sacred Geometry Living Structures - In-person, Hybrid, or Remote - Unpaid](https://jobright.ai/jobs/info/6a015f99c2ffb31f45365875?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 10 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 10 |
@@ -141,8 +142,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcd8c8b113035a9f8ec17c?utm_campaign=1049&utm_source=git)** | Culver City, CA, US | On Site | May 07 |
 | **[Beacon Wellness Brands](https://beaconwb.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69fcd240b113035a9f8ebe33?utm_campaign=1049&utm_source=git)** | Newton, Massachusetts, United States | Hybrid | May 07 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
-| ↳ | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| ↳ | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
 | ↳ | **[Sports Architecture Intern](https://jobright.ai/jobs/info/69fcbd12938a651755f9629c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | **[Cresset](https://cressetcapital.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fcf871666f063d3d6d24f5?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcae89938a651755f95e70?utm_campaign=1049&utm_source=git)** | Mountain View, Cali, US | Hybrid | May 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fleet Farm](http://www.fleetfarm.com/)** | **[Graphic Design Corporate Intern](https://jobright.ai/jobs/info/69fcc8b5432a3c4da8dfeee5?utm_campaign=1049&utm_source=git)** | Appleton, Wisconsin, United States | On Site | May 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698c14ea0f6f7e7a2ce7a6d7?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | May 07 |
 | **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcc33f666f063d3d6d08b9?utm_campaign=1049&utm_source=git)** | Durham, NC - USA (Hill Bldg), US | Hybrid | May 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
