@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Artingle](www.artingle.io)** | **[UX Intern / Product Design Intern](https://jobright.ai/jobs/info/6a02147a3053db70a1174494?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Remote | May 11 |
+| **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a020f15c2ffb31f453696fc?utm_campaign=1049&utm_source=git)** | Chester, NJ | Hybrid | May 11 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a55238f143e83530196?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 11 |
+| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a1cfa1aa73213d964f9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 11 |
 | **[Kansas City Area Development Council](https://thinkkc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a02065dc4b08448a0b223b4?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 11 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[AR-1 Intern](https://jobright.ai/jobs/info/6a01ff35fa1aa73213d95ceb?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | May 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee83c2ffb31f45368881?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | May 11 |
@@ -71,6 +75,7 @@ For a complete list, click the following sortable link below:
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 10 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
+| **[Super.com](https://www.super.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fae?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 10 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 10 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | May 10 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 10 |
@@ -149,12 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcd8c8b113035a9f8ec17c?utm_campaign=1049&utm_source=git)** | Culver City, CA, US | On Site | May 07 |
 | **[Beacon Wellness Brands](https://beaconwb.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69fcd240b113035a9f8ebe33?utm_campaign=1049&utm_source=git)** | Newton, Massachusetts, United States | Hybrid | May 07 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
-| ↳ | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| ↳ | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
 | ↳ | **[Sports Architecture Intern](https://jobright.ai/jobs/info/69fcbd12938a651755f9629c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
-| **[Cresset](https://cressetcapital.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fcf871666f063d3d6d24f5?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 07 |
-| **[BMW Group US](http://www.bmwusa.com)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcae89938a651755f95e70?utm_campaign=1049&utm_source=git)** | Mountain View, Cali, US | Hybrid | May 07 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcad8e666f063d3d6cff95?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcad4d5cff890b03f32c8a?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | May 07 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcad41b113035a9f8eafb5?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
