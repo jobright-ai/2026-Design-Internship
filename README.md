@@ -57,12 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[Ohana Growth Partners, LLC](https://www.planetfitness.com)** | **[Intern, Marketing Creative Director (Planet Fitness)](https://jobright.ai/jobs/info/6a01bc5e238f143e8352d788?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | May 11 |
+| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 11 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6a01b236fa1aa73213d93f63?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 11 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC, Architect / Landscape Architect Intern - Sacred Geometry Living Structures - In-person, Hybrid, or Remote - Unpaid](https://jobright.ai/jobs/info/6a015f99c2ffb31f45365875?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 10 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 10 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
+| **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 10 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | May 10 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 10 |
 | **[Dôen](https://shopdoen.com)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fb2d6387a4820e6da86213?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 10 |
@@ -121,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Fall 2026 Graphic Design Internship](https://jobright.ai/jobs/info/69fdc0e44b9bbf21744ac368?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 08 |
 | **[Stoss Landscape Urbanism](https://www.stoss.net)** | **[Internship--Landscape Architecture + Urbanism](https://jobright.ai/jobs/info/69fdb96cf363bc4dc3399442?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
-| **[Taylor Morrison](http://www.taylormorrison.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/697f079dabff4c399a9db487?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Creative Design Intern (DC)](https://jobright.ai/jobs/info/6a017ea8238f143e8352ce0f?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/69fd4ca92839d87f06ce4152?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69dff24aaba61f141731e666?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 07 |
@@ -141,8 +143,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcd8c8b113035a9f8ec17c?utm_campaign=1049&utm_source=git)** | Culver City, CA, US | On Site | May 07 |
 | **[Beacon Wellness Brands](https://beaconwb.com)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/69fcd240b113035a9f8ebe33?utm_campaign=1049&utm_source=git)** | Newton, Massachusetts, United States | Hybrid | May 07 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
-| ↳ | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| **[RemoteHunter](https://remotehunter.com/)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa9?utm_campaign=1049&utm_source=git)** | Mountain View, CA, US | Hybrid | May 07 |
+| ↳ | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcbe3a432a3c4da8dfeaa6?utm_campaign=1049&utm_source=git)** | Durham, NC, US | Hybrid | May 07 |
 | ↳ | **[Sports Architecture Intern](https://jobright.ai/jobs/info/69fcbd12938a651755f9629c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 07 |
 | **[Cresset](https://cressetcapital.com/)** | **[Graphic Design Intern - Summer 2026](https://jobright.ai/jobs/info/69fcf871666f063d3d6d24f5?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[BMW Group US](http://www.bmwusa.com)** | **[Intern, UX Design - Summer 2026](https://jobright.ai/jobs/info/69fcae89938a651755f95e70?utm_campaign=1049&utm_source=git)** | Mountain View, Cali, US | Hybrid | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hiebing](http://hiebing.com)** | **[Studio (Graphic) Artist Intern](https://jobright.ai/jobs/info/69fcc8e7938a651755f9689b?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 07 |
 | **[Fleet Farm](http://www.fleetfarm.com/)** | **[Graphic Design Corporate Intern](https://jobright.ai/jobs/info/69fcc8b5432a3c4da8dfeee5?utm_campaign=1049&utm_source=git)** | Appleton, Wisconsin, United States | On Site | May 07 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Summer 2026)](https://jobright.ai/jobs/info/698c14ea0f6f7e7a2ce7a6d7?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | May 07 |
-| **[The Clorox Company](https://www.thecloroxcompany.com)** | **[Print and Packaging Design Intern](https://jobright.ai/jobs/info/69fcc33f666f063d3d6d08b9?utm_campaign=1049&utm_source=git)** | Durham, NC - USA (Hill Bldg), US | Hybrid | May 07 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
