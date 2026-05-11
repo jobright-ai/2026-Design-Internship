@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Grangou](https://www.grangouapp.com/)** | **[UGC Intern](https://jobright.ai/jobs/info/6a0124aafa1aa73213d91ca9?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | May 10 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 10 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/69fc6e985cff890b03f309ea?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fc694d5cff890b03f2fa8d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 06 |
 | ↳ | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fc63b448ae18086721369a?utm_campaign=1049&utm_source=git)** | United States | Remote | May 06 |
-| **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/69fc34812275c9640f52c8ae?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA | On Site | May 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
