@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/6a024dc9238f143e83532d36?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern - Footwear Design](https://jobright.ai/jobs/info/6a02307ac4b08448a0b23d3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
@@ -142,6 +143,7 @@ For a complete list, click the following sortable link below:
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 08 |
 | **[Stoss Landscape Urbanism](https://www.stoss.net)** | **[Internship--Landscape Architecture + Urbanism](https://jobright.ai/jobs/info/69fdb96cf363bc4dc3399442?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Summer 2026 Creative Design Intern (DC)](https://jobright.ai/jobs/info/6a017ea8238f143e8352ce0f?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | May 08 |
+| **[Agency EA](http://agencyea.com)** | **[Spatial Design Internship](https://jobright.ai/jobs/info/6a0248513053db70a11767b2?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/69fd4ca92839d87f06ce4152?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/69dff24aaba61f141731e666?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 07 |
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/69fd1dde432a3c4da8e01de2?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 07 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce084b113035a9f8ec6c6?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
 | **[Marathon Strategies LLC](https://marathonstrategies.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69fcdc33b113035a9f8ec412?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 07 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/69fcda39b113035a9f8ec27f?utm_campaign=1049&utm_source=git)** | Springfield, IL, US | On Site | May 07 |
-| ↳ | **[Intern - UI/UX](https://jobright.ai/jobs/info/69fcd959432a3c4da8dff846?utm_campaign=1049&utm_source=git)** | MO, US | On Site | May 07 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcd8d4666f063d3d6d11de?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
