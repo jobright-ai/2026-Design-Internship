@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Architecture – Summer 2026 – Toronto](https://jobright.ai/jobs/info/6a0230c5df52f1450d84862e?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | May 11 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
+| **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern - Footwear Design](https://jobright.ai/jobs/info/6a02307ac4b08448a0b23d3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0226693053db70a1174c80?utm_campaign=1049&utm_source=git)** | Park City, KS, 67219, United States | On Site | May 11 |
 | **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a022525c2ffb31f45369fc0?utm_campaign=1049&utm_source=git)** | Montclair, NJ | Hybrid | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/69fcda39b113035a9f8ec27f?utm_campaign=1049&utm_source=git)** | Springfield, IL, US | On Site | May 07 |
 | ↳ | **[Intern - UI/UX](https://jobright.ai/jobs/info/69fcd959432a3c4da8dff846?utm_campaign=1049&utm_source=git)** | MO, US | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/69fcd8d4666f063d3d6d11de?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 07 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/69fcd8c8b113035a9f8ec17c?utm_campaign=1049&utm_source=git)** | Culver City, CA, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
