@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | May 10 |
-| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Graphic Design Intern - Corporate Communication](https://jobright.ai/jobs/info/69d94a035356a60f40fd8c17?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | May 10 |
 | **[Primerica](https://www.primerica.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/69c6b34683ea553769fdcaf4?utm_campaign=1049&utm_source=git)** | Duluth, GA | On Site | May 10 |
 | **[Dôen](https://shopdoen.com)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fb2d6387a4820e6da86213?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 10 |
 | **[Blackjack Horticulture, Inc.](https://www.blackjackhorticulture.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0045d3c2ffb31f45361c67?utm_campaign=1049&utm_source=git)** | Birmingham, AL 35210 | On Site | May 10 |
@@ -91,6 +90,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe82816bcf315dc8f5811c?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | ↳ | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe827ff363bc4dc339f19f?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 08 |
+| **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - Content Creator](https://jobright.ai/jobs/info/6a0167c43053db70a117077e?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[Livingston International](http://www.livingstonintl.com)** | **[Intern](https://jobright.ai/jobs/info/69fe593a4b9bbf21744b0cdf?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 08 |
 | **[TAKTL, LLC](http://taktl-llc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69fe57ee52e2b44f558b0bba?utm_campaign=1049&utm_source=git)** | Turtle Creek, PA | On Site | May 08 |
 | **[HYBE AMERICA](https://hybecorp.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fe53b14b9bbf21744b0b82?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | May 08 |
@@ -106,6 +106,7 @@ For a complete list, click the following sortable link below:
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fe292f4b9bbf21744aeac3?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 | **[Cashably](https://cashably.com)** | **[Fintech Content Creation - UGC Intern](https://jobright.ai/jobs/info/69fe28b3ad691a11f34ebe6a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 08 |
+| **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/6a0167c03053db70a1170769?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 08 |
 | **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications  (Summer 2026)](https://jobright.ai/jobs/info/69fe100d6bcf315dc8f54723?utm_campaign=1049&utm_source=git)** | NEA Headquarters, US | Hybrid | May 08 |
 | **[EDA Contractors, Inc.](https://edacontractors.com)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/69fe0ba66bcf315dc8f54333?utm_campaign=1049&utm_source=git)** | Greater Philadelphia | Hybrid | May 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[One Inc](https://www.oneinc.com)** | **[Intern, UX Research](https://jobright.ai/jobs/info/69e1ff26ff71e82d604bc366?utm_campaign=1049&utm_source=git)** | United States | Remote | May 07 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e05468c5691b27c176ca54?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 07 |
 | **[Loro Piana](http://www.loropiana.com/flash.html#/lang:en/home/golfnew)** | **[Visual Merchandising Intern (Summer 2026)](https://jobright.ai/jobs/info/69ea6b600a6e095553040c17?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 07 |
-| **[Zuora](https://www.zuora.com)** | **[UI/UX Research Intern](https://jobright.ai/jobs/info/69dfdfd7433ac8430e0e2ba5?utm_campaign=1049&utm_source=git)** | Foster City, CA | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
