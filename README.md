@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[X Technology AI](https://www.linkedin.com/company/108115025)** | **[Social Media Content Creator Intern / Multiple Brands / Creative Execution / Remote](https://jobright.ai/jobs/info/6a025442fa1aa73213d99658?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/6a024dc9238f143e83532d36?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce08d938a651755f974f3?utm_campaign=1049&utm_source=git)** | US-TX-Abilene | On Site | May 07 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce084b113035a9f8ec6c6?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
 | **[Marathon Strategies LLC](https://marathonstrategies.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69fcdc33b113035a9f8ec412?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Part-Time Design Intern](https://jobright.ai/jobs/info/69fcda39b113035a9f8ec27f?utm_campaign=1049&utm_source=git)** | Springfield, IL, US | On Site | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
