@@ -57,11 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Rally Foundation for Childhood Cancer Research](https://rallyfoundation.org/)** | **[Digital and Web Design Intern](https://jobright.ai/jobs/info/6a0361b922395b6dc6d93f7c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
-| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6a035231ed6a637463f4e9f4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/69e6c14a3aa0c47964395daa?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
+| **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e6d5727820c036924d255a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a032e1a7c753c287f6e4534?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 11 |
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 11 |
@@ -133,7 +138,6 @@ For a complete list, click the following sortable link below:
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e651157820c036924cf62e?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 09 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fa?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | May 09 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/69f6c664db88714bcdfb7974?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | May 09 |
-| **[E.L.F. BEAUTY](https://www.elfbeauty.com)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6972a466584a1c1ef6fdb626?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 09 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/69fef164238f143e8352324d?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 09 |
 | ↳ | **[Overheard Intern (Editorial)](https://jobright.ai/jobs/info/69fef157c2ffb31f4535ce31?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 09 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69fed9d6fa1aa73213d89bb5?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | May 08 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 | **[RemoteHunter](https://remotehunter.com/)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications (Summer 2026)](https://jobright.ai/jobs/info/69fe2b4e7714cd50b90fe9ae?utm_campaign=1049&utm_source=git)** | United States | On Site | May 08 |
-| ↳ | **[Graphic Design & eCommerce Seasonal Intern](https://jobright.ai/jobs/info/69fe2a5ead691a11f34ebfdc?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA, US | On Site | May 08 |
-| **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fe292f4b9bbf21744aeac3?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 08 |
-| **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a021d3bfa1aa73213d96ad7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
