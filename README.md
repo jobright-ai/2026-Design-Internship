@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
 | **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[UI/UX Intern on Wix (Unpaid Internship)](https://jobright.ai/jobs/info/6a02774fc2ffb31f4536d5fd?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 11 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6a027192fa1aa73213d9a278?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
@@ -134,7 +135,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design & eCommerce Seasonal Intern](https://jobright.ai/jobs/info/69fe2a5ead691a11f34ebfdc?utm_campaign=1049&utm_source=git)** | Rancho Santa Margarita, CA, US | On Site | May 08 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fe292f4b9bbf21744aeac3?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
-| **[Cashably](https://cashably.com)** | **[Fintech Content Creation - UGC Intern](https://jobright.ai/jobs/info/69fe28b3ad691a11f34ebe6a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 08 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a021d3bfa1aa73213d96ad7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
 | **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/6a0167c03053db70a1170769?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 08 |
