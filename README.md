@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 11 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
 | **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[UI/UX Intern on Wix (Unpaid Internship)](https://jobright.ai/jobs/info/6a02774fc2ffb31f4536d5fd?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 11 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6a027192fa1aa73213d9a278?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
@@ -64,7 +65,6 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 11 |
 | **[X Technology AI](https://www.linkedin.com/company/108115025)** | **[Social Media Content Creator Intern / Multiple Brands / Creative Execution / Remote](https://jobright.ai/jobs/info/6a025442fa1aa73213d99658?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
-| **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/6a024dc9238f143e83532d36?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern - Footwear Design](https://jobright.ai/jobs/info/6a02307ac4b08448a0b23d3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
