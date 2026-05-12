@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Mozzimo Jewelry](https://www.mozzimojewelry.com)** | **[Creative Design Internship, Jewelry](https://jobright.ai/jobs/info/6a032bab22395b6dc6d91b18?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
+| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a032e1a7c753c287f6e4534?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a0336f87c753c287f6e4951?utm_campaign=1049&utm_source=git)** | Davidson, NC | Hybrid | May 12 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 11 |
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 11 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee83c2ffb31f45368881?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | May 11 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee6ffa1aa73213d958a5?utm_campaign=1049&utm_source=git)** | US-FL-Orlando | On Site | May 11 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a01ee3adf52f1450d846395?utm_campaign=1049&utm_source=git)** | Vancouver, Canada | On Site | May 11 |
-| **[Unique Vacations, Inc.](https://www.linkedin.com/company/79788490)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a01ed34c2ffb31f4536877f?utm_campaign=1049&utm_source=git)** | Miami, FL, US | On Site | May 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - UX/Product Design Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/6a02f738bc4184089f22d7fa?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a02f26eed6a637463f4ae58?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
