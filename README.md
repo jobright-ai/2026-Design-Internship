@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a039cb56c07461fe1705d82?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | May 12 |
+| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 12 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a0392848ecfd93cd9c0fd96?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | May 12 |
+| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Visual Design - 3D Modeling Collegiate Associate Intern](https://jobright.ai/jobs/info/6a0390a122395b6dc6d960a6?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | May 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/6a03903abc4184089f233c2a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0390228ecfd93cd9c0fa86?utm_campaign=1049&utm_source=git)** | Merrimack, NH | On Site | May 12 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a038f7f8ecfd93cd9c0f9a4?utm_campaign=1049&utm_source=git)** | Connecticut, Bethany - Bld1, US | On Site | May 12 |
@@ -66,7 +70,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI FASHION INTERN](https://jobright.ai/jobs/info/6a038ccbbc4184089f233762?utm_campaign=1049&utm_source=git)** | NEW YORK, NEW YORK, NY, US | Hybrid | May 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a1cf3d6cc51d63779a0?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a06bc4184089f2334fe?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
-| **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Visual Design - 3D Modeling Collegiate Associate Intern](https://jobright.ai/jobs/info/6a038306bc4184089f233183?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037dda6c07461fe170476c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Safran Federal Systems](https://www.safranfederalsystems.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6a03772e22395b6dc6d94b43?utm_campaign=1049&utm_source=git)** | West Henrietta, New York, United States | On Site | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69fed9d6fa1aa73213d89bb5?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | May 08 |
 | **[Jaipur Rugs](http://www.jaipurrugsco.com)** | **[Design & Business Intern](https://jobright.ai/jobs/info/69fed96fa0eddc08c2396b6c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 08 |
 | **[Doner](http://doner.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe9d2bf363bc4dc339f7ea?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | May 08 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/69fe82ac52e2b44f558b2265?utm_campaign=1049&utm_source=git)** | Tulsa, OK, US | On Site | May 08 |
-| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe82816bcf315dc8f5811c?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
-| ↳ | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe827ff363bc4dc339f19f?utm_campaign=1049&utm_source=git)** | Port Washington, NY, US | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
