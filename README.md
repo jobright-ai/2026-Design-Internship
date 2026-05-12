@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Uinta Design](https://uintadesign.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a0264203053db70a1177b31?utm_campaign=1049&utm_source=git)** | Logan, UT | On Site | May 11 |
+| **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
+| **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[X Technology AI](https://www.linkedin.com/company/108115025)** | **[Social Media Content Creator Intern / Multiple Brands / Creative Execution / Remote](https://jobright.ai/jobs/info/6a025442fa1aa73213d99658?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[Zebrosys](www.zebrosys.com)** | **[Creative + Social Media Mentee](https://jobright.ai/jobs/info/6a024dc9238f143e83532d36?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
@@ -116,7 +119,6 @@ For a complete list, click the following sortable link below:
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/69bc0f194828227293fd34b0?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 08 |
 | **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - Content Creator](https://jobright.ai/jobs/info/6a0167c43053db70a117077e?utm_campaign=1049&utm_source=git)** | United States | Remote | May 08 |
 | **[TAKTL, LLC](http://taktl-llc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69fe57ee52e2b44f558b0bba?utm_campaign=1049&utm_source=git)** | Turtle Creek, PA | On Site | May 08 |
-| **[HYBE AMERICA](https://hybecorp.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/69fe53b14b9bbf21744b0b82?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Hybrid | May 08 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/69fe4d86f363bc4dc339dddd?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 08 |
 | **[NOV](https://www.nov.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/69fe49176bcf315dc8f568fa?utm_campaign=1049&utm_source=git)** | 10353 Richmond Avenue, Houston, TX, 77042, US | On Site | May 08 |
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Herschend Creative Studios Internship](https://jobright.ai/jobs/info/69feb5a11161630dd3b023bc?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Remote | May 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[UX Designer Intern](https://jobright.ai/jobs/info/69fcf7556b788e7e7a5c408c?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience  Intern](https://jobright.ai/jobs/info/69fce826b113035a9f8ec9d7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 07 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce08d938a651755f974f3?utm_campaign=1049&utm_source=git)** | US-TX-Abilene | On Site | May 07 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/69fce084b113035a9f8ec6c6?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 07 |
-| **[Marathon Strategies LLC](https://marathonstrategies.com/)** | **[Creative Department Intern](https://jobright.ai/jobs/info/69fcdc33b113035a9f8ec412?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
