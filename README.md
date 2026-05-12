@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037dda6c07461fe170476c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
+| **[Safran Federal Systems](https://www.safranfederalsystems.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6a03772e22395b6dc6d94b43?utm_campaign=1049&utm_source=git)** | West Henrietta, New York, United States | On Site | May 12 |
+| **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a036e77ed6a637463f4f96a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 12 |
@@ -70,7 +73,6 @@ For a complete list, click the following sortable link below:
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
 | **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e6d5727820c036924d255a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 12 |
-| **[English Language and Literature](https://englishlanguageandliterature.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a032e1a7c753c287f6e4534?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 11 |
 | **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 11 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Herschend Creative Studios Internship](https://jobright.ai/jobs/info/69feb5a11161630dd3b023bc?utm_campaign=1049&utm_source=git)** | Orlando, Florida, United States | Remote | May 08 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/69fe45777714cd50b90ffb77?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 08 |
 | ↳ | **[Overheard Intern (Editorial)](https://jobright.ai/jobs/info/69fe45724b9bbf21744b003d?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 08 |
-| **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
-| ↳ | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
