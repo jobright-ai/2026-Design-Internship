@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
+| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6a035231ed6a637463f4e9f4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/69e6c14a3aa0c47964395daa?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 | **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
@@ -125,7 +127,6 @@ For a complete list, click the following sortable link below:
 | **[Lifetime Products](http://www.lifetime.com)** | **[Design Researcher Intern](https://jobright.ai/jobs/info/6a02c60722395b6dc6d8e502?utm_campaign=1049&utm_source=git)** | Clearfield, UT | On Site | May 09 |
 | **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Commercial Furniture Dealer Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 09 |
 | **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design / Community Intern](https://jobright.ai/jobs/info/69ff5e03238f143e835253ea?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
-| **[The RAM Group / Marketing Consultancy](http://www.theram-group.com)** | **[Summer Intern – Video Editor / Motion Graphics](https://jobright.ai/jobs/info/69ff4f96fa1aa73213d8ba45?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL | On Site | May 09 |
 | **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 09 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern](https://jobright.ai/jobs/info/691bb396bcdbf3560c9e1a01?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 09 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | May 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/69fe292f4b9bbf21744aeac3?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 08 |
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a021d3bfa1aa73213d96ad7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
-| **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/6a0167c03053db70a1170769?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
