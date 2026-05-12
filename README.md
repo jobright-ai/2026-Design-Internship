@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
+| **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship Summer](https://jobright.ai/jobs/info/6a03ac2622395b6dc6d9712e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
+| ↳ | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
+| **[WIT](https://witcontests.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a03a8466c07461fe1706532?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
+| **[BOOM InterTribal](http://www.boomintertribal.com)** | **[Indigenous Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/6a03a8317c753c287f6e93cf?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 12 |
+| **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a03a8136c07461fe170644f?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | May 12 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a039cb56c07461fe1705d82?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | May 12 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a0392848ecfd93cd9c0fd96?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | May 12 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | May 09 |
 | **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e651157820c036924cf62e?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 09 |
 | **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fa?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | May 09 |
-| **[Bass Pro Shops](https://www.basspro.com)** | **[Architectural Designer Intern](https://jobright.ai/jobs/info/69f6c664db88714bcdfb7974?utm_campaign=1049&utm_source=git)** | Springfield, MO | On Site | May 09 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/69fef164238f143e8352324d?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 09 |
-| ↳ | **[Overheard Intern (Editorial)](https://jobright.ai/jobs/info/69fef157c2ffb31f4535ce31?utm_campaign=1049&utm_source=git)** | NY, US | On Site | May 09 |
-| **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/69fed9d6fa1aa73213d89bb5?utm_campaign=1049&utm_source=git)** | United States-California-Folsom | On Site | May 08 |
-| **[Jaipur Rugs](http://www.jaipurrugsco.com)** | **[Design & Business Intern](https://jobright.ai/jobs/info/69fed96fa0eddc08c2396b6c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 08 |
-| **[Doner](http://doner.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe9d2bf363bc4dc339f7ea?utm_campaign=1049&utm_source=git)** | Los Angeles, California | On Site | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
