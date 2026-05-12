@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[UI/UX Intern on Wix (Unpaid Internship)](https://jobright.ai/jobs/info/6a02774fc2ffb31f4536d5fd?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 11 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6a027192fa1aa73213d9a278?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EXP](http://www.exp.com/)** | **[Intern](https://jobright.ai/jobs/info/69fd0b6e5cff890b03f35b48?utm_campaign=1049&utm_source=git)** | 205 North Michigan Avenue, Chicago, IL, 60601, US | On Site | May 07 |
 | **[Li & Fung](http://www.lifung.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69fd01e8938a651755f98559?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 07 |
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern(rolling)](https://jobright.ai/jobs/info/69fcfcd3b113035a9f8ed775?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | May 07 |
-| **[RemoteHunter](https://remotehunter.com/)** | **[UX Designer Intern](https://jobright.ai/jobs/info/69fcf7556b788e7e7a5c408c?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, US | Hybrid | May 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
