@@ -58,13 +58,14 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 11 |
+| **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 11 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
 | **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[UI/UX Intern on Wix (Unpaid Internship)](https://jobright.ai/jobs/info/6a02774fc2ffb31f4536d5fd?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 11 |
 | **[FutureSelf™](https://www.future-self.ai/)** | **[UX Researcher (Intern)](https://jobright.ai/jobs/info/6a027192fa1aa73213d9a278?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 11 |
-| **[X Technology AI](https://www.linkedin.com/company/108115025)** | **[Social Media Content Creator Intern / Multiple Brands / Creative Execution / Remote](https://jobright.ai/jobs/info/6a025442fa1aa73213d99658?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
+| **[X Technology AI](https://XTechnology.ai/)** | **[Social Media Content Creator Intern / Multiple Brands / Creative Execution / Remote](https://jobright.ai/jobs/info/6a025442fa1aa73213d99658?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a030b63f3d6cc51d6372c8b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
@@ -104,6 +105,7 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 10 |
+| **[Nisa Helpline](https://nisahelpline.com/)** | **[Graphic Designer - Summer Job](https://jobright.ai/jobs/info/6a0312bced6a637463f4c721?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | May 10 |
 | **[Super.com](https://www.super.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a0207d83053db70a1173fae?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 10 |
 | **[Albemarle County](http://www.albemarle.org)** | **[Communications and Public Engagement Intern](https://jobright.ai/jobs/info/69fbdcf338179b6f1ae7b46b?utm_campaign=1049&utm_source=git)** | Charlottesville, VA | On Site | May 10 |
 | **[Design Observer](http://designobserver.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/6a02c60122395b6dc6d8e4fe?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Disruptive Edge](http://www.disruptiveedge.com/)** | **[User Research & Prototyping Intern](https://jobright.ai/jobs/info/69fe28d17714cd50b90fe70d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 08 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a021d3bfa1aa73213d96ad7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 08 |
 | **[Catalyzer Media](https://www.linkedin.com/company/108159088)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/6a0167c03053db70a1170769?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 08 |
-| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8f65f79f3f4037f439555?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 08 |
-| **[National Education Association](http://www.nea.org)** | **[NEA Graphics Design Intern, Creative Services, Center for Communications  (Summer 2026)](https://jobright.ai/jobs/info/69fe100d6bcf315dc8f54723?utm_campaign=1049&utm_source=git)** | NEA Headquarters, US | Hybrid | May 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
