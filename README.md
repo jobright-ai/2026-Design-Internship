@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a04f28d4373b07358a38454?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 13 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[UI/UX Volunteer](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df1?utm_campaign=1049&utm_source=git)** | Gloucester, MA | Remote | May 13 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a04ed9d4373b07358a38125?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04e31b7c753c287f6f47a6?utm_campaign=1049&utm_source=git)** | 1000 Mount Laurel - Mount Laurel, NJ 08054 | Remote | May 13 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 13 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6a04dd3622395b6dc6da1697?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 13 |
+| **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f83?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d305f3d6cc51d63839cb?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 13 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d00f6c07461fe1710e26?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | May 13 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Photography Intern](https://jobright.ai/jobs/info/6a04cfbd22395b6dc6da0fe4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 13 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a036e77ed6a637463f4f96a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a01ee3adf52f1450d846395?utm_campaign=1049&utm_source=git)** | Vancouver, Canada | On Site | May 11 |
 | **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - UX/Product Design Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/6a02f738bc4184089f22d7fa?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a02f26eed6a637463f4ae58?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
-| **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
-| **[Ohana Growth Partners, LLC](https://www.planetfitness.com)** | **[Intern, Marketing Creative Director (Planet Fitness)](https://jobright.ai/jobs/info/6a01bc5e238f143e8352d788?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
