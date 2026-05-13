@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Direct Supply](http://www.directsupply.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e80b813aa0c4796439d8dc?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | May 13 |
 | **[LRA | L'Renee & Associates](http://www.lra.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0496436c07461fe170ed2e?utm_campaign=1049&utm_source=git)** | Houston, Texas, United States | On Site | May 13 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04b5886c07461fe170fece?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 13 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/69e822337820c036924da68e?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 13 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | May 13 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 13 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a036e77ed6a637463f4f96a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 12 |
 | **[Rally Foundation for Childhood Cancer Research](https://rallyfoundation.org/)** | **[Digital and Web Design Intern](https://jobright.ai/jobs/info/6a0361b922395b6dc6d93f7c?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -122,10 +123,8 @@ For a complete list, click the following sortable link below:
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 11 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0413666c07461fe1709618?utm_campaign=1049&utm_source=git)** | Park City, KS | On Site | May 11 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern](https://jobright.ai/jobs/info/6a023b95c2ffb31f4536b55b?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Print Design Internship](https://jobright.ai/jobs/info/6a023a51c4b08448a0b24428?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a030b63f3d6cc51d6372c8b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
-| **[rag & bone](http://www.rag-bone.com)** | **[Summer 2026 Intern - Footwear Design](https://jobright.ai/jobs/info/6a02307ac4b08448a0b23d3e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a030ba922395b6dc6d90586?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 11 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a030ac3f3d6cc51d6372a44?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 11 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0226693053db70a1174c80?utm_campaign=1049&utm_source=git)** | Park City, KS, 67219, United States | On Site | May 11 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 10 |
+| **[Nisa Helpline](https://nisahelpline.com/)** | **[Graphic Designer - Summer Job](https://jobright.ai/jobs/info/6a0312bced6a637463f4c721?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Remote | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
