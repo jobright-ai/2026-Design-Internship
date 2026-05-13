@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a03be0b22395b6dc6d978ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
@@ -119,7 +120,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc87d0e1921223acc78cb4?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | May 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a55238f143e83530196?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 11 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a1cfa1aa73213d964f9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 11 |
-| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern-Design](https://jobright.ai/jobs/info/6a02ff8c7c753c287f6e2434?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | May 11 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[AR-1 Intern](https://jobright.ai/jobs/info/6a02fc86bc4184089f22d950?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | May 11 |
 | **[Kansas City Area Development Council](https://thinkkc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a02065dc4b08448a0b223b4?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 11 |
 | **[Super.com](https://www.super.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03035fbc4184089f22e0a2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
