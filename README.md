@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Sigmatech](https://sigmatech.com)** | **[Strategic Messaging Summer Internship](https://jobright.ai/jobs/info/6a03efa87c753c287f6eb466?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | May 12 |
+| **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a03e88d6c07461fe1708293?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | May 12 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a03e0ee7c753c287f6eae7a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
 | **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Publishing Visual Design & Mockup Intern](https://jobright.ai/jobs/info/6a03dcf922395b6dc6d98428?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a03d57822395b6dc6d982a6?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | May 12 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Visual Design - 3D Modeling Collegiate Associate Intern](https://jobright.ai/jobs/info/6a0390a122395b6dc6d960a6?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | May 12 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/6a03903abc4184089f233c2a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0390228ecfd93cd9c0fa86?utm_campaign=1049&utm_source=git)** | Merrimack, NH | On Site | May 12 |
-| **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a038f7f8ecfd93cd9c0f9a4?utm_campaign=1049&utm_source=git)** | Connecticut, Bethany - Bld1, US | On Site | May 12 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a038f04f3d6cc51d6377f7e?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | May 12 |
 | **[AriZona Beverage Co.](https://www.drinkarizona.com)** | **[Presentation Design Igtern](https://jobright.ai/jobs/info/6a038f046c07461fe170556a?utm_campaign=1049&utm_source=git)** | Woodbury, NY | On Site | May 12 |
 | **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[AI Fashion Intern](https://jobright.ai/jobs/info/6a038eecf3d6cc51d6377f13?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dôen](https://shopdoen.com)** | **[Footwear & Accessories Design Intern](https://jobright.ai/jobs/info/69fb2d6387a4820e6da86213?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 10 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Intern - Summer 2026](https://jobright.ai/jobs/info/6a02ba0b7c753c287f6dff91?utm_campaign=1049&utm_source=git)** | Folsom, CA | On Site | May 10 |
 | **[Midmark Corporation](http://www.midmark.com/)** | **[Graphic Design Intern in Traverse City, MI](https://jobright.ai/jobs/info/69c90a291818a24cd84d9480?utm_campaign=1049&utm_source=git)** | Michigan, United States | On Site | May 10 |
-| **[Blackjack Horticulture, Inc.](https://www.blackjackhorticulture.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a0045d3c2ffb31f45361c67?utm_campaign=1049&utm_source=git)** | Birmingham, AL 35210 | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
