@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6a04dd3622395b6dc6da1697?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d305f3d6cc51d63839cb?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 13 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d00f6c07461fe1710e26?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | May 13 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Photography Intern](https://jobright.ai/jobs/info/6a04cfbd22395b6dc6da0fe4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 13 |
@@ -64,6 +65,7 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern - Visual Merchandising](https://jobright.ai/jobs/info/6a04cfa04373b07358a370d5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[PLANT Design Group](http://www.plantdesigngroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6a04c9986c07461fe1710b60?utm_campaign=1049&utm_source=git)** | Furlong, PA | On Site | May 13 |
 | **[AIA Colorado](https://aiacolorado.org/)** | **[JUNIOR ARCHITECT / INTERN (1-3 Years)](https://jobright.ai/jobs/info/6a04ba12bc4184089f23e108?utm_campaign=1049&utm_source=git)** | Louisville, CO | Hybrid | May 13 |
+| **[BOND (YCX25)](https://bondapp.io)** | **[Marketing / Graphic design intern](https://jobright.ai/jobs/info/6a04dd29f3d6cc51d6383e7f?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Hybrid | May 13 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/69e80b813aa0c4796439d8dc?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | May 13 |
 | **[LRA | L'Renee & Associates](http://www.lra.co)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0496436c07461fe170ed2e?utm_campaign=1049&utm_source=git)** | Houston, Texas, United States | On Site | May 13 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04b5886c07461fe170fece?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 13 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
-| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship Summer](https://jobright.ai/jobs/info/6a03ac2622395b6dc6d9712e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | ↳ | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
@@ -107,8 +109,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a036e77ed6a637463f4f96a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 11 |
 | **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6a01b236fa1aa73213d93f63?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 11 |
 | **[The United Church of Canada](https://united-church.ca)** | **[Web Design Intern - Canada Summer Jobs Program](https://jobright.ai/jobs/info/6a0416c36c07461fe1709a80?utm_campaign=1049&utm_source=git)** | GTA Toronto, ON | On Site | May 10 |
-| **[More Gardens! Fund](http://moregardens.org)** | **[NYC, Architect / Landscape Architect Intern - Sacred Geometry Living Structures - In-person, Hybrid, or Remote - Unpaid](https://jobright.ai/jobs/info/6a015f99c2ffb31f45365875?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 10 |
-| **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
