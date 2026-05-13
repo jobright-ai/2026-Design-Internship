@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a04ed9d4373b07358a38125?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 13 |
+| **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04e31b7c753c287f6f47a6?utm_campaign=1049&utm_source=git)** | 1000 Mount Laurel - Mount Laurel, NJ 08054 | Remote | May 13 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 13 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6a04dd3622395b6dc6da1697?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d305f3d6cc51d63839cb?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 13 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d00f6c07461fe1710e26?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | May 13 |
@@ -109,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a036e77ed6a637463f4f96a?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | May 11 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 11 |
 | **[Ohana Growth Partners, LLC](https://www.planetfitness.com)** | **[Intern, Marketing Creative Director (Planet Fitness)](https://jobright.ai/jobs/info/6a01bc5e238f143e8352d788?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | Remote | May 11 |
-| **[Embry-Riddle Aeronautical University](https://www.erau.edu)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/69fb9dda38179b6f1ae7a2bb?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 11 |
-| **[The Massachusetts Executive Office of Labor and Workforce Development (EOLWD)](http://www.mass.gov/eolwd)** | **[Experience Design and Research Intern](https://jobright.ai/jobs/info/6a01b236fa1aa73213d93f63?utm_campaign=1049&utm_source=git)** | United States-Massachusetts-Boston-1 Ashburton Place | Hybrid | May 11 |
-| **[The United Church of Canada](https://united-church.ca)** | **[Web Design Intern - Canada Summer Jobs Program](https://jobright.ai/jobs/info/6a0416c36c07461fe1709a80?utm_campaign=1049&utm_source=git)** | GTA Toronto, ON | On Site | May 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
