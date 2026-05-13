@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PAR, Inc.](https://www.parinc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e9afe4e0cd471b2f13e9ea?utm_campaign=1049&utm_source=git)** | Lutz, FL | On Site | May 13 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 13 |
 | **[LangPal](www.lang-pal.com)** | **[Motion Graphic Designer](https://jobright.ai/jobs/info/6a03f2d422395b6dc6d993fe?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[Sigmatech](https://sigmatech.com)** | **[Strategic Messaging Summer Internship](https://jobright.ai/jobs/info/6a03efa87c753c287f6eb466?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | On Site | May 12 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a03e88d6c07461fe1708293?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | May 12 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a03e0ee7c753c287f6eae7a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
-| **[Kentish Publishing Company](https://www.facebook.com/KENTISHPUBLISHINGCOMPANY)** | **[Publishing Visual Design & Mockup Intern](https://jobright.ai/jobs/info/6a03dcf922395b6dc6d98428?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a03d57822395b6dc6d982a6?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | May 12 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1fb5e156000841156a1a?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a03be0b22395b6dc6d978ed?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 12 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Content & Digital Assets, Photo Operations](https://jobright.ai/jobs/info/69952d16ce78e77b4fd9455c?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO | On Site | May 11 |
 | **[The United Church of Canada](https://united-church.ca)** | **[Web Design Intern - Canada Summer Jobs Program](https://jobright.ai/jobs/info/6a0416c36c07461fe1709a80?utm_campaign=1049&utm_source=git)** | GTA Toronto, ON | On Site | May 10 |
 | **[More Gardens! Fund](http://moregardens.org)** | **[NYC, Architect / Landscape Architect Intern - Sacred Geometry Living Structures - In-person, Hybrid, or Remote - Unpaid](https://jobright.ai/jobs/info/6a015f99c2ffb31f45365875?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 10 |
-| **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern (Summer 2026)](https://jobright.ai/jobs/info/69d666b1cfdc6132f9469ae6?utm_campaign=1049&utm_source=git)** | State College, PA | On Site | May 10 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 10 |
 | **[Ultrahuman](http://www.ultrahuman.com)** | **[User Experience - Intern (Remote)](https://jobright.ai/jobs/info/6a0128e1fa1aa73213d91db3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 10 |
 | **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/69964dcde0bddb6acac4b924?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 10 |
