@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
+| **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
+| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship Summer](https://jobright.ai/jobs/info/6a03ac2622395b6dc6d9712e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | ↳ | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
@@ -64,6 +69,8 @@ For a complete list, click the following sortable link below:
 | **[BOOM InterTribal](http://www.boomintertribal.com)** | **[Indigenous Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/6a03a8317c753c287f6e93cf?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a03a8136c07461fe170644f?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | May 12 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a039cb56c07461fe1705d82?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | May 12 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a03b572bc4184089f2353f7?utm_campaign=1049&utm_source=git)** | Cincinnati Metro | Hybrid | May 12 |
+| **[NCAA](https://www.ncaa.org)** | **[Digital Media and Content Creation Intern](https://jobright.ai/jobs/info/6a03b58a6c07461fe1706f2a?utm_campaign=1049&utm_source=git)** | Daytona Beach, FL | On Site | May 12 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a0392848ecfd93cd9c0fd96?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | May 12 |
 | **[Gulfstream Aerospace](http://www.gulfstream.com)** | **[Fall 2026 - Visual Design - 3D Modeling Collegiate Associate Intern](https://jobright.ai/jobs/info/6a0390a122395b6dc6d960a6?utm_campaign=1049&utm_source=git)** | Savannah, GA | On Site | May 12 |
@@ -76,7 +83,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI FASHION INTERN](https://jobright.ai/jobs/info/6a038ccbbc4184089f233762?utm_campaign=1049&utm_source=git)** | NEW YORK, NEW YORK, NY, US | Hybrid | May 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a1cf3d6cc51d63779a0?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a06bc4184089f2334fe?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
-| **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037dda6c07461fe170476c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
+| **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a03b542bc4184089f235319?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
 | **[Safran Federal Systems](https://www.safranfederalsystems.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6a03772e22395b6dc6d94b43?utm_campaign=1049&utm_source=git)** | West Henrietta, New York, United States | On Site | May 12 |
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[RemoteHunter](https://remotehunter.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69ffcff7c4b08448a0b19878?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 09 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Interior Design Student Intern](https://jobright.ai/jobs/info/69ffb559c2ffb31f45360373?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 09 |
 | **[CuraLinc Healthcare](https://curalinc.com/)** | **[Paid Internship - Product Design](https://jobright.ai/jobs/info/69f3ea711f90bd6ae23d2c69?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
-| **[Lifetime Products](http://www.lifetime.com)** | **[Design Researcher Intern](https://jobright.ai/jobs/info/6a02c60722395b6dc6d8e502?utm_campaign=1049&utm_source=git)** | Clearfield, UT | On Site | May 09 |
-| **[COFCO, A Henricksen Company](http://www.cofcogroup.com)** | **[Commercial Furniture Dealer Design Intern (Part-Time)](https://jobright.ai/jobs/info/69fbeaf73160b250eb1b9309?utm_campaign=1049&utm_source=git)** | Minneapolis,MN,US | On Site | May 09 |
-| **[Crushed Tonic](https://www.crushedtonic.com/)** | **[Social Media / Design / Community Intern](https://jobright.ai/jobs/info/69ff5e03238f143e835253ea?utm_campaign=1049&utm_source=git)** | United States | Remote | May 09 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2026 Semester 2) - Generation H](https://jobright.ai/jobs/info/69a9fca01f59c56275e2cfca?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 09 |
-| **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/698d07050f6f7e7a2ce8b68d?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | May 09 |
-| **[Nokia](http://www.nokia.com)** | **[UX Designer Co-op/Intern](https://jobright.ai/jobs/info/69e651157820c036924cf62e?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | Hybrid | May 09 |
-| **[TerraCycle](http://www.terracycle.com/en-US/)** | **[Creative Departments - Summer Internship](https://jobright.ai/jobs/info/69aa02cd9ca4e908ec6552fa?utm_campaign=1049&utm_source=git)** | Trenton, NJ | On Site | May 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
