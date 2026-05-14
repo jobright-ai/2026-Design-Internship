@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Creative Digital Design & AI Intern](https://jobright.ai/jobs/info/6a062f9b6c07461fe171d66c?utm_campaign=1049&utm_source=git)** | Durham, North Carolina | On Site | May 14 |
+| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Graphic Designer with Strong Illustration Skills at Podcast/Record Company](https://jobright.ai/jobs/info/6a062f89f3d6cc51d6390807?utm_campaign=1049&utm_source=git)** | United States | Remote | May 14 |
+| **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/6a062e0a6c07461fe171d35d?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | May 14 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | May 14 |
+| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a66a88ea73abf7f8530?utm_campaign=1049&utm_source=git)** | 1900 Harpers Way, Torrance, California, United States | On Site | May 14 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a062470320bff2205ea9086?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | May 14 |
 | **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[UI/UX Volunteer (Remote)](https://jobright.ai/jobs/info/6a06219ba88ea73abf7f7b6e?utm_campaign=1049&utm_source=git)** | Gloucester, MA | Remote | May 14 |
 | **[Streetsense](http://streetsense.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a061c917c753c287f6ff509?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | May 14 |
@@ -72,7 +77,6 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 14 |
 | **[Volkswagen Financial Services](https://www.vwfs.com/)** | **[Summer Intern -  HR Engagement & Graphic Design](https://jobright.ai/jobs/info/6a05fb78a88ea73abf7f5caa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN, US, 37416 | On Site | May 14 |
 | **[The MRG Group](https://themrggroup.com)** | **[Content & Editorial Intern (Unpaid)](https://jobright.ai/jobs/info/6a061658320bff2205ea7ebb?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Experience Center Intern](https://jobright.ai/jobs/info/6a05ea40a88ea73abf7f4e6e?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | May 14 |
 | **[Battelle](http://www.battelle.org)** | **[Human Centric Design/Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a05e7436c07461fe1719f23?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | May 14 |
 | **[Towson University](http://www.towson.edu/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1eea18b94b2515bdf5d5?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | May 14 |
 | **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cd7ccc366bb95ba54fc48c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | May 14 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/69e6c14a3aa0c47964395daa?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 12 |
-| **[KI](http://www.ki.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/69ec2f2558811370cb13f1e1?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
-| **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e6d5727820c036924d255a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 12 |
-| **[Fox Corporation](https://www.foxcorporation.com/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a054c61a88ea73abf7f059c?utm_campaign=1049&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
