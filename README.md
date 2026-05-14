@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a05bdcabc4184089f2472b4?utm_campaign=1049&utm_source=git)** | New York | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69af35c0dfaeda6ff597528e?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 14 |
 | **[Orthofix](http://www.orthofix.com)** | **[Intern - Creative and Graphic Design](https://jobright.ai/jobs/info/6996ba4f81476f6176aeb924?utm_campaign=1049&utm_source=git)** | Lewisville, TX | On Site | May 14 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 14 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/69f385426942c746fa6919d6?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 14 |
-| **[Fulcrum GT](https://fulcrumgt.com)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 14 |
+| **[Fulcrum GT](https://fulcrum-gt.com/)** | **[Startup Lab 2026: Design Associate](https://jobright.ai/jobs/info/69a771942672cb0acb4be7f2?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 14 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a0578bdbc4184089f24572f?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 14 |
 | **[BCI](https://www.bci.ca/)** | **[Visual Communications Design Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a0577886c07461fe1716942?utm_campaign=1049&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 13 |
@@ -130,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0226693053db70a1174c80?utm_campaign=1049&utm_source=git)** | Park City, KS, 67219, United States | On Site | May 11 |
 | **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a022525c2ffb31f45369fc0?utm_campaign=1049&utm_source=git)** | Montclair, NJ | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a022493df52f1450d847afa?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc7ff5cdb525785fb7c6c2?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
