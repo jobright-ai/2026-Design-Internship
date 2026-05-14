@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a0578bdbc4184089f24572f?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 14 |
+| **[BCI](https://www.bci.ca/)** | **[Visual Communications Design Co-op/Internship (Fall 2026 & Winter 2027)](https://jobright.ai/jobs/info/6a0577886c07461fe1716942?utm_campaign=1049&utm_source=git)** | Victoria, BC, CA | Hybrid | May 14 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a053a5e7c753c287f6f7dd3?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 13 |
 | **[AstroTurf](https://www.astroturf.com/)** | **[INTERN Sports Graphics Technician](https://jobright.ai/jobs/info/6a0537a0f3d6cc51d6387a4a?utm_campaign=1049&utm_source=git)** | Callahan - Dalton, GA 30721 | On Site | May 13 |
@@ -96,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
-| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | **[WIT](https://witcontests.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a03a8466c07461fe1706532?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a020a1cfa1aa73213d964f9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 11 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[AR-1 Intern](https://jobright.ai/jobs/info/6a02fc86bc4184089f22d950?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | May 11 |
 | **[Kansas City Area Development Council](https://thinkkc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a02065dc4b08448a0b223b4?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 11 |
-| **[Super.com](https://www.super.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03035fbc4184089f22e0a2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
-| ↳ | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03048ced6a637463f4b82a?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
