@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a062470320bff2205ea9086?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | May 14 |
+| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[UI/UX Volunteer (Remote)](https://jobright.ai/jobs/info/6a06219ba88ea73abf7f7b6e?utm_campaign=1049&utm_source=git)** | Gloucester, MA | Remote | May 14 |
+| **[Streetsense](http://streetsense.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a061c917c753c287f6ff509?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | May 14 |
+| **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - DEAM [Architectural Design]](https://jobright.ai/jobs/info/6a061c82320bff2205ea848a?utm_campaign=1049&utm_source=git)** | 185 Ted Turner Drive SW, Atlanta, GA, 30303, US | Hybrid | May 14 |
+| **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program - DEAM [Architectural Design]](https://jobright.ai/jobs/info/6a0619d3f3d6cc51d638f128?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | Hybrid | May 14 |
+| **[Loudr Agency](https://www.loudr.agency)** | **[Creative Intern](https://jobright.ai/jobs/info/6a0619a0bc4184089f24b1ed?utm_campaign=1049&utm_source=git)** | Denver, Colorado, United States | Hybrid | May 14 |
+| **[Starz](http://www.starz.com/)** | **[STARZ Intern, Digital Design](https://jobright.ai/jobs/info/6a06176a7c753c287f6ff090?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 14 |
 | **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Summer Intern -  HR Engagement & Graphic Design](https://jobright.ai/jobs/info/6a0616796c07461fe171c372?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | May 14 |
 | **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a06119e7c753c287f6fea4c?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | May 14 |
 | **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6a0611216c07461fe171bc04?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | May 14 |
@@ -140,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/69ec2dcfdc35f7132c4b5fb5?utm_campaign=1049&utm_source=git)** | Green Bay, WI | On Site | May 12 |
 | **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/69e6d5727820c036924d255a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 12 |
 | **[Fox Corporation](https://www.foxcorporation.com/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a054c61a88ea73abf7f059c?utm_campaign=1049&utm_source=git)** | Los Angeles, California, USA, US | On Site | May 11 |
-| **[Global Green Growth Institute](https://www.gggi.org)** | **[CTAF GLOBAL SHOWCASE AND VISUALIZATION INTERN](https://jobright.ai/jobs/info/6a041503f811a04369607a9f?utm_campaign=1049&utm_source=git)** | Home, KS | Remote | May 11 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc6cadcfdc6132f940c326?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 11 |
-| **[Greenpoint Technologies, Inc.](https://greenpoint.com)** | **[Design Intern](https://jobright.ai/jobs/info/69a93b0e79f3f4037f440a81?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | May 11 |
-| **[Big Night Entertainment Group](http://bneg.com/)** | **[Big Night Entertainment Group - Graphic Design Intern](https://jobright.ai/jobs/info/69f92f2f0b36ff035475db20?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | May 11 |
-| **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a0413977c753c287f6ec180?utm_campaign=1049&utm_source=git)** | Palm Bay, FL | On Site | May 11 |
-| **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a041412f811a04369607794?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
-| **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
