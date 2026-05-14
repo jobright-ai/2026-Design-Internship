@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 14 |
+| **[Volkswagen Financial Services](https://www.vwfs.com/)** | **[Summer Intern -  HR Engagement & Graphic Design](https://jobright.ai/jobs/info/6a05fb78a88ea73abf7f5caa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN, US, 37416 | On Site | May 14 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Experience Center Intern](https://jobright.ai/jobs/info/6a05ea40a88ea73abf7f4e6e?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | May 14 |
 | **[Battelle](http://www.battelle.org)** | **[Human Centric Design/Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a05e7436c07461fe1719f23?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | May 14 |
 | **[Towson University](http://www.towson.edu/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1eea18b94b2515bdf5d5?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | May 14 |
@@ -88,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f83?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d305f3d6cc51d63839cb?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 13 |
 | **[Mesa Chamber of Commerce](http://www.mesachamber.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d00f6c07461fe1710e26?utm_campaign=1049&utm_source=git)** | Mesa, AZ | On Site | May 13 |
-| **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[RLC Photography Intern](https://jobright.ai/jobs/info/6a04cfbd22395b6dc6da0fe4?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 13 |
 | **[RWE Design Build](https://www.rwedesignbuild.com)** | **[Interior Design Intern - Summer 2026](https://jobright.ai/jobs/info/6a04cfb94373b07358a370ff?utm_campaign=1049&utm_source=git)** | Downers Grove, IL | On Site | May 13 |
 | **[Louis Vuitton](http://www.louisvuitton.com)** | **[3D & 2D Design Intern - Visual Merchandising](https://jobright.ai/jobs/info/6a04cfa04373b07358a370d5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[PLANT Design Group](http://www.plantdesigngroup.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6a04c9986c07461fe1710b60?utm_campaign=1049&utm_source=git)** | Furlong, PA | On Site | May 13 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
-| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | **[BOOM InterTribal](http://www.boomintertribal.com)** | **[Indigenous Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/6a03a8317c753c287f6e93cf?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 12 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
 | **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 11 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0413666c07461fe1709618?utm_campaign=1049&utm_source=git)** | Park City, KS | On Site | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a030b63f3d6cc51d6372c8b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a030ba922395b6dc6d90586?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
