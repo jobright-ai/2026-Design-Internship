@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern Graphic Design](https://jobright.ai/jobs/info/6a050493bc4184089f2421b8?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | May 13 |
+| **[Allata](https://www.allata.com/)** | **[Website UI/UX Designer](https://jobright.ai/jobs/info/6a04ff707c753c287f6f5bfe?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | Hybrid | May 13 |
+| **[Construction Resources](https://www.constructionresourcesusa.com)** | **[Design Center Intern](https://jobright.ai/jobs/info/6a04fb47f3d6cc51d63855d1?utm_campaign=1049&utm_source=git)** | 196 Rio Circle Decatur, GA 30030 | On Site | May 13 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a04f28d4373b07358a38454?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 13 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[UI/UX Volunteer](https://jobright.ai/jobs/info/6a04f25bbc4184089f240df1?utm_campaign=1049&utm_source=git)** | Gloucester, MA | Remote | May 13 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a04ed9d4373b07358a38125?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04e31b7c753c287f6f47a6?utm_campaign=1049&utm_source=git)** | 1000 Mount Laurel - Mount Laurel, NJ 08054 | Remote | May 13 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee83c2ffb31f45368881?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | May 11 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee6ffa1aa73213d958a5?utm_campaign=1049&utm_source=git)** | US-FL-Orlando | On Site | May 11 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a01ee3adf52f1450d846395?utm_campaign=1049&utm_source=git)** | Vancouver, Canada | On Site | May 11 |
-| **[Scotiabank](https://www.scotiabank.com)** | **[Canadian Banking - UX/Product Design Internship/Co-op - Fall 2026](https://jobright.ai/jobs/info/6a02f738bc4184089f22d7fa?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 11 |
-| **[Gensler](http://www.gensler.com)** | **[Student Internship – Interior Design – Summer 2026 – Vancouver](https://jobright.ai/jobs/info/6a02f26eed6a637463f4ae58?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
