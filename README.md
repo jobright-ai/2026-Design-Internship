@@ -57,13 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Creative Digital Design & AI Intern](https://jobright.ai/jobs/info/6a063ba7f3d6cc51d6391418?utm_campaign=1049&utm_source=git)** | Durham, NC | On Site | May 14 |
+| **[Streetsense](http://streetsense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a063761f3d6cc51d6390fe7?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | May 14 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a063691bc4184089f24d01a?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | May 14 |
+| **[University of La Verne](http://laverne.edu)** | **[Makerspace Creative Assistant - FWS (2026/2027)](https://jobright.ai/jobs/info/6a0633347c753c287f700729?utm_campaign=1049&utm_source=git)** | La Verne, CA | On Site | May 14 |
+| **[Dream](http://www.dream.ca/)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a06308a320bff2205ea99f1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Dollar Shave Club](http://www.dollarshaveclub.com)** | **[Creative Digital Design & AI Intern](https://jobright.ai/jobs/info/6a062f9b6c07461fe171d66c?utm_campaign=1049&utm_source=git)** | Durham, North Carolina | On Site | May 14 |
-| **[ElectraCast Media](http://www.electracast.com)** | **[Intern Graphic Designer with Strong Illustration Skills at Podcast/Record Company](https://jobright.ai/jobs/info/6a062f89f3d6cc51d6390807?utm_campaign=1049&utm_source=git)** | United States | Remote | May 14 |
 | **[Bigelow Tea](http://www.bigelowtea.com)** | **[Design Intern (Digital & E-commerce)](https://jobright.ai/jobs/info/6a062e0a6c07461fe171d35d?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | May 14 |
 | **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | May 14 |
 | ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a66a88ea73abf7f8530?utm_campaign=1049&utm_source=git)** | 1900 Harpers Way, Torrance, California, United States | On Site | May 14 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a062470320bff2205ea9086?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | May 14 |
-| **[Seaside Sustainability](https://www.seasidesustainability.org/)** | **[UI/UX Volunteer (Remote)](https://jobright.ai/jobs/info/6a06219ba88ea73abf7f7b6e?utm_campaign=1049&utm_source=git)** | Gloucester, MA | Remote | May 14 |
 | **[Streetsense](http://streetsense.com)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a061c917c753c287f6ff509?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | May 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - DEAM [Architectural Design]](https://jobright.ai/jobs/info/6a061c82320bff2205ea848a?utm_campaign=1049&utm_source=git)** | 185 Ted Turner Drive SW, Atlanta, GA, 30303, US | Hybrid | May 14 |
 | **[City of Atlanta Department of Watershed Management](https://www.atlantawatershed.org)** | **[2026 Summer College Internship Program - DEAM [Architectural Design]](https://jobright.ai/jobs/info/6a0619d3f3d6cc51d638f128?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | Hybrid | May 14 |
@@ -151,10 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
-| **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
-| **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/69e6c14a3aa0c47964395daa?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
