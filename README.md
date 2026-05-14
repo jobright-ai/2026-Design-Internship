@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AstroTurf](https://www.astroturf.com/)** | **[INTERN Sports Graphics Technician](https://jobright.ai/jobs/info/6a0537a0f3d6cc51d6387a4a?utm_campaign=1049&utm_source=git)** | Callahan - Dalton, GA 30721 | On Site | May 13 |
 | **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a0523d46c07461fe171433b?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | May 13 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a051ac64373b07358a3a307?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a050ffef3d6cc51d6386327?utm_campaign=1049&utm_source=git)** | Mount Laurel, NJ | Remote | May 13 |
@@ -93,8 +94,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
-| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship Summer](https://jobright.ai/jobs/info/6a03ac2622395b6dc6d9712e?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | ↳ | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Super.com](https://www.super.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03035fbc4184089f22e0a2?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 11 |
 | ↳ | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03048ced6a637463f4b82a?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 11 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/6a02fd72ed6a637463f4b159?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | May 11 |
-| **[ZGF Architects](https://www.zgf.com/)** | **[AR-1 Intern](https://jobright.ai/jobs/info/6a01ff35fa1aa73213d95ceb?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
