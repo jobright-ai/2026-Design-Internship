@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a0523d46c07461fe171433b?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | May 13 |
+| **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a051ac64373b07358a3a307?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a050ffef3d6cc51d6386327?utm_campaign=1049&utm_source=git)** | Mount Laurel, NJ | Remote | May 13 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern Graphic Design](https://jobright.ai/jobs/info/6a050493bc4184089f2421b8?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | May 13 |
 | **[Allata](https://www.allata.com/)** | **[Website UI/UX Designer](https://jobright.ai/jobs/info/6a04ff707c753c287f6f5bfe?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | Hybrid | May 13 |
@@ -118,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
-| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
-| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608e?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 12 |
+| ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a035efcf3d6cc51d637608f?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 12 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0359416c07461fe1703155?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 12 |
 | **[Trideum Corporation](http://trideum.com)** | **[Technical Editor Intern](https://jobright.ai/jobs/info/6a03540bf3d6cc51d6375890?utm_campaign=1049&utm_source=git)** | Killeen, TX | On Site | May 12 |
 | **[Texas Gravestone Care](https://www.texasgravestonecare.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0344adf3d6cc51d637527f?utm_campaign=1049&utm_source=git)** | Porter, TX | On Site | May 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Production Intern](https://jobright.ai/jobs/info/6a03048ced6a637463f4b82a?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 11 |
 | **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Summer 2026](https://jobright.ai/jobs/info/6a02fd72ed6a637463f4b159?utm_campaign=1049&utm_source=git)** | Peachtree City, GA | On Site | May 11 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[AR-1 Intern](https://jobright.ai/jobs/info/6a01ff35fa1aa73213d95ceb?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | May 11 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee83c2ffb31f45368881?utm_campaign=1049&utm_source=git)** | Orlando, FL, US | On Site | May 11 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a01ee6ffa1aa73213d958a5?utm_campaign=1049&utm_source=git)** | US-FL-Orlando | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
