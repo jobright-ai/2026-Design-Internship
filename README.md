@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern-Design](https://jobright.ai/jobs/info/6a05dd686c07461fe171978b?utm_campaign=1049&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | Hybrid | May 14 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/6a05d90dbc4184089f247f67?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 14 |
+| ↳ | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/6a05d90bbc4184089f247f5b?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 14 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a05bdcabc4184089f2472b4?utm_campaign=1049&utm_source=git)** | New York | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69af35c0dfaeda6ff597528e?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 14 |
@@ -77,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a04f28d4373b07358a38454?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 13 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a04ed9d4373b07358a38125?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04e31b7c753c287f6f47a6?utm_campaign=1049&utm_source=git)** | 1000 Mount Laurel - Mount Laurel, NJ 08054 | Remote | May 13 |
-| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern - Summer 2026](https://jobright.ai/jobs/info/69f2778f825a315d7ca3c9dc?utm_campaign=1049&utm_source=git)** | Glen Allen, VA | Hybrid | May 13 |
 | **[Prospect Equities®](http://ProspectEquities.com/)** | **[Bilingual Videographer and Graphic Designer Internship (Mandarin)](https://jobright.ai/jobs/info/6a04dd3622395b6dc6da1697?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 13 |
 | **[DoubleVerify](http://www.doubleverify.com)** | **[Product Design Internship](https://jobright.ai/jobs/info/6a04f96bf3d6cc51d6384f83?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 13 |
 | **[Pave America](https://paveamerica.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a04d305f3d6cc51d63839cb?utm_campaign=1049&utm_source=git)** | Tinton Falls, NJ | Hybrid | May 13 |
@@ -108,7 +110,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
-| **[WIT](https://witcontests.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a03a8466c07461fe1706532?utm_campaign=1049&utm_source=git)** | United States | Remote | May 12 |
 | **[BOOM InterTribal](http://www.boomintertribal.com)** | **[Indigenous Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/6a03a8317c753c287f6e93cf?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a03a8136c07461fe170644f?utm_campaign=1049&utm_source=git)** | Fayetteville, AR | On Site | May 12 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a039cb56c07461fe1705d82?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | May 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Packaging Intern](https://jobright.ai/jobs/info/6a0226693053db70a1174c80?utm_campaign=1049&utm_source=git)** | Park City, KS, 67219, United States | On Site | May 11 |
 | **[Second Melody](https://secondmelody.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a022525c2ffb31f45369fc0?utm_campaign=1049&utm_source=git)** | Montclair, NJ | Hybrid | May 11 |
 | **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a022493df52f1450d847afa?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
-| **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship/Co-op Fall 2026](https://jobright.ai/jobs/info/69cc7ff5cdb525785fb7c6c2?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
