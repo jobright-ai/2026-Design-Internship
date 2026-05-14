@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Volkswagen of America, Inc](https://www.vw.com/)** | **[Summer Intern -  HR Engagement & Graphic Design](https://jobright.ai/jobs/info/6a0616796c07461fe171c372?utm_campaign=1049&utm_source=git)** | Chattanooga, TN | On Site | May 14 |
+| **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a06119e7c753c287f6fea4c?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | May 14 |
+| **[Crystal Bridges Museum of American Art](http://crystalbridges.org)** | **[2026 Exhibition Design Intern: Summer (Housing Not Provided)](https://jobright.ai/jobs/info/6a0611216c07461fe171bc04?utm_campaign=1049&utm_source=git)** | Bentonville, AR | On Site | May 14 |
+| **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a060bf0a88ea73abf7f674a?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 14 |
+| **[Livingston International](http://www.livingstonintl.com)** | **[Intern - Production Designer (Branding & Digital Execution)](https://jobright.ai/jobs/info/6a060a8b6c07461fe171b817?utm_campaign=1049&utm_source=git)** | Toronto, ON, CA | On Site | May 14 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 14 |
 | **[Volkswagen Financial Services](https://www.vwfs.com/)** | **[Summer Intern -  HR Engagement & Graphic Design](https://jobright.ai/jobs/info/6a05fb78a88ea73abf7f5caa?utm_campaign=1049&utm_source=git)** | Chattanooga, TN, US, 37416 | On Site | May 14 |
+| **[The MRG Group](https://themrggroup.com)** | **[Content & Editorial Intern (Unpaid)](https://jobright.ai/jobs/info/6a061658320bff2205ea7ebb?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 14 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Experience Center Intern](https://jobright.ai/jobs/info/6a05ea40a88ea73abf7f4e6e?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | May 14 |
 | **[Battelle](http://www.battelle.org)** | **[Human Centric Design/Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a05e7436c07461fe1719f23?utm_campaign=1049&utm_source=git)** | Columbus, OH | Hybrid | May 14 |
 | **[Towson University](http://www.towson.edu/)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fb1eea18b94b2515bdf5d5?utm_campaign=1049&utm_source=git)** | Towson, MD | On Site | May 14 |
@@ -66,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[InterContinental Chicago Magnificent Mile](https://www.icchicagohotel.com/)** | **[Intern-Design](https://jobright.ai/jobs/info/6a05df1f320bff2205ea546e?utm_campaign=1049&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | Hybrid | May 14 |
 | **[IHG Hotels & Resorts](https://www.ihgplc.com/)** | **[Intern-Design](https://jobright.ai/jobs/info/6a05dd686c07461fe171978b?utm_campaign=1049&utm_source=git)** | Three Ravinia Drive, Atlanta, GA, 30346, US | Hybrid | May 14 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/6a05d90dbc4184089f247f67?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 14 |
-| ↳ | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/6a05d90bbc4184089f247f5b?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 14 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a05bdcabc4184089f2472b4?utm_campaign=1049&utm_source=git)** | New York | On Site | May 14 |
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/69af35c0dfaeda6ff597528e?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area | On Site | May 14 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 14 |
@@ -79,7 +84,6 @@ For a complete list, click the following sortable link below:
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 13 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a053a5e7c753c287f6f7dd3?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 13 |
 | **[AstroTurf](https://www.astroturf.com/)** | **[INTERN Sports Graphics Technician](https://jobright.ai/jobs/info/6a0537a0f3d6cc51d6387a4a?utm_campaign=1049&utm_source=git)** | Callahan - Dalton, GA 30721 | On Site | May 13 |
-| **[Amcor](http://www.amcor.com/)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a0523d46c07461fe171433b?utm_campaign=1049&utm_source=git)** | Millville, NJ | On Site | May 13 |
 | **[Cummings Creative, Inc.](http://www.cummingscreative.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a051ac64373b07358a3a307?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 13 |
 | **[AnnieMac Home Mortgage](http://www.annie-mac.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a050ffef3d6cc51d6386327?utm_campaign=1049&utm_source=git)** | Mount Laurel, NJ | Remote | May 13 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern Graphic Design](https://jobright.ai/jobs/info/6a050493bc4184089f2421b8?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | May 13 |
@@ -111,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a03b9f122395b6dc6d9781c?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
 | **[Hargrove Engineers & Constructors](https://www.hargrove-epc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a03b53d8ecfd93cd9c111db?utm_campaign=1049&utm_source=git)** | Decatur, AL | On Site | May 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Summer 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a03b0758ecfd93cd9c10f51?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | May 12 |
-| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
-| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
+| **[Emory University](https://www.emory.edu/home/index.html)** | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f1?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | May 12 |
+| ↳ | **[Photo/Video Intern, Marketing/Comm (ETS) / Temporary](https://jobright.ai/jobs/info/6a03aff8f3d6cc51d63790f0?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | May 12 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | May 12 |
 | **[Design Studio Blue](https://designstudio-blue.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a03a84f7c753c287f6e9453?utm_campaign=1049&utm_source=git)** | Englewood, CO | On Site | May 12 |
 | **[BOOM InterTribal](http://www.boomintertribal.com)** | **[Indigenous Graphic Design Intern (Summer)](https://jobright.ai/jobs/info/6a03a8317c753c287f6e93cf?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 12 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a0413977c753c287f6ec180?utm_campaign=1049&utm_source=git)** | Palm Bay, FL | On Site | May 11 |
 | **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a041412f811a04369607794?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | May 11 |
 | **[BRP](https://www.brp.com/en/)** | **[Industrial Designer (Intern)](https://jobright.ai/jobs/info/6a026366c2ffb31f4536cf32?utm_campaign=1049&utm_source=git)** | Palm Bay, US- Florida, United States | On Site | May 11 |
-| **[arrivia](https://www.arrivia.com/)** | **[Web Experience Intern](https://jobright.ai/jobs/info/6a02618efa1aa73213d99eb7?utm_campaign=1049&utm_source=git)** | Scottsdale, Arizona, United States | On Site | May 11 |
-| **[Ascendium Education Group](https://www.ascendiumeducation.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e16538fd1c0456f3fae184?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 11 |
-| **[Zoox](https://www.zoox.com/)** | **[UI/UX Design Intern, Internal Platforms](https://jobright.ai/jobs/info/6a030b63f3d6cc51d6372c8b?utm_campaign=1049&utm_source=git)** | Foster City, CA | On Site | May 11 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Orlando Data Centers](https://jobright.ai/jobs/info/6a030ba922395b6dc6d90586?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
