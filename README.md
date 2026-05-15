@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Livingston International](http://www.livingstonintl.com)** | **[Intern - Production Designer (Branding & Digital Execution)](https://jobright.ai/jobs/info/6a069402320bff2205eadba9?utm_campaign=1049&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 14 |
 | **[Lakeland Hills Family YMCA](http://www.lakelandhillsymca.com)** | **[Media Specialist Intern: Summer 2026](https://jobright.ai/jobs/info/6a066d3d6c07461fe17205b1?utm_campaign=1049&utm_source=git)** | 100 FANNY ROAD - MOUNTAIN LAKES, NJ 07046 | On Site | May 14 |
 | **[City of Atlanta](https://www.atlantaga.gov/)** | **[2026 Summer College Internship Program - DEAM [Architectural Design]](https://jobright.ai/jobs/info/6a06575c6c07461fe171f8f6?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | May 14 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0656f3320bff2205eabcba?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | May 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[AI FASHION INTERN](https://jobright.ai/jobs/info/6a038ccbbc4184089f233762?utm_campaign=1049&utm_source=git)** | NEW YORK, NEW YORK, NY, US | Hybrid | May 12 |
 | **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a1cf3d6cc51d63779a0?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
 | **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a06bc4184089f2334fe?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
-| **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a03b542bc4184089f235319?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
