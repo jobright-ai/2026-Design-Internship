@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c407422c9dc0d3d541f21?utm_campaign=1049&utm_source=git)** | Waltham, Massachusetts | Hybrid | May 15 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a06eb2338dbee7915cf7865?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6944505450bbaf7650564e5c?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | Hybrid | May 15 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a06eb2338dbee7915cf7868?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a06eb2338dbee7915cf7867?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a06eb2338dbee7915cf7864?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a06eaf1f400923a0090b59c?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 15 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a06eaf1f400923a0090b598?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 15 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/695c33ceaa05c26e7ab585a6?utm_campaign=1049&utm_source=git)** | North Bethesda, Maryland | Hybrid | May 15 |
+| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/69444d6194730b739877784f?utm_campaign=1049&utm_source=git)** | Waltham, Massachusetts | Hybrid | May 15 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/69f150e88feca91f1491fbe0?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | May 14 |
 | **[Arup](http://www.arup.com)** | **[Visual Communications Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 14 |
 | **[Livingston International](http://www.livingstonintl.com)** | **[Intern - Production Designer (Branding & Digital Execution)](https://jobright.ai/jobs/info/6a069402320bff2205eadba9?utm_campaign=1049&utm_source=git)** | Etobicoke, Ontario, Canada | On Site | May 14 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Summer 2026 Internship](https://jobright.ai/jobs/info/6a03903abc4184089f233c2a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | May 12 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0390228ecfd93cd9c0fa86?utm_campaign=1049&utm_source=git)** | Merrimack, NH | On Site | May 12 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a038f04f3d6cc51d6377f7e?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | May 12 |
-| **[AriZona Beverage Co.](https://www.drinkarizona.com)** | **[Presentation Design Igtern](https://jobright.ai/jobs/info/6a038f046c07461fe170556a?utm_campaign=1049&utm_source=git)** | Woodbury, NY | On Site | May 12 |
-| **[FULLBEAUTY Brands](http://fbbrands.com/)** | **[AI Fashion Intern](https://jobright.ai/jobs/info/6a038eecf3d6cc51d6377f13?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | May 12 |
-| ↳ | **[AI FASHION INTERN](https://jobright.ai/jobs/info/6a038ccbbc4184089f233762?utm_campaign=1049&utm_source=git)** | NEW YORK, NEW YORK, NY, US | Hybrid | May 12 |
-| **[University of Arkansas](http://uark.edu)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a1cf3d6cc51d63779a0?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
-| **[UAMS - University of Arkansas for Medical Sciences](https://uamshealth.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6a038a06bc4184089f2334fe?utm_campaign=1049&utm_source=git)** | Fayetteville, AR, US | On Site | May 12 |
-| **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Creative Video Intern](https://jobright.ai/jobs/info/6a03b542bc4184089f235319?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | May 12 |
-| **[Safran Federal Systems](https://www.safranfederalsystems.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6a03772e22395b6dc6d94b43?utm_campaign=1049&utm_source=git)** | West Henrietta, New York, United States | On Site | May 12 |
-| **[Mannix Marketing](https://www.mannixmarketing.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a03767a7c753c287f6e72ce?utm_campaign=1049&utm_source=git)** | US | Remote | May 12 |
-| **[Soko Glam](http://www.sokoglam.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a037453f3d6cc51d6376b1f?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 12 |
-| **[Dôen](https://shopdoen.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a037180ed6a637463f4fcab?utm_campaign=1049&utm_source=git)** | Van Nuys, CA | On Site | May 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
