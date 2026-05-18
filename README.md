@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[RIO Institute for Robotics, Physical AI & MLOps](www.rjmedex.com)** | **[Sr Designer UX/UI with Web  Front End & Back End Development Intern to Full Time - Remote](https://jobright.ai/jobs/info/6a0a4c8ba203b1052e44cb3c?utm_campaign=1049&utm_source=git)** | Maryland, United States | Remote | May 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a0a1653403fc339507f5224?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 17 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 17 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (San Francisco)](https://jobright.ai/jobs/info/6961c336a112b402661052fa?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | May 17 |
@@ -110,8 +111,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076d05939a5f01db94f4c4?utm_campaign=1049&utm_source=git)** | United States | Remote | May 15 |
 | **[Accrete](http://accrete.ai)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07690c403fc339507e3c43?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076147939a5f01db94eb56?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
-| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 15 |
-| ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e10?utm_campaign=1049&utm_source=git)** | New York | Hybrid | May 15 |
+| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e10?utm_campaign=1049&utm_source=git)** | New York | Hybrid | May 15 |
+| ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | May 15 |
 | **[WindBorne Systems](https://windbornesystems.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a0757c9939a5f01db94e866?utm_campaign=1049&utm_source=git)** | Redwood City, CA | On Site | May 15 |
 | **[Inspire](https://inspirebrands.com)** | **[Maverick Studios Intern](https://jobright.ai/jobs/info/6a0753ce3b54ed42d74cc68c?utm_campaign=1049&utm_source=git)** | Atlanta Support Center, US | On Site | May 15 |
 | **[Accrete](http://accrete.ai)** | **[Design Intern](https://jobright.ai/jobs/info/6a0750396186f4685987d2b4?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 15 |
@@ -129,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[KPF](http://www.kpf.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a070ad824dcb03739f1f50c?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 15 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a0708e04a0a6a7e7d8221b5?utm_campaign=1049&utm_source=git)** | United States | Remote | May 15 |
 | **[Understood.org](https://www.understood.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a070667078fec52738a6e51?utm_campaign=1049&utm_source=git)** | NYC office in the West Village | Hybrid | May 15 |
-| **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/6a0705544a0a6a7e7d821175?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | May 15 |
-| ↳ | **[OBE Summer Intern League](https://jobright.ai/jobs/info/6a0705544a0a6a7e7d821176?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | May 15 |
+| **[On Board Experiential](http://obexp.com)** | **[OBE Summer Intern League](https://jobright.ai/jobs/info/6a0705544a0a6a7e7d821176?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | May 15 |
+| ↳ | **[OBE Summer Intern League](https://jobright.ai/jobs/info/6a0705544a0a6a7e7d821175?utm_campaign=1049&utm_source=git)** | Los Angeles | Hybrid | May 15 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0705021f7fa33581c9b2cf?utm_campaign=1049&utm_source=git)** | Gemini North America | On Site | May 15 |
 | ↳ | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69f8e5410b36ff035475b24a?utm_campaign=1049&utm_source=git)** | New York, New York | Hybrid | May 15 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a0704ca078fec52738a69dd?utm_campaign=1049&utm_source=git)** | Broadway Studio, New York | On Site | May 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a06fde3078fec52738a4218?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | May 15 |
 | **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6a06fcdf1f7fa33581c98319?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | May 15 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6a06fc421f7fa33581c97f69?utm_campaign=1049&utm_source=git)** | St. Louis | On Site | May 15 |
-| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/69fbf9e0a5949019c55b23e6?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
