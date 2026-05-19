@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Red Velvet Studios](redvelvetstudio.com)** | **[Event Photography & Videography Internship](https://jobright.ai/jobs/info/6a0bdd5e963f7a67d95d38a5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 18 |
 | **[Ascension](https://healthcare.ascension.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a0bd6e522d0d34036c8ff76?utm_campaign=1049&utm_source=git)** | St Louis, MO | Remote | May 18 |
 | **[Crystal Skies LLC](https://www.linkedin.com/company/106800421)** | **[Summer Graphic Design Intern](https://jobright.ai/jobs/info/6a0bcdf9963f7a67d95d3238?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | May 18 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0bb58e0411d7417a1b3b2d?utm_campaign=1049&utm_source=git)** | Arcadia, WI | Hybrid | May 18 |
@@ -113,10 +114,10 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/69446bd950bbaf7650566909?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 16 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
-| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
-| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
+| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e856186f46859887315?utm_campaign=1049&utm_source=git)** | Moody Center, 2001 Robert Dedman Dr, Austin, TX | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e836186f46859887307?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e826186f468598872fd?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Crusoe](https://crusoe.ai)** | **[Motion Design Intern](https://jobright.ai/jobs/info/69cf449954f00230c6d087ba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 15 |
 | **[The Toledo Zoo & Aquarium](http://www.toledozoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a074c033b54ed42d74cc1c5?utm_campaign=1049&utm_source=git)** | Toledo, OH, US | On Site | May 15 |
 | **[Onvida Health](https://www.onvidahealth.org)** | **[Intern Non-Clinical / Graphic Design Print Shop](https://jobright.ai/jobs/info/69eb667b7820c036924f3873?utm_campaign=1049&utm_source=git)** | Yuma, AZ | On Site | May 15 |
-| **[Pittsburgh Penguins](https://www.nhl.com/penguins/)** | **[Digital Internship (Fall 2026)](https://jobright.ai/jobs/info/6a0732726186f4685987bd27?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
