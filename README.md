@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a0c98b4538d03366dc8f0e0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 19 |
+| **[GG&G](https://www.gggaz.com)** | **[For-Credit Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0c942a22d0d34036c9604f?utm_campaign=1049&utm_source=git)** | Hamilton Township, NJ, USA | On Site | May 19 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0c8af4538d03366dc8e3dc?utm_campaign=1049&utm_source=git)** | MANHATTAN | On Site | May 19 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0c85bba235d749afa8d7f3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 19 |
 | **[Shelley Whitman Associates](https://www.shelleywhitman.com/)** | **[Art Department Internship](https://jobright.ai/jobs/info/6a0c81ffa235d749afa8d630?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
 | **[leManoosh](https://lemanoosh.com)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a0c529a22d0d34036c93099?utm_campaign=1049&utm_source=git)** | Torrance, CA | On Site | May 19 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/6a0c481d0411d7417a1b714d?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | May 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0c45b122d0d34036c92677?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | May 19 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/6a0c434e22d0d34036c925b5?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 19 |
 | **[SarvM.AI](https://sarvm.ai)** | **[UI UX Intern (Remote) Full Time](https://jobright.ai/jobs/info/6a0c419922d0d34036c924ec?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a0c3844538d03366dc8b053?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | May 19 |
 | **[OM Digital Solutions Corporation](https://om-digitalsolutions.com)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a0c2260a235d749afa8a6c5?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | May 19 |
@@ -99,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Agile Defense](https://agiledefense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0bce990411d7417a1b43d6?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 18 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0b80c722d0d34036c8d122?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 18 |
 | **[SchoolSpring](http://www.schoolspring.com)** | **[Temp: Student Internship - Design & Print Services](https://jobright.ai/jobs/info/6a0b5c94538d03366dc84983?utm_campaign=1049&utm_source=git)** | Administration - Communications - Central Office - Annapolis, Maryland | On Site | May 18 |
-| **[Asana](https://asana.com)** | **[Product Design Intern - Summer 2026 (New York)](https://jobright.ai/jobs/info/6a06fcdf1f7fa33581c98319?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | May 18 |
 | **[Centricity WealthTech](https://www.centricity.co.in/)** | **[Production Graphic Designer Intern](https://jobright.ai/jobs/info/6a0b56510411d7417a1af982?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 18 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0b3f484d9320363686ec2e?utm_campaign=1049&utm_source=git)** | Greater Evansville Area | On Site | May 18 |
 | **[The Toledo Zoo & Aquarium](http://www.toledozoo.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0b3c20963f7a67d95cd571?utm_campaign=1049&utm_source=git)** | Toledo, Ohio Metropolitan Area | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076d05939a5f01db94f4c4?utm_campaign=1049&utm_source=git)** | United States | Remote | May 15 |
 | **[Accrete](http://accrete.ai)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07690c403fc339507e3c43?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076147939a5f01db94eb56?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
+| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e10?utm_campaign=1049&utm_source=git)** | New York | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
