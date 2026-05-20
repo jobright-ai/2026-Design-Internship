@@ -57,12 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Atlanta - MagellanCx UI/UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e163847fea1610bca6bdb?utm_campaign=1049&utm_source=git)** | Mableton, GA | On Site | May 20 |
 | **[Flint Firebirds](http://www.flintfirebirds.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6a0e0d3847fea1610bca67c2?utm_campaign=1049&utm_source=git)** | Flint, MI | On Site | May 20 |
-| **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e099547fea1610bca6519?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0e095647fea1610bca647a?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 20 |
 | **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e083c83d7144289814e1f?utm_campaign=1049&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | May 20 |
 | **[PayBright](https://www.gopaybright.com)** | **[Intern \- Marketing & Graphic Design](https://jobright.ai/jobs/info/6a0e03e1beb4d73cb622e138?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | May 20 |
-| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0e030209ecfd704b3e4f8b?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
 | **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e001fbeb4d73cb622de93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 20 |
 | **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0dfdfc47fea1610bca5d70?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 20 |
 | **[Invisible North](https://invisiblenorth.com/)** | **[COOPERATIVE WORK EXPERIENCE  /  GRAPHIC/MOTION DESIGNER](https://jobright.ai/jobs/info/6a0dfa7ac152ac7824481be7?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 20 |
@@ -84,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0d927e09ecfd704b3e0c5e?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0d53a3538d03366dc95ba4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 | **[Legion Management](https://thisislegion.co/)** | **[Intern Summer 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a0cf81f4d9320363687de3a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
 | **[SAIC](http://www.saic.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a0ce7254d9320363687d5b9?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | May 19 |
@@ -155,6 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/6a08cccc6186f4685988a419?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 16 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
-| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
+| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
