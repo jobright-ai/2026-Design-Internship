@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Keep Going Athletics](keepgoingathletics.com)** | **[Creative Video Editor (Unpaid Internship)](https://jobright.ai/jobs/info/6a0e2a5483d7144289816981?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | May 20 |
 | **[KPF](http://www.kpf.com)** | **[Visual Representation Intern](https://jobright.ai/jobs/info/6a0e214a83d71442898162a3?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 20 |
 | **[IA Interior Architects](http://www.interiorarchitects.com/)** | **[Junior Designer - 2026 Summer Internship](https://jobright.ai/jobs/info/6a0e1d1b83d7144289815f00?utm_campaign=1049&utm_source=git)** | Silicon Valley, CA (Mountain View, CA) | On Site | May 20 |
 | **[Apollo Mission Critical Engineering](www.apollomce.com)** | **[Atlanta - MagellanCx UI/UX Design Intern - Summer 2026](https://jobright.ai/jobs/info/6a0e163847fea1610bca6bdb?utm_campaign=1049&utm_source=git)** | Mableton, GA | On Site | May 20 |
@@ -81,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Ob Hospitalist Group](http://obhg.com)** | **[Graphic Design Intern - Summer](https://jobright.ai/jobs/info/6a0dca5a47fea1610bca3cd2?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | May 20 |
 | ↳ | **[Graphic Design Intern - Summer](https://jobright.ai/jobs/info/6a0dc9e283d7144289812752?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | May 20 |
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/6a0dc28783d7144289812271?utm_campaign=1049&utm_source=git)** | United States | Remote | May 20 |
-| **[Tech Guides Blog](https://techguides.blog)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6a0dc25c83d714428981221b?utm_campaign=1049&utm_source=git)** | Delaware, United States | Remote | May 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0d927e09ecfd704b3e0c5e?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69ed23154b0fa35a70783f27?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | May 17 |
 | **[Prism Data Consulting](http://www.prismdatahub.com)** | **[Customer Service to UX Research Career Changer Apprenticeship](https://jobright.ai/jobs/info/6a09c2ab403fc339507f3ea6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 17 |
-| **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/6a08cccc6186f4685988a419?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 16 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
 | **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
