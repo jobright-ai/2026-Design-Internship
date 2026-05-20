@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
+| **[Real FIG Advertising + Marketing](https://www.figadvertising.com/)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6a0ce8d3a235d749afa91dd3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
+| **[SAIC](http://www.saic.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a0ce7254d9320363687d5b9?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | May 19 |
+| **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Summer](https://jobright.ai/jobs/info/6a0ce416963f7a67d95dcba1?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 19 |
 | **[Sequoia Capital Global Equities](https://www.sequoiacap.com/scge)** | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0cdc35538d03366dc91e4d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 19 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0cd24f538d03366dc9193a?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 19 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0cd24d538d03366dc91939?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 19 |
@@ -66,7 +70,9 @@ For a complete list, click the following sortable link below:
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ca836538d03366dc8f6d3?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 | **[Achievers](http://www.achievers.com)** | **[Video & Social Media Co-op](https://jobright.ai/jobs/info/6a0ca825538d03366dc8f6bf?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | May 19 |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a0ce70d963f7a67d95dce30?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 19 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a0c98b4538d03366dc8f0e0?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 19 |
+| **[Our National Conversation (ONC)](https://www.ournationalconversation.org)** | **[Social Media Intern/Graphic Designer](https://jobright.ai/jobs/info/6a0ce74722d0d34036c99ea0?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | May 19 |
 | **[GG&G](https://www.gggaz.com)** | **[For-Credit Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a0c942a22d0d34036c9604f?utm_campaign=1049&utm_source=git)** | Hamilton Township, NJ, USA | On Site | May 19 |
 | **[NYC Department of Health and Mental Hygiene](https://www.nyc.gov/site/doh/index.page)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0c8af4538d03366dc8e3dc?utm_campaign=1049&utm_source=git)** | MANHATTAN | On Site | May 19 |
 | **[Solidigm](https://www.solidigmtechnology.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0c85bba235d749afa8d7f3?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 19 |
@@ -122,10 +128,10 @@ For a complete list, click the following sortable link below:
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/6a08cccc6186f4685988a419?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 16 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
-| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
-| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
-| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
+| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e856186f46859887315?utm_campaign=1049&utm_source=git)** | Moody Center, 2001 Robert Dedman Dr, Austin, TX | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e836186f46859887307?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e826186f468598872fd?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 16 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Design & Concept Intern](https://jobright.ai/jobs/info/6a077dd36186f4685987f90b?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 15 |
 | **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a077b22939a5f01db950600?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a07788b939a5f01db950542?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | May 15 |
-| **[Dominican University](https://www.dom.edu)** | **[User Experience Librarian Graduate Internship](https://jobright.ai/jobs/info/6a0770273b54ed42d74cd6da?utm_campaign=1049&utm_source=git)** | River Forest, IL | On Site | May 15 |
-| **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a076e293b54ed42d74cd5d6?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | May 15 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076d05939a5f01db94f4c4?utm_campaign=1049&utm_source=git)** | United States | Remote | May 15 |
-| **[Accrete](http://accrete.ai)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a07690c403fc339507e3c43?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 15 |
-| **[FC Cincinnati](http://www.fccincinnati.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a076147939a5f01db94eb56?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | May 15 |
-| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e10?utm_campaign=1049&utm_source=git)** | New York | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
