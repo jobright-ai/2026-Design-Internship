@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Flint Firebirds](http://www.flintfirebirds.com)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6a0e0d3847fea1610bca67c2?utm_campaign=1049&utm_source=git)** | Flint, MI | On Site | May 20 |
+| **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e099547fea1610bca6519?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 20 |
+| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0e095647fea1610bca647a?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 20 |
+| **[Anywhere Real Estate Inc.](https://www.anywhere.re)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e083c83d7144289814e1f?utm_campaign=1049&utm_source=git)** | 590 Madison Ave, New York, NY, 10022, US | On Site | May 20 |
+| **[PayBright](https://www.gopaybright.com)** | **[Intern \- Marketing & Graphic Design](https://jobright.ai/jobs/info/6a0e03e1beb4d73cb622e138?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | Hybrid | May 20 |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0e030209ecfd704b3e4f8b?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
+| **[Compass International Holdings](https://www.linkedin.com/company/111655670)** | **[Planning and Design Intern](https://jobright.ai/jobs/info/6a0e001fbeb4d73cb622de93?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 20 |
+| **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0dfdfc47fea1610bca5d70?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 20 |
 | **[Invisible North](https://invisiblenorth.com/)** | **[COOPERATIVE WORK EXPERIENCE  /  GRAPHIC/MOTION DESIGNER](https://jobright.ai/jobs/info/6a0dfa7ac152ac7824481be7?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 20 |
 | **[Norcon, Inc.](http://norconinc.com)** | **[Mural Arts Project - Field Management Internship](https://jobright.ai/jobs/info/6a0df613c152ac782448190a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern Architect/Designer](https://jobright.ai/jobs/info/6a0df60a47fea1610bca56a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
 | **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
-| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e856186f46859887315?utm_campaign=1049&utm_source=git)** | Moody Center, 2001 Robert Dedman Dr, Austin, TX | On Site | May 16 |
-| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e836186f46859887307?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | May 16 |
-| ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e826186f468598872fd?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 16 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a084d80a203b1052e442e08?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | May 16 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a084d806186f46859886f6d?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 16 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a084d7ea203b1052e442e00?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
