@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ob Hospitalist Group](http://obhg.com)** | **[Graphic Design Intern - Summer](https://jobright.ai/jobs/info/6a0dc9e283d7144289812752?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | May 20 |
+| **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/6a0dc28783d7144289812271?utm_campaign=1049&utm_source=git)** | United States | Remote | May 20 |
+| **[Tech Guides Blog](https://techguides.blog)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6a0dc25c83d714428981221b?utm_campaign=1049&utm_source=git)** | Delaware, United States | Remote | May 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0d927e09ecfd704b3e0c5e?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 20 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Accrete](http://accrete.ai)** | **[Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0791806186f46859880a71?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 15 |
 | **[NAC](http://nacarchitecture.com)** | **[Graphics Intern (Handbuilt)](https://jobright.ai/jobs/info/6a078a1e8f3e371eb6178599?utm_campaign=1049&utm_source=git)** | Los Angeles,CA,US | On Site | May 15 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0789488f3e371eb617850b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 15 |
-| **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/6a0785df3b54ed42d74cefd0?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | May 15 |
-| **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a0783426186f4685987ff91?utm_campaign=1049&utm_source=git)** | Gunnison, CO 81230, USA | On Site | May 15 |
-| **[ROXON](https://roxontool.com)** | **[CRO & UX Intern](https://jobright.ai/jobs/info/6a077f2fa203b1052e43b7d1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
