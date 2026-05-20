@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0d927e09ecfd704b3e0c5e?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 20 |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0d921309ecfd704b3e0bfc?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
+| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a0d91eec152ac782447ded8?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 20 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0d53a3538d03366dc95ba4?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 | **[Legion Management](https://thisislegion.co/)** | **[Intern Summer 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a0cf81f4d9320363687de3a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
@@ -129,10 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Landwehr Construction, Inc.](https://www.landwehrconstruction.com/)** | **[Graphic Design - Intern](https://jobright.ai/jobs/info/6a08cccc6186f4685988a419?utm_campaign=1049&utm_source=git)** | St Cloud, MN | On Site | May 16 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
-| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
-| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
-| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
+| ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443924?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 16 |
+| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c7?utm_campaign=1049&utm_source=git)** | Arlington, VA, US | On Site | May 16 |
+| ↳ | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a084f6d939a5f01db9582c8?utm_campaign=1049&utm_source=git)** | US-VA-Arlington | On Site | May 16 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e856186f46859887315?utm_campaign=1049&utm_source=git)** | Moody Center, 2001 Robert Dedman Dr, Austin, TX | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e836186f46859887307?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | May 16 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a084e826186f468598872fd?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | May 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6a0789488f3e371eb617850b?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 15 |
 | **[Brewer Science](http://www.brewerscience.com)** | **[Artwork Inventory Intern](https://jobright.ai/jobs/info/6a0785df3b54ed42d74cefd0?utm_campaign=1049&utm_source=git)** | Rolla, MO | On Site | May 15 |
 | **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a0783426186f4685987ff91?utm_campaign=1049&utm_source=git)** | Gunnison, CO 81230, USA | On Site | May 15 |
-| **[ROXON](https://roxontool.com)** | **[CRO & UX Intern](https://jobright.ai/jobs/info/6a077f2fa203b1052e43b7d1?utm_campaign=1049&utm_source=git)** | Irvine, CA | On Site | May 15 |
-| **[FIGS](http://www.wearfigs.com)** | **[Design & Concept Intern](https://jobright.ai/jobs/info/6a077dd36186f4685987f90b?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 15 |
-| **[Fox Television Stations](https://www.foxcorporation.com/businesses/fox-television-stations/)** | **[News and Creative Services Intern](https://jobright.ai/jobs/info/6a077b22939a5f01db950600?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
