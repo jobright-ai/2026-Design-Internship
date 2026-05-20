@@ -57,13 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Invisible North](https://invisiblenorth.com/)** | **[COOPERATIVE WORK EXPERIENCE  /  GRAPHIC/MOTION DESIGNER](https://jobright.ai/jobs/info/6a0dfa7ac152ac7824481be7?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 20 |
+| **[Norcon, Inc.](http://norconinc.com)** | **[Mural Arts Project - Field Management Internship](https://jobright.ai/jobs/info/6a0df613c152ac782448190a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 20 |
+| **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern Architect/Designer](https://jobright.ai/jobs/info/6a0df60a47fea1610bca56a0?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 20 |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a0df05309ecfd704b3e439b?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a0deef247fea1610bca5459?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 20 |
 | **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab680bf0430c762781e?utm_campaign=1049&utm_source=git)** | US-VA-McLean | On Site | May 20 |
 | ↳ | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab280bf0430c762781d?utm_campaign=1049&utm_source=git)** | McLean, VA, US | On Site | May 20 |
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern](https://jobright.ai/jobs/info/6a0de93f80bf0430c7627711?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 20 |
 | **[Laura U Design Collective](http://www.laurau.com)** | **[Intern](https://jobright.ai/jobs/info/6a0de73947fea1610bca508e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 20 |
-| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0de68909ecfd704b3e3d8e?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
-| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a0de684c152ac7824481038?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 20 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a0de4b4beb4d73cb622cc1f?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 20 |
 | **[Atlas Post Acute](https://atlas-pa.com/)** | **[Design Team Intern](https://jobright.ai/jobs/info/6a0ddd27c152ac78244805bc?utm_campaign=1049&utm_source=git)** | PACS - Rocklin Office, US | On Site | May 20 |
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/6a0dcb47c152ac782447fec7?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a084d80a203b1052e442e08?utm_campaign=1049&utm_source=git)** | US-NY-New York | On Site | May 16 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a084d806186f46859886f6d?utm_campaign=1049&utm_source=git)** | Abilene, TX, US | On Site | May 16 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a084d7ea203b1052e442e00?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 16 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a084d7d6186f46859886f62?utm_campaign=1049&utm_source=git)** | US-TX-Abilene | On Site | May 16 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/6a084d7c3b54ed42d74d5f63?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
