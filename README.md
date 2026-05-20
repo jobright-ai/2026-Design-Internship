@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a0deef247fea1610bca5459?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 20 |
+| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab680bf0430c762781e?utm_campaign=1049&utm_source=git)** | US-VA-McLean | On Site | May 20 |
+| ↳ | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab280bf0430c762781d?utm_campaign=1049&utm_source=git)** | McLean, VA, US | On Site | May 20 |
+| **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern](https://jobright.ai/jobs/info/6a0de93f80bf0430c7627711?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 20 |
+| **[Laura U Design Collective](http://www.laurau.com)** | **[Intern](https://jobright.ai/jobs/info/6a0de73947fea1610bca508e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 20 |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0de68909ecfd704b3e3d8e?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
+| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a0de684c152ac7824481038?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 20 |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a0de4b4beb4d73cb622cc1f?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 20 |
 | **[Atlas Post Acute](https://atlas-pa.com/)** | **[Design Team Intern](https://jobright.ai/jobs/info/6a0ddd27c152ac78244805bc?utm_campaign=1049&utm_source=git)** | PACS - Rocklin Office, US | On Site | May 20 |
 | **[Product Manager Accelerator](https://www.pmaccelerator.io/)** | **[AI UI/UX Designer Intern - AI ML/Gen AI Design & Development](https://jobright.ai/jobs/info/6a0dcb47c152ac782447fec7?utm_campaign=1049&utm_source=git)** | Canada | Remote | May 20 |
 | **[Ob Hospitalist Group](http://obhg.com)** | **[Graphic Design Intern - Summer](https://jobright.ai/jobs/info/6a0dca5a47fea1610bca3cd2?utm_campaign=1049&utm_source=git)** | Greenville, SC | On Site | May 20 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a084d7ea203b1052e442e00?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 16 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a084d7d6186f46859886f62?utm_campaign=1049&utm_source=git)** | US-TX-Abilene | On Site | May 16 |
 | ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/6a084d7c3b54ed42d74d5f63?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | May 16 |
-| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Data Centers](https://jobright.ai/jobs/info/6a084d7b3b54ed42d74d5f61?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | May 16 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d5f4b9cfdc6132f946764b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | May 16 |
-| **[Stantec](http://www.stantec.com)** | **[Architectural Intern (Summer 2026)](https://jobright.ai/jobs/info/6a084902403fc339507ec459?utm_campaign=1049&utm_source=git)** | 224 South Michigan Avenue Suite 1400, Chicago, IL, 60604, US | On Site | May 16 |
-| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6a07becf3b54ed42d74d19b5?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | May 15 |
-| **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a07b9a36186f46859882518?utm_campaign=1049&utm_source=git)** | Gunnison, CO | On Site | May 15 |
-| **[NAC](http://nacarchitecture.com)** | **[Graphics Intern (Handbuilt)](https://jobright.ai/jobs/info/6a07b99c403fc339507e778d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 15 |
-| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a07a508939a5f01db952a24?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | May 15 |
-| **[MarkMedia LLC](https://www.marktny.com/)** | **[Motion Designer Intern (Path to Full-Time)](https://jobright.ai/jobs/info/6a079a0fa203b1052e43cfee?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
