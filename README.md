@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0eab7d12f8b43cf3978ffb?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 20 |
+| **[Barkera™](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a0ec6af9f654b3359ce0eda?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Hybrid | May 21 |
+| **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ec304619335383fb272fc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 21 |
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern](https://jobright.ai/jobs/info/6a0e9e64c152ac7824487bc3?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 20 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Creative Video Editor (Unpaid Internship)](https://jobright.ai/jobs/info/6a0e2a5483d7144289816981?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | May 20 |
 | **[KPF](http://www.kpf.com)** | **[Visual Representation Intern](https://jobright.ai/jobs/info/6a0e214a83d71442898162a3?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 20 |
@@ -92,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
 | **[SAIC](http://www.saic.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a0ce7254d9320363687d5b9?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | May 19 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Summer](https://jobright.ai/jobs/info/6a0ce416963f7a67d95dcba1?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 19 |
-| **[Sequoia Capital Global Equities](https://www.sequoiacap.com/scge)** | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0cdc35538d03366dc91e4d?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 19 |
 | **[Connection](http://www.pcconnection.com)** | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0cd24f538d03366dc9193a?utm_campaign=1049&utm_source=git)** | Merrimack, NH, US | On Site | May 19 |
 | ↳ | **[Graphic Design and Marketing Intern- PCC](https://jobright.ai/jobs/info/6a0cd24d538d03366dc91939?utm_campaign=1049&utm_source=git)** | US-NH-Merrimack | On Site | May 19 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0cc4a4538d03366dc90cad?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
@@ -113,7 +113,6 @@ For a complete list, click the following sortable link below:
 | **[SarvM.AI](https://sarvm.ai)** | **[UI UX Intern (Remote) Full Time](https://jobright.ai/jobs/info/6a0c419922d0d34036c924ec?utm_campaign=1049&utm_source=git)** | United States | Remote | May 19 |
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a0c3844538d03366dc8b053?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | May 19 |
 | **[OM Digital Solutions Corporation](https://om-digitalsolutions.com)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a0c2260a235d749afa8a6c5?utm_campaign=1049&utm_source=git)** | Bethlehem, PA | On Site | May 19 |
-| **[Mizkan America](http://mizkan.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a0c17610411d7417a1b5c57?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 19 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Archival Digitization](https://jobright.ai/jobs/info/6a0c0c42a235d749afa89ed5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Archival Digitization](https://jobright.ai/jobs/info/6a0bec68a235d749afa896bd?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 18 |
 | **[Cresta](https://www.cresta.com)** | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0c089222d0d34036c9114f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 18 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Prism Data Consulting](http://www.prismdatahub.com)** | **[Customer Service to UX Research Career Changer Apprenticeship](https://jobright.ai/jobs/info/6a09c2ab403fc339507f3ea6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 17 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | May 16 |
+| **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a085148a203b1052e443923?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
