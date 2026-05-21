@@ -59,9 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[BHDP Architecture](http://bhdp.com)** | **[Summer 2026 Internship / Architecture](https://jobright.ai/jobs/info/69f2a629f154d768fbaa82a2?utm_campaign=1049&utm_source=git)** | Raleigh, NC | On Site | May 21 |
 | **[C&S Companies](http://www.cscos.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69f261fd825a315d7ca3c683?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | May 21 |
-| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0ee3db83d714428981bb9d?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 21 |
-| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a0ee3db72b52f7225f39558?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 21 |
-| **[Barkera™](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a0ec6af9f654b3359ce0eda?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Hybrid | May 21 |
+| **[Barkera®](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a0ec6af9f654b3359ce0eda?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Hybrid | May 21 |
 | **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ec304619335383fb272fc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 21 |
 | **[Institute of Classical Architecture & Art](https://www.classicist.org)** | **[Intern](https://jobright.ai/jobs/info/6a0e9e64c152ac7824487bc3?utm_campaign=1049&utm_source=git)** | Greater Boston | On Site | May 20 |
 | **[Keep Going Athletics](keepgoingathletics.com)** | **[Creative Video Editor (Unpaid Internship)](https://jobright.ai/jobs/info/6a0e2a5483d7144289816981?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | May 20 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a0a1653403fc339507f5224?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 17 |
 | **[Tombras](http://tombras.com)** | **[Content Creator Intern  ](https://jobright.ai/jobs/info/6a015aeec2ffb31f453656b0?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 17 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/69ed23154b0fa35a70783f27?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | May 17 |
+| **[Prism Data Consulting](http://www.prismdatahub.com)** | **[Customer Service to UX Research Career Changer Apprenticeship](https://jobright.ai/jobs/info/6a09c2ab403fc339507f3ea6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 17 |
+| **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
