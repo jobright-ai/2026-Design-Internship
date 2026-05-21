@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Story](https://www.storyrenovations.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0f7e28619335383fb2d408?utm_campaign=1049&utm_source=git)** | Littleton, CO | On Site | May 21 |
 | **[Marks](https://www.makemarks.com/)** | **[Intern, Design](https://jobright.ai/jobs/info/6a0f75d012f8b43cf397f4f5?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | Hybrid | May 21 |
 | **[Freestyle](https://freestyleokc.com)** | **[Internship / Fellowship: Video Production & Photography](https://jobright.ai/jobs/info/6a0f708712f8b43cf397f203?utm_campaign=1049&utm_source=git)** | OKC, USA | On Site | May 21 |
 | **[Marks](https://www.makemarks.com/)** | **[Intern, Design](https://jobright.ai/jobs/info/6a0f6d82619335383fb2c4d7?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | On Site | May 21 |
@@ -70,9 +71,9 @@ For a complete list, click the following sortable link below:
 | **[Sellmark Corporation](https://sellmark.com)** | **[Marketing Intern - Graphic Designer](https://jobright.ai/jobs/info/6a0f3fdb72b52f7225f3c23a?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
+| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Partners in Prevention Student Intern - Graphic Design and Media Support](https://jobright.ai/jobs/info/6a0f38d6619335383fb2a108?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | May 21 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fb6c7cffa73664aeaff7fd?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 21 |
 | **[Rodale Institute](https://rodaleinstitute.org/)** | **[Multimedia Internship](https://jobright.ai/jobs/info/6a0f2fff12f8b43cf397c44f?utm_campaign=1049&utm_source=git)** | Kutztown, PA | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0b737a538d03366dc85782?utm_campaign=1049&utm_source=git)** | US-MA-Bedford, US | On Site | May 18 |
 | **[CPDstudio](www.cpd-studio.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0b71d7a235d749afa85400?utm_campaign=1049&utm_source=git)** | Dana Point, CA | On Site | May 18 |
 | **[Pave Finance](https://www.pavefinance.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a0b6872a235d749afa8509e?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | May 18 |
-| **[SoFi Stadium and Hollywood Park](https://www.sofistadium.com/)** | **[Social/Content Production Intern](https://jobright.ai/jobs/info/6a0b605d0411d7417a1b0417?utm_campaign=1049&utm_source=git)** | Inglewood, CA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
