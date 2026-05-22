@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a10c1c39f654b3359cedc32?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 22 |
+| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a10c1ba12f8b43cf398729f?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 22 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 22 |
 | **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture and Interior Design Internship](https://jobright.ai/jobs/info/6a10b92e9f654b3359ced8cf?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | May 22 |
 | **[Positive Masculinity Now](http://www.positivemasculinitynow.org)** | **[(Virtual/Unpaid) Graphic Designer](https://jobright.ai/jobs/info/6a10b9189fdbf21f36cb0452?utm_campaign=1049&utm_source=git)** | Seattle, WA | Remote | May 22 |
@@ -152,9 +154,7 @@ For a complete list, click the following sortable link below:
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Virtual Interior Design Services Intern](https://jobright.ai/jobs/info/6a0bb58e0411d7417a1b3b2d?utm_campaign=1049&utm_source=git)** | Arcadia, WI | Hybrid | May 19 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Archival Digitization](https://jobright.ai/jobs/info/6a0c0c42a235d749afa89ed5?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 19 |
 | **[Jazz at Lincoln Center](http://www.jazz.org/)** | **[Intern, Archival Digitization](https://jobright.ai/jobs/info/6a0bec68a235d749afa896bd?utm_campaign=1049&utm_source=git)** | New York, NY, US | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0c089222d0d34036c9114f?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 18 |
 | **[Lifescape Colorado](http://lifescapecolorado.com)** | **[Landscape Summer Intern](https://jobright.ai/jobs/info/6a0c6d1b4d9320363687807f?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | May 18 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0bb54ba235d749afa881fe?utm_campaign=1049&utm_source=git)** | Arcadia, WI | On Site | May 18 |
-| **[Cresta](https://www.cresta.com)** | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0bab5d963f7a67d95d2121?utm_campaign=1049&utm_source=git)** | Canada - ON (Remote) | Remote | May 18 |
-| ↳ | **[Product Design Intern, Conversation Intelligence](https://jobright.ai/jobs/info/6a0bab56963f7a67d95d2113?utm_campaign=1049&utm_source=git)** | Toronto, Canada (Hybrid) | Hybrid | May 18 |
+| **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
