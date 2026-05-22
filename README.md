@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Terraboost Media](http://www.terraboost.biz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10a17c9fdbf21f36cafdc8?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | May 22 |
 | **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a108c4e12f8b43cf3985e0c?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 22 |
 | **[Finalsite](http://www.finalsite.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/6a108a419f654b3359cec811?utm_campaign=1049&utm_source=git)** | 100% Remote in the U.S | Remote | May 22 |
 | **[United Nations](https://www.un.org/)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a1084ba83d7144289826c52?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 22 |
@@ -81,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[Sellmark Corporation](https://sellmark.com)** | **[Marketing Intern - Graphic Designer](https://jobright.ai/jobs/info/6a0f3fdb72b52f7225f3c23a?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
+| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Partners in Prevention Student Intern - Graphic Design and Media Support](https://jobright.ai/jobs/info/6a0f38d6619335383fb2a108?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | May 21 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fb6c7cffa73664aeaff7fd?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 21 |
 | **[Rodale Institute](https://rodaleinstitute.org/)** | **[Multimedia Internship](https://jobright.ai/jobs/info/6a0f2fff12f8b43cf397c44f?utm_campaign=1049&utm_source=git)** | Kutztown, PA | On Site | May 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 18 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 18 |
 | **[Design Observer](http://designobserver.com/)** | **[Junior Industrial Designers](https://jobright.ai/jobs/info/6a0b9ab04d93203636872cf8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 18 |
-| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
