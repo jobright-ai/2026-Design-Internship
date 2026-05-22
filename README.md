@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a0fc4bb83d7144289822b57?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 21 |
+| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a0fc4a572b52f7225f404e8?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 21 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Design](https://jobright.ai/jobs/info/6a0fae1583d714428982227d?utm_campaign=1049&utm_source=git)** | Reynoldsburg, OH | On Site | May 21 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a0fadd212f8b43cf3981053?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 21 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Design](https://jobright.ai/jobs/info/6a0f915e80bf0430c7635213?utm_campaign=1049&utm_source=git)** | Reynoldsburg, 6939 Americana Parkway, Reynoldsburg, Ohio, United States of America | On Site | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e7c0411d7417a1b18c0?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | May 18 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e0a963f7a67d95d0779?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | May 18 |
 | **[Ashley Global Retail](https://www.ashleyfurniture.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0b796d538d03366dc85dd7?utm_campaign=1049&utm_source=git)** | Tampa, Florida, United States | On Site | May 18 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0b7968538d03366dc85dd5?utm_campaign=1049&utm_source=git)** | Arcadia, Wisconsin, United States | On Site | May 18 |
-| **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0b737a538d03366dc85782?utm_campaign=1049&utm_source=git)** | US-MA-Bedford, US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
