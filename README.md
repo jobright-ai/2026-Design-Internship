@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a106e2b12f8b43cf39850af?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 22 |
-| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a106e299f654b3359cebc2c?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 22 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a106e299f654b3359cebc2c?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 22 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
 | **[CustomerSuccessBox](http://customersuccessbox.com)** | **[UI/UX Design - Intern (Remote)](https://jobright.ai/jobs/info/6a1036df9f654b3359cea2d3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
 | **[Aptum Virtual Solutions](http://www.aptumvirtualsolutions.com)** | **[Graphic Design Intern (Remote)](https://jobright.ai/jobs/info/6a1035e912f8b43cf39837d3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
@@ -81,9 +80,9 @@ For a complete list, click the following sortable link below:
 | **[Sellmark Corporation](https://sellmark.com)** | **[Marketing Intern - Graphic Designer](https://jobright.ai/jobs/info/6a0f3fdb72b52f7225f3c23a?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
+| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Partners in Prevention Student Intern - Graphic Design and Media Support](https://jobright.ai/jobs/info/6a0f38d6619335383fb2a108?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | May 21 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fb6c7cffa73664aeaff7fd?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 21 |
 | **[Rodale Institute](https://rodaleinstitute.org/)** | **[Multimedia Internship](https://jobright.ai/jobs/info/6a0f2fff12f8b43cf397c44f?utm_campaign=1049&utm_source=git)** | Kutztown, PA | On Site | May 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 18 |
 | **[Design Observer](http://designobserver.com/)** | **[Junior Industrial Designers](https://jobright.ai/jobs/info/6a0b9ab04d93203636872cf8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 18 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 18 |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e7c0411d7417a1b18c0?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | May 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
