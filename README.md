@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a114e5e9f654b3359cf09d4?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 22 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
 | ↳ | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bc612f8b43cf3988dc5?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 22 |
 | **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a111c1c69bd827926af2887?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
@@ -79,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a10ef729fdbf21f36cb1889?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 22 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 22 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 22 |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 22 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Virtual Interior Design Services Intern](https://jobright.ai/jobs/info/6a0bb58e0411d7417a1b3b2d?utm_campaign=1049&utm_source=git)** | Arcadia, WI | Hybrid | May 22 |
 | **[Terraboost Media](http://www.terraboost.biz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10a17c9fdbf21f36cafdc8?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | May 22 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0bb54ba235d749afa881fe?utm_campaign=1049&utm_source=git)** | Arcadia, WI | On Site | May 22 |
