@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Planora](planoraapp.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1131f469bd827926af2d49?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Website Management Internship](https://jobright.ai/jobs/info/6a1111429f654b3359cefaed?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Remote | May 22 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a114e5e9f654b3359cf09d4?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 22 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
 | ↳ | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bc612f8b43cf3988dc5?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 22 |
 | **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a111c1c69bd827926af2887?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Amylu Foods](https://www.amylufoods.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a0cbd354d9320363687b74f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[Denovo Construction Solutions](http://teamdenovo.com)** | **[Graphic Designer / Multimedia Intern](https://jobright.ai/jobs/info/6a0cb6444d9320363687b2eb?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | May 19 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
+| **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ca836538d03366dc8f6d3?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
