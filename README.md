@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern(rolling)](https://jobright.ai/jobs/info/6a11cb5a9f654b3359cf1d6d?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | May 23 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 23 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/6a11b5fa9fdbf21f36cb4bd1?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | May 23 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0cc4a4538d03366dc90cad?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 | **[Amylu Foods](https://www.amylufoods.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a0cbd354d9320363687b74f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 19 |
 | **[Denovo Construction Solutions](http://teamdenovo.com)** | **[Graphic Designer / Multimedia Intern](https://jobright.ai/jobs/info/6a0cb6444d9320363687b2eb?utm_campaign=1049&utm_source=git)** | West Des Moines, IA | On Site | May 19 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
-| **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ca836538d03366dc8f6d3?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
