@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern(rolling)](https://jobright.ai/jobs/info/6a11cb5a9f654b3359cf1d6d?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | May 23 |
+| **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 23 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/6a11b5fa9fdbf21f36cb4bd1?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | May 23 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
 | ↳ | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bc612f8b43cf3988dc5?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 22 |
@@ -150,7 +151,6 @@ For a complete list, click the following sortable link below:
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0e631f80bf0430c762c6c7?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 | **[Legion Management](https://thisislegion.co/)** | **[Intern Summer 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a0cf81f4d9320363687de3a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
-| **[SAIC](http://www.saic.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a0ce7254d9320363687d5b9?utm_campaign=1049&utm_source=git)** | El Segundo, CA | On Site | May 19 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Summer](https://jobright.ai/jobs/info/6a0ce416963f7a67d95dcba1?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 19 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0cc4a4538d03366dc90cad?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 | **[Amylu Foods](https://www.amylufoods.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a0cbd354d9320363687b74f?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 19 |
