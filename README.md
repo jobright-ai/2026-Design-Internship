@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Streetwear Brand Intern](https://jobright.ai/jobs/info/6a127dad9f654b3359cf33c8?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 23 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/695c2d79aa05c26e7ab57fe7?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | On Site | May 20 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/695c3ccc22c9dc0d3d541ba9?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | May 20 |
 | **[Anne Arundel County Public Schools](https://www.aacps.org/)** | **[Temp: Student Internship - Design & Print Services](https://jobright.ai/jobs/info/6a1115cf9f654b3359cefd5d?utm_campaign=1049&utm_source=git)** | Annapolis, MD | On Site | May 19 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0e631f80bf0430c762c6c7?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
-| **[Legion Management](https://thisislegion.co/)** | **[Intern Summer 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a0cf81f4d9320363687de3a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
