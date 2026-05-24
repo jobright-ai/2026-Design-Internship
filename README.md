@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a12675912f8b43cf398c8c7?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 23 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[somuchlove](https://www.somuchlove.design)** | **[Creative Intern(rolling)](https://jobright.ai/jobs/info/6a11cb5a9f654b3359cf1d6d?utm_campaign=1049&utm_source=git)** | Eugene, OR | On Site | May 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Legion Management](https://thisislegion.co/)** | **[Intern Summer 2026 – A&R, Manager, Marketing, Graphic Design, Video (In-Person, Unpaid, For College Credit)](https://jobright.ai/jobs/info/6a0cf81f4d9320363687de3a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 19 |
 | **[Zumiez](http://www.zumiez.com)** | **[Marketing Design/Production Intern](https://jobright.ai/jobs/info/6a0cf2c5963f7a67d95dd467?utm_campaign=1049&utm_source=git)** | Lynnwood, WA, 98036, United States | On Site | May 19 |
 | **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Summer](https://jobright.ai/jobs/info/6a0ce416963f7a67d95dcba1?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | May 19 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern, Paid Social](https://jobright.ai/jobs/info/6a0cc4a4538d03366dc90cad?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
