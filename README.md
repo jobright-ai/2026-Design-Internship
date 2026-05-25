@@ -62,12 +62,13 @@ For a complete list, click the following sortable link below:
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a13934869bd827926af86ce?utm_campaign=1049&utm_source=git)** | Intrinsic Development (Lee's Summit) | On Site | May 24 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a13934769bd827926af86cd?utm_campaign=1049&utm_source=git)** | Lee's Summit, Missouri | On Site | May 24 |
 | **[Ashley Furniture Industries](https://www.ashleyfurnitureindustriesllc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a0bb54ba235d749afa881fe?utm_campaign=1049&utm_source=git)** | Arcadia, WI | On Site | May 24 |
+| **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -79,6 +80,7 @@ For a complete list, click the following sortable link below:
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 23 |
 | **[Alabaster](https://www.alabasterco.com)** | **[Design Intern — Book Layout & Editorial Design](https://jobright.ai/jobs/info/6a11b5fa9fdbf21f36cb4bd1?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | May 23 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 23 |
+| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 23 |
 | **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
 | ↳ | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bc612f8b43cf3988dc5?utm_campaign=1049&utm_source=git)** | Rochester, NY | On Site | May 22 |
 | **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a111c1c69bd827926af2887?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Norcon, Inc.](http://norconinc.com)** | **[Mural Arts Project - Field Management Internship](https://jobright.ai/jobs/info/6a0df613c152ac782448190a?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 20 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a0df05309ecfd704b3e439b?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 20 |
 | **[AAA Auto Club Enterprises](https://careers.ace.aaa.com/)** | **[UX Researcher Intern](https://jobright.ai/jobs/info/6a0deef247fea1610bca5459?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | Hybrid | May 20 |
-| **[Steampunk, Inc.](https://steampunk.com/)** | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab680bf0430c762781e?utm_campaign=1049&utm_source=git)** | US-VA-McLean | On Site | May 20 |
-| ↳ | **[Summer Intern 2026 - Design and Strategy](https://jobright.ai/jobs/info/6a0deab280bf0430c762781d?utm_campaign=1049&utm_source=git)** | McLean, VA, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
