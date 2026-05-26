@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Dallas](http://www.digitalmarketingawards.org)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a15d217dc845f4be5bd9374?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario | Hybrid | May 26 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a15d1330073182bd92ad157?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 26 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a15cfd8dc845f4be5bd926f?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
+| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a15cfcf0073182bd92ad0b9?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
+| **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Creative Design Summer 2026 Internship](https://jobright.ai/jobs/info/6a15ce4d128680351d9648d4?utm_campaign=1049&utm_source=git)** | Mun Ctr Bldg 18, Virginia, 23456, US | On Site | May 26 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15c603dc845f4be5bd893e?utm_campaign=1049&utm_source=git)** | Broadway Studio in New York | On Site | May 26 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15c5e4554b0e12c0585968?utm_campaign=1049&utm_source=git)** | New York | On Site | May 26 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15c5dedc845f4be5bd88f2?utm_campaign=1049&utm_source=git)** | New York | On Site | May 26 |
@@ -90,10 +95,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a0f5fbd12f8b43cf397e66f?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e1ab4ec4779fff9cc2?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | May 21 |
 | **[Sellmark Corporation](https://sellmark.com)** | **[Marketing Intern - Graphic Designer](https://jobright.ai/jobs/info/6a0f3fdb72b52f7225f3c23a?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | May 21 |
-| **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
