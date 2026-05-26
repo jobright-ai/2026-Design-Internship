@@ -57,8 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[IdeaTek](http://ideatek.com)** | **[Graphic Design Summer 2026 Intern](https://jobright.ai/jobs/info/6a160c10a429fd279da95172?utm_campaign=1049&utm_source=git)** | Wichita,KS,US | Hybrid | May 26 |
+| **[Dallas Mavericks](http://www.mavs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a160b78a429fd279da95132?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
+| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1609c41935fa61b3c6e193?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | May 26 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a1607a4dc845f4be5bdbc01?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
+| **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern, International](https://jobright.ai/jobs/info/6a1606aaa429fd279da94eb1?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 26 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1606760073182bd92af6d8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
+| **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a15fe24554b0e12c0587e62?utm_campaign=1049&utm_source=git)** | Houston TX, US | On Site | May 26 |
 | **[ALTUZARRA](https://www.altuzarra.com)** | **[Design Team intern](https://jobright.ai/jobs/info/6a15fb72a429fd279da94248?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 26 |
-| **[Targeted Victory](http://www.targetedvictory.com/)** | **[Summer Intern, Graphic Design](https://jobright.ai/jobs/info/6a15fac6554b0e12c0587c5d?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a15f5d51935fa61b3c6d255?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | May 26 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a15eceddc845f4be5bda662?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, US | On Site | May 26 |
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 26 |
@@ -86,7 +92,6 @@ For a complete list, click the following sortable link below:
 | **[SWAROVSKI](https://www.swarovski.com/)** | **[B2B Design Intern - New York, NY](https://jobright.ai/jobs/info/6a15c3d6dc845f4be5bd8755?utm_campaign=1049&utm_source=git)** | New York,NY,USA, US | On Site | May 26 |
 | **[AITHER](http://www.aither.co)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a15bd1d1935fa61b3c6ab90?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 26 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | May 26 |
-| **[Grow Your Business - NYC](https://mrgyb.com/)** | **[Internship Graphic Design](https://jobright.ai/jobs/info/6a15afcea429fd279da91277?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | May 26 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a10ef729fdbf21f36cb1889?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Design Group Intern](https://jobright.ai/jobs/info/69fafc2687a4820e6da84105?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[People Inc.](https://www.people.inc/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69fada7d87a4820e6da827c6?utm_campaign=1049&utm_source=git)** | Fairview, Alberta, Canada | On Site | May 26 |
@@ -111,8 +116,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
@@ -141,7 +146,6 @@ For a complete list, click the following sortable link below:
 | **[Lionakis](http://lionakis.com)** | **[Student Intern - Architectural Visualization & Design Technology](https://jobright.ai/jobs/info/6a10d1dc619335383fb34df2?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing In Office Internship 2026 - Print Production](https://jobright.ai/jobs/info/6a10f26769bd827926af14ea?utm_campaign=1049&utm_source=git)** | Garden City, NY | On Site | May 22 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 22 |
-| **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture and Interior Design Internship](https://jobright.ai/jobs/info/6a10b92e9f654b3359ced8cf?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | May 22 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a10b86d83d7144289827ff9?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 22 |
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a11109712f8b43cf398907b?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | May 22 |
 | ↳ | **[Intern Architect](https://jobright.ai/jobs/info/6a110c2c12f8b43cf3988e68?utm_campaign=1049&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | May 22 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Finalsite](http://www.finalsite.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/6a108a419f654b3359cec811?utm_campaign=1049&utm_source=git)** | 100% Remote in the U.S | Remote | May 22 |
 | **[United Nations](https://www.un.org/)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a1084ba83d7144289826c52?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 22 |
 | **[Centric Brands](https://centricbrands.com)** | **[Graphic & Photo Studio Intern](https://jobright.ai/jobs/info/69d833409f97a42dc9c1af8b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 22 |
-| **[CustomerSuccessBox](http://customersuccessbox.com)** | **[UI/UX Design - Intern (Remote)](https://jobright.ai/jobs/info/6a1036df9f654b3359cea2d3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
-| **[Aptum Virtual Solutions](http://www.aptumvirtualsolutions.com)** | **[Graphic Design Intern (Remote)](https://jobright.ai/jobs/info/6a1035e912f8b43cf39837d3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
-| **[Olson Kundig](http://olsonkundig.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a100f4583d7144289823c5e?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 22 |
-| **[PENSA](https://pensa.co/)** | **[Industrial Design Intern - July - December 2026](https://jobright.ai/jobs/info/6a1003ae12f8b43cf3982966?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
