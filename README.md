@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Surface Labs](https://www.withsurface.com/)** | **[AI Design Intern](https://jobright.ai/jobs/info/6a14f444554b0e12c05806b1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | May 25 |
+| **[ARXG by Reconomy](https://americanrxgroup.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a14d242bc9bff375af023c5?utm_campaign=1049&utm_source=git)** | Sauk Rapids, MN | On Site | May 25 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/6a14b0ba554b0e12c057fc88?utm_campaign=1049&utm_source=git)** | United States | Remote | May 25 |
 | **[Northwestern Mutual](https://www.northwesternmutual.com)** | **[UX Design Internship, Summer 2026](https://jobright.ai/jobs/info/69bdf8c5b106024562835a58?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | May 25 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a149af4738a270c8bfa82be?utm_campaign=1049&utm_source=git)** | United States | Remote | May 25 |
@@ -138,8 +140,8 @@ For a complete list, click the following sortable link below:
 | **[Sellmark Corporation](https://sellmark.com)** | **[Marketing Intern - Graphic Designer](https://jobright.ai/jobs/info/6a0f3fdb72b52f7225f3c23a?utm_campaign=1049&utm_source=git)** | Mansfield, TX | On Site | May 21 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f292e2ecbc8c2f7320b473?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f281668d8d624381aa114c?utm_campaign=1049&utm_source=git)** | Ottawa, Ontario, Canada | On Site | May 21 |
-| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc4?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
+| ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7ccb?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | May 21 |
 | ↳ | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2931bf154d768fbaa7cc9?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | **[University of Missouri-Columbia](http://business.missouri.edu/allen-angel-capital-education-program)** | **[Partners in Prevention Student Intern - Graphic Design and Media Support](https://jobright.ai/jobs/info/6a0f38d6619335383fb2a108?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | May 21 |
 | **[Brilliant Agency](https://brilliantprandmarketing.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/69fb6c7cffa73664aeaff7fd?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | May 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Barkera®](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a0ec6af9f654b3359ce0eda?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Hybrid | May 21 |
 | **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ec304619335383fb272fc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 21 |
 | **[Circadia](http://scottrice.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a13fa1c9fdbf21f36cbb4cf?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | May 20 |
-| **[Keep Going Athletics](keepgoingathletics.com)** | **[Creative Video Editor (Unpaid Internship)](https://jobright.ai/jobs/info/6a0e2a5483d7144289816981?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | May 20 |
-| **[KPF](http://www.kpf.com)** | **[Visual Representation Intern](https://jobright.ai/jobs/info/6a0e214a83d71442898162a3?utm_campaign=1049&utm_source=git)** | New York, US | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
