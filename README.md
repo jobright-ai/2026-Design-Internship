@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Designer Intern (Remote)](https://jobright.ai/jobs/info/6a15609b1935fa61b3c678d4?utm_campaign=1049&utm_source=git)** | United States | Remote | May 26 |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a155f41554b0e12c058221e?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
+| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a155f2d554b0e12c0582200?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
 | **[Surface Labs](https://www.withsurface.com/)** | **[AI Design Intern](https://jobright.ai/jobs/info/6a14f444554b0e12c05806b1?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | May 25 |
 | **[ARXG by Reconomy](https://americanrxgroup.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a14d242bc9bff375af023c5?utm_campaign=1049&utm_source=git)** | Sauk Rapids, MN | On Site | May 25 |
 | **[BASIC Studios](https://www.linkedin.com/company/95055925)** | **[Creative Intern](https://jobright.ai/jobs/info/6a14b0ba554b0e12c057fc88?utm_campaign=1049&utm_source=git)** | United States | Remote | May 25 |
@@ -76,8 +79,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Enterprise Experience Design - Product Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/69f2956e8feca91f14925af4?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | May 21 |
 | **[C&S Companies](http://www.cscos.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69f261fd825a315d7ca3c683?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | May 21 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | May 21 |
-| **[Barkera®](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a0ec6af9f654b3359ce0eda?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Hybrid | May 21 |
-| **[Full Spectrum Marketing (FSM)](https://www.fsm.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0ec304619335383fb272fc?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | May 21 |
-| **[Circadia](http://scottrice.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a13fa1c9fdbf21f36cbb4cf?utm_campaign=1049&utm_source=git)** | Lenexa, KS | On Site | May 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
