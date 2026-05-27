@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a163ff30073182bd92b1acb?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
+| ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a163ff3dc845f4be5bdded8?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
 | **[Vandelay Companies](https://vandelayhospitality.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a1631efa429fd279da96694?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
@@ -128,8 +130,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Realta Fusion](https://realtafusion.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10d5dd9fdbf21f36cb1137?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | May 22 |
 | **[Lionakis](http://lionakis.com)** | **[Student Intern - Architectural Visualization & Design Technology](https://jobright.ai/jobs/info/6a10d1dc619335383fb34df2?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing In Office Internship 2026 - Print Production](https://jobright.ai/jobs/info/6a10f26769bd827926af14ea?utm_campaign=1049&utm_source=git)** | Garden City, NY | On Site | May 22 |
-| **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 22 |
-| **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a10b86d83d7144289827ff9?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
