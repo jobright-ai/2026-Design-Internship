@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a175a275b0a497d5210b7e6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Hive The Agency](https://hivetheagency.com)** | **[Graphic Design & Content Creation Intern](https://jobright.ai/jobs/info/6a174707d6a04f21602e5083?utm_campaign=1049&utm_source=git)** | Miami, FL | Hybrid | May 27 |
 | **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/6a1732769005d858e94f6dd1?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 27 |
 | ↳ | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/6a1732739005d858e94f6dcf?utm_campaign=1049&utm_source=git)** | Remote - Alberta, Canada | Remote | May 27 |
@@ -99,8 +100,6 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a162fd20073182bd92b0ea2?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 26 |
 | **[Cheil USA](https://us.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162d9e128680351d96889c?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a15fe24554b0e12c0587e62?utm_campaign=1049&utm_source=git)** | Houston TX, US | On Site | May 26 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a15f5d51935fa61b3c6d255?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | May 26 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a15eceddc845f4be5bda662?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, US | On Site | May 26 |
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 26 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eadadc845f4be5bda518?utm_campaign=1049&utm_source=git)** | Coppell, TX | On Site | May 26 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15ea91554b0e12c0587402?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | May 26 |
@@ -149,12 +148,13 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 23 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 23 |
+| **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
