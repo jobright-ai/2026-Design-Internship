@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a165c40dc845f4be5bdedff?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
+| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a165c400073182bd92b29ee?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1655f50073182bd92b2790?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
+| **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a165546554b0e12c058b6d1?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 26 |
+| ↳ | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a16553e554b0e12c058b6c1?utm_campaign=1049&utm_source=git)** | Gemini North America | Hybrid | May 26 |
 | **[Vandelay Companies](https://vandelayhospitality.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a1631efa429fd279da96694?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
@@ -94,7 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15d4f5554b0e12c058655c?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 26 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/69fad46038179b6f1ae725cb?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[National Parks Conservation Association](http://www.npca.org/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15d315554b0e12c0586467?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 26 |
-| **[Learning Ridge, LLC](https://www.learningridge.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a15d2bc0073182bd92ad210?utm_campaign=1049&utm_source=git)** | Marietta, GA | On Site | May 26 |
 | **[Dallas](http://www.digitalmarketingawards.org)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a15d217dc845f4be5bd9374?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario | Hybrid | May 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a15d1330073182bd92ad157?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 26 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Creative Design Summer 2026 Internship](https://jobright.ai/jobs/info/6a15ce4d128680351d9648d4?utm_campaign=1049&utm_source=git)** | Mun Ctr Bldg 18, Virginia, 23456, US | On Site | May 26 |
@@ -129,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lionakis](http://lionakis.com)** | **[Student Intern](https://jobright.ai/jobs/info/6a10d87369bd827926af0b84?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Realta Fusion](https://realtafusion.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10d5dd9fdbf21f36cb1137?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | May 22 |
 | **[Lionakis](http://lionakis.com)** | **[Student Intern - Architectural Visualization & Design Technology](https://jobright.ai/jobs/info/6a10d1dc619335383fb34df2?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
-| **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing In Office Internship 2026 - Print Production](https://jobright.ai/jobs/info/6a10f26769bd827926af14ea?utm_campaign=1049&utm_source=git)** | Garden City, NY | On Site | May 22 |
-| **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 22 |
-| **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a10b86d83d7144289827ff9?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 22 |
-| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a11109712f8b43cf398907b?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
