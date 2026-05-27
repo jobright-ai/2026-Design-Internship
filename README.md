@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vandelay Companies](https://vandelayhospitality.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a1631efa429fd279da96694?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
+| **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
+| **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
+| **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1627d70073182bd92b0bf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a1625740073182bd92b0aea?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | May 26 |
 | **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a1625600073182bd92b0ae1?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | May 26 |
-| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a16239cdc845f4be5bdcee4?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
-| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a1623990073182bd92b0a42?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a161d95dc845f4be5bdcb89?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a161cc0a429fd279da95d2e?utm_campaign=1049&utm_source=git)** | 450 Third Ave West, Seattle, WA, 98119, US | On Site | May 26 |
 | **[Landor](https://landor.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a161a2cdc845f4be5bdc4be?utm_campaign=1049&utm_source=git)** | Cincinnati | Hybrid | May 26 |
@@ -71,6 +73,8 @@ For a complete list, click the following sortable link below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1609c41935fa61b3c6e193?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | May 26 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern, International](https://jobright.ai/jobs/info/6a1606aaa429fd279da94eb1?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1606760073182bd92af6d8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
+| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a162fd20073182bd92b0ea2?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 26 |
+| **[Cheil USA](https://us.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162d9e128680351d96889c?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a15fe24554b0e12c0587e62?utm_campaign=1049&utm_source=git)** | Houston TX, US | On Site | May 26 |
 | **[ALTUZARRA](https://www.altuzarra.com)** | **[Design Team intern](https://jobright.ai/jobs/info/6a15fb72a429fd279da94248?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | May 26 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a15f5d51935fa61b3c6d255?utm_campaign=1049&utm_source=git)** | SLC Metro Area | On Site | May 26 |
@@ -78,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 26 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eadadc845f4be5bda518?utm_campaign=1049&utm_source=git)** | Coppell, TX | On Site | May 26 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15ea91554b0e12c0587402?utm_campaign=1049&utm_source=git)** | Burlington, NC | On Site | May 26 |
+| **[Cheil Canada](https://cheil.com/ca)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a163039dc845f4be5bdd35d?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[G&J Pepsi-Cola Bottlers, Inc.](https://www.gjpepsi.com)** | **[Intern - Design](https://jobright.ai/jobs/info/6a0fae1583d714428982227d?utm_campaign=1049&utm_source=git)** | Reynoldsburg, OH | On Site | May 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a15e7ae554b0e12c05872cc?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 26 |
 | **[Prox Shopping](www.joinprox.com)** | **[Mobile App Design Intern (Unpaid)](https://jobright.ai/jobs/info/6a15e6a4a429fd279da9360b?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | Remote | May 26 |
@@ -103,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a10ef729fdbf21f36cb1889?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 26 |
 | **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Design Group Intern](https://jobright.ai/jobs/info/69fafc2687a4820e6da84105?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[People Inc.](https://www.people.inc/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69fada7d87a4820e6da827c6?utm_campaign=1049&utm_source=git)** | Fairview, Alberta, Canada | On Site | May 26 |
-| **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/69fad592d21cf86d1e3cd199?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a157ed2128680351d961cec?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | May 26 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6a157ed1128680351d961ceb?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | May 26 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6a157eca554b0e12c05833b2?utm_campaign=1049&utm_source=git)** | Louisville, KY | On Site | May 26 |
@@ -141,7 +145,6 @@ For a complete list, click the following sortable link below:
 | **[The Hatcher Group](https://www.thehatchergroup.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a13f3f79f654b3359cf80bd?utm_campaign=1049&utm_source=git)** | Bethesda, MD | Hybrid | May 23 |
 | **[The HEINEKEN Company](http://www.theheinekencompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a13f77c58ee291d8052e458?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6a14001e9f654b3359cf86da?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
-| **[Screenvision Media](https://screenvisionmedia.com/)** | **[Graphic Design Internship- Summer 2026, Rochester](https://jobright.ai/jobs/info/6a110bcf12f8b43cf3988dce?utm_campaign=1049&utm_source=git)** | 245 Kenneth Dr Ste 400 Rochester, NY 14623 | On Site | May 22 |
 | **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a111c1c69bd827926af2887?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a11144512f8b43cf39892a9?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6a10e13483d7144289828e53?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lakeside Book Company](https://www.lakesidebookcompany.com/)** | **[Dover Publishing In Office Internship 2026 - Print Production](https://jobright.ai/jobs/info/6a10f26769bd827926af14ea?utm_campaign=1049&utm_source=git)** | Garden City, NY | On Site | May 22 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 22 |
 | **[Landor](https://landor.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a10b86d83d7144289827ff9?utm_campaign=1049&utm_source=git)** | Chicago | Hybrid | May 22 |
-| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a11109712f8b43cf398907b?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | May 22 |
-| ↳ | **[Intern Architect](https://jobright.ai/jobs/info/6a110c2c12f8b43cf3988e68?utm_campaign=1049&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | May 22 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
