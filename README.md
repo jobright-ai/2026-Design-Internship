@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a173e9f5b0a497d5210a31a?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
+| **[Twilio](https://www.twilio.com/)** | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/6a1732769005d858e94f6dd1?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | May 27 |
+| ↳ | **[Graphic Design Intern (June 22nd start, 12 weeks)](https://jobright.ai/jobs/info/6a1732739005d858e94f6dcf?utm_campaign=1049&utm_source=git)** | Remote - Alberta, Canada | Remote | May 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1713155b0a497d52107d43?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 27 |
 | **[3LC ai](https://www.threelc.ai/)** | **[AI Video Editor Intern](https://jobright.ai/jobs/info/6a171288f45c6530ce9a8572?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
@@ -78,15 +81,14 @@ For a complete list, click the following sortable link below:
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a165546554b0e12c058b6d1?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 26 |
 | ↳ | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a16553e554b0e12c058b6c1?utm_campaign=1049&utm_source=git)** | Gemini North America | Hybrid | May 26 |
 | **[JCDecaux](http://www.jcdecaux.com)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a1721289005d858e94f6480?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 26 |
+| **[ASTHO](http://www.astho.org)** | **[Intern, Graphic Design & Multimedia](https://jobright.ai/jobs/info/6a1737671430333075ccec6d?utm_campaign=1049&utm_source=git)** | Arlington, VA | Remote | May 26 |
 | **[Vandelay Companies](https://vandelayhospitality.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a1631efa429fd279da96694?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a16672f1935fa61b3c7142e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1627d70073182bd92b0bf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a1625600073182bd92b0ae1?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | May 26 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a161d95dc845f4be5bdcb89?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 26 |
-| **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a161cc0a429fd279da95d2e?utm_campaign=1049&utm_source=git)** | 450 Third Ave West, Seattle, WA, 98119, US | On Site | May 26 |
 | **[Landor](https://landor.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a161a2cdc845f4be5bdc4be?utm_campaign=1049&utm_source=git)** | Cincinnati | Hybrid | May 26 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6a16171b0073182bd92afe5d?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | May 26 |
 | **[IdeaTek](http://ideatek.com)** | **[Graphic Design Summer 2026 Intern](https://jobright.ai/jobs/info/6a160c10a429fd279da95172?utm_campaign=1049&utm_source=git)** | Wichita,KS,US | Hybrid | May 26 |
@@ -145,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 23 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 23 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
-| **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
