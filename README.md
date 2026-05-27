@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
+| **[Carnival Corporation](http://carnivalcorp.com)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a1625740073182bd92b0aea?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | May 26 |
+| **[Princess Cruises](http://www.princess.com)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a1625600073182bd92b0ae1?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | May 26 |
+| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a16239cdc845f4be5bdcee4?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
+| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a1623990073182bd92b0a42?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a161d95dc845f4be5bdcb89?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Holland America Line](http://www.hollandamerica.com/)** | **[2026 Internship - Interior Design](https://jobright.ai/jobs/info/6a161cc0a429fd279da95d2e?utm_campaign=1049&utm_source=git)** | 450 Third Ave West, Seattle, WA, 98119, US | On Site | May 26 |
 | **[Landor](https://landor.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a161a2cdc845f4be5bdc4be?utm_campaign=1049&utm_source=git)** | Cincinnati | Hybrid | May 26 |
@@ -119,10 +124,10 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a11109712f8b43cf398907b?utm_campaign=1049&utm_source=git)** | Kamloops, British Columbia, Canada | On Site | May 22 |
 | ↳ | **[Intern Architect](https://jobright.ai/jobs/info/6a110c2c12f8b43cf3988e68?utm_campaign=1049&utm_source=git)** | Kelowna, British Columbia, Canada | On Site | May 22 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 22 |
-| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | May 22 |
-| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/69f529c481706a5bd21651e9?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | May 22 |
-| **[Terraboost Media](http://www.terraboost.biz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10a17c9fdbf21f36cafdc8?utm_campaign=1049&utm_source=git)** | Naperville, IL | On Site | May 22 |
-| **[United Nations Development Programme (UNDP)](https://www.undp.org/)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a108c4e12f8b43cf3985e0c?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 22 |
-| **[Finalsite](http://www.finalsite.com)** | **[Web Content Intern](https://jobright.ai/jobs/info/6a108a419f654b3359cec811?utm_campaign=1049&utm_source=git)** | 100% Remote in the U.S | Remote | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
