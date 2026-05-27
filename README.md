@@ -57,6 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 27 |
+| **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1713155b0a497d52107d43?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 27 |
+| **[3LC ai](https://www.threelc.ai/)** | **[AI Video Editor Intern](https://jobright.ai/jobs/info/6a171288f45c6530ce9a8572?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
+| **[Ascension](https://healthcare.ascension.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a170b70b091c7417c4fa16d?utm_campaign=1049&utm_source=git)** | US-MO-St. Louis | Remote | May 27 |
+| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6a170b6fb091c7417c4fa16c?utm_campaign=1049&utm_source=git)** | St. Louis, MO, US | Remote | May 27 |
+| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170aecb091c7417c4fa133?utm_campaign=1049&utm_source=git)** | Owings Mills, MD, US | On Site | May 27 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170ae8b091c7417c4fa130?utm_campaign=1049&utm_source=git)** | US-MD-Owings Mills | On Site | May 27 |
+| **[Hangin.TV](https://hangin.tv/)** | **[Graphic Design Intern, Paid](https://jobright.ai/jobs/info/6a170a429005d858e94f5329?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | May 27 |
+| **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a1709def45c6530ce9a81f6?utm_campaign=1049&utm_source=git)** | Remote - Ontario, CA | Remote | May 27 |
+| **[New England Conservatory of Music](https://necmusic.edu)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a1709a0d6a04f21602e23d0?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | May 27 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a16f9b8d6a04f21602e181c?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a16f9b6d6a04f21602e1818?utm_campaign=1049&utm_source=git)** | Waltham, MA | On Site | May 27 |
 | **[Wrinkles](https://wrinkles.io/)** | **[Graphic Design / Motion Graphics Intern — Wrinkles](https://jobright.ai/jobs/info/6a16e1d1b091c7417c4f8de5?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
@@ -137,8 +147,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306d59fdbf21f36cb8132?utm_campaign=1049&utm_source=git)** | New York | On Site | May 24 |
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
-| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
+| ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
 | **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
@@ -147,14 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 | **[NVA General Practice](https://www.nva.com/)** | **[Client Digital Experience Intern (PAID)](https://jobright.ai/jobs/info/69f500e712f2811ab5a62465?utm_campaign=1049&utm_source=git)** | California, United States | On Site | May 23 |
 | **[OneMagnify](http://marketingassociates.com)** | **[Creative Production Intern](https://jobright.ai/jobs/info/69f50073a3d34b4f76f52e48?utm_campaign=1049&utm_source=git)** | Detroit, MI | Hybrid | May 23 |
-| **[IMAX](http://www.imax.com)** | **[Intern, Creative Content](https://jobright.ai/jobs/info/69f53bd912f2811ab5a63f3d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | May 23 |
-| **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | May 23 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 23 |
-| **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | May 23 |
-| **[The HEINEKEN Company](http://www.theheinekencompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a13f77c58ee291d8052e458?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6a14001e9f654b3359cf86da?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 22 |
-| **[Lagunitas Brewing Company](http://lagunitas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a111c1c69bd827926af2887?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | May 22 |
-| **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a11144512f8b43cf39892a9?utm_campaign=1049&utm_source=git)** | United States | Remote | May 22 |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6a10e13483d7144289828e53?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 22 |
-| **[The Hatcher Group](https://www.thehatchergroup.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a10de9e69bd827926af0cfc?utm_campaign=1049&utm_source=git)** | bethesda,MD,US | Hybrid | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
