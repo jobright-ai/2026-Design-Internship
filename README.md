@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[WRT](http://wrtdesign.com)** | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a165c40dc845f4be5bdedff?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
-| ↳ | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a165c400073182bd92b29ee?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
+| **[Zenly](https://www.zenly.com)** | **[Real Estate Startup Internship - Summer 2017](https://jobright.ai/jobs/info/6a16721aa429fd279da98ba7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 26 |
+| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a166e17554b0e12c058bede?utm_campaign=1049&utm_source=git)** | United States | Remote | May 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1655f50073182bd92b2790?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a165546554b0e12c058b6d1?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 26 |
 | ↳ | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a16553e554b0e12c058b6c1?utm_campaign=1049&utm_source=git)** | Gemini North America | Hybrid | May 26 |
 | **[Vandelay Companies](https://vandelayhospitality.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a1631efa429fd279da96694?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
+| **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a16672f1935fa61b3c7142e?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 26 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1627d70073182bd92b0bf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 26 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
@@ -133,8 +134,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - Interior Design](https://jobright.ai/jobs/info/6a10da0d83d7144289828c92?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 22 |
 | **[Lionakis](http://lionakis.com)** | **[Student Intern](https://jobright.ai/jobs/info/6a10d87369bd827926af0b84?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 | **[Realta Fusion](https://realtafusion.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a10d5dd9fdbf21f36cb1137?utm_campaign=1049&utm_source=git)** | Madison, WI | On Site | May 22 |
-| **[Lionakis](http://lionakis.com)** | **[Student Intern - Architectural Visualization & Design Technology](https://jobright.ai/jobs/info/6a10d1dc619335383fb34df2?utm_campaign=1049&utm_source=git)** | Sacramento, CA | On Site | May 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
