@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1695bd554b0e12c058d2cb?utm_campaign=1049&utm_source=git)** | United States | Remote | May 26 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a167b4f554b0e12c058c8fb?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | May 26 |
 | **[WRT](http://wrtdesign.com)** | **[SF Landscape Architecture / Summer Intern (Part-Time)](https://jobright.ai/jobs/info/6a167853202ae849ed8d38b5?utm_campaign=1049&utm_source=git)** | US-CA-San Francisco | On Site | May 26 |
 | ↳ | **[Landscape Architect Summer Intern](https://jobright.ai/jobs/info/6a16783d202ae849ed8d38a5?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | May 26 |
 | **[Zenly](https://www.zenly.com)** | **[Real Estate Startup Internship - Summer 2017](https://jobright.ai/jobs/info/6a16721aa429fd279da98ba7?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 26 |
-| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a166e17554b0e12c058bede?utm_campaign=1049&utm_source=git)** | United States | Remote | May 26 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1655f50073182bd92b2790?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a165546554b0e12c058b6d1?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 26 |
 | ↳ | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a16553e554b0e12c058b6c1?utm_campaign=1049&utm_source=git)** | Gemini North America | Hybrid | May 26 |
