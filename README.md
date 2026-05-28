@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
+| **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a177ef91430333075cd1b28?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a17759d9005d858e94fa3d0?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | Hybrid | May 27 |
 | **[Scarab Digital](http://www.scarabdigital.com)** | **[Interactive Design Internship](https://jobright.ai/jobs/info/6a17759a5b0a497d5210cb6d?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 27 |
@@ -69,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[3LC ai](https://www.threelc.ai/)** | **[AI Video Editor Intern](https://jobright.ai/jobs/info/6a171288f45c6530ce9a8572?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170aecb091c7417c4fa133?utm_campaign=1049&utm_source=git)** | Owings Mills, MD, US | On Site | May 27 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170ae8b091c7417c4fa130?utm_campaign=1049&utm_source=git)** | US-MD-Owings Mills | On Site | May 27 |
-| **[Hangin.TV](https://hangin.tv/)** | **[Graphic Design Intern, Paid](https://jobright.ai/jobs/info/6a170a429005d858e94f5329?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | May 27 |
 | **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a1709def45c6530ce9a81f6?utm_campaign=1049&utm_source=git)** | Remote - Ontario, CA | Remote | May 27 |
 | **[New England Conservatory of Music](https://necmusic.edu)** | **[Multimedia Production Intern](https://jobright.ai/jobs/info/6a1709a0d6a04f21602e23d0?utm_campaign=1049&utm_source=git)** | Boston, MA, US | On Site | May 27 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a16f9b8d6a04f21602e181c?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 27 |
@@ -151,10 +152,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1306cb9fdbf21f36cb812a?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | May 24 |
 | **[Xometry](https://www.xometry.com)** | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc46?utm_campaign=1049&utm_source=git)** | North Bethesda, MD | Hybrid | May 24 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6a1304ce83d714428982fc45?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 24 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
+| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6aff?utm_campaign=1049&utm_source=git)** | Kansas City, MO | On Site | May 24 |
+| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a12ce5a69bd827926af6afe?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | On Site | May 24 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 24 |
 | **[The Learning Lamp](https://www.thelearninglamp.org)** | **[Art & Graphic Design Intern](https://jobright.ai/jobs/info/6a122a9012f8b43cf398c108?utm_campaign=1049&utm_source=git)** | Johnstown, PA | On Site | May 23 |
 | **[LV Collective](https://lvcollective.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a13ca0012f8b43cf399041c?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 23 |
-| **[Dassault Systèmes](http://www.3ds.com)** | **[INTERNSHIP - User Experience Designer](https://jobright.ai/jobs/info/69f54d4743a25828a8d18377?utm_campaign=1049&utm_source=git)** | Waltham, MA | Hybrid | May 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
