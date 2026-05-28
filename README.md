@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a18577954a441713ae82c1a?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
+| **[Mozzimo Jewelry](https://www.mozzimojewelry.com)** | **[Creative Design./Retoucher Internship, Jewelry](https://jobright.ai/jobs/info/6a1858a66243320e8d162bd6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[McCoy Rockford](http://mccoy-rockford.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a185273abc8f63abac76bd0?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | May 28 |
 | **[GLD](https://www.thegldshop.com/)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a18500317492d3a389b42c5?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 28 |
