@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AITHER](http://www.aither.co)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a187cae17492d3a389b6a64?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 28 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[CPH](http://cphcorp.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69e0f033fd1c0456f3fab83d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 28 |
 | **[Dallas Museum of Art](https://dma.org/)** | **[Menon Arts Technology Internship](https://jobright.ai/jobs/info/6a1876c1c2a87d6cd3df1710?utm_campaign=1049&utm_source=git)** | DALLAS,TX,US | On Site | May 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dallas](http://www.digitalmarketingawards.org)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a15d217dc845f4be5bd9374?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario | Hybrid | May 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a15d1330073182bd92ad157?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 26 |
 | **[City of Virginia Beach](https://www.vbgov.com/Pages/default.aspx)** | **[Creative Design Summer 2026 Internship](https://jobright.ai/jobs/info/6a15ce4d128680351d9648d4?utm_campaign=1049&utm_source=git)** | Mun Ctr Bldg 18, Virginia, 23456, US | On Site | May 26 |
-| **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15c603dc845f4be5bd893e?utm_campaign=1049&utm_source=git)** | Broadway Studio in New York | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
