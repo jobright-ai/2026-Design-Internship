@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a17cb1d5b0a497d5210f621?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17ac99b7e0a45039a9cd13?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a8095b0a497d5210e39b?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a17a4861430333075cd2d1c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
 | **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a177ef91430333075cd1b28?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a13934769bd827926af86cd?utm_campaign=1049&utm_source=git)** | Lee's Summit, Missouri | On Site | May 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 24 |
-| ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
