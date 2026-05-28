@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1776775b0a497d5210cbb6?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
+| **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a177ef91430333075cd1b28?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a17759d9005d858e94fa3d0?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | Hybrid | May 27 |
 | **[Scarab Digital](http://www.scarabdigital.com)** | **[Interactive Design Internship](https://jobright.ai/jobs/info/6a17759a5b0a497d5210cb6d?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 27 |
 | **[Saint Bernard](https://www.saintbernard.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a1766fef45c6530ce9ac3af?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 27 |
