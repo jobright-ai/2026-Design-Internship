@@ -57,8 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GLD](https://www.thegldshop.com/)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a18500317492d3a389b42c5?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 28 |
+| **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6a184fb9dbc80963f9341ef6?utm_campaign=1049&utm_source=git)** | Hollywood, CA | Hybrid | May 28 |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a184c3a54a441713ae82107?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
+| **[Lumerse Studio](https://www.lumerse.studio)** | **[3D Modeling & Visualization Internship](https://jobright.ai/jobs/info/6a184478dbc80963f93416b3?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | May 28 |
+| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a18418917492d3a389b3958?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | May 28 |
 | **[Hunkemöller](https://www.hunkemoller.com)** | **[Internship Creative Operations](https://jobright.ai/jobs/info/6a183cf06243320e8d161b7e?utm_campaign=1049&utm_source=git)** | Headquarters International, NL | On Site | May 28 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a183bb154a441713ae81bd3?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[DDC Public Affairs](http://www.ddcpublicaffairs.com/)** | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/6a1831d654a441713ae81795?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | May 28 |
 | ↳ | **[Summer 2026 Internship- Product & UX](https://jobright.ai/jobs/info/6a1831d454a441713ae81791?utm_campaign=1049&utm_source=git)** | Washington DC | On Site | May 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a183102dbc80963f9340d9e?utm_campaign=1049&utm_source=git)** | Woodland Hills, CA | Remote | May 28 |
@@ -67,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Apparel Design & Concept Intern](https://jobright.ai/jobs/info/6a181479ba12bb0249bb68a5?utm_campaign=1049&utm_source=git)** | Santa Monica | On Site | May 28 |
 | ↳ | **[Apparel Design & Concept Intern](https://jobright.ai/jobs/info/6a181473ba12bb0249bb68a1?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 28 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4e?utm_campaign=1049&utm_source=git)** | St. Louis | On Site | May 28 |
-| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4d?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 28 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4d?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 28 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4e?utm_campaign=1049&utm_source=git)** | St. Louis | On Site | May 28 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a17f82c81f8da15dc7d4791?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17ac99b7e0a45039a9cd13?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a8095b0a497d5210e39b?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
@@ -76,8 +80,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Media, 3D artist (Fall 2026)](https://jobright.ai/jobs/info/6a180d6854962c1bb4b06959?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
 | **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AITHER](http://www.aither.co)** | **[Design Engineering Intern](https://jobright.ai/jobs/info/6a15bd1d1935fa61b3c6ab90?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 26 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | May 26 |
 | **[UNDP Careers](https://www.undp.org/careers)** | **[Graphic and Web Design Intern (REMOTE)](https://jobright.ai/jobs/info/6a10ef729fdbf21f36cb1889?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 26 |
-| **[Pappas Restaurants, Inc.](https://www.pappas.com)** | **[Design Group Intern](https://jobright.ai/jobs/info/69fafc2687a4820e6da84105?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 26 |
-| **[People Inc.](https://www.people.inc/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69fada7d87a4820e6da827c6?utm_campaign=1049&utm_source=git)** | Fairview, Alberta, Canada | On Site | May 26 |
-| **[Schmidt Associates](http://schmidt-arch.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a157ed2128680351d961cec?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | May 26 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6a157ed1128680351d961ceb?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
