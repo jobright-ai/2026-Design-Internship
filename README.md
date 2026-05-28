@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a17cb1d5b0a497d5210f621?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17ac99b7e0a45039a9cd13?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a8095b0a497d5210e39b?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a17a4861430333075cd2d1c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a13934769bd827926af86cd?utm_campaign=1049&utm_source=git)** | Lee's Summit, Missouri | On Site | May 24 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | May 24 |
 | **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/6932331bd0010831497c08e5?utm_campaign=1049&utm_source=git)** | Portland, ME | On Site | May 24 |
+| ↳ | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | May 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
