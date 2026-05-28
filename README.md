@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Curology](https://curology.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1887306243320e8d1655b5?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[AITHER](http://www.aither.co)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a187cae17492d3a389b6a64?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 28 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 28 |
 | **[CPH](http://cphcorp.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/69e0f033fd1c0456f3fab83d?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 28 |
 | **[Dallas Museum of Art](https://dma.org/)** | **[Menon Arts Technology Internship](https://jobright.ai/jobs/info/6a1876c1c2a87d6cd3df1710?utm_campaign=1049&utm_source=git)** | DALLAS,TX,US | On Site | May 28 |
-| **[Miller Zell](http://www.millerzell.com)** | **[Intern](https://jobright.ai/jobs/info/6a1874f96243320e8d1649d2?utm_campaign=1049&utm_source=git)** | Atlanta, Georgia, United States | On Site | May 28 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 28 |
 | **[McCoy Rockford](http://mccoy-rockford.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a185273abc8f63abac76bd0?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | May 28 |
 | **[GLD](https://www.thegldshop.com/)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a18500317492d3a389b42c5?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 28 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Media, 3D artist (Fall 2026)](https://jobright.ai/jobs/info/6a180d6854962c1bb4b06959?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
 | **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
