@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a0f7e2a83d7144289820e50?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[FOCUS Consulting](https://www.focusutah.com)** | **[ENTRY-LEVEL TO EXPERIENCED LANDSCAPE ARCHITECTS / PLANNERS](https://jobright.ai/jobs/info/6a19696235b73c4d92f32c68?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/6a194c3c17492d3a389bd6b8?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | May 29 |
@@ -74,7 +75,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 28 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a18b0bc54a441713ae87425?utm_campaign=1049&utm_source=git)** | Milwaukee, WI | On Site | May 28 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen and Waves Graphic Design Intern](https://jobright.ai/jobs/info/6a18a89adbc80963f9346658?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | May 28 |
-| **[7 HOLLYWOOD](https://www.linkedin.com/company/83116602)** | **[L.A. FASHION PHOTOGRAPHER - CELEBRITY MAGAZINE - PRODUCTION INTERN](https://jobright.ai/jobs/info/6a18dc2a54a441713ae88c16?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | May 28 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a18a2fc54a441713ae86ba2?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | May 28 |
 | ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a18a2f954a441713ae86b9a?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | ↳ | **[Design Summer Intern](https://jobright.ai/jobs/info/6a18a2dc17492d3a389b84d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 28 |
@@ -110,8 +110,8 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Media, 3D artist (Fall 2026)](https://jobright.ai/jobs/info/6a180d6854962c1bb4b06959?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
 | **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
