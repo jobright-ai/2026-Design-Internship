@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hashtag Influencer](https://www.hashtaginfluencer.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a19cbe16b135014dbc86418?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | May 29 |
 | **[Gentex Corp.](http://www.gentexcorp.com/)** | **[Design/Model Shop Intern](https://jobright.ai/jobs/info/6a19c4c16b135014dbc8610c?utm_campaign=1049&utm_source=git)** | Norwood,MA,US | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19c1be547e292ae1394964?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19afe56b135014dbc852d1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 29 |
@@ -67,6 +68,7 @@ For a complete list, click the following sortable link below:
 | **[ThinkMarkets](https://www.thinkmarkets.com/en/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a19a3bde24ef365258262ca?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 29 |
 | **[Pocket Prep](http://www.pocketprep.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a199fad547e292ae13933ba?utm_campaign=1049&utm_source=git)** | Durham, NC | Hybrid | May 29 |
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a0f7e2a83d7144289820e50?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 29 |
+| **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e01af7aba61f141731f88e?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | May 29 |
 | **[FOCUS Consulting](https://www.focusutah.com)** | **[ENTRY-LEVEL TO EXPERIENCED LANDSCAPE ARCHITECTS / PLANNERS](https://jobright.ai/jobs/info/6a19696235b73c4d92f32c68?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/6a194c3c17492d3a389bd6b8?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | May 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cheil KSA](http://www.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162f93a429fd279da9662f?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
 | **[iRobot](https://www.irobot.com)** | **[Fall 2026: Global Design Intern (Undergraduate)](https://jobright.ai/jobs/info/6a0ba4bd4d93203636872f85?utm_campaign=1049&utm_source=git)** | Bedford, MA | On Site | May 26 |
 | **[Gemini](https://gemini.com)** | **[Product Design Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1627d70073182bd92b0bf0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 26 |
-| **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
-| **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a161d95dc845f4be5bdcb89?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
