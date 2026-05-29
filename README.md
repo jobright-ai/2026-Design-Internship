@@ -57,14 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1971b9547e292ae13925c7?utm_campaign=1049&utm_source=git)** | United States | Remote | May 29 |
 | **[FOCUS Consulting](https://www.focusutah.com)** | **[ENTRY-LEVEL TO EXPERIENCED LANDSCAPE ARCHITECTS / PLANNERS](https://jobright.ai/jobs/info/6a19696235b73c4d92f32c68?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | May 29 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 29 |
 | **[Chip City](https://www.chipcitycookies.com/)** | **[Photo/Video Production Intern - Summer 2026](https://jobright.ai/jobs/info/6a194c3c17492d3a389bd6b8?utm_campaign=1049&utm_source=git)** | 15-32 127th St, College Point, NY 11356 | On Site | May 29 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a1949a354a441713ae8bb08?utm_campaign=1049&utm_source=git)** | Knoxville, TN, US | On Site | May 29 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1937c6c2a87d6cd3df80d8?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[3D Artist/Rigging Artist Internship (internship to hire) (temporarily unpaid)](https://jobright.ai/jobs/info/6a190759abc8f63abac7e23a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | May 28 |
-| **[HOK](http://www.hok.com/)** | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6a18dea5dbc80963f9348393?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship at For Love & Lemons](https://jobright.ai/jobs/info/6a18dc5054a441713ae88c92?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | Remote | May 28 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 28 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 28 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[IdeaTek](http://ideatek.com)** | **[Graphic Design Summer 2026 Intern](https://jobright.ai/jobs/info/6a160c10a429fd279da95172?utm_campaign=1049&utm_source=git)** | Wichita,KS,US | Hybrid | May 26 |
 | **[Dallas Mavericks](http://www.mavs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a160b78a429fd279da95132?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 26 |
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1609c41935fa61b3c6e193?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | May 26 |
+| **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern, International](https://jobright.ai/jobs/info/6a1606aaa429fd279da94eb1?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 26 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1606760073182bd92af6d8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
