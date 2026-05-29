@@ -57,11 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a18e4a354a441713ae88f06?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6a18dea5dbc80963f9348393?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship at For Love & Lemons](https://jobright.ai/jobs/info/6a18dc5054a441713ae88c92?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | Remote | May 28 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 28 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 28 |
+| **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship](https://jobright.ai/jobs/info/6a18f56354a441713ae89572?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a18c97ac2a87d6cd3df4c5a?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | May 28 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern Graphic Design](https://jobright.ai/jobs/info/6a050493bc4184089f2421b8?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | May 28 |
 | **[Little Buddy Agency](http://www.littlebuddy.co)** | **[ART DIRECTOR INTERNSHIP: REMOTE, PAID](https://jobright.ai/jobs/info/6a18bfeec2a87d6cd3df475c?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
