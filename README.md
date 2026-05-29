@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a19a9c5c2a87d6cd3dfa555?utm_campaign=1049&utm_source=git)** | United States | Remote | May 29 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19afe56b135014dbc852d1?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | May 29 |
 | **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9966b135014dbc84ffe?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
 | ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9916b135014dbc84ffb?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a19a87a9111f771d1a07434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 29 |
@@ -117,10 +117,9 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
+| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Media, 3D artist (Fall 2026)](https://jobright.ai/jobs/info/6a180d6854962c1bb4b06959?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
-| **[UXR Hunt](https://www.uxrhunt.com/)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/6a179880b091c7417c500080?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | May 27 |
 | **[Aramark UK](aramark.co.uk)** | **[Graphic Desing Intern - SMU - Overhead](https://jobright.ai/jobs/info/6a178fa0f45c6530ce9ade9d?utm_campaign=1049&utm_source=git)** | DALLAS, TX, US, 75275 | On Site | May 27 |
 | **[Leonardo DRS](https://www.leonardodrs.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a177ef91430333075cd1b28?utm_campaign=1049&utm_source=git)** | Arlington, VA | On Site | May 27 |
 | **[4EON Agency](http://www.4eon.net/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a17a4aa1430333075cd2d30?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 27 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1625751935fa61b3c6f42a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 26 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a161d95dc845f4be5bdcb89?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | May 26 |
 | **[Landor](https://landor.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a161a2cdc845f4be5bdc4be?utm_campaign=1049&utm_source=git)** | Cincinnati | Hybrid | May 26 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6a16171b0073182bd92afe5d?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
