@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a191cce54a441713ae8a9ea?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[3D Artist/Rigging Artist Internship (internship to hire) (temporarily unpaid)](https://jobright.ai/jobs/info/6a190759abc8f63abac7e23a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | May 28 |
 | **[HOK](http://www.hok.com/)** | **[Architecture - Student Intern (Summer 2026)](https://jobright.ai/jobs/info/6a18dea5dbc80963f9348393?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | May 28 |
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship at For Love & Lemons](https://jobright.ai/jobs/info/6a18dc5054a441713ae88c92?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | Remote | May 28 |
@@ -77,9 +76,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Design Summer Intern](https://jobright.ai/jobs/info/6a18a2dc17492d3a389b84d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Iris North America](https://www.pricingsolutions.com/)** | **[Design Internship](https://jobright.ai/jobs/info/6a189d5d6243320e8d1663e0?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 28 |
 | **[Brady Corporation](https://www.bradyid.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a189a1a6243320e8d16629c?utm_campaign=1049&utm_source=git)** | 6555 W Good Hope Rd, Milwaukee, WI53223 | On Site | May 28 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a18941babc8f63abac7a1f9?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County-Columbus | On Site | May 28 |
-| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a188f4bc2a87d6cd3df28ac?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
-| **[CITIZENS OF THE INTERNET](https://thecitizensoftheinternet.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a18b92917492d3a389b9079?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | May 28 |
 | **[Curology](https://curology.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1887306243320e8d1655b5?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[AITHER](http://www.aither.co)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a187cae17492d3a389b6a64?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | May 28 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/69fac40a86d5cd46527cfe02?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | May 28 |
@@ -157,4 +153,8 @@ For a complete list, click the following sortable link below:
 | **[LoveShackFancy](https://loveshackfancy.com)** | **[Paid Graphic Design Internship (Summer 2026)](https://jobright.ai/jobs/info/6a1609c41935fa61b3c6e193?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | May 26 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern, International](https://jobright.ai/jobs/info/6a1606aaa429fd279da94eb1?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | May 26 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Paid Intern (Full time) - Interior Design](https://jobright.ai/jobs/info/6a1606760073182bd92af6d8?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | May 26 |
+| **[Stantec](http://www.stantec.com)** | **[Intern Architect](https://jobright.ai/jobs/info/6a162fd20073182bd92b0ea2?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | On Site | May 26 |
+| **[Cheil USA](https://us.cheil.com)** | **[Video Editor - Intern](https://jobright.ai/jobs/info/6a162d9e128680351d96889c?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | Hybrid | May 26 |
+| **[PBK](https://pbk.com/)** | **[Design High School Intern](https://jobright.ai/jobs/info/6a15fe24554b0e12c0587e62?utm_campaign=1049&utm_source=git)** | Houston TX, US | On Site | May 26 |
+| **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | On Site | May 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
