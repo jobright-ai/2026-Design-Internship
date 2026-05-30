@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Partnership for Women & Families](http://nationalpartnership.org/)** | **[Fall 2026 TikTok and Communications Intern](https://jobright.ai/jobs/info/6a1a98b96b135014dbc8acbb?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | May 30 |
+| **[Merkley + Partners](http://www.merkleyandpartners.com/)** | **[Digital Storytelling, Content & AI Innovation Intern](https://jobright.ai/jobs/info/6a1a9817c2a87d6cd3e00145?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN | On Site | May 30 |
 | **[Kelly Tutors](www.kellytutors.com)** | **[UX/UI Design & Research Intern (Flexible, 3-5hrs/week)](https://jobright.ai/jobs/info/6a1a6263547e292ae1398815?utm_campaign=1049&utm_source=git)** | Seattle metropolitan area, WA | Remote | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a1a733ec2a87d6cd3dffa2a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
-| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ee4547e292ae1398410?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | ↳ | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19c1be547e292ae1394964?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a143f12c48b503aeffbe7c2?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 29 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[The Doran Group](https://thedorangroupus.com/)** | **[Digital Storytelling, Content & AI Innovation Intern](https://jobright.ai/jobs/info/6a19e02ae24ef36525828372?utm_campaign=1049&utm_source=git)** | Eden Prairie,MN,US | On Site | May 29 |
 | **[New-Indy Containerboard LLC](https://newindycontainerboard.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a19dfcbe24ef36525828344?utm_campaign=1049&utm_source=git)** | triPAQ - Cerritos, CA 90703 | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19dccf2b206f3955eb1395?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9916b135014dbc84ffb?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
-| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9966b135014dbc84ffe?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9966b135014dbc84ffe?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9916b135014dbc84ffb?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
 | **[Gentex Corp.](http://www.gentexcorp.com/)** | **[Design/Model Shop Intern](https://jobright.ai/jobs/info/6a19c4c16b135014dbc8610c?utm_campaign=1049&utm_source=git)** | Norwood,MA,US | On Site | May 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a19a87a9111f771d1a07434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Team Pumpkin](http://www.teampumpkin.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a19a791c2a87d6cd3dfa46b?utm_campaign=1049&utm_source=git)** | United States | Remote | May 29 |
@@ -130,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[FIGS](http://www.wearfigs.com)** | **[Apparel Design & Concept Intern](https://jobright.ai/jobs/info/6a181479ba12bb0249bb68a5?utm_campaign=1049&utm_source=git)** | Santa Monica | On Site | May 28 |
 | ↳ | **[Apparel Design & Concept Intern](https://jobright.ai/jobs/info/6a181473ba12bb0249bb68a1?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | May 28 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68fa09a27ab77a56387e91da?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 28 |
-| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4d?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 28 |
-| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4e?utm_campaign=1049&utm_source=git)** | St. Louis | On Site | May 28 |
+| **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4e?utm_campaign=1049&utm_source=git)** | St. Louis | On Site | May 28 |
+| ↳ | **[Design Student Intern](https://jobright.ai/jobs/info/6a17facaba12bb0249bb5f4d?utm_campaign=1049&utm_source=git)** | St. Louis, MO | On Site | May 28 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a17f82c81f8da15dc7d4791?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Video Production, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17ac99b7e0a45039a9cd13?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a8095b0a497d5210e39b?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1713155b0a497d52107d43?utm_campaign=1049&utm_source=git)** | Manhattan, NY | On Site | May 27 |
 | **[Marmalaide AI](https://marmalaide.ai/)** | **[AI Video Editor Intern](https://jobright.ai/jobs/info/6a171288f45c6530ce9a8572?utm_campaign=1049&utm_source=git)** | United States | Remote | May 27 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170aecb091c7417c4fa133?utm_campaign=1049&utm_source=git)** | Owings Mills, MD, US | On Site | May 27 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a170ae8b091c7417c4fa130?utm_campaign=1049&utm_source=git)** | US-MD-Owings Mills | On Site | May 27 |
-| **[Quicken Loans](http://www.quickenloans.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a1709def45c6530ce9a81f6?utm_campaign=1049&utm_source=git)** | Remote - Ontario, CA | Remote | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
