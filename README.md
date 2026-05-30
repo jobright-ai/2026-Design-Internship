@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1b16b2c2a87d6cd3e02e98?utm_campaign=1049&utm_source=git)** | United States | Remote | May 30 |
+| **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/6a1b2843c2a87d6cd3e03133?utm_campaign=1049&utm_source=git)** | New York | On Site | May 30 |
+| **[Dashing Diva](https://dashingdiva.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
+| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a0704849f57175bd581ef70?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | May 30 |
 | **[RealWorks Technology](https://realworkstechnology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1aebadc2a87d6cd3e02044?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 30 |
@@ -67,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a1ac0142b206f3955eb6293?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a1a733ec2a87d6cd3dffa2a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
-| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
+| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ee4547e292ae1398410?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | ↳ | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19c1be547e292ae1394964?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a143f12c48b503aeffbe7c2?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 29 |
@@ -102,9 +107,7 @@ For a complete list, click the following sortable link below:
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[Office of Public Information, Creative Services Intern (Fall Semester)](https://jobright.ai/jobs/info/6a1937c6c2a87d6cd3df80d8?utm_campaign=1049&utm_source=git)** | United States of America-OHIO-Franklin County | On Site | May 28 |
 | **[BALANX-Bio](https://www.linkedin.com/company/107409415)** | **[3D Artist/Rigging Artist Internship (internship to hire) (temporarily unpaid)](https://jobright.ai/jobs/info/6a190759abc8f63abac7e23a?utm_campaign=1049&utm_source=git)** | Michigan, United States | Remote | May 28 |
 | **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship at For Love & Lemons](https://jobright.ai/jobs/info/6a18dc5054a441713ae88c92?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | Remote | May 28 |
-| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 28 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 28 |
-| **[For Love & Lemons](http://www.forloveandlemons.com/)** | **[UI Designer Internship](https://jobright.ai/jobs/info/6a18f56354a441713ae89572?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
+| ↳ | **[UI Designer Internship](https://jobright.ai/jobs/info/6a18f56354a441713ae89572?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
 | **[EXP](http://www.exp.com/)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a18c97ac2a87d6cd3df4c5a?utm_campaign=1049&utm_source=git)** | Coral Gables, FL | On Site | May 28 |
 | **[New College of Florida](https://www.ncf.edu/)** | **[Student Assistant, Intern Graphic Design](https://jobright.ai/jobs/info/6a050493bc4184089f2421b8?utm_campaign=1049&utm_source=git)** | Sarasota, FL | On Site | May 28 |
 | **[Little Buddy Agency](http://www.littlebuddy.co)** | **[ART DIRECTOR INTERNSHIP: REMOTE, PAID](https://jobright.ai/jobs/info/6a18bfeec2a87d6cd3df475c?utm_campaign=1049&utm_source=git)** | United States | Remote | May 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[4EON Agency](http://www.4eon.net/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a17a4aa1430333075cd2d30?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 27 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a17759d9005d858e94fa3d0?utm_campaign=1049&utm_source=git)** | Las Vegas, NV | Hybrid | May 27 |
 | **[Scarab Digital](http://www.scarabdigital.com)** | **[Interactive Design Internship](https://jobright.ai/jobs/info/6a17759a5b0a497d5210cb6d?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | Hybrid | May 27 |
-| **[Saint Bernard](https://www.saintbernard.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a1766fef45c6530ce9ac3af?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | May 27 |
-| **[Rhinegeist Brewery](https://rhinegeist.com/)** | **[Visual Communication Design Internship](https://jobright.ai/jobs/info/6a18b10a6243320e8d16724d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | May 27 |
-| **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a180790c8110e28b75b21b2?utm_campaign=1049&utm_source=git)** | Owings Mills, MD | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
