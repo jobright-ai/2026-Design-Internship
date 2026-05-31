@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1c4c97c2a87d6cd3e07724?utm_campaign=1049&utm_source=git)** | United States | Remote | May 31 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | May 31 |
 | **[ThreatLocker](https://www.threatlocker.com)** | **[Graphic Design Intern - Part-Time Role (25-30 hours per week)](https://jobright.ai/jobs/info/6a1c404f547e292ae13a0755?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | May 31 |
 | ↳ | **[Graphic Design Intern - Part-Time Role (25-30 hours per week)](https://jobright.ai/jobs/info/6a1c404a547e292ae13a0752?utm_campaign=1049&utm_source=git)** | Florida | On Site | May 31 |
@@ -69,10 +68,10 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/6a1b2843c2a87d6cd3e03133?utm_campaign=1049&utm_source=git)** | New York | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a093f99939a5f01db95d384?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a0704849f57175bd581ef70?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a0704849f57175bd581ef70?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | May 30 |
 | **[HaloScape](https://realworkstechnology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1aebadc2a87d6cd3e02044?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 30 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, UX Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17a8095b0a497d5210e39b?utm_campaign=1049&utm_source=git)** | Fremont, CA | On Site | May 27 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a17a4861430333075cd2d1c?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 27 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
+| ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
