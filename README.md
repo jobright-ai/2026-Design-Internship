@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1c1410c2a87d6cd3e06b51?utm_campaign=1049&utm_source=git)** | United States | Remote | May 31 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1bee5fe24ef36525832350?utm_campaign=1049&utm_source=git)** | Brooklyn, New York, United States | On Site | May 31 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6a1ba36a6b135014dbc8fa5b?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | May 30 |
 | **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69f5d61b12f2811ab5a65959?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 30 |
@@ -65,13 +66,13 @@ For a complete list, click the following sortable link below:
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/6a1b2843c2a87d6cd3e03133?utm_campaign=1049&utm_source=git)** | New York | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a093f99939a5f01db95d384?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a0704849f57175bd581ef70?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/69a8ae7f2580d3183f00b506?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a0704849f57175bd581ef70?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | May 30 |
-| **[RealWorks Technology](https://realworkstechnology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1aebadc2a87d6cd3e02044?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 30 |
+| **[HaloScape](https://realworkstechnology.com)** | **[Clinical Research Intern](https://jobright.ai/jobs/info/6a1aebadc2a87d6cd3e02044?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | May 30 |
 | **[Agile Defense](https://agiledefense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1ad5dd2b206f3955eb6a82?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 30 |
 | **[Axway](http://www.axway.com)** | **[UIUX Internship](https://jobright.ai/jobs/info/6a1ac71a2b206f3955eb6558?utm_campaign=1049&utm_source=git)** | US-AZ-Scottsdale | On Site | May 30 |
 | ↳ | **[UIUX Internship](https://jobright.ai/jobs/info/6a1ac7102b206f3955eb6554?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, US | On Site | May 30 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
