@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1bf7eac2a87d6cd3e06560?utm_campaign=1049&utm_source=git)** | United States | Remote | May 31 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Experiential Design Internship Summer 2026 (On-Site, New York)](https://jobright.ai/jobs/info/6a1bee5fe24ef36525832350?utm_campaign=1049&utm_source=git)** | Brooklyn, New York, United States | On Site | May 31 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Technology Intern - Summer 2026](https://jobright.ai/jobs/info/6a1ba36a6b135014dbc8fa5b?utm_campaign=1049&utm_source=git)** | Hoboken, NJ | On Site | May 30 |
-| **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69f5d61b12f2811ab5a65959?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 30 |
-| ↳ | **[UI/UX Intern](https://jobright.ai/jobs/info/69f5d61d43a25828a8d19a6b?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | May 30 |
+| **[Smith](http://www.smithweb.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/69f5d61d43a25828a8d19a6b?utm_campaign=1049&utm_source=git)** | Houston, TX, US | On Site | May 30 |
+| ↳ | **[UI/UX Intern](https://jobright.ai/jobs/info/69f5d61b12f2811ab5a65959?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | May 30 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/6a1b4500c2a87d6cd3e038d6?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | May 30 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/6a1b2843c2a87d6cd3e03133?utm_campaign=1049&utm_source=git)** | New York | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
@@ -77,8 +79,8 @@ For a complete list, click the following sortable link below:
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a1ac0142b206f3955eb6293?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a1a733ec2a87d6cd3dffa2a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
-| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
+| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4395?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ee4547e292ae1398410?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | ↳ | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19c1be547e292ae1394964?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a143f12c48b503aeffbe7c2?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 29 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[The Doran Group](https://thedorangroupus.com/)** | **[Digital Storytelling, Content & AI Innovation Intern](https://jobright.ai/jobs/info/6a19e02ae24ef36525828372?utm_campaign=1049&utm_source=git)** | Eden Prairie,MN,US | On Site | May 29 |
 | **[New-Indy Containerboard LLC](https://newindycontainerboard.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a19dfcbe24ef36525828344?utm_campaign=1049&utm_source=git)** | triPAQ - Cerritos, CA 90703 | On Site | May 29 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19dccf2b206f3955eb1395?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
-| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9966b135014dbc84ffe?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
-| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9916b135014dbc84ffb?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
+| **[Six Flags Entertainment Corporation](http://sixflags.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9916b135014dbc84ffb?utm_campaign=1049&utm_source=git)** | US-NC-Charlotte | On Site | May 29 |
+| ↳ | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a19a9966b135014dbc84ffe?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
 | **[Gentex Corp.](http://www.gentexcorp.com/)** | **[Design/Model Shop Intern](https://jobright.ai/jobs/info/6a19c4c16b135014dbc8610c?utm_campaign=1049&utm_source=git)** | Norwood,MA,US | On Site | May 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a19a87a9111f771d1a07434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | May 29 |
 | **[Team Pumpkin](http://www.teampumpkin.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a19a791c2a87d6cd3dfa46b?utm_campaign=1049&utm_source=git)** | United States | Remote | May 29 |
@@ -154,7 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bf4681fe455c705ab601?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | May 27 |
 | ↳ | **[Internship, Interior Car Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17be9c5b0a497d5210ed5a?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Industrial Design, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17beaf1430333075cd397b?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| ↳ | **[Internship, Visual Designer, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea8f45c6530ce9af269?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
 | ↳ | **[Internship, Designer, Unreal CG, Design Studio (Fall 2026)](https://jobright.ai/jobs/info/6a17bea7b091c7417c5010dd?utm_campaign=1049&utm_source=git)** | Hawthorne, CA | On Site | May 27 |
-| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Digital Media, 3D artist (Fall 2026)](https://jobright.ai/jobs/info/6a180d6854962c1bb4b06959?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | May 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
