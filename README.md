@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1df3323e538a28c204d358?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
+| **[Todd](https://toddagriscience.com)** | **[Graphic Designer Intern (Fall '26)](https://jobright.ai/jobs/info/6a1df0c4c2a87d6cd3e0eead?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jun 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1da2a1b524ae49285a74a3?utm_campaign=1049&utm_source=git)** | Orange, CA | Hybrid | Jun 01 |
 | **[RPS Solar Pumps](https://www.rpssolarpumps.com)** | **[Packaging Review Intern](https://jobright.ai/jobs/info/6a1de13cc2a87d6cd3e0e735?utm_campaign=1049&utm_source=git)** | Davis, CA | On Site | Jun 01 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1ddae5c2a87d6cd3e0e4c3?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 01 |
+| ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1ddae3c2a87d6cd3e0e4c2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | ↳ | **[Interior Design Internship / CIncinnati](https://jobright.ai/jobs/info/6a1ddae36b135014dbc98fef?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | ↳ | **[Architectural Internship / Columbus](https://jobright.ai/jobs/info/6a1ddae36b135014dbc98ff0?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 01 |
-| ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1ddae3c2a87d6cd3e0e4c2?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | ↳ | **[Experiential Graphis Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Creative (Paid) Intern](https://jobright.ai/jobs/info/6a1dd835e24ef3652583a57d?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 01 |
@@ -99,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/6a1b4500c2a87d6cd3e038d6?utm_campaign=1049&utm_source=git)** | Highland Park, IL | On Site | May 30 |
 | **[Complex NTWRK](https://www.complex.com)** | **[Design Intern - College Credit](https://jobright.ai/jobs/info/6a1b2843c2a87d6cd3e03133?utm_campaign=1049&utm_source=git)** | New York | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69fe393252e2b44f558af2a7?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
-| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
-| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| **[Fortera](https://forteraglobal.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabe6243320e8d1687e0?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
+| ↳ | **[Content Creator Intern](https://jobright.ai/jobs/info/6a18dabf6243320e8d1687e2?utm_campaign=1049&utm_source=git)** | San Jose | On Site | May 30 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Nail Design Intern](https://jobright.ai/jobs/info/69fe39986bcf315dc8f5577f?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | May 30 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | May 30 |
 | **[Agile Defense](https://agiledefense.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1ad5dd2b206f3955eb6a82?utm_campaign=1049&utm_source=git)** | McLean, VA | On Site | May 30 |
@@ -109,8 +111,7 @@ For a complete list, click the following sortable link below:
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a1ac0142b206f3955eb6293?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | May 30 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 30 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a1a733ec2a87d6cd3dffa2a?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
-| **[Cedar Fair Entertainment Company](http://cedarfair.com)** | **[Intern - Planning and Design, Architectural / Design Focus](https://jobright.ai/jobs/info/6a1a56de2b206f3955eb4396?utm_campaign=1049&utm_source=git)** | Charlotte, NC, US | On Site | May 29 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ee4547e292ae1398410?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
+| ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a1a4ee4547e292ae1398410?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | May 29 |
 | ↳ | **[User Experience Researcher Intern](https://jobright.ai/jobs/info/6a19c1be547e292ae1394964?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | May 29 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a143f12c48b503aeffbe7c2?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | May 29 |
 | **[Nex-Tech](http://nex-tech.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/6a1a098d6b135014dbc87afa?utm_campaign=1049&utm_source=git)** | HAYS - BUSINESS OFFICE, Hays, KS, US | On Site | May 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[GLD](https://www.thegldshop.com/)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a18500317492d3a389b42c5?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | May 28 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6a184fb9dbc80963f9341ef6?utm_campaign=1049&utm_source=git)** | Hollywood, CA | Hybrid | May 28 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a184c3a54a441713ae82107?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | May 28 |
-| **[Lumerse Studio](https://www.lumerse.studio)** | **[3D Modeling & Visualization Internship](https://jobright.ai/jobs/info/6a184478dbc80963f93416b3?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | May 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
