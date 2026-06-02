@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/6a1eedfeb61b2c65b37adb19?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
+| **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
+| **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/6a1ee275dce5db1256d10640?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
+| **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6a1ee26509442629a68555d3?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jun 02 |
+| **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1ee2598049156781164ef2?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 02 |
+| **[Corgan](http://www.corgan.com/)** | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a1ede80a507373dff6bbcad?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 02 |
 | **[Lori's Gifts](http://lorisgifts.com)** | **[Store Planner - Intern/Summer Project](https://jobright.ai/jobs/info/6a1ed58da507373dff6bba84?utm_campaign=1049&utm_source=git)** | PLANO,TX,US | On Site | Jun 02 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1ed4f9b61b2c65b37ad09d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Corgan](http://www.corgan.com/)** | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a1ed3f9c5277c00c6480ee6?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Jun 02 |
 | ↳ | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a1ed3f6c5277c00c6480ee5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, US | On Site | Jun 02 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1ed292c5277c00c6480ea8?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
-| **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a1ec04c804915678116465c?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 02 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
@@ -85,8 +89,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1e0a866b135014dbc9a505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a1e0a663e538a28c204ddf2?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Jun 01 |
 | **[The Innovation Hub](https://www.ihubutah.org/)** | **[iHub Interior Design Intern](https://jobright.ai/jobs/info/6a1e2533c2a87d6cd3e104bb?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Jun 01 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1e06516b135014dbc9a2f1?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 01 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a1e06516b135014dbc9a2f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 01 |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1e06516b135014dbc9a2f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 01 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a1e06516b135014dbc9a2f1?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 01 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df8d76b135014dbc99d2c?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 01 |
 | ↳ | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df64db524ae49285a9db3?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Jun 01 |
@@ -101,8 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a1da7679111f771d1a19e04?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jun 01 |
 | **[Prometric](https://www.prometric.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/698fb0090cc8ea15f1da4982?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
 | **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a10196480bf0430c7637ab2?utm_campaign=1049&utm_source=git)** | Pittsfield,MA,US | On Site | Jun 01 |
-| **[EquipmentShare](https://www.equipmentshare.com)** | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a1d791d6b135014dbc964f0?utm_campaign=1049&utm_source=git)** | Kansas City, MO | Hybrid | Jun 01 |
-| ↳ | **[Intern: Motion Designer](https://jobright.ai/jobs/info/6a1d791a6b135014dbc964ec?utm_campaign=1049&utm_source=git)** | Columbia, MO (Corporate) | Hybrid | Jun 01 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1d6c749111f771d1a18ab5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 01 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a17f82c81f8da15dc7d4791?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BJC HealthCare](https://www.bjc.org/)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a0f7e2a83d7144289820e50?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | May 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a8a89879f3f4037f42ec6c?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | May 29 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/69e01af7aba61f141731f88e?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | May 29 |
-| **[FOCUS Consulting](https://www.focusutah.com)** | **[ENTRY-LEVEL TO EXPERIENCED LANDSCAPE ARCHITECTS / PLANNERS](https://jobright.ai/jobs/info/6a19696235b73c4d92f32c68?utm_campaign=1049&utm_source=git)** | Midvale, UT | On Site | May 29 |
-| **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/68d0314bfb49c96ca6eae8f9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | May 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
