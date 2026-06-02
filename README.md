@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1e4811b61b2c65b37ab283?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
+| **[Todd](https://toddagriscience.com)** | **[Graphic Design Intern (Fall '26)](https://jobright.ai/jobs/info/6a1e53c409442629a6853426?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jun 01 |
+| **[Nameless Famous](https://namelessfamous.com)** | **[Intern; Political Graphic Design](https://jobright.ai/jobs/info/6a1e526bc5277c00c647f200?utm_campaign=1049&utm_source=git)** | Nashville, TN | Remote | Jun 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e30479111f771d1a1db36?utm_campaign=1049&utm_source=git)** | Olathe,Kansas,United States | On Site | Jun 01 |
 | ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e30406b135014dbc9b0e3?utm_campaign=1049&utm_source=git)** | Portland,Oregon,United States | On Site | Jun 01 |
 | ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e25b5c2a87d6cd3e104e2?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 01 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df8d76b135014dbc99d2c?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 01 |
 | ↳ | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df64db524ae49285a9db3?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Jun 01 |
 | **[AECOM](http://www.aecom.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1da2a1b524ae49285a74a3?utm_campaign=1049&utm_source=git)** | Orange, CA | Hybrid | Jun 01 |
-| **[Proper Cloth](https://propercloth.com)** | **[Design Operations Intern](https://jobright.ai/jobs/info/6a1e47b3dce5db1256d0e426?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[RPS Solar Pumps](https://www.rpssolarpumps.com)** | **[Packaging Review Intern](https://jobright.ai/jobs/info/6a1de13cc2a87d6cd3e0e735?utm_campaign=1049&utm_source=git)** | Davis, CA | On Site | Jun 01 |
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Creative (Paid) Intern](https://jobright.ai/jobs/info/6a1dd835e24ef3652583a57d?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 01 |
