@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1f288db61b2c65b37afd32?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
+| **[Handel Architects](http://handelarchitects.com)** | **[Architectural Intern - Full Time](https://jobright.ai/jobs/info/6a1f5553b61b2c65b37b16b0?utm_campaign=1049&utm_source=git)** | New York - New York, NY 10271 US (Primary) | On Site | Jun 02 |
+| **[Pebl](https://hellopebl.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a1f37a5c5277c00c6484399?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 02 |
+| **[Startup Central](https://www.startupcentral.build)** | **[Videography & Photography Intern](https://jobright.ai/jobs/info/6a1f3c14dce5db1256d138a8?utm_campaign=1049&utm_source=git)** | Tempe, AZ | On Site | Jun 02 |
+| **[DesignAgency](https://www.thedesignagency.ca/)** | **[Library Design Intern](https://jobright.ai/jobs/info/6a1f2d6fb61b2c65b37afff8?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Jun 02 |
 | **[Baddie Pops](Www.baddiepops.com)** | **[Baddie Pops Creative Design Intern](https://jobright.ai/jobs/info/6a1f21e5804915678116710e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a1f1d87dce5db1256d12638?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a184c3a54a441713ae82107?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jun 02 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - New York Data Centers](https://jobright.ai/jobs/info/6a19a87a9111f771d1a07434?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/6a1eedfeb61b2c65b37adb19?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a030ac3f3d6cc51d6372a44?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 02 |
+| ↳ | **[Student Architectural Intern / Summer 2026 - Los Angeles Aviation](https://jobright.ai/jobs/info/6a030ac3f3d6cc51d6372a44?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
-| **[Blue Revival](https://www.bluerevival.com/)** | **[Social Media & Fashion Intern](https://jobright.ai/jobs/info/6a1ee275dce5db1256d10640?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6a1ee26509442629a68555d3?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jun 02 |
 | **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern (Summer 2026)](https://jobright.ai/jobs/info/6a1ee2598049156781164ef2?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 02 |
 | **[Corgan](http://www.corgan.com/)** | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a1ede80a507373dff6bbcad?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 02 |
@@ -95,7 +96,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1e0a866b135014dbc9a505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a1e0a663e538a28c204ddf2?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Jun 01 |
 | **[The Innovation Hub](https://www.ihubutah.org/)** | **[iHub Interior Design Intern](https://jobright.ai/jobs/info/6a1e2533c2a87d6cd3e104bb?utm_campaign=1049&utm_source=git)** | Provo, UT | On Site | Jun 01 |
-| **[David Zwirner](http://www.davidzwirner.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1e06516b135014dbc9a2f2?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 01 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df8d76b135014dbc99d2c?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 01 |
 | ↳ | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df64db524ae49285a9db3?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Jun 01 |
@@ -111,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1d6c749111f771d1a18ab5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 01 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a17f82c81f8da15dc7d4791?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
-| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
+| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a18a2dc17492d3a389b84d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 31 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15c603dc845f4be5bd893e?utm_campaign=1049&utm_source=git)** | Broadway Studio in New York | On Site | May 31 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a15c5dedc845f4be5bd88f2?utm_campaign=1049&utm_source=git)** | New York | On Site | May 31 |
