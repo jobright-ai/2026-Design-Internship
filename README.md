@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a1f98f4b61b2c65b37b34a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 02 |
 | **[GenPark](https://genpark.ai)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/6a1f8e0eb61b2c65b37b31d7?utm_campaign=1049&utm_source=git)** | San Jose, CA | Hybrid | Jun 02 |
 | **[Smartly](http://smartly.io)** | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a1f8ce1b61b2c65b37b3164?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jun 02 |
 | ↳ | **[Creative Strategy Intern](https://jobright.ai/jobs/info/6a1f8ce0b61b2c65b37b3163?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 02 |
-| **[Henricksen](http://www.henricksen.com)** | **[Commercial Furniture Dealer Design Intern (Part-Time)](https://jobright.ai/jobs/info/6a1f8b50b61b2c65b37b30e4?utm_campaign=1049&utm_source=git)** | Minneapolis, MN | On Site | Jun 02 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1f814509442629a685afb3?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 02 |
 | **[Health and Safety Council®](http://www.hasc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a1f60eedce5db1256d14b36?utm_campaign=1049&utm_source=git)** | Pasadena,TX,US | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
@@ -82,8 +82,8 @@ For a complete list, click the following sortable link below:
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a1ec04c804915678116465c?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 02 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 02 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 02 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 02 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 02 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1e97758049156781163b6d?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 02 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/6a1dd6d9e24ef3652583a4db?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Jun 02 |
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a1e5a7380491567811630f4?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Jun 01 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1d6c749111f771d1a18ab5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 01 |
 | **[Orderly](https://orderly.network/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a17f82c81f8da15dc7d4791?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
-| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
+| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a18a2dc17492d3a389b84d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | May 31 |
 | **[Journey](https://journey.world/)** | **[Design Intern](https://jobright.ai/jobs/info/6a15c603dc845f4be5bd893e?utm_campaign=1049&utm_source=git)** | Broadway Studio in New York | On Site | May 31 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a15c5dedc845f4be5bd88f2?utm_campaign=1049&utm_source=git)** | New York | On Site | May 31 |
