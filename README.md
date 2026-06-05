@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a221f4e4bdf8a5a96bda5b6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a21e661338c01230512192b?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209f37c30cc2cc516d204?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
 | ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209e8338c012305122810?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | On Site | Jun 04 |
 | ↳ | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204ebc00e701fe8372882?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[National Shattering Silence Coalition](https://www.nationalshatteringsilencecoalition.org)** | **[Social Media & Content Creator Internship (Summer 2026)](https://jobright.ai/jobs/info/6a21e9b2ca8f0b365d7a9c52?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a21e661338c01230512192b?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a21e213c00e701fe837189b?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 04 |
 | **[Reef](https://www.reefcp.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a21e0f27c30cc2cc516c08b?utm_campaign=1049&utm_source=git)** | Lehi,UT,US | On Site | Jun 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 04 |
@@ -155,6 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Creative (Paid) Intern](https://jobright.ai/jobs/info/6a212560338c01230511d287?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/6a2123fa902d19201c7b65d7?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
-| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
