@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a2257c664b4892bbbfb5394?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 04 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a22576164b4892bbbfb537e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
+| **[Reef](https://www.reefcp.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2251cb8e98cb42c8a833e3?utm_campaign=1049&utm_source=git)** | Lehi,UT,US | On Site | Jun 04 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a222535338c012305122fc9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[Intact](http://www.intactfc.com)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a223768338c0123051234b5?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
@@ -66,10 +69,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204ebc00e701fe8372882?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[National Shattering Silence Coalition](https://www.nationalshatteringsilencecoalition.org)** | **[Social Media & Content Creator Internship (Summer 2026)](https://jobright.ai/jobs/info/6a21e9b2ca8f0b365d7a9c52?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Reef](https://www.reefcp.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a21e0f27c30cc2cc516c08b?utm_campaign=1049&utm_source=git)** | Lehi,UT,US | On Site | Jun 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da6c338c01230512109e?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21da45902d19201c7ba518?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 04 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design, Partnerships, Intern](https://jobright.ai/jobs/info/6a21da37338c012305121070?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da1ac00e701fe8371303?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Interior Design - Challenger and Global Platform (Fall 2026)](https://jobright.ai/jobs/info/6a21edd1902d19201c7bb13a?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 04 |
@@ -112,7 +113,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a223694c00e701fe837351e?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 02 |
-| ↳ | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a223694c00e701fe837351d?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a1f37a5c5277c00c6484399?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 02 |
@@ -124,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6a1ee26509442629a68555d3?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jun 02 |
 | **[Corgan](http://www.corgan.com/)** | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a1ed3f9c5277c00c6480ee6?utm_campaign=1049&utm_source=git)** | US-CA-Los Angeles | On Site | Jun 02 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1ed292c5277c00c6480ea8?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
-| **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a1ec04c804915678116465c?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 02 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
 | **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Country Music Hall Of Fame and Museum](http://www.countrymusichalloffame.org/)** | **[Fall 2026 Creative (Paid) Intern](https://jobright.ai/jobs/info/6a212560338c01230511d287?utm_campaign=1049&utm_source=git)** | Nashville,TN,US | On Site | Jun 01 |
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/6a2123fa902d19201c7b65d7?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
