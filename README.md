@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a23001f4239a4353887d845?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
+| **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
+| **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
+| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e0a963f7a67d95d0779?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 05 |
 | **[Idea Peddler](https://ideapeddler.com)** | **[Fall 2026 Design Intern](https://jobright.ai/jobs/info/6a22e0a3dedf78312c7ab229?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jun 05 |
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
@@ -71,7 +75,6 @@ For a complete list, click the following sortable link below:
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 04 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 04 |
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a2257c664b4892bbbfb5394?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 04 |
-| **[Reef](https://www.reefcp.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2251cb8e98cb42c8a833e3?utm_campaign=1049&utm_source=git)** | Lehi,UT,US | On Site | Jun 04 |
 | **[UXR Hunt](https://www.uxrhunt.com/)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a222535338c012305122fc9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[Intact](http://www.intactfc.com)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a223768338c0123051234b5?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
@@ -100,7 +103,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a217c4fc00e701fe836e86d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
-| **[Complete Creative](http://www.completecreative.agency)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/6a219236902d19201c7b8141?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 04 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210771c00e701fe836cd0b?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jun 03 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210764c00e701fe836cd05?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Jun 03 |
@@ -119,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a228aed4576ad60e9a7a8a8?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a1d81d49111f771d1a18f6a?utm_campaign=1049&utm_source=git)** | United States-Georgia-Atlanta | On Site | Jun 01 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a1dc171c2a87d6cd3e0d738?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | Jun 01 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a1dbbba3e538a28c204b7c7?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Jun 01 |
-| **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a1da7679111f771d1a19e04?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jun 01 |
-| **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a1d6c749111f771d1a18ab5?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
