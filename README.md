@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a231cc54239a4353887d9a4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
 | **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
 | **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e0a963f7a67d95d0779?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 05 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a1d81d49111f771d1a18f6a?utm_campaign=1049&utm_source=git)** | United States-Georgia-Atlanta | On Site | Jun 01 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a1dc171c2a87d6cd3e0d738?utm_campaign=1049&utm_source=git)** | Hyde Park, MA | On Site | Jun 01 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a1dbbba3e538a28c204b7c7?utm_campaign=1049&utm_source=git)** | US-PA-Philadelphia | On Site | Jun 01 |
-| **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a1da7679111f771d1a19e04?utm_campaign=1049&utm_source=git)** | Austin, TX | Remote | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
