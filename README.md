@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a221f4e4bdf8a5a96bda5b6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
+| **[UXR Hunt](https://www.uxrhunt.com/)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a222535338c012305122fc9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a21e661338c01230512192b?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209f37c30cc2cc516d204?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
@@ -65,7 +65,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2204ebc00e701fe8372882?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[National Shattering Silence Coalition](https://www.nationalshatteringsilencecoalition.org)** | **[Social Media & Content Creator Internship (Summer 2026)](https://jobright.ai/jobs/info/6a21e9b2ca8f0b365d7a9c52?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a21e213c00e701fe837189b?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 04 |
 | **[Reef](https://www.reefcp.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a21e0f27c30cc2cc516c08b?utm_campaign=1049&utm_source=git)** | Lehi,UT,US | On Site | Jun 04 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da6c338c01230512109e?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
@@ -108,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Alta Pest Control](https://www.altapestcontrol.com/)** | **[Social Media & Creative Design Intern / Coordinator](https://jobright.ai/jobs/info/6a2123fa902d19201c7b65d7?utm_campaign=1049&utm_source=git)** | Round Rock,TX,US | On Site | Jun 01 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a1cd0119111f771d1a165fe?utm_campaign=1049&utm_source=git)** | Pittsburgh | On Site | May 31 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18befc17492d3a389b95fa?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | May 31 |
+| ↳ | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a18bf0117492d3a389b95fc?utm_campaign=1049&utm_source=git)** | Somerville, Massachusetts | On Site | May 31 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
