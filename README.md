@@ -57,11 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a246d2f4239a435388806ae?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a23c1a26624e500cad0c8c1?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 05 |
 | **[Web Industries](http://webindustries.com)** | **[Intern](https://jobright.ai/jobs/info/6a23b3ff14de9460dc845347?utm_campaign=1049&utm_source=git)** | Dayville, CT, US | Remote | Jun 05 |
-| **[Voluntas Juvenium](https://www.juvenium.org/)** | **[Media Intern](https://jobright.ai/jobs/info/6a237f216624e500cad0bd18?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jun 05 |
 | **[Acronym](https://acronym.lol/)** | **[Concept & Visual Development Intern - Art Direction](https://jobright.ai/jobs/info/6a235f3614de9460dc844425?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | ↳ | **[Concept Development & Creative Strategy Intern - Creative Direction](https://jobright.ai/jobs/info/6a235d5c757ade085b6adf72?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | ↳ | **[Creative Production Intern – Experiential Design](https://jobright.ai/jobs/info/6a235b08d46c0f7996084a0d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
@@ -128,12 +126,11 @@ For a complete list, click the following sortable link below:
 | **[Southeastern Conference](https://www.secsports.com)** | **[Digital & Social Media Intern (Graphic Design)](https://jobright.ai/jobs/info/6a2050bfca8f0b365d7a038e?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Jun 03 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 03 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a241481d46c0f79960865fc?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a23a3f2d46c0f799608556d?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
@@ -157,4 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e25289111f771d1a1d86b?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jun 01 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1e0aafe24ef3652583bbeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a1e0ddfe24ef3652583bcff?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 01 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1e0af9c2a87d6cd3e0fb26?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 01 |
+| ↳ | **[Interior Design Internship / CIncinnati](https://jobright.ai/jobs/info/6a1e0abcb524ae49285aa661?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
+| ↳ | **[Architectural Internship / Columbus](https://jobright.ai/jobs/info/6a1e0ab0e24ef3652583bbec?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
