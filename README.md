@@ -62,6 +62,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Concept Development & Creative Strategy Intern - Creative Direction](https://jobright.ai/jobs/info/6a235d5c757ade085b6adf72?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | ↳ | **[Creative Production Intern – Experiential Design](https://jobright.ai/jobs/info/6a235b08d46c0f7996084a0d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | **[Mary Square, LLC](https://www.marysquare.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6a2359ee14de9460dc84439d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
+| **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a2369854239a4353887e16c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 05 |
 | **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
 | **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
@@ -72,8 +73,8 @@ For a complete list, click the following sortable link below:
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
 | **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a062470320bff2205ea9086?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | Jun 05 |
 | **[Arup](http://www.arup.com)** | **[Visual Communications Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0efb8e83d714428981c2e5?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 04 |
@@ -126,8 +127,8 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1e0a866b135014dbc9a505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a1e0a663e538a28c204ddf2?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Jun 01 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df8d76b135014dbc99d2c?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 01 |
-| ↳ | **[SAP iXp Intern - User Experience Researcher [Palo Alto, CA]](https://jobright.ai/jobs/info/6a1df64db524ae49285a9db3?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, US, 94304 | Hybrid | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
