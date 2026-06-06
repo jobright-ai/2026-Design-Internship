@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
+| **[Blount Fine Foods](http://blountfinefoods.com)** | **[Commercialization Intern](https://jobright.ai/jobs/info/6a2420ff14de9460dc8461f2?utm_campaign=1049&utm_source=git)** | Warren, RI | On Site | Jun 06 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a23c1a26624e500cad0c8c1?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 05 |
 | **[Web Industries](http://webindustries.com)** | **[Intern](https://jobright.ai/jobs/info/6a23b3ff14de9460dc845347?utm_campaign=1049&utm_source=git)** | Dayville, CT, US | Remote | Jun 05 |
 | **[NULLZEC](https://www.nullzec.com/)** | **[UGC content creation intern](https://jobright.ai/jobs/info/6a23a5186624e500cad0c36c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
@@ -128,6 +130,7 @@ For a complete list, click the following sortable link below:
 | **[Southeastern Conference](https://www.secsports.com)** | **[Digital & Social Media Intern (Graphic Design)](https://jobright.ai/jobs/info/6a2050bfca8f0b365d7a038e?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Jun 03 |
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 03 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 03 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a241481d46c0f79960865fc?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a1e5a7380491567811630f4?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Jun 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e30479111f771d1a1db36?utm_campaign=1049&utm_source=git)** | Olathe,Kansas,United States | On Site | Jun 01 |
 | ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e25289111f771d1a1d86b?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jun 01 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1e0aafe24ef3652583bbeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
-| **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a1e0ddfe24ef3652583bcff?utm_campaign=1049&utm_source=git)** | Boston, MA | Hybrid | Jun 01 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1e0af9c2a87d6cd3e0fb26?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
