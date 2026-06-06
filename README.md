@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a238d0d4239a4353887e77e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
+| **[CardVault by Tom Brady](https://thecardvault.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a238b51757ade085b6ae6e3?utm_campaign=1049&utm_source=git)** | Boston, MA | On Site | Jun 05 |
 | **[Voluntas Juvenium](https://www.juvenium.org/)** | **[Media Intern](https://jobright.ai/jobs/info/6a237f216624e500cad0bd18?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jun 05 |
 | **[PortVelocity](https://portvelocity.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a235f6614de9460dc844426?utm_campaign=1049&utm_source=git)** | Chicago, IL | Remote | Jun 05 |
 | **[Acronym](https://acronym.lol/)** | **[Concept & Visual Development Intern - Art Direction](https://jobright.ai/jobs/info/6a235f3614de9460dc844425?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
@@ -72,10 +74,9 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[LATICRETE International](https://laticrete.com)** | **[Summer Intern- International](https://jobright.ai/jobs/info/6a062470320bff2205ea9086?utm_campaign=1049&utm_source=git)** | Bethany, CT | On Site | Jun 05 |
 | **[Arup](http://www.arup.com)** | **[Visual Communications Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a0efb8e83d714428981c2e5?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 04 |
@@ -117,6 +118,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a21043a3a5f0145f4c17fc9?utm_campaign=1049&utm_source=git)** | Seattle | On Site | Jun 03 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a20dda0ca8f0b365d7a3d7e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
+| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Retail & Merchandising Internship](https://jobright.ai/jobs/info/6a20ae68c00e701fe836b2fe?utm_campaign=1049&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[Four Hands](https://fourhands.com)** | **[CGI Artist Intern](https://jobright.ai/jobs/info/6a20a72b338c01230511abb9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[Fontainebleau Development](https://www.fbdev.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a2092f0c00e701fe836a585?utm_campaign=1049&utm_source=git)** | Fontainebleau Development LLC - Aventura, FL 33180 | On Site | Jun 03 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1e0af9c2a87d6cd3e0fb26?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 01 |
 | ↳ | **[Interior Design Internship / CIncinnati](https://jobright.ai/jobs/info/6a1e0abcb524ae49285aa661?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 | ↳ | **[Architectural Internship / Columbus](https://jobright.ai/jobs/info/6a1e0ab0e24ef3652583bbec?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 01 |
-| ↳ | **[Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a1e0a866b135014dbc9a505?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
-| **[Hill Holliday](https://www.hhcc.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a1e0a663e538a28c204ddf2?utm_campaign=1049&utm_source=git)** | Boston,MA,US | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
