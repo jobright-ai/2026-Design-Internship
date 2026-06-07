@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a0783426186f4685987ff91?utm_campaign=1049&utm_source=git)** | Gunnison, CO 81230, USA | On Site | Jun 07 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfde8dc35f7132c4b4f38?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 07 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Jun 07 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d5f4b9cfdc6132f946764b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jun 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lori's Gifts](http://lorisgifts.com)** | **[Store Planner - Intern/Summer Project](https://jobright.ai/jobs/info/6a21272fc00e701fe836d70f?utm_campaign=1049&utm_source=git)** | PLANO,TX,US | On Site | Jun 02 |
 | **[Health and Safety Council®](http://www.hasc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2123237c30cc2cc5167e43?utm_campaign=1049&utm_source=git)** | Pasadena,TX,US | On Site | Jun 02 |
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a1e5a7380491567811630f4?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Jun 01 |
-| **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e30479111f771d1a1db36?utm_campaign=1049&utm_source=git)** | Olathe,Kansas,United States | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
