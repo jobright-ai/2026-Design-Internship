@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a24c1604239a43538880f0e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
 | **[homehudl](www.homehudl.com)** | **[Product Design Intern (UI/UX)](https://jobright.ai/jobs/info/6a248a03dedf78312c7aec16?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
-| **[Future Climate Collective](www.futureclimatecollective.com)** | **[Web Designer & UX Architect (Volunteer / Intern)](https://jobright.ai/jobs/info/6a24832fd46c0f79960871dc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a24af21d46c0f79960874ef?utm_campaign=1049&utm_source=git)** | Lubbock, TX | Remote | Jun 06 |
 | **[Smartly](http://smartly.io)** | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a23c1a26624e500cad0c8c1?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 05 |
