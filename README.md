@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2515ba4239a4353888189c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Gift](https://www.shine.gift)** | **[AI Generation and Animation Intern](https://jobright.ai/jobs/info/6a24f11e757ade085b6b1143?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jun 06 |
 | **[homehudl](www.homehudl.com)** | **[Product Design Intern (UI/UX)](https://jobright.ai/jobs/info/6a248a03dedf78312c7aec16?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 06 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a24af21d46c0f79960874ef?utm_campaign=1049&utm_source=git)** | Lubbock, TX | Remote | Jun 06 |
@@ -135,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Product Ventures](http://www.productventures.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a1e5a7380491567811630f4?utm_campaign=1049&utm_source=git)** | Fairfield, CT | On Site | Jun 01 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e30479111f771d1a1db36?utm_campaign=1049&utm_source=git)** | Olathe,Kansas,United States | On Site | Jun 01 |
 | ↳ | **[Industrial Designer Intern](https://jobright.ai/jobs/info/6a1e25289111f771d1a1d86b?utm_campaign=1049&utm_source=git)** | Olathe, KS | On Site | Jun 01 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1e0aafe24ef3652583bbeb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
