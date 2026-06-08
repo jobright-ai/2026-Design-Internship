@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a26d7b72056260dd6e8364e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6a0acd37403fc339507f8607?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 08 |
 | **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a268a9970318860e50c6a3b?utm_campaign=1049&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
@@ -142,7 +143,6 @@ For a complete list, click the following sortable link below:
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
 | **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2646d2d46c0f7996089b94?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
 | **[Pebl](https://hellopebl.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a1f37a5c5277c00c6484399?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 02 |
