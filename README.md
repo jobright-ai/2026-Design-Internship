@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/6a2731c12056260dd6e85e6b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a272d142056260dd6e85b88?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Design Intern](https://jobright.ai/jobs/info/6a272ccf2056260dd6e85b69?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 08 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Design Intern](https://jobright.ai/jobs/info/6a27269c12f0202342262fb5?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 08 |
+| **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2720c14ec8d737d6dfdfcd?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
 | **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
 | **[LOTH, Inc](https://www.lothinc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a26f1892056260dd6e84172?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
@@ -82,6 +87,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Production Intern – Experiential Design](https://jobright.ai/jobs/info/6a235b08d46c0f7996084a0d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | **[Mary Square, LLC](https://www.marysquare.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6a2359ee14de9460dc84439d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a2369854239a4353887e16c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 05 |
+| **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a063691bc4184089f24d01a?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 05 |
 | **[Arup](http://www.arup.com)** | **[Graphic Designer (Visual Communications) Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 05 |
 | **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
@@ -97,7 +103,6 @@ For a complete list, click the following sortable link below:
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 04 |
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a2257c664b4892bbbfb5394?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 04 |
-| **[Intact](http://www.intactfc.com)** | **[System Design Intern- 4 month Internship/Coop (Fall 2026)](https://jobright.ai/jobs/info/6a223768338c0123051234b5?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | On Site | Jun 04 |
 | **[Port of Portland](https://www.portofportland.com)** | **[Intern, Social Media - Portland International Airport (PDX)](https://jobright.ai/jobs/info/6a235deededf78312c7ac07b?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a21e661338c01230512192b?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
@@ -122,7 +127,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Fall 2026 Design and Production Intern](https://jobright.ai/jobs/info/6a219459ca8f0b365d7a7077?utm_campaign=1049&utm_source=git)** | Knoxville, TN, US | On Site | Jun 04 |
 | ↳ | **[Fall 2026 Design and Production Intern](https://jobright.ai/jobs/info/6a21942e4bdf8a5a96bd66e1?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Summer 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a21cb517c30cc2cc516b5c9?utm_campaign=1049&utm_source=git)** | Abilene, TX | On Site | Jun 04 |
-| ↳ | **[*Student Interior Design Intern / Summer 2026 - Los Angeles Workplace](https://jobright.ai/jobs/info/6a217c4fc00e701fe836e86d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 04 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DesignAgency](https://www.thedesignagency.ca/)** | **[Library Design Intern](https://jobright.ai/jobs/info/6a1f2d6fb61b2c65b37afff8?utm_campaign=1049&utm_source=git)** | Washington, DC, US | On Site | Jun 02 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[YouTube Video Editor Intern - Summer 2026](https://jobright.ai/jobs/info/6a184c3a54a441713ae82107?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Remote | Jun 02 |
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6a1ee26509442629a68555d3?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jun 02 |
-| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1ed292c5277c00c6480ea8?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
-| **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
-| **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
-| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1e97758049156781163b6d?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
