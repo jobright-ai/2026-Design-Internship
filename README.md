@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a27108e2056260dd6e84e5a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
 | **[LOTH, Inc](https://www.lothinc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a26f1892056260dd6e84172?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
 | **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC](https://jobright.ai/jobs/info/6a26eee32056260dd6e84020?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
@@ -78,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand Design Intern](https://jobright.ai/jobs/info/6a076059a203b1052e439e11?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | Hybrid | Jun 06 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a23c1a26624e500cad0c8c1?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0656f3320bff2205eabcba?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Jun 05 |
-| **[Eaton](https://www.eaton.com/us/en-us/products/emobility/expertise.html)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a26321a4239a4353888342b?utm_campaign=1049&utm_source=git)** | Ellisville, MO | On Site | Jun 05 |
 | **[Acronym](https://acronym.lol/)** | **[Concept & Visual Development Intern - Art Direction](https://jobright.ai/jobs/info/6a235f3614de9460dc844425?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | ↳ | **[Concept Development & Creative Strategy Intern - Creative Direction](https://jobright.ai/jobs/info/6a235d5c757ade085b6adf72?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
 | ↳ | **[Creative Production Intern – Experiential Design](https://jobright.ai/jobs/info/6a235b08d46c0f7996084a0d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Gen-FC](https://www.youtube.com/@genfc)** | **[Content & Media Intern](https://jobright.ai/jobs/info/6a1ee26509442629a68555d3?utm_campaign=1049&utm_source=git)** | Miami, FL | On Site | Jun 02 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1ed292c5277c00c6480ea8?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
+| **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
+| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1e97758049156781163b6d?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
