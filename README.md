@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Claudia Afshar Design](www.claudiaafshar.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a27350b4ec8d737d6dfe9c0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/6a2731c12056260dd6e85e6b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a272d142056260dd6e85b88?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Design Intern](https://jobright.ai/jobs/info/6a272ccf2056260dd6e85b69?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 08 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Design Intern](https://jobright.ai/jobs/info/6a27269c12f0202342262fb5?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2720c14ec8d737d6dfdfcd?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
