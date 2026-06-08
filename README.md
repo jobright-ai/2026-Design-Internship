@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a267e656d665572632df9e4?utm_campaign=1049&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
+| **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a268a9970318860e50c6a3b?utm_campaign=1049&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
+| ↳ | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a267e656d665572632df9e4?utm_campaign=1049&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
 | **[Cognié](www.cognie-paris.com)** | **[Photo Retoucher Intern NYC Unpaid](https://jobright.ai/jobs/info/6a267399d1868a224c919e5c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a265e1914de9460dc849b43?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 07 |
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Graphic Design & Retail Operations Intern (Showroom)](https://jobright.ai/jobs/info/6a25e28a757ade085b6b2545?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1e97758049156781163b6d?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 02 |
 | **[Lori's Gifts](http://lorisgifts.com)** | **[Store Planner - Intern/Summer Project](https://jobright.ai/jobs/info/6a21272fc00e701fe836d70f?utm_campaign=1049&utm_source=git)** | PLANO,TX,US | On Site | Jun 02 |
-| **[Health and Safety Council®](http://www.hasc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2123237c30cc2cc5167e43?utm_campaign=1049&utm_source=git)** | Pasadena,TX,US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
