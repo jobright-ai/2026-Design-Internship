@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6a0acd37403fc339507f8607?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 08 |
+| **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a268a9970318860e50c6a3b?utm_campaign=1049&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a267e656d665572632df9e4?utm_campaign=1049&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
 | **[Cognié](www.cognie-paris.com)** | **[Photo Retoucher Intern NYC Unpaid](https://jobright.ai/jobs/info/6a267399d1868a224c919e5c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 04 |
@@ -139,8 +141,8 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
-| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| **[Trane Technologies](https://www.tranetechnologies.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7e6243320e8d1681fd?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States of America | Hybrid | Jun 03 |
+| ↳ | **[User Experience Design Intern](https://jobright.ai/jobs/info/6a18cf7d6243320e8d1681fc?utm_campaign=1049&utm_source=git)** | Davidson, North Carolina, United States | Hybrid | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2646d2d46c0f7996089b94?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1ed292c5277c00c6480ea8?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 02 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb7398049156781164286?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jun 02 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a1eb62380491567811641dd?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jun 02 |
-| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a1e97758049156781163b6d?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 02 |
-| **[Lori's Gifts](http://lorisgifts.com)** | **[Store Planner - Intern/Summer Project](https://jobright.ai/jobs/info/6a21272fc00e701fe836d70f?utm_campaign=1049&utm_source=git)** | PLANO,TX,US | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
