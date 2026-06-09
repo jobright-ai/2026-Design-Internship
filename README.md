@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2829ee883c0d3be653ff9a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
+| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a0b5e274d932036368703b8?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
+| **[Neon Logistics](https://www.neon-logistics.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2831f940ac8e329329fb15?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
+| **[Neon Postgres](https://neon.tech)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a282e2a7061b51a3a5f3ea0?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
+| **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Website Design Summer Intern](https://jobright.ai/jobs/info/6a281d2b1dbd8437bebc8baa?utm_campaign=1049&utm_source=git)** | Worcester, US | Hybrid | Jun 09 |
 | **[Olson Kundig](http://olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
-| **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Website Design Summer Intern](https://jobright.ai/jobs/info/6a281d2b1dbd8437bebc8baa?utm_campaign=1049&utm_source=git)** | Worcester, US | Hybrid | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| **[TAKSHILA Inc](https://takshila.co)** | **[Graphic Designers (Intern)](https://jobright.ai/jobs/info/6a28178540ac8e329329ed90?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
-| **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a27e7f8fd37e62bb47a5e55?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 09 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 08 |
 | **[AGYL](https://www.linkedin.com/company/117944201)** | **[Graphic Design/Creative Intern](https://jobright.ai/jobs/info/6a281efb1dbd8437bebc8cda?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
@@ -82,6 +83,7 @@ For a complete list, click the following sortable link below:
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
 | **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
 | **[LOTH, Inc](https://www.lothinc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a26f1892056260dd6e84172?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
+| **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC](https://jobright.ai/jobs/info/6a282fd31dbd8437bebc95e3?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[TKH, Inc.](https://www.tkhinc.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a26df69ca77fd3096d23d77?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 08 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/6a1ddae36b135014dbc98fef?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 08 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6a0acd37403fc339507f8607?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 08 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[STIVALI NEW YORK](http://www.stivalinewyork.com)** | **[Graphic Design & Retail Operations Intern (Showroom)](https://jobright.ai/jobs/info/6a25e28a757ade085b6b2545?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | On Site | Jun 07 |
 | **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a0783426186f4685987ff91?utm_campaign=1049&utm_source=git)** | Gunnison, CO 81230, USA | On Site | Jun 07 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Jun 07 |
-| **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69d5f4b9cfdc6132f946764b?utm_campaign=1049&utm_source=git)** | Fort Worth, TX | On Site | Jun 07 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a23c1a26624e500cad0c8c1?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0656f3320bff2205eabcba?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Jun 05 |
 | **[Acronym](https://acronym.lol/)** | **[Concept & Visual Development Intern - Art Direction](https://jobright.ai/jobs/info/6a235f3614de9460dc844425?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 05 |
