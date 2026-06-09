@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a287e44883c0d3be6542738?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
+| **[Carmel Point Landscapes](www.carmelpointlandscapes.com)** | **[Landscape Designer - Intern](https://jobright.ai/jobs/info/6a28790d883c0d3be65424af?utm_campaign=1049&utm_source=git)** | Carmel, CA | On Site | Jun 09 |
+| **[BRG](http://www.thinkbrg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a28784e883c0d3be6542464?utm_campaign=1049&utm_source=git)** | Georgia, United States | Hybrid | Jun 09 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Jun 09 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a2860f42d6c332ee52e596b?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jun 09 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
@@ -70,7 +73,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a27e7f8fd37e62bb47a5e55?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 09 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 08 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Retail & Merchandising Internship](https://jobright.ai/jobs/info/6a20ae68c00e701fe836b2fe?utm_campaign=1049&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
 | **[Four Hands](https://fourhands.com)** | **[CGI Artist Intern](https://jobright.ai/jobs/info/6a20a72b338c01230511abb9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 03 |
 | **[Fontainebleau Development](https://www.fbdev.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a2092f0c00e701fe836a585?utm_campaign=1049&utm_source=git)** | Fontainebleau Development LLC - Aventura, FL 33180 | On Site | Jun 03 |
-| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 03 |
-| **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Fall 2026](https://jobright.ai/jobs/info/6a03ac336c07461fe170687a?utm_campaign=1049&utm_source=git)** | Montreal, Quebec, Canada | Hybrid | Jun 03 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2824ff1dbd8437bebc90dc?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
