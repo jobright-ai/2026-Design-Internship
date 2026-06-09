@@ -57,8 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2765362056260dd6e86e66?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
-| **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a275a1f30042e7539088840?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a278194c4af071f661370cc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
+| **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
+| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Design Intern](https://jobright.ai/jobs/info/6a27269c12f0202342262fb5?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 08 |
+| **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a2774c8b6099e359d2825d2?utm_campaign=1049&utm_source=git)** | Long Island City | On Site | Jun 08 |
+| ↳ | **[Junior Design Intern](https://jobright.ai/jobs/info/6a275a1f30042e7539088840?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Fall 2026 Creative Design Intern (DC)](https://jobright.ai/jobs/info/6a27490912f0202342263dad?utm_campaign=1049&utm_source=git)** | Washington,DC,US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a27460a12f0202342263c7f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 08 |
 | ↳ | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2742982056260dd6e8645e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
@@ -67,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Claudia Afshar Design](www.claudiaafshar.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a27350b4ec8d737d6dfe9c0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/6a2731c12056260dd6e85e6b?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Design Intern](https://jobright.ai/jobs/info/6a272ccf2056260dd6e85b69?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 08 |
-| **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Design Intern](https://jobright.ai/jobs/info/6a27269c12f0202342262fb5?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2720c14ec8d737d6dfdfcd?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
 | **[7 HOLLYWOOD](https://www.linkedin.com/company/83116602)** | **[CELEBRITY MAGAZINE - PRODUCTION INTERN - L.A. FASHION PHOTOGRAPHER](https://jobright.ai/jobs/info/6a273be8ca77fd3096d26379?utm_campaign=1049&utm_source=git)** | LA Metro Area | On Site | Jun 08 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
-| **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
-| **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
