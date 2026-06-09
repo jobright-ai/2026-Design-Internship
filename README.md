@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a27f0f8883c0d3be653ee46?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a27e7f8fd37e62bb47a5e55?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 09 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 08 |
 | **[AGYL](https://www.linkedin.com/company/117944201)** | **[Graphic Design/Creative Intern](https://jobright.ai/jobs/info/6a278be8add4b5278cb5f43b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
 | **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a27d09badd4b5278cb60204?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
-| ↳ | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a27d09badd4b5278cb60203?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
