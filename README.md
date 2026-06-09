@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a27f0f8883c0d3be653ee46?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
 | **[Association for Home & Hospice Care of North Carolina](https://ahhcnc.org)** | **[Intern - UI/UX](https://jobright.ai/jobs/info/6a27e7f8fd37e62bb47a5e55?utm_campaign=1049&utm_source=git)** | St Louis, MO | On Site | Jun 09 |
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a0ffdef83d71442898239c8?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 08 |
 | **[AGYL](https://www.linkedin.com/company/117944201)** | **[Graphic Design/Creative Intern](https://jobright.ai/jobs/info/6a278be8add4b5278cb5f43b?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Jun 08 |
@@ -108,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a2257c664b4892bbbfb5394?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 04 |
@@ -156,5 +155,6 @@ For a complete list, click the following sortable link below:
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c81338c012305117039?utm_campaign=1049&utm_source=git)** | Hollywood, CA | On Site | Jun 03 |
 | ↳ | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a201c72338c01230511702e?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fa1216b1fc847fc1aedf81?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jun 03 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a27d09badd4b5278cb60204?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
+| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a27d09badd4b5278cb60203?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 03 |
+| ↳ | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a27d09badd4b5278cb60204?utm_campaign=1049&utm_source=git)** | Remote, Ontario | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
