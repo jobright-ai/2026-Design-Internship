@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2765362056260dd6e86e66?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
+| **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a275a1f30042e7539088840?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jun 08 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Fall 2026 Creative Design Intern (DC)](https://jobright.ai/jobs/info/6a27490912f0202342263dad?utm_campaign=1049&utm_source=git)** | Washington,DC,US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a27460a12f0202342263c7f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 08 |
 | ↳ | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2742982056260dd6e8645e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a1fb3dedce5db1256d17074?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 02 |
 | **[Tiffany & Co.](http://www.tiffany.com)** | **[Tiffany & Co. x CFDA Jewelry Designer Award](https://jobright.ai/jobs/info/6a02e4126c07461fe16fe765?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 02 |
 | **[Becklar](https://www.becklar.com/)** | **[Website Design Intern](https://jobright.ai/jobs/info/6a1ec67cb61b2c65b37acd41?utm_campaign=1049&utm_source=git)** | Becklar Headquarters, Ogden, Utah, US | Hybrid | Jun 02 |
-| **[Pebl](https://hellopebl.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a1f37a5c5277c00c6484399?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | Hybrid | Jun 02 |
-| **[Redwood Resources Consultancy](http://www.redwoodresources.net/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a2057e63a5f0145f4c13e33?utm_campaign=1049&utm_source=git)** | Thousand Oaks, CA | On Site | Jun 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
