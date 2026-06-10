@@ -57,8 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a28eee7883c0d3be6544df4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
-| **[Johnston Davidson Architecture](http://www.jdarch.ca)** | **[Intern Architect](https://jobright.ai/jobs/info/6a28cf002d6c332ee52e8360?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, Canada | On Site | Jun 09 |
 | **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28c0b01dbd8437bebcd0bd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Alkira, Inc.](https://www.alkira.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a28b30b7061b51a3a5f7669?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | Jun 09 |
@@ -157,4 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210764c00e701fe836cd05?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Jun 03 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a21043a3a5f0145f4c17fc9?utm_campaign=1049&utm_source=git)** | Seattle | On Site | Jun 03 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Member Experience Intern](https://jobright.ai/jobs/info/6a20dda0ca8f0b365d7a3d7e?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 03 |
+| **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
+| **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
