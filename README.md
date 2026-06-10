@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a297b7c0c4972328e7e3a74?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
+| **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2983012cde2824469bca72?utm_campaign=1049&utm_source=git)** | 4300 E. Camelback Road, Phoenix, AZ, 85018, US | On Site | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a295b370c4972328e7e2d63?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921481dbd8437bebcf27c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Etaily](https://etaily.com)** | **[Creatives Intern](https://jobright.ai/jobs/info/6a291f981dbd8437bebcf173?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
@@ -105,7 +105,6 @@ For a complete list, click the following sortable link below:
 | **[Seaspan ULC](https://www.seaspan.com)** | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a268a9970318860e50c6a3b?utm_campaign=1049&utm_source=git)** | North Vancouver, British Columbia, Canada | On Site | Jun 08 |
 | ↳ | **[Intern, Detail Design (8 months)](https://jobright.ai/jobs/info/6a267e656d665572632df9e4?utm_campaign=1049&utm_source=git)** | 216/217 -  930 1st Street West, Capilano Business Park, North Vancouver, BC, V7P 3N4, CA | On Site | Jun 08 |
 | **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a265e1914de9460dc849b43?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 07 |
-| **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a28e82c2d6c332ee52e8b5b?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jun 07 |
 | **[PlayCore](http://www.playcore.com/)** | **[Design Intern- ID Sculpture](https://jobright.ai/jobs/info/6a0783426186f4685987ff91?utm_campaign=1049&utm_source=git)** | Gunnison, CO 81230, USA | On Site | Jun 07 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Jun 07 |
 | **[Acronym](https://acronym.lol/)** | **[Creative Production Intern - Experiential](https://jobright.ai/jobs/info/6a235b08d46c0f7996084a0d?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 06 |
@@ -125,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a28fee440ac8e32932a4bf1?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Complete Creative](http://www.completecreative.agency)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/6a27b8527061b51a3a5f2206?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Jun 03 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210771c00e701fe836cd0b?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jun 03 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210764c00e701fe836cd05?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Jun 03 |
+| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a21043a3a5f0145f4c17fc9?utm_campaign=1049&utm_source=git)** | Seattle | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
