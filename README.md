@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alkira, Inc.](https://www.alkira.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a28b30b7061b51a3a5f7669?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | Jun 09 |
 | **[Weld RE-4 School District](https://weldre4.k12.co.us)** | **[Photography, Videography, & Social Media Internship](https://jobright.ai/jobs/info/6a28a249fd37e62bb47aa64e?utm_campaign=1049&utm_source=git)** | Windsor, CO, US | On Site | Jun 09 |
 | **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Retail & Merchandising Internship](https://jobright.ai/jobs/info/6a20ae68c00e701fe836b2fe?utm_campaign=1049&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
-| **[Rocket](https://www.rocketcompanies.com/)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2895a01dbd8437bebcc2a9?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
