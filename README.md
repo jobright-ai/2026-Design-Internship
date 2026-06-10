@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a29b3fe0c4972328e7e53d1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
+| **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a29ac4ac07d4b6ae1c4226c?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jun 10 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a29a745d3ec8317fe13f8b9?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 10 |
+| **[MCA](http://www.marcomcontentbyashley.com)** | **[Design & Video Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a29a6c2d3ec8317fe13f878?utm_campaign=1049&utm_source=git)** | North Canton, OH | Remote | Jun 10 |
 | **[Waste Connections](http://www.wasteconnections.com/)** | **[Web Analyst/Content Intern](https://jobright.ai/jobs/info/6a2998cf1de59e0682a8035a?utm_campaign=1049&utm_source=git)** | 1010-Corporate Offices WCI, US | On Site | Jun 10 |
 | **[The Voice of College Football Network](https://www.linkedin.com/company/105024297)** | **[Graphic Design Intern (Unpaid) – College Football Media](https://jobright.ai/jobs/info/6a29946cc07d4b6ae1c4156a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2983012cde2824469bca72?utm_campaign=1049&utm_source=git)** | 4300 E. Camelback Road, Phoenix, AZ, 85018, US | On Site | Jun 10 |
@@ -126,8 +131,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a28fee440ac8e32932a4bf1?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Homebase](http://www.joinhomebase.com)** | **[Visual & Motion Design Intern (Hybrid)](https://jobright.ai/jobs/info/69cd7ccc366bb95ba54fc48c?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jun 04 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a219470338c01230511ecc6?utm_campaign=1049&utm_source=git)** | Design Services - Costa Mesa, CA, US | On Site | Jun 04 |
 | ↳ | **[Fall 2026 Design and Production Intern](https://jobright.ai/jobs/info/6a219459ca8f0b365d7a7077?utm_campaign=1049&utm_source=git)** | Knoxville, TN, US | On Site | Jun 04 |
-| ↳ | **[Fall 2026 Design and Production Intern](https://jobright.ai/jobs/info/6a21942e4bdf8a5a96bd66e1?utm_campaign=1049&utm_source=git)** | Knoxville, TN | On Site | Jun 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 04 |
-| **[Southeastern Conference](https://www.secsports.com)** | **[Digital & Social Media Intern (Graphic Design)](https://jobright.ai/jobs/info/6a291a4b1dbd8437bebcef39?utm_campaign=1049&utm_source=git)** | Birmingham, AL | On Site | Jun 04 |
-| **[Complete Creative](http://www.completecreative.agency)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/6a27b8527061b51a3a5f2206?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Jun 03 |
-| **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210771c00e701fe836cd0b?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
