@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a297b7c0c4972328e7e3a74?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a295b370c4972328e7e2d63?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921481dbd8437bebcf27c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Etaily](https://etaily.com)** | **[Creatives Intern](https://jobright.ai/jobs/info/6a291f981dbd8437bebcf173?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Complete Creative](http://www.completecreative.agency)** | **[Graphic Design Summer Intern](https://jobright.ai/jobs/info/6a27b8527061b51a3a5f2206?utm_campaign=1049&utm_source=git)** | Remote job | Remote | Jun 03 |
 | **[Oak View Group](http://www.oakviewgroup.com)** | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210771c00e701fe836cd0b?utm_campaign=1049&utm_source=git)** | Moody Center (Austin, TX) | On Site | Jun 03 |
 | ↳ | **[Multimedia Design Intern / Part-Time / Moody Center](https://jobright.ai/jobs/info/6a210764c00e701fe836cd05?utm_campaign=1049&utm_source=git)** | US-TX-Austin | On Site | Jun 03 |
-| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a21043a3a5f0145f4c17fc9?utm_campaign=1049&utm_source=git)** | Seattle | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
