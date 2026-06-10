@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Pure Earth](https://www.pureearth.org/)** | **[Social Media Video Intern](https://jobright.ai/jobs/info/6a288295fd37e62bb47a9a86?utm_campaign=1049&utm_source=git)** | Manhattan, NY | Hybrid | Jun 09 |
+| **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a289a23883c0d3be65431e6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 09 |
+| **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
+| **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28919afd37e62bb47a9fd7?utm_campaign=1049&utm_source=git)** | New York, US | On Site | Jun 09 |
 | **[Carmel Point Landscapes](www.carmelpointlandscapes.com)** | **[Landscape Designer - Intern](https://jobright.ai/jobs/info/6a28790d883c0d3be65424af?utm_campaign=1049&utm_source=git)** | Carmel, CA | On Site | Jun 09 |
 | **[BRG](http://www.thinkbrg.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a28784e883c0d3be6542464?utm_campaign=1049&utm_source=git)** | Georgia, United States | Hybrid | Jun 09 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Jun 09 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a2860f42d6c332ee52e596b?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jun 09 |
-| **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
 | **[BRG Concepts](http://www.brimstonerestaurantgroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2855d6fd37e62bb47a85b2?utm_campaign=1049&utm_source=git)** | Remote - Georgia, US | Remote | Jun 09 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a28418a7061b51a3a5f489a?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 09 |
 | **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a0b5e274d932036368703b8?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Trilliant Food & Nutrition, LLC](https://trilliantfood.com)** | **[Graphic Designer intern](https://jobright.ai/jobs/info/6a2257c664b4892bbbfb5394?utm_campaign=1049&utm_source=git)** | Little Chute, WI 54140, USA | On Site | Jun 04 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The New York Times](https://www.nytco.com/)** | **[Advertising Creative Intern](https://jobright.ai/jobs/info/6a1715ddd6a04f21602e27d7?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 03 |
 | **[Eurpac Service Inc.](https://www.eurpac.com/)** | **[Intern - Creative Services](https://jobright.ai/jobs/info/69fb122f86d5cd46527d258e?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 03 |
 | **[The Bridge Teen Center](http://www.thebridgeteencenter.org)** | **[Retail & Merchandising Internship](https://jobright.ai/jobs/info/6a20ae68c00e701fe836b2fe?utm_campaign=1049&utm_source=git)** | Orland Park, IL | On Site | Jun 03 |
-| **[Four Hands](https://fourhands.com)** | **[CGI Artist Intern](https://jobright.ai/jobs/info/6a20a72b338c01230511abb9?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 03 |
-| **[Fontainebleau Development](https://www.fbdev.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a2092f0c00e701fe836a585?utm_campaign=1049&utm_source=git)** | Fontainebleau Development LLC - Aventura, FL 33180 | On Site | Jun 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
