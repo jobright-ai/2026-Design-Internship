@@ -59,7 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2a5e0d2cde2824469c17dd?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | Jun 11 |
-| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern-Multimedia/Graphic Design](https://jobright.ai/jobs/info/6a2a4cd52cde2824469c1401?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 10 |
+| **[Orange County Government](https://www.orangecountyfl.net/)** | **[Student Intern-Multimedia/Graphic Design](https://jobright.ai/jobs/info/6a2a4cd52cde2824469c1401?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 10 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a2a80ff1de59e0682a84e48?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jun 10 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
@@ -99,10 +99,10 @@ For a complete list, click the following sortable link below:
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a282e2a7061b51a3a5f3ea0?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Website Design Summer Intern](https://jobright.ai/jobs/info/6a281d2b1dbd8437bebc8baa?utm_campaign=1049&utm_source=git)** | Worcester, US | Hybrid | Jun 09 |
 | **[NEON](https://neonrated.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a296ac62cde2824469bbf1b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 09 |
-| **[Olson Kundig](http://olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
+| **[Olson Kundig](http://www.olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
@@ -136,7 +136,7 @@ For a complete list, click the following sortable link below:
 | **[Mary Square, LLC](https://www.marysquare.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6a2359ee14de9460dc84439d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a2369854239a4353887e16c?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a063691bc4184089f24d01a?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 05 |
-| **[Arup](http://www.arup.com)** | **[Graphic Designer (Visual Communications) Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
+| **[Arup](https://www.arup.com/our-firm/ventures)** | **[Graphic Designer (Visual Communications) Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 05 |
 | **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
 | **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
