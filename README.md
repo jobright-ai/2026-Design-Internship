@@ -154,7 +154,4 @@ For a complete list, click the following sortable link below:
 | **[Port of Portland](https://www.portofportland.com)** | **[Intern, Social Media - Portland International Airport (PDX)](https://jobright.ai/jobs/info/6a235deededf78312c7ac07b?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 04 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a21e661338c01230512192c?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a21e661338c01230512192b?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 04 |
-| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Animation Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209f37c30cc2cc516d204?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
-| ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209e8338c012305122810?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | On Site | Jun 04 |
-| ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a226a998e98cb42c8a8388a?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
