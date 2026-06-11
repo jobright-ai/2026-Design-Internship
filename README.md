@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2a5e0d2cde2824469c17dd?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | Jun 11 |
 | **[Orange County Government](http://www.ocfl.net)** | **[Student Intern-Multimedia/Graphic Design](https://jobright.ai/jobs/info/6a2a4cd52cde2824469c1401?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 10 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SUMMER 2026: INDUSTRIAL DESIGN INTERN (JUNE TO SEPTEMBER)](https://jobright.ai/jobs/info/6a2a2709d3ec8317fe1420f6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 10 |
-| **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
-| ↳ | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
+| ↳ | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a29cbe8d3ec8317fe140889?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 10 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a29c9ab495d985b99425ddc?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 10 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a29c7571de59e0682a8178f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
@@ -142,8 +143,8 @@ For a complete list, click the following sortable link below:
 | **[RSM | Retail Sports Marketing](http://www.rsmbiz.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a22df64757ade085b6ad2ac?utm_campaign=1049&utm_source=git)** | Charlotte, North Carolina, United States | On Site | Jun 05 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 05 |
 | **[New York Oncology Hematology](https://newyorkoncology.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 05 |
-| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
-| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| **[Northside Hospital](http://www.northside.com)** | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
+| ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f8c2a87d6cd3e0e316?utm_campaign=1049&utm_source=git)** | US-GA-Atlanta | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a28fee440ac8e32932a4bf1?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a2209e8338c012305122810?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | On Site | Jun 04 |
 | ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a226a998e98cb42c8a8388a?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
-| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da6c338c01230512109e?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
