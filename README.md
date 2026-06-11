@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2a243d0c4972328e7e70f5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
@@ -75,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a295b370c4972328e7e2d63?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921481dbd8437bebcf27c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
 | **[Etaily](https://etaily.com)** | **[Creatives Intern](https://jobright.ai/jobs/info/6a291f981dbd8437bebcf173?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
+| **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a2a24441de59e0682a82e5e?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 09 |
 | **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28c0b01dbd8437bebcd0bd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jun 09 |
 | **[Alkira, Inc.](https://www.alkira.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a28b30b7061b51a3a5f7669?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | Jun 09 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da6c338c01230512109e?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
 | **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design, Partnerships, Intern](https://jobright.ai/jobs/info/6a21da37338c012305121070?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Interior Design - Challenger and Global Platform (Fall 2026)](https://jobright.ai/jobs/info/6a21edd1902d19201c7bb13a?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 04 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[Graphic Designer– 4-month Internship/Co-op (Fall 2026)  ](https://jobright.ai/jobs/info/6a21ce7fc00e701fe8370fa1?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 04 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Visual Communication Intern](https://jobright.ai/jobs/info/6a21cc8e338c012305120bd4?utm_campaign=1049&utm_source=git)** | Knoxville, TN, US | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
