@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Orange County Government](http://www.ocfl.net)** | **[Student Intern-Multimedia/Graphic Design](https://jobright.ai/jobs/info/6a2a4cd52cde2824469c1401?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 10 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SUMMER 2026: INDUSTRIAL DESIGN INTERN (JUNE TO SEPTEMBER)](https://jobright.ai/jobs/info/6a2a2709d3ec8317fe1420f6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 10 |
-| **[NPR](http://www.npr.org)** | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
-| ↳ | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| ↳ | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a29cbe8d3ec8317fe140889?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 10 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a29c9ab495d985b99425ddc?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 10 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a29c7571de59e0682a8178f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Art Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a226a998e98cb42c8a8388a?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 04 |
 | **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a21da6c338c01230512109e?utm_campaign=1049&utm_source=git)** | Culver City, California, United States | Hybrid | Jun 04 |
-| **[Jacksonville Jaguars](http://www.jaguars.com)** | **[Graphic Design, Partnerships, Intern](https://jobright.ai/jobs/info/6a21da37338c012305121070?utm_campaign=1049&utm_source=git)** | Jacksonville, FL | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
