@@ -57,14 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2a07ef0c4972328e7e6a12?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
+| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
-| **[Gorge](www.eatgorge.com)** | **[UX/UI Designer Intern](https://jobright.ai/jobs/info/6a29e06a0c4972328e7e65a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a29cbe8d3ec8317fe140889?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 10 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a29c9ab495d985b99425ddc?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 10 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a29c7571de59e0682a8178f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c49fd3ec8317fe140422?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c32c0c4972328e7e5868?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 10 |
-| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a29ac4ac07d4b6ae1c4226c?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jun 10 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a29a745d3ec8317fe13f8b9?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jun 10 |
 | **[MCA](http://www.marcomcontentbyashley.com)** | **[Design & Video Intern (Unpaid Internship)](https://jobright.ai/jobs/info/6a29a6c2d3ec8317fe13f878?utm_campaign=1049&utm_source=git)** | North Canton, OH | Remote | Jun 10 |
@@ -95,7 +95,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
