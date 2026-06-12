@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 12 |
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 12 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/6a2c55dbc260bb1b8ae15e34?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 12 |
 | **[Select Generation™️](https://selectgeneration.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c3f887cd40a338fae56f8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Creative Video Intern - Creative Services](https://jobright.ai/jobs/info/6a2c389ca1d15e3c552faa05?utm_campaign=1049&utm_source=git)** | Gainesville, Florida, United States | On Site | Jun 12 |
 | **[SCOPE USA, Inc.](www.scopeinc.org)** | **[Marketing & Design Internship](https://jobright.ai/jobs/info/6a2c236dd3ec94183f4bb66f?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 12 |
-| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 12 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a2c2155d3ec94183f4bb5d7?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Jun 12 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2c1e51fc064474905484b2?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
 | ↳ | **[Brand Creative Strategist Intern](https://jobright.ai/jobs/info/6a2c1e47f1751b183c816de0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
@@ -140,7 +141,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Claudia Afshar Design](www.claudiaafshar.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a27350b4ec8d737d6dfe9c0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Design Intern](https://jobright.ai/jobs/info/6a272ccf2056260dd6e85b69?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2720c14ec8d737d6dfdfcd?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
