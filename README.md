@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
+| **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 12 |
+| **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 12 |
 | **[Select Generation™️](https://selectgeneration.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c3f887cd40a338fae56f8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Creative Video Intern - Creative Services](https://jobright.ai/jobs/info/6a2c389ca1d15e3c552faa05?utm_campaign=1049&utm_source=git)** | Gainesville, Florida, United States | On Site | Jun 12 |
 | **[SCOPE USA, Inc.](www.scopeinc.org)** | **[Marketing & Design Internship](https://jobright.ai/jobs/info/6a2c236dd3ec94183f4bb66f?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Design Intern](https://jobright.ai/jobs/info/6a272ccf2056260dd6e85b69?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2720c14ec8d737d6dfdfcd?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 08 |
-| **[1Password](https://1password.com)** | **[Product Design Intern, EPM End-User - Fall 2026](https://jobright.ai/jobs/info/6a2720c22056260dd6e854a4?utm_campaign=1049&utm_source=git)** | Remote (United States | Canada) | Remote | Jun 08 |
-| **[KLJ](http://kljeng.com/)** | **[Visual Design and Media Internship](https://jobright.ai/jobs/info/6a26b7414ec8d737d6dfb87a?utm_campaign=1049&utm_source=git)** | Bismarck, North Dakota, United States | On Site | Jun 08 |
-| **[LOTH, Inc](https://www.lothinc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a26f1892056260dd6e84172?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
