@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2b75ebc07d4b6ae1c4ac70?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2aea950ad4053b108c97e1?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Creative Content Communications (Fall 2026)](https://jobright.ai/jobs/info/6a2b326fc07d4b6ae1c49b79?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
 | **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a2b1aded3ec8317fe147207?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 11 |
@@ -67,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Digital Design](https://jobright.ai/jobs/info/6a2aea210ad4053b108c9794?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID, US | On Site | Jun 11 |
 | **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a2ae30b1de59e0682a868e5?utm_campaign=1049&utm_source=git)** | Norwood, NJ | On Site | Jun 11 |
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a2acd891de59e0682a85fc3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
 | **[leManoosh](https://lemanoosh.com)** | **[SUMMER 2026: INDUSTRIAL DESIGN INTERN (JUNE TO SEPTEMBER)](https://jobright.ai/jobs/info/6a2a9cea9bf7365df0899ba2?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2a5e0d2cde2824469c17dd?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | Jun 11 |
@@ -112,7 +113,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
