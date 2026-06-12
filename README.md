@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Woof](https://mywoof.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b148b1de59e0682a87df7?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 11 |
+| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jun 11 |
+| **[HB Workplaces](https://hbdg.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a2afd1a0ad4053b108c9ffb?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jun 11 |
+| **[PulteGroup](http://www.pultegroupinc.com)** | **[CAD Tech Intern - Interior Design](https://jobright.ai/jobs/info/6a2af9b9d3ec8317fe14633e?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, US | On Site | Jun 11 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2aea950ad4053b108c97e1?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Digital Design](https://jobright.ai/jobs/info/6a2aea210ad4053b108c9794?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID, US | On Site | Jun 11 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2ae8d6c07d4b6ae1c47f22?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 11 |
 | **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a2ae30b1de59e0682a868e5?utm_campaign=1049&utm_source=git)** | Norwood, NJ | On Site | Jun 11 |
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a2acd891de59e0682a85fc3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
@@ -71,11 +74,11 @@ For a complete list, click the following sortable link below:
 | **[EA SPORTS](http://www.EASports.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a2a80ff1de59e0682a84e48?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jun 10 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
+| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2b06190ad4053b108ca440?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 10 |
 | **[SharkNinja France](http://www.sharkninja.com)** | **[SUMMER 2026: INDUSTRIAL DESIGN INTERN (JUNE TO SEPTEMBER)](https://jobright.ai/jobs/info/6a2a2709d3ec8317fe1420f6?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 10 |
-| **[NPR](http://www.npr.org)** | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
-| ↳ | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a2a3086495d985b99427e3a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 10 |
+| ↳ | **[Music & Visuals Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c491d3ec8317fe140413?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | On Site | Jun 10 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a29cbe8d3ec8317fe140889?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 10 |
-| **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a29c9ab495d985b99425ddc?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 10 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a29c7571de59e0682a8178f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Desk Internship - Fall 2026](https://jobright.ai/jobs/info/6a29c49fd3ec8317fe140422?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 10 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c32c0c4972328e7e5868?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 10 |
@@ -151,5 +154,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Department Intern - Graphic Design](https://jobright.ai/jobs/info/6a1dd7f4c2a87d6cd3e0e312?utm_campaign=1049&utm_source=git)** | Atlanta, GA, US | On Site | Jun 05 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Experiential Graphic Design Intern / Cincinnati](https://jobright.ai/jobs/info/6a1ddae09111f771d1a1b83b?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 05 |
 | **[CUMULUS MEDIA](http://www.cumulus.com)** | **[Digital Media Intern - Sports Content](https://jobright.ai/jobs/info/6a226c6394d89a1392b51b7c?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jun 05 |
-| **[Dreamscape Learn](https://www.dreamscapelearn.com)** | **[Pre-Viz Intern (Unpaid for Course Credit Only)](https://jobright.ai/jobs/info/6a28fee440ac8e32932a4bf1?utm_campaign=1049&utm_source=git)** | Culver City, CA | On Site | Jun 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
