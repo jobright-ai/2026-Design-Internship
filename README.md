@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Digital 3D Media (Themed Entertainment) (Spring 2027)](https://jobright.ai/jobs/info/6a2bc973f1751b183c815d13?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship, Universal Creative – Master Planning (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96ba1d15e3c552f9287?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship, Universal Creative – Architecture and Engineering Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96aa1d15e3c552f9277?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship, Universal Creative – Interactives Design (ATI) (Spring 2027)](https://jobright.ai/jobs/info/6a2bc8477cd40a338fae3b50?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship, Universal Creative – Show Set Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc843a1d15e3c552f920e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Visual Merchandising (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82dd3ec8317fe1492ef?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship - Horticulture Design](https://jobright.ai/jobs/info/6a2bb8273f691a293d0b8f86?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a2baa0ad3ec8317fe1491d7?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 11 |
@@ -70,8 +75,8 @@ For a complete list, click the following sortable link below:
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Digital Design](https://jobright.ai/jobs/info/6a2aea210ad4053b108c9794?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID, US | On Site | Jun 11 |
 | **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a2ae30b1de59e0682a868e5?utm_campaign=1049&utm_source=git)** | Norwood, NJ | On Site | Jun 11 |
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a2acd891de59e0682a85fc3?utm_campaign=1049&utm_source=git)** | Atlanta, GA | On Site | Jun 11 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 11 |
 | **[leManoosh](https://lemanoosh.com)** | **[SUMMER 2026: INDUSTRIAL DESIGN INTERN (JUNE TO SEPTEMBER)](https://jobright.ai/jobs/info/6a2a9cea9bf7365df0899ba2?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2a5e0d2cde2824469c17dd?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | Jun 11 |
@@ -112,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
@@ -144,7 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Mary Square, LLC](https://www.marysquare.com)** | **[Jewelry Design Intern](https://jobright.ai/jobs/info/6a2359ee14de9460dc84439d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 05 |
 | **[American Fidelity](http://www.americanfidelity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a063691bc4184089f24d01a?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 05 |
 | **[Arup](https://www.arup.com/our-firm/ventures)** | **[Graphic Designer (Visual Communications) Intern (August - December 2026)](https://jobright.ai/jobs/info/6a06b9f47c753c287f705421?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 05 |
-| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 05 |
-| **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
-| **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
