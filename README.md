@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Visual Merchandising (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82dd3ec8317fe1492ef?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
+| ↳ | **[Internship - Horticulture Design](https://jobright.ai/jobs/info/6a2bb8273f691a293d0b8f86?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a2baa0ad3ec8317fe1491d7?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States of America | Hybrid | Jun 11 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2aea950ad4053b108c97e1?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Creative Content Communications (Fall 2026)](https://jobright.ai/jobs/info/6a2b326fc07d4b6ae1c49b79?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
@@ -145,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b80d34d93203636871caf?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 05 |
 | **[Cirkle](http://www.cirkle.com/)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a22f7b4757ade085b6ad8ae?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 05 |
 | **[Elevate](http://elevate.com/)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a0645b1a88ea73abf7f9e01?utm_campaign=1049&utm_source=git)** | Addison, TX | On Site | Jun 05 |
-| **[Utah Mammoth](www.utahhockeyclub.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0b7e0a963f7a67d95d0779?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
