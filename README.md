@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/69817f42abff4c399aa081d7?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Digital 3D Media (Themed Entertainment) (Spring 2027)](https://jobright.ai/jobs/info/6a2bc973f1751b183c815d13?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Master Planning (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96ba1d15e3c552f9287?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Architecture and Engineering Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96aa1d15e3c552f9277?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
