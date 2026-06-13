@@ -57,23 +57,22 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2c8e6fc260bb1b8ae170ca?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
+| **[DeBra-Kuempel](https://dkemcor.com/)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a2c9a6df1751b183c819362?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 12 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a2c2155d3ec94183f4bb5d7?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Jun 12 |
 | **[//3877](https://www.3877.design)** | **[Interior Design Intern _ DC](https://jobright.ai/jobs/info/6a2c844bf1751b183c818ef3?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 12 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Surface Design Summer Intern](https://jobright.ai/jobs/info/6a2c7802d3ec94183f4bd390?utm_campaign=1049&utm_source=git)** | 691 N Squirrel Road, Suite 280 , Auburn Hills, MI, United States | On Site | Jun 12 |
 | **[Precept Wine & Spirits](http://preceptwine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c6dddc260bb1b8ae165b9?utm_campaign=1049&utm_source=git)** | Seattle, WA, US | Hybrid | Jun 12 |
+| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 12 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Comic Book Artists Intern](https://jobright.ai/jobs/info/6a2c55dbc260bb1b8ae15e34?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
-| **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 12 |
 | **[Select Generation™️](https://selectgeneration.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c3f887cd40a338fae56f8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Creative Video Intern - Creative Services](https://jobright.ai/jobs/info/6a2c389ca1d15e3c552faa05?utm_campaign=1049&utm_source=git)** | Gainesville, Florida, United States | On Site | Jun 12 |
 | **[SCOPE USA, Inc.](www.scopeinc.org)** | **[Marketing & Design Internship](https://jobright.ai/jobs/info/6a2c236dd3ec94183f4bb66f?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 12 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2c1e51fc064474905484b2?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
 | ↳ | **[Brand Creative Strategist Intern](https://jobright.ai/jobs/info/6a2c1e47f1751b183c816de0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
-| **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a2c1b247cd40a338fae4b15?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jun 12 |
 | **[Bitarchitects](http://bitarchitectsllc.com)** | **[Architecture and Interior Design Internship](https://jobright.ai/jobs/info/6a2c1836c260bb1b8ae14778?utm_campaign=1049&utm_source=git)** | Washington, DC | Remote | Jun 12 |
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Graphics Design Internship](https://jobright.ai/jobs/info/6a2c0f5a7cd40a338fae4711?utm_campaign=1049&utm_source=git)** | Estero, FL | Hybrid | Jun 12 |
 | ↳ | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a2c0f55f1751b183c81689f?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 12 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2742982056260dd6e8645e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[AITHER](http://www.aither.co)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a27419fca77fd3096d26694?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jun 08 |
 | **[Savory Fund](https://savoryfund.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a273f817d827633afff9b37?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jun 08 |
+| **[Claudia Afshar Design](www.claudiaafshar.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a27350b4ec8d737d6dfe9c0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
