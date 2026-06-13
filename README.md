@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2c8e6fc260bb1b8ae170ca?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a2c2155d3ec94183f4bb5d7?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Jun 12 |
+| **[//3877](https://www.3877.design)** | **[Interior Design Intern _ DC](https://jobright.ai/jobs/info/6a2c844bf1751b183c818ef3?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 12 |
 | **[Continental](http://www.benecke-kaliko.com)** | **[Surface Design Summer Intern](https://jobright.ai/jobs/info/6a2c7802d3ec94183f4bd390?utm_campaign=1049&utm_source=git)** | 691 N Squirrel Road, Suite 280 , Auburn Hills, MI, United States | On Site | Jun 12 |
@@ -68,7 +71,6 @@ For a complete list, click the following sortable link below:
 | **[Select Generation™️](https://selectgeneration.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c3f887cd40a338fae56f8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[University Athletic Association Inc](http://thrivehds.hirecentric.com)** | **[Creative Video Intern - Creative Services](https://jobright.ai/jobs/info/6a2c389ca1d15e3c552faa05?utm_campaign=1049&utm_source=git)** | Gainesville, Florida, United States | On Site | Jun 12 |
 | **[SCOPE USA, Inc.](www.scopeinc.org)** | **[Marketing & Design Internship](https://jobright.ai/jobs/info/6a2c236dd3ec94183f4bb66f?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 12 |
-| **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a2c2155d3ec94183f4bb5d7?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Jun 12 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a2c1e51fc064474905484b2?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
 | ↳ | **[Brand Creative Strategist Intern](https://jobright.ai/jobs/info/6a2c1e47f1751b183c816de0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 12 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a2c1b247cd40a338fae4b15?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jun 12 |
@@ -79,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f662b619335383fb2bdbd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6a2bdf5ba1d15e3c552f958e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 12 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 12 |
@@ -128,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Metropolitan Utilities District](https://mudomaha.com)** | **[Digital Media Intern](https://jobright.ai/jobs/info/6a2a24441de59e0682a82e5e?utm_campaign=1049&utm_source=git)** | Omaha, NE | On Site | Jun 09 |
 | **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28c0b01dbd8437bebcd0bd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jun 09 |
-| **[Alkira, Inc.](https://www.alkira.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a28b30b7061b51a3a5f7669?utm_campaign=1049&utm_source=git)** | San Jose, California, United States | On Site | Jun 09 |
 | **[Weld RE-4 School District](https://weldre4.k12.co.us)** | **[Photography, Videography, & Social Media Internship](https://jobright.ai/jobs/info/6a28a249fd37e62bb47aa64e?utm_campaign=1049&utm_source=git)** | Windsor, CO, US | On Site | Jun 09 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28919afd37e62bb47a9fd7?utm_campaign=1049&utm_source=git)** | New York, US | On Site | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2742982056260dd6e8645e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[AITHER](http://www.aither.co)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a27419fca77fd3096d26694?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jun 08 |
 | **[Savory Fund](https://savoryfund.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a273f817d827633afff9b37?utm_campaign=1049&utm_source=git)** | Draper, UT | On Site | Jun 08 |
-| **[Claudia Afshar Design](www.claudiaafshar.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a27350b4ec8d737d6dfe9c0?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
