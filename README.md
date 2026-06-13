@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Aether Manufacturing](https://www.aethermfg.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a2dc017c260bb1b8ae19511?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 13 |
+| **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2dc0aec260bb1b8ae19524?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 13 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jun 13 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Jun 13 |
 | **[The HEINEKEN Company](http://www.theheinekencompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a13f77c58ee291d8052e458?utm_campaign=1049&utm_source=git)** | Petaluma, CA | Hybrid | Jun 13 |
@@ -84,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f67fd83d714428981fcdc?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Jun 12 |
 | ↳ | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f662b619335383fb2bdbd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[Tombras](http://tombras.com)** | **[Art Director Intern](https://jobright.ai/jobs/info/6a2bdf5ba1d15e3c552f958e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 12 |
@@ -138,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a297365c07d4b6ae1c40712?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jun 09 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Jun 09 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a294923d3ec8317fe13d3a1?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 09 |
-| **[EMCOR Group, Inc.](http://emcorgroup.com)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a0b5e274d932036368703b8?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 09 |
 | **[Neon Logistics](https://www.neon-logistics.com)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a2831f940ac8e329329fb15?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[Neon Postgres](https://neon.tech)** | **[Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a282e2a7061b51a3a5f3ea0?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 09 |
 | **[Worcester Polytechnic Institute](https://www.wpi.edu)** | **[Website Design Summer Intern](https://jobright.ai/jobs/info/6a281d2b1dbd8437bebc8baa?utm_campaign=1049&utm_source=git)** | Worcester, US | Hybrid | Jun 09 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Product Design Intern, EPM End-User - Fall 2026](https://jobright.ai/jobs/info/6a27429d7d827633afff9c71?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 | **[Invariant](http://www.invariantgr.com/)** | **[Fall 2026 Creative Design Intern (DC)](https://jobright.ai/jobs/info/6a27490912f0202342263dad?utm_campaign=1049&utm_source=git)** | Washington,DC,US | On Site | Jun 08 |
 | **[1Password](https://1password.com)** | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a27460a12f0202342263c7f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 08 |
-| ↳ | **[Product Design, Design & UX, Enterprise Password Manager Intern - Fall 2026](https://jobright.ai/jobs/info/6a2742982056260dd6e8645e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
