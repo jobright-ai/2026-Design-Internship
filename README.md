@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a2e6c8dc260bb1b8ae1a398?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 14 |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/69bbb6863b74eb1e2c8a338c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Kech Development](http://www.kechdevelopment.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a2dfd5cf1751b183c81bc51?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 13 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6a2df2a3f1751b183c81baaf?utm_campaign=1049&utm_source=git)** | Mundelein, IL | On Site | Jun 13 |
 | **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2dc0aec260bb1b8ae19524?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 13 |
