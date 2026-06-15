@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9d87b9f4dd0b4d51cb71?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jun 14 |
 | **[Airflow Dynamics](https://www.linkedin.com/company/112301000)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/6a2f118cc260bb1b8ae1aeb8?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Remote | Jun 14 |
 | **[Precept Wine & Spirits](http://preceptwine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c6dddc260bb1b8ae165b9?utm_campaign=1049&utm_source=git)** | Seattle, WA, US | Hybrid | Jun 14 |
 | **[Grayling](http://www.grayling.com/global)** | **[Intern - Creative Strategy](https://jobright.ai/jobs/info/6a2eee5ec260bb1b8ae1ac18?utm_campaign=1049&utm_source=git)** | New York | Hybrid | Jun 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 | **[Think Positive Club](www.thinkpositiveclub.com)** | **[Summer Intern](https://jobright.ai/jobs/info/6a277a96c4af071f66136ecd?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO | Hybrid | Jun 08 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Design Intern](https://jobright.ai/jobs/info/6a27269c12f0202342262fb5?utm_campaign=1049&utm_source=git)** | 50 E North Temple St, Salt Lake City, UT, 84150, US | On Site | Jun 08 |
-| **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a2774c8b6099e359d2825d2?utm_campaign=1049&utm_source=git)** | Long Island City | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
