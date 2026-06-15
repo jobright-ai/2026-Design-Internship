@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tomorrow Lab](https://www.tomorrow-lab.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a304e0d43732c05812e1ac4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 15 |
+| **[Axiom Custom Products](http://axiomcustom.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a304a2d43732c05812e19da?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 15 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9d87b9f4dd0b4d51cb71?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jun 14 |
 | **[Airflow Dynamics](https://www.linkedin.com/company/112301000)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/6a2f118cc260bb1b8ae1aeb8?utm_campaign=1049&utm_source=git)** | Massachusetts, United States | Remote | Jun 14 |
@@ -68,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6a2df2a3f1751b183c81baaf?utm_campaign=1049&utm_source=git)** | Mundelein, IL | On Site | Jun 13 |
-| **[Rancher Hat Bar](www.rancherhatbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2dc0aec260bb1b8ae19524?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 13 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jun 13 |
 | **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a11144512f8b43cf39892a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 13 |
 | ↳ | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a10b9e912f8b43cf3986ff5?utm_campaign=1049&utm_source=git)** | Remote - US | Remote | Jun 13 |
@@ -154,7 +155,6 @@ For a complete list, click the following sortable link below:
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6a28237740ac8e329329f3a3?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | ↳ | **[Interior Design Internship](https://jobright.ai/jobs/info/6a281e997061b51a3a5f35a4?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 09 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a281c4a2d6c332ee52e386c?utm_campaign=1049&utm_source=git)** | Emeryville, CA | Hybrid | Jun 09 |
-| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a0fda70619335383fb2f8d9?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
+| ↳ | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a216d83c00e701fe836e4ff?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 09 |
 | **[Buck Mason](https://www.buckmason.com/)** | **[Men's Design Intern](https://jobright.ai/jobs/info/6927a3e3d47de4798ecdf3b5?utm_campaign=1049&utm_source=git)** | Buck Mason HQ | On Site | Jun 09 |
-| **[BrokerLink](http://www.brokerlink.ca)** | **[UX Design System Intern - 4-Month Internship/Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a21dca3c00e701fe83715d3?utm_campaign=1049&utm_source=git)** | Montréal, Quebec, CAN, CA | On Site | Jun 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
