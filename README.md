@@ -59,11 +59,11 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Wasserman](https://the.team/)** | **[Intern, Production Design](https://jobright.ai/jobs/info/6a308e0689f8f147d3736173?utm_campaign=1049&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), CA | Hybrid | Jun 15 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a306566afabbe533fb8ae68?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f524fd5657fe10af5?utm_campaign=1049&utm_source=git)** | GA, Atlanta, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f093df201d07b13e6?utm_campaign=1049&utm_source=git)** | TX, Dallas, US | Hybrid | Jun 15 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f524fd5657fe10af5?utm_campaign=1049&utm_source=git)** | GA, Atlanta, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655d524fd5657fe10af4?utm_campaign=1049&utm_source=git)** | FL, Tampa, US | Hybrid | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655b43732c05812e2385?utm_campaign=1049&utm_source=git)** | TN, Nashville, US | Hybrid | Jun 15 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a305a7cafabbe533fb8a92e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a3059a0eace377055eb5ce9?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Jun 15 |
@@ -150,11 +150,11 @@ For a complete list, click the following sortable link below:
 | **[Etaily](https://etaily.com)** | **[Creatives Intern](https://jobright.ai/jobs/info/6a291f981dbd8437bebcf173?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
 | **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28c0b01dbd8437bebcd0bd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jun 09 |
+| **[Lakeshirts](http://lakeshirts.com)** | **[Art Automation Design Internship](https://jobright.ai/jobs/info/6a309a31093df201d07b22f3?utm_campaign=1049&utm_source=git)** | Detroit Lakes,MN,US | On Site | Jun 09 |
 | **[Weld RE-4 School District](https://weldre4.k12.co.us)** | **[Photography, Videography, & Social Media Internship](https://jobright.ai/jobs/info/6a28a249fd37e62bb47aa64e?utm_campaign=1049&utm_source=git)** | Windsor, CO, US | On Site | Jun 09 |
 | **[ZGF Architects](https://www.zgf.com/)** | **[ID-1 Intern](https://jobright.ai/jobs/info/6a285749fd37e62bb47a8708?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 09 |
 | **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28919afd37e62bb47a9fd7?utm_campaign=1049&utm_source=git)** | New York, US | On Site | Jun 09 |
 | **[Four Hands](https://fourhands.com)** | **[Art Product Development Intern](https://jobright.ai/jobs/info/6a307781afabbe533fb8b46d?utm_campaign=1049&utm_source=git)** | Austin, TX, US | On Site | Jun 09 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a297365c07d4b6ae1c40712?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jun 09 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0b86cb27fee43e8cd4757?utm_campaign=1049&utm_source=git)** | Playa Vista, California, US | On Site | Jun 09 |
-| **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a294923d3ec8317fe13d3a1?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
