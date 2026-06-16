@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
+| **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
+| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195b35958816970015882?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Golin Ketchum](https://golinketchum.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3193ea2ee3ac1b4beefbd7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a31923ac477a5075f48db59?utm_campaign=1049&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Jun 16 |
@@ -64,11 +68,9 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Internship / Columbus](https://jobright.ai/jobs/info/6a1ddae36b135014dbc98ff0?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 16 |
 | **[Rocket](https://rocket.delivery/null/en)** | **[Product Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a317f73c477a5075f48d499?utm_campaign=1049&utm_source=git)** | Remote, Ontario, Canada | Remote | Jun 16 |
 | **[DB INSURANCE CO., LTD. (U.S. BRANCH)](http://www.dbinsus.com)** | **[Graphic Design & Marketing Intern](https://jobright.ai/jobs/info/6a317f2a2ee3ac1b4beef3c1?utm_campaign=1049&utm_source=git)** | Anaheim, CA | On Site | Jun 16 |
-| **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
-| ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ccc0ff23769fdb1e3fe?utm_campaign=1049&utm_source=git)** | Sammamish, WA | On Site | Jun 16 |
+| **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ccc0ff23769fdb1e3fe?utm_campaign=1049&utm_source=git)** | Sammamish, WA | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a317cbf2ee3ac1b4beef267?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a317cb8c477a5075f48d341?utm_campaign=1049&utm_source=git)** | Kirkland, WA | On Site | Jun 16 |
-| **[INTERPRINT Group](https://www.interprint.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a31767d5958816970014b45?utm_campaign=1049&utm_source=git)** | Pittsfield, MA | On Site | Jun 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cce7b7d514a3bd37b8?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cb2ee3ac1b4beeeec8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[McGill University](http://www.mcgill.ca/)** | **[Program Assistant (Graphic & Web Intern)](https://jobright.ai/jobs/info/6a316de035e80310003a6e8a?utm_campaign=1049&utm_source=git)** | Sherbrooke 550, CA | On Site | Jun 16 |
@@ -115,7 +117,6 @@ For a complete list, click the following sortable link below:
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a2c2155d3ec94183f4bb5d7?utm_campaign=1049&utm_source=git)** | Oklahoma County, US | On Site | Jun 12 |
 | **[//3877](https://www.3877.design)** | **[Interior Design Intern _ DC](https://jobright.ai/jobs/info/6a2c844bf1751b183c818ef3?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a21f6cd902d19201c7bb4ce?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
-| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 12 |
 | **[Oklahoma City Thunder](http://okcthunder.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a2c5468f1751b183c817f7f?utm_campaign=1049&utm_source=git)** | Business Office - Oklahoma City, OK 73102 | On Site | Jun 12 |
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 12 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[SharkNinja](http://www.sharkninja.com)** | **[Summer 2026: Industrial Design Intern (June to September)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jun 11 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2a5e0d2cde2824469c17dd?utm_campaign=1049&utm_source=git)** | Remote, PA, United States of America | Remote | Jun 11 |
 | **[Johnston Paint & Decorating](https://johnstonpaint.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2a19ad495d985b99426e49?utm_campaign=1049&utm_source=git)** | Columbia, MO | On Site | Jun 10 |
-| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jun 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
