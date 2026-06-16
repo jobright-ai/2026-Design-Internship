@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d805958816970014403?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
+| ↳ | **[Design and Visuals Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d77c477a5075f48c91e?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
+| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jun 16 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Design / Graphics Internship](https://jobright.ai/jobs/info/6a31395fc477a5075f48b82d?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 16 |
 | **[Family Health Centers of San Diego](https://www.fhcsd.org/)** | **[Project Designers](https://jobright.ai/jobs/info/6a3125922ee3ac1b4beececd?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 16 |
 | **[Studio Indique](https://www.studioindique.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a30fc5dafabbe533fb8cdba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jun 16 |
@@ -67,8 +70,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f524fd5657fe10af5?utm_campaign=1049&utm_source=git)** | GA, Atlanta, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f093df201d07b13e6?utm_campaign=1049&utm_source=git)** | TX, Dallas, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655d524fd5657fe10af4?utm_campaign=1049&utm_source=git)** | FL, Tampa, US | Hybrid | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655b43732c05812e2385?utm_campaign=1049&utm_source=git)** | TN, Nashville, US | Hybrid | Jun 15 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a305a7cafabbe533fb8a92e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a3059a0eace377055eb5ce9?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Jun 15 |
@@ -112,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f67fd83d714428981fcdc?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Jun 12 |
 | ↳ | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f662b619335383fb2bdbd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 12 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a2983012cde2824469bca72?utm_campaign=1049&utm_source=git)** | 4300 E. Camelback Road, Phoenix, AZ, 85018, US | On Site | Jun 10 |
 | **[IMAX](http://www.imax.com)** | **[Intern, Creative Design Marketing](https://jobright.ai/jobs/info/69f0f4d5825a315d7ca35386?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 10 |
 | **[American Modern Insurance Group](https://www.amig.com/)** | **[Intern - Graphic Design Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6a2921481dbd8437bebcf27c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, US | Hybrid | Jun 10 |
-| **[Etaily](https://etaily.com)** | **[Creatives Intern](https://jobright.ai/jobs/info/6a291f981dbd8437bebcf173?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 10 |
-| **[Goodmans](https://www.goodmans.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a289ab07061b51a3a5f6e31?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 09 |
-| **[CHANEL](https://www.chanel.com/)** | **[Creative Technologist Intern, Open Innovation](https://jobright.ai/jobs/info/6a28c0b01dbd8437bebcd0bd?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jun 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
