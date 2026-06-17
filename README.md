@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15ea91554b0e12c0587402?utm_campaign=1049&utm_source=git)** | Burlington, NC | Hybrid | Jun 17 |
+| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jun 17 |
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 17 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15e5400073182bd92adf38?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Jun 17 |
 | **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC - only NYC](https://jobright.ai/jobs/info/6a325efac477a5075f49122d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
@@ -148,7 +150,6 @@ For a complete list, click the following sortable link below:
 | **[Universal Creative](https://linktr.ee/universalcreative)** | **[Internship, Universal Creative – Digital 3D Media (Themed Entertainment) (Spring 2027)](https://jobright.ai/jobs/info/6a2bc973f1751b183c815d13?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Master Planning (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96ba1d15e3c552f9287?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Architecture and Engineering Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96aa1d15e3c552f9277?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| ↳ | **[Internship, Universal Creative – Interactives Design (ATI) (Spring 2027)](https://jobright.ai/jobs/info/6a2bc8477cd40a338fae3b50?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Show Set Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc843a1d15e3c552f920e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Visual Merchandising (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82dd3ec8317fe1492ef?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship - Horticulture Design](https://jobright.ai/jobs/info/6a2bb8273f691a293d0b8f86?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2aea950ad4053b108c97e1?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 11 |
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Creative Content Communications (Fall 2026)](https://jobright.ai/jobs/info/6a2b326fc07d4b6ae1c49b79?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[CAD Tech Intern - Interior Design](https://jobright.ai/jobs/info/6a2af9b9d3ec8317fe14633e?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, US | On Site | Jun 11 |
-| **[Woof](https://mywoof.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b148b1de59e0682a87df7?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
