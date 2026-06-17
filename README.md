@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[On the Table](https://www.onthetablegroup.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/6a32afe5ce501060b5ce9bbd?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 17 |
 | **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Design Intern – Architecture/ Landscape Architecture](https://jobright.ai/jobs/info/6a32a7397f3fdd180d4c2ab3?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 17 |
+| **[NextPort.AI](http://www.nextport.ai)** | **[Design Intern – Architecture/ Landscape Architecture](https://jobright.ai/jobs/info/6a32baf3649fdf16292ee51d?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 17 |
+| **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 17 |
+| **[On the Table](https://www.onthetablegroup.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/6a32afe5ce501060b5ce9bbd?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 17 |
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eadadc845f4be5bda518?utm_campaign=1049&utm_source=git)** | Coppell, TX | Hybrid | Jun 17 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15e53d128680351d96596b?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jun 17 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15ea91554b0e12c0587402?utm_campaign=1049&utm_source=git)** | Burlington, NC | Hybrid | Jun 17 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jun 17 |
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 17 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15e5400073182bd92adf38?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Jun 17 |
-| **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC - only NYC](https://jobright.ai/jobs/info/6a325efac477a5075f49122d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3239f9c477a5075f490e15?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Fall 2026 Internship](https://jobright.ai/jobs/info/6a32226859588169700184ab?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | ↳ | **[Design and Visuals Fall 2026 Internship](https://jobright.ai/jobs/info/6a322265c477a5075f490a2d?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
@@ -80,8 +81,8 @@ For a complete list, click the following sortable link below:
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Social Media & Photography (56872)](https://jobright.ai/jobs/info/6a31b7400ff23769fdb1fed8?utm_campaign=1049&utm_source=git)** | Moosic, PA 18507 | On Site | Jun 16 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
-| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
-| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | **[Golin Ketchum](https://golinketchum.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3193ea2ee3ac1b4beefbd7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a31923ac477a5075f48db59?utm_campaign=1049&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a31905c595881697001550c?utm_campaign=1049&utm_source=git)** | Renton, WA | On Site | Jun 16 |
@@ -146,8 +147,8 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f67fd83d714428981fcdc?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Jun 12 |
 | ↳ | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f662b619335383fb2bdbd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Universal Creative – Architecture and Engineering Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc96aa1d15e3c552f9277?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | ↳ | **[Internship, Universal Creative – Show Set Design (Spring 2027)](https://jobright.ai/jobs/info/6a2bc843a1d15e3c552f920e?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 | **[Universal Orlando Resort](https://UniversalOrlandoJobs.com)** | **[Internship - Visual Merchandising (Spring 2027)](https://jobright.ai/jobs/info/6a2bb82dd3ec8317fe1492ef?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
-| ↳ | **[Internship - Horticulture Design](https://jobright.ai/jobs/info/6a2bb8273f691a293d0b8f86?utm_campaign=1049&utm_source=git)** | Orlando, FL | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
