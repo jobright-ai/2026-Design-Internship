@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Monument](https://themonument.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a31dd9e5958816970017505?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
+| ↳ | **[Animation Intern](https://jobright.ai/jobs/info/6a31dd9a2ee3ac1b4bef1866?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/6a31d65ac477a5075f48f8d6?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 16 |
 | **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a31ce2ae7b7d514a3bd5bd7?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jun 16 |
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Social Media & Photography (56872)](https://jobright.ai/jobs/info/6a31b7400ff23769fdb1fed8?utm_campaign=1049&utm_source=git)** | Moosic, PA 18507 | On Site | Jun 16 |
@@ -64,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
 | **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Fall 2026 Internship](https://jobright.ai/jobs/info/6a3195b35958816970015882?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Golin Ketchum](https://golinketchum.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3193ea2ee3ac1b4beefbd7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a31923ac477a5075f48db59?utm_campaign=1049&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a31905c595881697001550c?utm_campaign=1049&utm_source=git)** | Renton, WA | On Site | Jun 16 |
@@ -77,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cce7b7d514a3bd37b8?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cb2ee3ac1b4beeeec8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[McGill University](http://www.mcgill.ca/)** | **[Program Assistant (Graphic & Web Intern)](https://jobright.ai/jobs/info/6a316de035e80310003a6e8a?utm_campaign=1049&utm_source=git)** | Sherbrooke 550, CA | On Site | Jun 16 |
-| **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Design and Visuals Fall 2026 Internship](https://jobright.ai/jobs/info/6a315d77c477a5075f48c91e?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jun 16 |
 | **[People Inc.](https://www.people.inc/)** | **[UX Design Intern](https://jobright.ai/jobs/info/69fada7d87a4820e6da827c6?utm_campaign=1049&utm_source=git)** | Fairview, Alberta, Canada | Hybrid | Jun 16 |
 | **[Studio Indique](https://www.studioindique.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a30fc5dafabbe533fb8cdba?utm_campaign=1049&utm_source=git)** | San Francisco, CA | Hybrid | Jun 16 |
@@ -132,8 +132,8 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
-| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
+| ↳ | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3dfa1?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 | **[The N2 Company](https://n2co.com)** | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f67fd83d714428981fcdc?utm_campaign=1049&utm_source=git)** | Wilmington, NC | Remote | Jun 12 |
 | ↳ | **[Advertising Design Intern](https://jobright.ai/jobs/info/6a0f662b619335383fb2bdbd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 12 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/69f27826ecbc8c2f7320a94b?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jun 12 |
