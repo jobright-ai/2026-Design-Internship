@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 17 |
+| ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15e5400073182bd92adf38?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Jun 17 |
 | **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC - only NYC](https://jobright.ai/jobs/info/6a325efac477a5075f49122d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3239f9c477a5075f490e15?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 16 |
 | **[Foundation for Defense of Democracies (FDD)](https://www.fdd.org/)** | **[Data Visualization Fall 2026 Internship](https://jobright.ai/jobs/info/6a32226859588169700184ab?utm_campaign=1049&utm_source=git)** | Washington,DC,US | Hybrid | Jun 16 |
@@ -95,8 +97,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f524fd5657fe10af5?utm_campaign=1049&utm_source=git)** | GA, Atlanta, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f093df201d07b13e6?utm_campaign=1049&utm_source=git)** | TX, Dallas, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655d524fd5657fe10af4?utm_campaign=1049&utm_source=git)** | FL, Tampa, US | Hybrid | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655b43732c05812e2385?utm_campaign=1049&utm_source=git)** | TN, Nashville, US | Hybrid | Jun 15 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a305a7cafabbe533fb8a92e?utm_campaign=1049&utm_source=git)** | Tampa, FL | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a3059a0eace377055eb5ce9?utm_campaign=1049&utm_source=git)** | Nashville, TN | Hybrid | Jun 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Volvo Group](http://www.volvogroup.com)** | **[Intern: Creative Content Communications (Fall 2026)](https://jobright.ai/jobs/info/6a2b326fc07d4b6ae1c49b79?utm_campaign=1049&utm_source=git)** | Dublin, VA | On Site | Jun 11 |
 | **[PulteGroup](http://www.pultegroupinc.com)** | **[CAD Tech Intern - Interior Design](https://jobright.ai/jobs/info/6a2af9b9d3ec8317fe14633e?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, US | On Site | Jun 11 |
 | **[Woof](https://mywoof.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b148b1de59e0682a87df7?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 11 |
-| **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jun 11 |
-| **[HB Workplaces](https://hbdg.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a2afd1a0ad4053b108c9ffb?utm_campaign=1049&utm_source=git)** | Las Vegas, Nevada, United States | On Site | Jun 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
