@@ -72,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Social Media & Photography (56872)](https://jobright.ai/jobs/info/6a31b7400ff23769fdb1fed8?utm_campaign=1049&utm_source=git)** | Moosic, PA 18507 | On Site | Jun 16 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
-| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
-| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | **[Golin Ketchum](https://golinketchum.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3193ea2ee3ac1b4beefbd7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a31923ac477a5075f48db59?utm_campaign=1049&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a31905c595881697001550c?utm_campaign=1049&utm_source=git)** | Renton, WA | On Site | Jun 16 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[ARCH Motorcycle](https://archmotorcycle.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a30a185eace377055eb73a9?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 15 |
 | **[Wasserman](https://the.team/)** | **[Intern, Production Design](https://jobright.ai/jobs/info/6a308e0689f8f147d3736173?utm_campaign=1049&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), CA | Hybrid | Jun 15 |
 | **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a306566afabbe533fb8ae68?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f093df201d07b13e6?utm_campaign=1049&utm_source=git)** | TX, Dallas, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f524fd5657fe10af5?utm_campaign=1049&utm_source=git)** | GA, Atlanta, US | Hybrid | Jun 15 |
+| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655f093df201d07b13e6?utm_campaign=1049&utm_source=git)** | TX, Dallas, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655d524fd5657fe10af4?utm_campaign=1049&utm_source=git)** | FL, Tampa, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655b43732c05812e2385?utm_campaign=1049&utm_source=git)** | TN, Nashville, US | Hybrid | Jun 15 |
