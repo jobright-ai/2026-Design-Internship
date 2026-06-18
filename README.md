@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a339c1a910b7349107159a4?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 18 |
 | **[SideKix HQ Inc.](SideKixHQ.com)** | **[Product Designer (Intern)](https://jobright.ai/jobs/info/6a3345d8ce501060b5cecdd7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Give America Morals Again](http://giveamericamoralsagain.com)** | **[Content & Creative Intern (Social Media)](https://jobright.ai/jobs/info/6a332a3b7f3fdd180d4c5dc6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Louis Vuitton](https://eu.louisvuitton.com)** | **[Visual Merchandising Intern - 2026](https://jobright.ai/jobs/info/6a3327e0910b7349107142d3?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 17 |
@@ -65,9 +66,9 @@ For a complete list, click the following sortable link below:
 | **[Contempo Media](https://contempomedia.ca)** | **[Social Media Editor Intern](https://jobright.ai/jobs/info/6a334d46ce501060b5cecf48?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
 | **[Mo Life Sports](https://www.linkedin.com/company/107486902)** | **[Sports Media Intern (Videographer/Photographer)](https://jobright.ai/jobs/info/6a336e1d649fdf16292f201e?utm_campaign=1049&utm_source=git)** | Houston, TX | Hybrid | Jun 17 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
 | **[Lori's Gifts](http://lorisgifts.com)** | **[Store Planner - Intern/Summer Project](https://jobright.ai/jobs/info/6a32f5ba649fdf16292efcec?utm_campaign=1049&utm_source=git)** | Plano, TX | On Site | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a32d3177f3fdd180d4c39d0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 17 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Graphics Design Internship](https://jobright.ai/jobs/info/6a2c0f5a7cd40a338fae4711?utm_campaign=1049&utm_source=git)** | Estero, FL | Hybrid | Jun 12 |
 | ↳ | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a2c0f55f1751b183c81689f?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 12 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f303118feca91f149293c9?utm_campaign=1049&utm_source=git)** | Kanata, Ontario, Canada | On Site | Jun 12 |
-| **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2c0cabf1751b183c81681c?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
