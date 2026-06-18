@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Acadium](http://www.acadium.com)** | **[Graphic Design & Video Marketing Intern](https://jobright.ai/jobs/info/6a3403791232144fb155db30?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 18 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Website Management Internship](https://jobright.ai/jobs/info/6a340847ce501060b5ceefbf?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jun 18 |
 | **[Cognié](www.cognie-paris.com)** | **[Content Creator Intern NYC - only NYC STUDENTS](https://jobright.ai/jobs/info/6a33af95ce501060b5ceddf1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a339c1a910b7349107159a4?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 18 |
 | **[SideKix HQ Inc.](SideKixHQ.com)** | **[Product Designer (Intern)](https://jobright.ai/jobs/info/6a3345d8ce501060b5cecdd7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
@@ -66,9 +67,9 @@ For a complete list, click the following sortable link below:
 | **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Retell](https://retellai.com)** | **[Design System Intern](https://jobright.ai/jobs/info/6a331fc9f6b55d12c7917e19?utm_campaign=1049&utm_source=git)** | Redwood City, CA, US | On Site | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a32d3177f3fdd180d4c39d0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 17 |
 | **[Accelint](https://accelint.com)** | **[Graphic Design Internship (AI)](https://jobright.ai/jobs/info/6a32cbb329c90c607e4d8133?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
@@ -117,8 +118,6 @@ For a complete list, click the following sortable link below:
 | **[THE·TEAM](http://the.team)** | **[Intern, Production Design](https://jobright.ai/jobs/info/6a30dc1a43732c05812e3faa?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 15 |
 | **[ARCH Motorcycle](https://archmotorcycle.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a30a185eace377055eb73a9?utm_campaign=1049&utm_source=git)** | Los Angeles, California, United States | On Site | Jun 15 |
 | **[Wasserman](https://the.team/)** | **[Intern, Production Design](https://jobright.ai/jobs/info/6a308e0689f8f147d3736173?utm_campaign=1049&utm_source=git)** | CAN - Toronto Office (Hanna Avenue), CA | Hybrid | Jun 15 |
-| **[RFG Advisory](https://www.rfgadvisory.com/)** | **[Digital Content Intern](https://jobright.ai/jobs/info/6a306566afabbe533fb8ae68?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 15 |
-| ↳ | **[Digital Content Intern](https://jobright.ai/jobs/info/6a30655bafabbe533fb8ae63?utm_campaign=1049&utm_source=git)** | AL, Birmingham, US | Hybrid | Jun 15 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Co-op Student - Fall 2026](https://jobright.ai/jobs/info/6a307532eace377055eb6727?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 15 |
 | **[Tomorrow Lab](https://www.tomorrow-lab.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a304e0d43732c05812e1ac4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6a2c0cabf1751b183c81681c?utm_campaign=1049&utm_source=git)** | Pennsylvania, United States | Remote | Jun 12 |
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a2c0943a1d15e3c552f9b90?utm_campaign=1049&utm_source=git)** | Raleigh, North Carolina, United States | On Site | Jun 12 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 12 |
+| **[Nokia](http://www.nokia.com)** | **[User Experience Researcher Co-op/Intern](https://jobright.ai/jobs/info/69f2b070ecbc8c2f7320bf54?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
