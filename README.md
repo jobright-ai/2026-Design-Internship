@@ -57,11 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[gravillis™](http://www.gravillisinc.com)** | **[Motion Design Intern (Project Based)](https://jobright.ai/jobs/info/6a34dfd11232144fb1561939?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Creative Content Internship](https://jobright.ai/jobs/info/6a34a0f0649fdf16292f6ad9?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 18 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Technical Design Intern- Fall'26](https://jobright.ai/jobs/info/6a349cfc7f3fdd180d4cb391?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 18 |
 | **[GenPark](https://genpark.ai)** | **[User Experience Intern](https://jobright.ai/jobs/info/6a349c3b7f3fdd180d4cb373?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
 | **[Candace Marie](https://www.candacemarie.co/)** | **[Digital & Creative Operations Intern](https://jobright.ai/jobs/info/6a3480e3649fdf16292f63ab?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jun 18 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Jun 18 |
 | **[Kr8 Agency](https://www.kr8.agency/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a34629e7f3fdd180d4ca4b8?utm_campaign=1049&utm_source=git)** | LA Metro Area | Remote | Jun 18 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a3455ba1232144fb155f7a7?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 18 |
@@ -89,15 +90,14 @@ For a complete list, click the following sortable link below:
 | **[Retell](https://retellai.com)** | **[Design System Intern](https://jobright.ai/jobs/info/6a331fc9f6b55d12c7917e19?utm_campaign=1049&utm_source=git)** | Redwood City, CA, US | On Site | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
 | **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Icon Train Smarter](http://icontraining.app)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3433c1649fdf16292f49a2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a32d3177f3fdd180d4c39d0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 17 |
 | **[Accelint](https://accelint.com)** | **[Graphic Design Internship (AI)](https://jobright.ai/jobs/info/6a32cbb329c90c607e4d8133?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
 | ↳ | **[Graphic Design Internship (AI)](https://jobright.ai/jobs/info/6a32cbb329c90c607e4d8132?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
 | ↳ | **[Graphic Design Internship (AI)](https://jobright.ai/jobs/info/6a32cbb029c90c607e4d812e?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
-| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Design Intern – Architecture/ Landscape Architecture](https://jobright.ai/jobs/info/6a32a7397f3fdd180d4c2ab3?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 17 |
 | **[NextPort.AI](http://www.nextport.ai)** | **[Design Intern – Architecture/ Landscape Architecture](https://jobright.ai/jobs/info/6a32baf3649fdf16292ee51d?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 17 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jun 17 |
 | **[On the Table](https://www.onthetablegroup.com/)** | **[Design & Marketing Intern](https://jobright.ai/jobs/info/6a32afe5ce501060b5ce9bbd?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 17 |
@@ -109,6 +109,7 @@ For a complete list, click the following sortable link below:
 | **[STMicroelectronics](https://www.st.com)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15eafc128680351d965c89?utm_campaign=1049&utm_source=git)** | Schaumburg, IL | Hybrid | Jun 17 |
 | ↳ | **[Multimedia Intern](https://jobright.ai/jobs/info/6a15e5400073182bd92adf38?utm_campaign=1049&utm_source=git)** | Santa Clara, CA | Hybrid | Jun 17 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6a16171b0073182bd92afe5d?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Jun 17 |
+| **[Moffatt & Nichol](https://www.moffattnichol.com/)** | **[Resilience Intern – Planning/Landscape Architecture](https://jobright.ai/jobs/info/6a32a7397f3fdd180d4c2ab3?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jun 17 |
 | **[Dashing Diva](https://dashingdiva.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3239f9c477a5075f490e15?utm_campaign=1049&utm_source=git)** | Port Washington, NY | On Site | Jun 16 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Internship Fall 2026 — Bags & Accessories](https://jobright.ai/jobs/info/6a323c7c0ff23769fdb2211e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[The Monument](https://themonument.com)** | **[Senior Designer](https://jobright.ai/jobs/info/6a321401e7b7d514a3bd6d2b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 14 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6a2df2a3f1751b183c81baaf?utm_campaign=1049&utm_source=git)** | Mundelein, IL | On Site | Jun 13 |
-| **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
