@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[GenPark](https://genpark.ai)** | **[UI/UX Intern](https://jobright.ai/jobs/info/6a3484411232144fb1560671?utm_campaign=1049&utm_source=git)** | Seattle, WA | Hybrid | Jun 18 |
+| **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Creative Content Internship](https://jobright.ai/jobs/info/6a34a0f0649fdf16292f6ad9?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 18 |
+| **[Dagne Dover](http://www.dagnedover.com)** | **[Technical Design Intern- Fall'26](https://jobright.ai/jobs/info/6a349cfc7f3fdd180d4cb391?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 18 |
+| **[GenPark](https://genpark.ai)** | **[User Experience Intern](https://jobright.ai/jobs/info/6a349c3b7f3fdd180d4cb373?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jun 18 |
 | **[Candace Marie](https://www.candacemarie.co/)** | **[Digital & Creative Operations Intern](https://jobright.ai/jobs/info/6a3480e3649fdf16292f63ab?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto | On Site | Jun 18 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Retell](https://retellai.com)** | **[Design System Intern](https://jobright.ai/jobs/info/6a331fc9f6b55d12c7917e19?utm_campaign=1049&utm_source=git)** | Redwood City, CA, US | On Site | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Icon Train Smarter](http://icontraining.app)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3433c1649fdf16292f49a2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 14 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Commercial Landscape Internship](https://jobright.ai/jobs/info/6a2df2a3f1751b183c81baaf?utm_campaign=1049&utm_source=git)** | Mundelein, IL | On Site | Jun 13 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jun 13 |
-| **[Utah Jazz](http://www.nba.com/jazz)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6a0ba073a235d749afa8764e?utm_campaign=1049&utm_source=git)** | Sandy, UT | On Site | Jun 13 |
-| **[CentralReach](http://www.centralreach.com)** | **[UX Product Design Summer Intern](https://jobright.ai/jobs/info/6a11144512f8b43cf39892a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
