@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a36e60329c90c607e4e5b50?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
+| **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19faefc2a87d6cd3dfcae2?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
+| ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a36e60329c90c607e4e5b50?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
 | **[Torentify](https://torentify.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a36e5e8a0f3e56e86d6c01e?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Jun 20 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a36cca5649fdf16292fc49c?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Jun 20 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jun 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cce7b7d514a3bd37b8?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cb2ee3ac1b4beeeec8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[McGill University](http://www.mcgill.ca/)** | **[Program Assistant (Graphic & Web Intern)](https://jobright.ai/jobs/info/6a316de035e80310003a6e8a?utm_campaign=1049&utm_source=git)** | Sherbrooke 550, CA | On Site | Jun 16 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
