@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 19 |
+| **[Basis Set](https://www.basisset.com)** | **[Visual Journalist Intern (Photo + Video), Snappr News](https://jobright.ai/jobs/info/6a365f8f1232144fb1565a3e?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Innovation Intern](https://jobright.ai/jobs/info/6a35e2077f3fdd180d4cf331?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6a35e1fef6b55d12c7921af1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a356376f6b55d12c791f8fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a3559a91232144fb1562cf5?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 19 |
@@ -72,8 +74,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a290d5d40ac8e32932a508c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2123ff4bdf8a5a96bd4b7d?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d56e89f8f147d3736fe1?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| ↳ | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| ↳ | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
 | **[gravillis™](http://www.gravillisinc.com)** | **[Motion Design Intern (Project Based)](https://jobright.ai/jobs/info/6a34dfd11232144fb1561939?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Creative Content Internship](https://jobright.ai/jobs/info/6a34a0f0649fdf16292f6ad9?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 18 |
@@ -100,9 +102,9 @@ For a complete list, click the following sortable link below:
 | **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Retell](https://retellai.com)** | **[Design System Intern](https://jobright.ai/jobs/info/6a331fc9f6b55d12c7917e19?utm_campaign=1049&utm_source=git)** | Redwood City, CA, US | On Site | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Icon Train Smarter](http://icontraining.app)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3433c1649fdf16292f49a2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 17 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a32d3177f3fdd180d4c39d0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 15 |
 | **[Stantec](http://www.stantec.com)** | **[Architectural Co-op Student - Fall 2026](https://jobright.ai/jobs/info/6a307532eace377055eb6727?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jun 15 |
 | **[Tomorrow Lab](https://www.tomorrow-lab.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a304e0d43732c05812e1ac4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY | Hybrid | Jun 15 |
-| **[Axiom Custom Products](http://axiomcustom.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a304a2d43732c05812e19da?utm_campaign=1049&utm_source=git)** | Portland, OR | On Site | Jun 15 |
-| **[PC Construction Company](https://pcconstruction.com)** | **[Craft Intern](https://jobright.ai/jobs/info/693227594c474121999f7788?utm_campaign=1049&utm_source=git)** | South Burlington, VT | On Site | Jun 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
