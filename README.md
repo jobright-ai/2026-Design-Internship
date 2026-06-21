@@ -57,13 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Art Daily (RAD) Productions](https://radprod.com)** | **[2D Visual Arts, Animation & Creative Content Intern](https://jobright.ai/jobs/info/6a37b0201232144fb1567b8f?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jun 21 |
 | **[Stem Health](https://www.stemhealth.ca)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a37835ace501060b5cf8837?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 20 |
 | **[Garuda Ventures](https://garuda.vc)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a376a6129c90c607e4e662b?utm_campaign=1049&utm_source=git)** | Redmond, WA | On Site | Jun 20 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a3769e529c90c607e4e6616?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 20 |
 | **[Howl Marketing](https://howl-marketing.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a3737e81232144fb15672d9?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19faefc2a87d6cd3dfcae2?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a36e60329c90c607e4e5b50?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
-| **[Torentify](https://torentify.com/)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a36e5e8a0f3e56e86d6c01e?utm_campaign=1049&utm_source=git)** | Boca Raton, FL | On Site | Jun 20 |
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a36cca5649fdf16292fc49c?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Jun 20 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jun 20 |
 | **[NPR](http://www.npr.org)** | **[Editorial Graphics & Education Internship - Fall 2026](https://jobright.ai/jobs/info/6a36ba0e649fdf16292fc21a?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Jun 20 |
@@ -76,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Innovation Intern](https://jobright.ai/jobs/info/6a35e2077f3fdd180d4cf331?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6a35e1fef6b55d12c7921af1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a356376f6b55d12c791f8fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a3559a91232144fb1562cf5?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 19 |
