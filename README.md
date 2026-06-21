@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[SEYN. Beauty](https://www.linkedin.com/company/107938265)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a383cdf29c90c607e4e75c8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 21 |
 | **[Stem Health](https://www.stemhealth.ca)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a37835ace501060b5cf8837?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 20 |
 | **[Howl Marketing](https://howl-marketing.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a3737e81232144fb15672d9?utm_campaign=1049&utm_source=git)** | Miami, FL | Remote | Jun 20 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19faefc2a87d6cd3dfcae2?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
@@ -84,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a290d5d40ac8e32932a508c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2123ff4bdf8a5a96bd4b7d?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d56e89f8f147d3736fe1?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| ↳ | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| ↳ | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3787bace501060b5cf887b?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Hybrid | Jun 18 |
 | **[gravillis™](http://www.gravillisinc.com)** | **[Motion Design Intern (Project Based)](https://jobright.ai/jobs/info/6a34dfd11232144fb1561939?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
@@ -145,8 +144,8 @@ For a complete list, click the following sortable link below:
 | **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Social Media & Photography (56872)](https://jobright.ai/jobs/info/6a31b7400ff23769fdb1fed8?utm_campaign=1049&utm_source=git)** | Moosic, PA 18507 | On Site | Jun 16 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a317ef55958816970014f34?utm_campaign=1049&utm_source=git)** | Bellevue, WA | On Site | Jun 16 |
-| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
-| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| **[Li & Fung](http://www.lifung.com)** | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901aa304539ea1f2142222e?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| ↳ | **[Womenswear Design Intern - Branded & Licensed Apparel](https://jobright.ai/jobs/info/6901a95ad5259a1b3cff708a?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
 | **[Golin Ketchum](https://golinketchum.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3193ea2ee3ac1b4beefbd7?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 16 |
 | **[Armada](https://www.armada.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6a31923ac477a5075f48db59?utm_campaign=1049&utm_source=git)** | Bellevue Office, Sunset Corporate Campus | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a31905c595881697001550c?utm_campaign=1049&utm_source=git)** | Renton, WA | On Site | Jun 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a317cbf2ee3ac1b4beef267?utm_campaign=1049&utm_source=git)** | Bothell, WA | On Site | Jun 16 |
 | ↳ | **[UX Design Intern](https://jobright.ai/jobs/info/6a317cb8c477a5075f48d341?utm_campaign=1049&utm_source=git)** | Kirkland, WA | On Site | Jun 16 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cce7b7d514a3bd37b8?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 16 |
+| ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3175cb2ee3ac1b4beeeec8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
