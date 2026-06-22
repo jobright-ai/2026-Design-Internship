@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Monigle](https://www.monigle.com)** | **[Experience Design Intern](https://jobright.ai/jobs/info/6a39b5aff6b55d12c7929d9e?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 22 |
+| **[Mullins Media Co](www.mullinsmediaco.com)** | **[Media Intern](https://jobright.ai/jobs/info/6a39af6306a4fd4b1fabb9d7?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jun 22 |
+| **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a39a95c6484fb75f2b33126?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
 | **[Princeton University Press](http://press.princeton.edu)** | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f696484fb75f2b32d02?utm_campaign=1049&utm_source=git)** | Remote, Pennsylvania | Remote | Jun 22 |
 | ↳ | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f676484fb75f2b32d01?utm_campaign=1049&utm_source=git)** | Remote, New Jersey | Remote | Jun 22 |
 | ↳ | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f596484fb75f2b32cfc?utm_campaign=1049&utm_source=git)** | Princeton NJ - Princeton, NJ 08540 | Hybrid | Jun 22 |
@@ -93,8 +96,8 @@ For a complete list, click the following sortable link below:
 | **[Interac Corp.](http://www.interac.ca)** | **[Innovation Intern](https://jobright.ai/jobs/info/6a35e2077f3fdd180d4cf331?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6a35e1fef6b55d12c7921af1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a356376f6b55d12c791f8fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a3559a91232144fb1562cf5?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Internship Fall 2026 — Bags & Accessories](https://jobright.ai/jobs/info/6a323c7c0ff23769fdb2211e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[The Monument](https://themonument.com)** | **[Senior Designer](https://jobright.ai/jobs/info/6a321401e7b7d514a3bd6d2b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
 | ↳ | **[3D Arch Viz Artist](https://jobright.ai/jobs/info/6a3213fee7b7d514a3bd6d2a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a31dd9e5958816970017505?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
-| ↳ | **[Animation Intern](https://jobright.ai/jobs/info/6a31dd9a2ee3ac1b4bef1866?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall Interior Design Internship / Cincinnati](https://jobright.ai/jobs/info/6a31d65ac477a5075f48f8d6?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
