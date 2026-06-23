@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pulse NWA](https://pulsenwa.com/Home)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a39f2ee649fdf162930361c?utm_campaign=1049&utm_source=git)** | Bentonville, AR | Hybrid | Jun 22 |
+| **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics - Remote](https://jobright.ai/jobs/info/6a39ee2b1232144fb156dba8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 22 |
 | **[Monigle](https://www.monigle.com)** | **[Experience Design Intern](https://jobright.ai/jobs/info/6a39b5aff6b55d12c7929d9e?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 22 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a167b4f554b0e12c058c8fb?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
@@ -72,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Internship – Video Production & Motion Graphics - Remote](https://jobright.ai/jobs/info/6a399bb806a4fd4b1fabb1b8?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | Remote | Jun 22 |
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a39941af6b55d12c7928e0a?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Jun 22 |
-| **[Li & Fung](http://www.lifung.com)** | **[Merchandising Product Design Admin Intern](https://jobright.ai/jobs/info/6a39696906a4fd4b1fab9ed2?utm_campaign=1049&utm_source=git)** | Chicago, US | On Site | Jun 22 |
+| **[Li & Fung](http://www.lifung.com)** | **[Merchandising Product Design Admin Intern](https://jobright.ai/jobs/info/6a39696c1232144fb156b232?utm_campaign=1049&utm_source=git)** | Chicago, US | On Site | Jun 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Jun 22 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 22 |
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Visual Development Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a3987a06484fb75f2b323c6?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Jun 22 |
@@ -132,8 +134,8 @@ For a complete list, click the following sortable link below:
 | **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX | On Site | Jun 17 |
 | **[Retell](https://retellai.com)** | **[Design System Intern](https://jobright.ai/jobs/info/6a331fc9f6b55d12c7917e19?utm_campaign=1049&utm_source=git)** | Redwood City, CA, US | On Site | Jun 17 |
 | **[Third Lens](https://www.thirdlens.org)** | **[Photography / Videography Student Intern](https://jobright.ai/jobs/info/6a3303c87f3fdd180d4c5091?utm_campaign=1049&utm_source=git)** | Auburn, AL | On Site | Jun 17 |
-| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
-| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
+| **[Soar Technology, LLC](http://www.soartech.com)** | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af1?utm_campaign=1049&utm_source=git)** | Ann Arbor, MI | Hybrid | Jun 17 |
+| ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3ef6b55d12c7915af0?utm_campaign=1049&utm_source=git)** | Orlando, FL | Hybrid | Jun 17 |
 | ↳ | **[Graphic Artist Internship](https://jobright.ai/jobs/info/6a32cc3cf6b55d12c7915aee?utm_campaign=1049&utm_source=git)** | Remote (United States) | Remote | Jun 17 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jun 17 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a32d3177f3fdd180d4c39d0?utm_campaign=1049&utm_source=git)** | Matawan, NJ 07747, USA | Hybrid | Jun 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Product Design Internship Fall 2026 — Bags & Accessories](https://jobright.ai/jobs/info/6a323c7c0ff23769fdb2211e?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 16 |
 | **[The Monument](https://themonument.com)** | **[Senior Designer](https://jobright.ai/jobs/info/6a321401e7b7d514a3bd6d2b?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 16 |
 | ↳ | **[3D Arch Viz Artist](https://jobright.ai/jobs/info/6a3213fee7b7d514a3bd6d2a?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a31dd9e5958816970017505?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
-| ↳ | **[Animation Intern](https://jobright.ai/jobs/info/6a31dd9a2ee3ac1b4bef1866?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
