@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a3996796484fb75f2b328f3?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | Hybrid | Jun 22 |
 | **[Monigle](https://www.monigle.com)** | **[Experience Design Intern](https://jobright.ai/jobs/info/6a39b5aff6b55d12c7929d9e?utm_campaign=1049&utm_source=git)** | Denver, CO | Hybrid | Jun 22 |
 | **[Mullins Media Co](www.mullinsmediaco.com)** | **[Media Intern](https://jobright.ai/jobs/info/6a39af6306a4fd4b1fabb9d7?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jun 22 |
@@ -67,6 +70,7 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a399c586484fb75f2b32b6c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 22 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a399bbe6484fb75f2b32b38?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 22 |
 | ↳ | **[Creative Internship – Video Production & Motion Graphics - Remote](https://jobright.ai/jobs/info/6a399bb806a4fd4b1fabb1b8?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | Remote | Jun 22 |
+| **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jun 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a39941af6b55d12c7928e0a?utm_campaign=1049&utm_source=git)** | Mobile, AL | On Site | Jun 22 |
 | **[Li & Fung](http://www.lifung.com)** | **[Merchandising Product Design Admin Intern](https://jobright.ai/jobs/info/6a39696c1232144fb156b232?utm_campaign=1049&utm_source=git)** | Chicago, US | On Site | Jun 22 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Jun 22 |
@@ -88,16 +92,12 @@ For a complete list, click the following sortable link below:
 | **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a36cca5649fdf16292fc49c?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Jun 20 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK | On Site | Jun 20 |
 | **[Gen Auto AI](https://genauto.ai)** | **[UI/UX Internship – Autonomous Vehicles](https://jobright.ai/jobs/info/6a368fb3a0f3e56e86d6b89f?utm_campaign=1049&utm_source=git)** | Piscataway, NJ | Hybrid | Jun 20 |
-| **[Opus Agency](http://www.opusagency.com/)** | **[Creative Intern (Graphic Design)](https://jobright.ai/jobs/info/6a19d8046b135014dbc869d0?utm_campaign=1049&utm_source=git)** | Beaverton (Hybrid), Oregon | Hybrid | Jun 20 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 20 |
 | **[The Greater Oklahoma City Hispanic Chamber of Commerce](http://www.okchispanicchamber.org)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a368dc4a0f3e56e86d6b871?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK | On Site | Jun 20 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a167b4f554b0e12c058c8fb?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 20 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Innovation Intern](https://jobright.ai/jobs/info/6a35e2077f3fdd180d4cf331?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6a35e1fef6b55d12c7921af1?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 19 |
-| **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a11d35812f8b43cf398b6e2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 19 |
 | **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a356376f6b55d12c791f8fe?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 19 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Onsite - Creative Internship – Video Production & Motion Graphics](https://jobright.ai/jobs/info/6a3559a91232144fb1562cf5?utm_campaign=1049&utm_source=git)** | Cedar Park, TX | On Site | Jun 19 |
 | **[Metropolitan Transportation Authority](https:/mta.info/)** | **[Architectural, Emerging Talent Intern (Fall)](https://jobright.ai/jobs/info/69fbf69776c60e7b70af1168?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 19 |
@@ -107,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a290d5d40ac8e32932a508c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
 | **[Primera Engineers](https://primeraeng.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2123ff4bdf8a5a96bd4b7d?utm_campaign=1049&utm_source=git)** | Chicago,IL,US | On Site | Jun 19 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Intern [TikTok-Design-UX]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a30d56e89f8f147d3736fe1?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jun 19 |
-| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
-| ↳ | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Design Internship](https://jobright.ai/jobs/info/6a34f81c649fdf16292f79dc?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
+| ↳ | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a34f81cce501060b5cf2e4a?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jun 19 |
 | **[Interac Corp.](http://www.interac.ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a3787bace501060b5cf887b?utm_campaign=1049&utm_source=git)** | Toronto, Canada | Hybrid | Jun 18 |
 | **[gravillis™](http://www.gravillisinc.com)** | **[Motion Design Intern (Project Based)](https://jobright.ai/jobs/info/6a34dfd11232144fb1561939?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 18 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Intern, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jun 18 |
