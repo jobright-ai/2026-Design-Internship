@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Readeezy](http://readeezy.com)** | **[Illustrator Internship](https://jobright.ai/jobs/info/6a3d528b122f340d29ceff54?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
+| **[The Patel Comics](https://thepatelcomics.com/)** | **[Concept & Character Artist Intern](https://jobright.ai/jobs/info/6a3d4cf24d047136e0932d26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
+| **[Rhinegeist Brewery](https://rhinegeist.com/)** | **[Content & Ad Creative Internship](https://jobright.ai/jobs/info/6a3d42eb122f340d29cefbcb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 | **[Huniford Design Studio](https://huniford.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a3d39be882f121f56a367d8?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 25 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a3d2216882f121f56a36332?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 25 |
 | **[Tamatem Games](https://tamatem.co)** | **[Intern - Video Editing & Motion Graphics](https://jobright.ai/jobs/info/6a3d0410882f121f56a35ed9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
@@ -68,12 +71,12 @@ For a complete list, click the following sortable link below:
 | **[Schmidt Ocean Institute](http://schmidtocean.org/)** | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3d2be7882f121f56a3648b?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a3c3940882f121f56a33e68?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 24 |
 | **[Schmidt Sciences](https://www.schmidtsciences.org/)** | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0276982bb239f812deb3?utm_campaign=1049&utm_source=git)** | *Remote, Florida | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0273982bb239f812deb0?utm_campaign=1049&utm_source=git)** | *Remote, North Carolina | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0271982bb239f812deac?utm_campaign=1049&utm_source=git)** | *Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0270982bb239f812deab?utm_campaign=1049&utm_source=git)** | *Remote, New York | Remote | Jun 24 |
 | **[Luminari Furniture](https://luminarifurniture.com/)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/6a3ca782982bb239f813033d?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Jun 24 |
@@ -104,8 +107,8 @@ For a complete list, click the following sortable link below:
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c32c0c4972328e7e5868?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 22 |
 | **[MIRA Safety](https://www.mirasafety.com)** | **[Creative Internship – Video Production & Motion Graphics - Remote](https://jobright.ai/jobs/info/6a39ee2b1232144fb156dba8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 22 |
 | **[LPA, Inc.](http://www.lpadesignstudios.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a167b4f554b0e12c058c8fb?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/69fa44eddb88714bcdfc1fb2?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a2186daca8f0b365d7a6877?utm_campaign=1049&utm_source=git)** | San Diego, CA | On Site | Jun 22 |
 | **[DLR Group](http://www.dlrgroup.com/)** | **[High School Intern](https://jobright.ai/jobs/info/6a3996796484fb75f2b328f3?utm_campaign=1049&utm_source=git)** | Tucson, Arizona, United States | Hybrid | Jun 22 |
 | **[Mullins Media Co](www.mullinsmediaco.com)** | **[Media Intern](https://jobright.ai/jobs/info/6a39af6306a4fd4b1fabb9d7?utm_campaign=1049&utm_source=git)** | Lynchburg, VA | Hybrid | Jun 22 |
 | **[JCDecaux North America, Inc.](http://www.jcdecauxna.com/)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a39a95c6484fb75f2b33126?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 22 |
@@ -147,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jun 18 |
 | **[Florida Everblades Professional Hockey Club](http://floridaeverblades.com)** | **[Creative Content Internship](https://jobright.ai/jobs/info/6a34a0f0649fdf16292f6ad9?utm_campaign=1049&utm_source=git)** | Estero, FL | On Site | Jun 18 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Technical Design Intern- Fall'26](https://jobright.ai/jobs/info/6a349cfc7f3fdd180d4cb391?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 18 |
-| **[Candace Marie](https://www.candacemarie.co/)** | **[Digital & Creative Operations Intern](https://jobright.ai/jobs/info/6a3480e3649fdf16292f63ab?utm_campaign=1049&utm_source=git)** | NYC Metro Area | Hybrid | Jun 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
