@@ -83,9 +83,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0273982bb239f812deb0?utm_campaign=1049&utm_source=git)** | *Remote, North Carolina | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0271982bb239f812deac?utm_campaign=1049&utm_source=git)** | *Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0270982bb239f812deab?utm_campaign=1049&utm_source=git)** | *Remote, New York | Remote | Jun 24 |
 | **[Luminari Furniture](https://luminarifurniture.com/)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/6a3ca782982bb239f813033d?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Jun 24 |
