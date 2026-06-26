@@ -57,8 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Virtual IP](https://virtualipus.com)** | **[UI/UX designer Intern](https://jobright.ai/jobs/info/6a3e91d878237a036d5e4658?utm_campaign=1049&utm_source=git)** | Texas, United States | Remote | Jun 26 |
-| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a3e8fd4882f121f56a3a6c6?utm_campaign=1049&utm_source=git)** | San Jose, California, United States of America | On Site | Jun 26 |
+| **[Greenstone Partners](https://www.greenstone-partners.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3e9805122f340d29cf3bf4?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/6a3e698a122f340d29cf3274?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | Hybrid | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 26 |
@@ -86,12 +85,12 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Creative Video Intern - Fall 2026](https://jobright.ai/jobs/info/6a3d7f0a122f340d29cf0d67?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a3c3940882f121f56a33e68?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 24 |
 | **[Schmidt Sciences](https://www.schmidtsciences.org/)** | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0276982bb239f812deb3?utm_campaign=1049&utm_source=git)** | *Remote, Florida | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0273982bb239f812deb0?utm_campaign=1049&utm_source=git)** | *Remote, North Carolina | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0271982bb239f812deac?utm_campaign=1049&utm_source=git)** | *Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0270982bb239f812deab?utm_campaign=1049&utm_source=git)** | *Remote, New York | Remote | Jun 24 |
 | **[Luminari Furniture](https://luminarifurniture.com/)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/6a3ca782982bb239f813033d?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Jun 24 |
