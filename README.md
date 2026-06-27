@@ -64,15 +64,14 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Interior Design - Challenger and Global Platform (Fall 2026)](https://jobright.ai/jobs/info/6a21edd1902d19201c7bb13a?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[Southwest Event Rental](https://southwestteepeerental.com)** | **[Creative Design Intern/Assistant](https://jobright.ai/jobs/info/6a3ec54478237a036d5e54bd?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | On Site | Jun 26 |
-| **[Greenstone Partners](https://www.greenstone-partners.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3e9805122f340d29cf3bf4?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 26 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jun 26 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jun 26 |
-| **[Lucky Ladd Farms](https://luckyladdfarms.com/)** | **[Photography & Videography Internship](https://jobright.ai/jobs/info/6a3e3e5d122f340d29cf2e26?utm_campaign=1049&utm_source=git)** | Ladd, IL | On Site | Jun 26 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c32c0c4972328e7e5868?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 25 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[MNHS Press Design Intern](https://jobright.ai/jobs/info/6a3e01aa122f340d29cf2844?utm_campaign=1049&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/6a3daad14d047136e0934a41?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Jun 25 |
@@ -85,6 +84,7 @@ For a complete list, click the following sortable link below:
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 25 |
 | **[Tamatem Games](https://tamatem.co)** | **[Intern - Video Editing & Motion Graphics](https://jobright.ai/jobs/info/6a3d0410882f121f56a35ed9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
 | ↳ | **[Intern - Game Artist & Graphic designer](https://jobright.ai/jobs/info/6a3d0406d261407de97fedcb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
+| **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a3f52114d047136e093934d?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jun 24 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern (Fall 2026 or Spring 2027 Co-Op) - Global Facilities (Columbus)](https://jobright.ai/jobs/info/6a3d7ca2882f121f56a37bb5?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 24 |
 | **[ZED INK](https://zedink.com/)** | **[Creative Assistant (Paid Internship)](https://jobright.ai/jobs/info/6a3c67b94d047136e0930c3f?utm_campaign=1049&utm_source=git)** | El Segundo, CA | Hybrid | Jun 24 |
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Graphic Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a3c4f4a982bb239f812f3ca?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 24 |
@@ -94,12 +94,12 @@ For a complete list, click the following sortable link below:
 | **[Pittsburgh Riverhounds SC](https://www.riverhounds.com)** | **[Creative Video Intern - Fall 2026](https://jobright.ai/jobs/info/6a3d7f0a122f340d29cf0d67?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 24 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a3c3940882f121f56a33e68?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jun 24 |
 | **[Schmidt Sciences](https://www.schmidtsciences.org/)** | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0276982bb239f812deb3?utm_campaign=1049&utm_source=git)** | *Remote, Florida | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0273982bb239f812deb0?utm_campaign=1049&utm_source=git)** | *Remote, North Carolina | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0271982bb239f812deac?utm_campaign=1049&utm_source=git)** | *Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0270982bb239f812deab?utm_campaign=1049&utm_source=git)** | *Remote, New York | Remote | Jun 24 |
 | **[Luminari Furniture](https://luminarifurniture.com/)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/6a3ca782982bb239f813033d?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Jun 24 |
