@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[The Ambony](http://www.manofthehourmag.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/6a38a85929c90c607e4e7dbc?utm_campaign=1049&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jun 21 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time - Paid Intern Digital Designer (Strive to Be)](https://jobright.ai/jobs/info/6a19faefc2a87d6cd3dfcae2?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | On Site | Jun 20 |
 | ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6a36e60329c90c607e4e5b50?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT | Hybrid | Jun 20 |
-| **[Community Financial System, Inc.](https://communityfinancialsystem.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a36cca5649fdf16292fc49c?utm_campaign=1049&utm_source=git)** | Syracuse, NY | On Site | Jun 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
