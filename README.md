@@ -68,8 +68,8 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
@@ -148,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3976846484fb75f2b31b1d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 22 |
 | **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
-| **[The Ambony](http://www.manofthehourmag.com/)** | **[Graphic Designer & Video Creation (Intern)](https://jobright.ai/jobs/info/6a38a85929c90c607e4e7dbc?utm_campaign=1049&utm_source=git)** | 2 Astor Pl, New York, NY 10003, USA | Remote | Jun 21 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
