@@ -68,10 +68,10 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Interior Design - Challenger and Global Platform (Fall 2026)](https://jobright.ai/jobs/info/6a21edd1902d19201c7bb13a?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
@@ -103,9 +103,9 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb2?utm_campaign=1049&utm_source=git)** | *Remote, California | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0275982bb239f812deb1?utm_campaign=1049&utm_source=git)** | *Remote, Maryland | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0273982bb239f812deb0?utm_campaign=1049&utm_source=git)** | *Remote, North Carolina | Remote | Jun 24 |
-| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deaf?utm_campaign=1049&utm_source=git)** | *Remote, Washington | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812deae?utm_campaign=1049&utm_source=git)** | *Remote, Oregon | Remote | Jun 24 |
+| ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0272982bb239f812dead?utm_campaign=1049&utm_source=git)** | *Remote, Pennsylvania | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0271982bb239f812deac?utm_campaign=1049&utm_source=git)** | *Remote, Virginia | Remote | Jun 24 |
 | ↳ | **[Web Experience & UX Intern](https://jobright.ai/jobs/info/6a3c0270982bb239f812deab?utm_campaign=1049&utm_source=git)** | *Remote, New York | Remote | Jun 24 |
 | **[Luminari Furniture](https://luminarifurniture.com/)** | **[UI/UX Design Internship](https://jobright.ai/jobs/info/6a3ca782982bb239f813033d?utm_campaign=1049&utm_source=git)** | New Jersey, United States | Remote | Jun 24 |
@@ -115,8 +115,8 @@ For a complete list, click the following sortable link below:
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a3b8f4b122f340d29ceaef4?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY | On Site | Jun 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Jun 23 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaabddbedbf5680c7068d?utm_campaign=1049&utm_source=git)** | East Hampton, NY, US | On Site | Jun 23 |
-| ↳ | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaac3dbedbf5680c70693?utm_campaign=1049&utm_source=git)** | Riverhead, NY, US | On Site | Jun 23 |
 | ↳ | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaabbdbedbf5680c7068a?utm_campaign=1049&utm_source=git)** | Greenport, NY, US | On Site | Jun 23 |
+| ↳ | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaac3dbedbf5680c70693?utm_campaign=1049&utm_source=git)** | Riverhead, NY, US | On Site | Jun 23 |
 | **[Tepper Sports & Entertainment](https://teppersportsentertainment.com)** | **[Intern - Motion Graphics](https://jobright.ai/jobs/info/6a3b0fba797099171917d19c?utm_campaign=1049&utm_source=git)** | 800 S Mint St, Charlotte, NC 28202, USA | On Site | Jun 23 |
 | **[Active Minds, Inc.](http://www.activeminds.org)** | **[Visual Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3aef1d1232144fb1570d9c?utm_campaign=1049&utm_source=git)** | Remote, United States | Remote | Jun 23 |
 | **[Thomas James Homes](https://thomasjameshomesusa.com/)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a30359a89f8f147d37342a3?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US | On Site | Jun 23 |
@@ -147,5 +147,4 @@ For a complete list, click the following sortable link below:
 | **[DreamWorks Animation](https://www.dreamworks.com)** | **[Visual Development Intern, DreamWorks Animation, Fall 2026](https://jobright.ai/jobs/info/6a3987a06484fb75f2b323c6?utm_campaign=1049&utm_source=git)** | Glendale, CA | Hybrid | Jun 22 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 22 |
 | **[Tampa Bay Sun FC](https://www.tampabaysunfc.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3976846484fb75f2b31b1d?utm_campaign=1049&utm_source=git)** | Tampa, FL | On Site | Jun 22 |
-| **[Imagine](https://www.theimaginegroup.com)** | **[Fall 2026 Creative Intern](https://jobright.ai/jobs/info/69e6257c3cfd986aa6f83ccf?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
