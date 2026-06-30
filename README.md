@@ -116,10 +116,10 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -156,5 +156,4 @@ For a complete list, click the following sortable link below:
 | **[Corient](https://corient.com)** | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4d58843a25828a8d15643?utm_campaign=1049&utm_source=git)** | Morristown, NJ, US | On Site | Jun 23 |
 | ↳ | **[Marketing Intern, Graphic Design](https://jobright.ai/jobs/info/69f4f9f70b36ff035474ff2e?utm_campaign=1049&utm_source=git)** | Morristown, NJ | On Site | Jun 23 |
 | **[Direct Signs and Designs](https://directsd.com/)** | **[Graphic Designer - Summer Intern Position](https://jobright.ai/jobs/info/6a3ab81cdd879c60912b00a5?utm_campaign=1049&utm_source=git)** | El Dorado Hills, CA | On Site | Jun 23 |
-| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaac4dbedbf5680c70694?utm_campaign=1049&utm_source=git)** | Smithtown, NY, US | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
