@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Axioo](https://axioo.co)** | **[Product Design Intern (UI/UX)](https://jobright.ai/jobs/info/6a43f5df0153061b8b3dec76?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a43e11fef17a815538a20bb?utm_campaign=1049&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 30 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Charles D Shipley Building, 1970 West Broad Street, Columbus, Ohio, United States | On Site | Jun 30 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a21fd0c902d19201c7bb927?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
@@ -79,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a432c84c8bca56ab22459dc?utm_campaign=1049&utm_source=git)** | Norwood, NJ | On Site | Jun 29 |
 | **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/6a43235dc662c35651adb872?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jun 29 |
 | ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jun 29 |
+| **[LeadingIndia.AI](https://leadingindia.ai)** | **[UI/UX Product Design Intern](https://jobright.ai/jobs/info/6a43fd2db156014e414bb08f?utm_campaign=1049&utm_source=git)** | Home, KS | Remote | Jun 29 |
 | **[The Office of Charles de Lisle](http://www.charlesdelisle.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4314876a9c2774b3fa84ba?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area | On Site | Jun 29 |
-| **[Stealth Startup](https://www.linkedin.com/company/31335714)** | **[Figma Prototyping Design Intern](https://jobright.ai/jobs/info/6a4311a01cc9cc2b12fedc67?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 29 |
 | **[EMCOR Services Automated Controls](https://www.emcorac.com)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a4332c54461bf091787b08c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
 | **[Ohio Department of Public Safety](https://publicsafety.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42e9106a9c2774b3fa7c92?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 29 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Graphic Design Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42d9896c326942b4e846c7?utm_campaign=1049&utm_source=git)** | Keene, NH, US | On Site | Jun 29 |
@@ -122,8 +121,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
