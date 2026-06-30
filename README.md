@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axioo](https://axioo.co)** | **[Product Design Intern (UI/UX)](https://jobright.ai/jobs/info/6a43f5df0153061b8b3dec76?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a43e11fef17a815538a20bb?utm_campaign=1049&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 30 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Charles D Shipley Building, 1970 West Broad Street, Columbus, Ohio, United States | On Site | Jun 30 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a21fd0c902d19201c7bb927?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6a0acd37403fc339507f8607?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
+| **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a43ef36105260150b720349?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 30 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/6a434797501d340b4a82f027?utm_campaign=1049&utm_source=git)** | Waukesha, WI | On Site | Jun 29 |
 | **[goodr](https://goodr.com)** | **[Eyewear Design Intern](https://jobright.ai/jobs/info/6a4308986c326942b4e84fd0?utm_campaign=1049&utm_source=git)** | Los Angeles | On Site | Jun 29 |
@@ -120,8 +122,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -148,5 +150,4 @@ For a complete list, click the following sortable link below:
 | **[Cardiff Metropolitan University](http://www.cardiffmet.ac.uk/)** | **[Design Internship](https://jobright.ai/jobs/info/6a389b46a0f3e56e86d6e133?utm_campaign=1049&utm_source=git)** | Alexander, NY | On Site | Jun 24 |
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a3bd1d0982bb239f812d4a7?utm_campaign=1049&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a3b8f4b122f340d29ceaef4?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY | On Site | Jun 24 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
