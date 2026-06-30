@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a43e11fef17a815538a20bb?utm_campaign=1049&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 30 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Charles D Shipley Building, 1970 West Broad Street, Columbus, Ohio, United States | On Site | Jun 30 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a21fd0c902d19201c7bb927?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6a0acd37403fc339507f8607?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
@@ -100,8 +101,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b82adab21425e9fd44c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a424b686faf756060966832?utm_campaign=1049&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
-| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a41ef0b3bfa967791ec1a55?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 28 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 28 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a3195215958816970015859?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
@@ -117,10 +118,10 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -148,7 +149,4 @@ For a complete list, click the following sortable link below:
 | **[MSU Federal Credit Union](http://www.msufcu.org)** | **[Video Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a3bd1d0982bb239f812d4a7?utm_campaign=1049&utm_source=git)** | East Lansing, Michigan, United States | Hybrid | Jun 24 |
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a3b8f4b122f340d29ceaef4?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY | On Site | Jun 24 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York | On Site | Jun 23 |
-| **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaabddbedbf5680c7068d?utm_campaign=1049&utm_source=git)** | East Hampton, NY, US | On Site | Jun 23 |
-| ↳ | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaabbdbedbf5680c7068a?utm_campaign=1049&utm_source=git)** | Greenport, NY, US | On Site | Jun 23 |
-| ↳ | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a3aaac3dbedbf5680c70693?utm_campaign=1049&utm_source=git)** | Riverhead, NY, US | On Site | Jun 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
