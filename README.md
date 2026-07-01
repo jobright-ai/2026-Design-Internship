@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Graphis Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 01 |
 | **[Bosmos](www.bosmos.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a457bce4f64ba41dcb4d878?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jul 01 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 01 |
-| **[Nuclear Waste Management Organization](https://www.nwmo.ca/)** | **[Developmental Student Intern - Communications (Creative Team)](https://jobright.ai/jobs/info/6a455565971cd25b06f887c0?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Jul 01 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Real Estate Design Intern (6-Month Duration)](https://jobright.ai/jobs/info/6a4580c548d2f00f2a86dcf0?utm_campaign=1049&utm_source=git)** | West Jordan, UT | Hybrid | Jul 01 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 01 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 01 |
