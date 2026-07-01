@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bosmos](www.bosmos.org)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a457bce4f64ba41dcb4d878?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jul 01 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | **[Nuclear Waste Management Organization](https://www.nwmo.ca/)** | **[Developmental Student Intern - Communications (Creative Team)](https://jobright.ai/jobs/info/6a455565971cd25b06f887c0?utm_campaign=1049&utm_source=git)** | Toronto | Hybrid | Jul 01 |
+| **[Mountain America Credit Union](https://www.macu.com/)** | **[Real Estate Design Intern (6-Month Duration)](https://jobright.ai/jobs/info/6a4580c548d2f00f2a86dcf0?utm_campaign=1049&utm_source=git)** | West Jordan, UT | Hybrid | Jul 01 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 01 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 01 |
 | **[National Notary Association](https://www.nationalnotary.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a4446e865e80d3c99f2c450?utm_campaign=1049&utm_source=git)** | Hybrid, Chatsworth, CA | Hybrid | Jun 30 |
@@ -112,8 +114,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b82adab21425e9fd44c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a424b686faf756060966832?utm_campaign=1049&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
-| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a41ef0b3bfa967791ec1a55?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 28 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX News Media Internship Program - Motion Design - New York](https://jobright.ai/jobs/info/6a448168105260150b72213e?utm_campaign=1049&utm_source=git)** | USA - New York - NY, US | On Site | Jun 28 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 28 |
@@ -131,8 +133,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -147,5 +149,4 @@ For a complete list, click the following sortable link below:
 | **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jun 25 |
 | **[Tamatem Games](https://tamatem.co)** | **[Intern - Video Editing & Motion Graphics](https://jobright.ai/jobs/info/6a3d0410882f121f56a35ed9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
 | ↳ | **[Intern - Game Artist & Graphic designer](https://jobright.ai/jobs/info/6a3d0406d261407de97fedcb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 25 |
-| **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a3f52114d047136e093934d?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jun 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
