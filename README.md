@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Find Me](https://fyndme.net)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/6a4602fd3dbab558e29a35a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 01 |
 | **[Aviagen](http://en.aviagen.com/languages)** | **[Marketing Assistant / Intern](https://jobright.ai/jobs/info/6a45cf93971cd25b06f89cb4?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Jul 01 |
 | **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Fall 2026](https://jobright.ai/jobs/info/6a4594ad48d2f00f2a86e085?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jul 01 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Graphis Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 01 |
@@ -133,10 +134,10 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -147,5 +148,4 @@ For a complete list, click the following sortable link below:
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Seascape Corporate Footprint Analysis Internship](https://jobright.ai/jobs/info/6a3d93da78237a036d5e2085?utm_campaign=1049&utm_source=git)** | Washington D.C. | Remote | Jun 25 |
 | **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d7b434d047136e0933cde?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 25 |
 | **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 25 |
-| **[Rhinegeist Brewery](https://rhinegeist.com/)** | **[Content & Ad Creative Internship](https://jobright.ai/jobs/info/6a3d42eb122f340d29cefbcb?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
