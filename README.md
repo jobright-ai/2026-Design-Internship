@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 02 |
+| **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/6a463ba9971cd25b06f8cdb7?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 02 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Real Estate Design Intern (6-Month Duration)](https://jobright.ai/jobs/info/6a4627684f64ba41dcb50d23?utm_campaign=1049&utm_source=git)** | West Jordan, UT, US | Hybrid | Jul 02 |
 | **[Find Me](https://fyndme.net)** | **[Senior - UX/UI/Graphic Design Intern – Unpaid](https://jobright.ai/jobs/info/6a4602fd3dbab558e29a35a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 01 |
 | **[STEMstein Academy](https://www.stemstein.com/)** | **[Graphic Designer - Intern](https://jobright.ai/jobs/info/6a4620a80dd56c76cc2f6509?utm_campaign=1049&utm_source=git)** | Mississauga, Ontario, Canada | On Site | Jul 01 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 01 |
 | **[National Notary Association](https://www.nationalnotary.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a4446e865e80d3c99f2c450?utm_campaign=1049&utm_source=git)** | Hybrid, Chatsworth, CA | Hybrid | Jun 30 |
 | **[American Medical Association](http://ama-assn.org)** | **[Graphic Design Intern (Hybrid)](https://jobright.ai/jobs/info/6a4441c90153061b8b3dfe2c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 30 |
-| **[University of South Florida](http://health.usf.edu/medicine/)** | **[IAE Graphics Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a440cca57ffc2202940611f?utm_campaign=1049&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
+| **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Graphics Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a440cca57ffc2202940611f?utm_campaign=1049&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 30 |
 | **[RWS Global](https://www.rwsglobal.com)** | **[Intern, Creative / Fall 2026](https://jobright.ai/jobs/info/6a44ae85b156014e414bce78?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 30 |
 | ↳ | **[Intern, Environmental Graphic Design / Fall 2026 RWS Global](https://jobright.ai/jobs/info/6a44ae7d65e80d3c99f2d0bf?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 30 |
@@ -121,8 +123,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a424b686faf756060966832?utm_campaign=1049&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX News Media Internship Program - Motion Design - New York](https://jobright.ai/jobs/info/6a448168105260150b72213e?utm_campaign=1049&utm_source=git)** | USA - New York - NY, US | On Site | Jun 29 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
-| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
+| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
+| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a41ef0b3bfa967791ec1a55?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 28 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 28 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a3195215958816970015859?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
@@ -137,10 +139,10 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Interiors by Design, LLC](http://www.interiorsbydesignmd.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a3ef016ce7cce40b3422876?utm_campaign=1049&utm_source=git)** | Silver Spring, MD | On Site | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jun 26 |
@@ -149,6 +151,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[MNHS Press Design Intern](https://jobright.ai/jobs/info/6a3e01aa122f340d29cf2844?utm_campaign=1049&utm_source=git)** | St Paul, MN, US | On Site | Jun 25 |
 | **[Utah Mammoth](www.utahhockeyclub.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2aea950ad4053b108c97e1?utm_campaign=1049&utm_source=git)** | Sandy,UT,US | On Site | Jun 25 |
 | **[WWF Mesoamérica](https://wwfca.org/)** | **[Seascape Corporate Footprint Analysis Internship](https://jobright.ai/jobs/info/6a3d93da78237a036d5e2085?utm_campaign=1049&utm_source=git)** | Washington D.C. | Remote | Jun 25 |
-| **[Middle Seat](https://middleseat.co/)** | **[Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a3d7b434d047136e0933cde?utm_campaign=1049&utm_source=git)** | District of Columbia, United States | Hybrid | Jun 25 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jun 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
