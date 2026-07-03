@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Listen In With KNN](http://www.listeninwithknn.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a46f5d9c2d11a6a466712b6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a42cff16faf7560609680d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a46dca10dd56c76cc2fb391?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Internship - Photographer / Videographer (Fall Semester)](https://jobright.ai/jobs/info/6a46dc37c2d11a6a46670ccf?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Jul 02 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a297365c07d4b6ae1c40712?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jul 01 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 01 |
 | **[National Notary Association](https://www.nationalnotary.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a4446e865e80d3c99f2c450?utm_campaign=1049&utm_source=git)** | Hybrid, Chatsworth, CA | Hybrid | Jun 30 |
-| **[American Medical Association](http://ama-assn.org)** | **[Graphic Design Intern (Hybrid)](https://jobright.ai/jobs/info/6a4441c90153061b8b3dfe2c?utm_campaign=1049&utm_source=git)** | Chicago, IL | Hybrid | Jun 30 |
 | **[University of South Florida](http://www.research.usf.edu/rf/sii/)** | **[IAE Graphics Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a440cca57ffc2202940611f?utm_campaign=1049&utm_source=git)** | 4202 E Fowler Ave, Tampa, FL, 33620, US | On Site | Jun 30 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6a43e11fef17a815538a20bb?utm_campaign=1049&utm_source=git)** | 400 Charles Zahn, Jr. Drive, Corpus Christi, TX | On Site | Jun 30 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA | On Site | Jun 30 |
@@ -136,8 +136,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a424b686faf756060966832?utm_campaign=1049&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
 | **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX News Media Internship Program - Motion Design - New York](https://jobright.ai/jobs/info/6a448168105260150b72213e?utm_campaign=1049&utm_source=git)** | USA - New York - NY, US | On Site | Jun 29 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
-| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jun 28 |
+| ↳ | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9959?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 28 |
 | **[Deeplocal](http://deeplocal.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6a41ef0b3bfa967791ec1a55?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA | On Site | Jun 28 |
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a2c4e2bfc06447490549437?utm_campaign=1049&utm_source=git)** | Beverly, MA, US | On Site | Jun 28 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a3195215958816970015859?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
@@ -154,7 +154,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
