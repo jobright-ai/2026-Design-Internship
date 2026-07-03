@@ -150,5 +150,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a3fe254d528ac2915f95e8d?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 27 |
 | **[Parker Hannifin](http://www.parker.com)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0d925780bf0430c76244c9?utm_campaign=1049&utm_source=git)** | MINERAL WELLS, TX, United States | On Site | Jun 27 |
 | ↳ | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a0656f3320bff2205eabcba?utm_campaign=1049&utm_source=git)** | Mineral Wells, TX | On Site | Jun 27 |
-| **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MNHS Press Design](https://jobright.ai/jobs/info/6a3e002178237a036d5e33cd?utm_campaign=1049&utm_source=git)** | St Paul, MN, US | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
