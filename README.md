@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a42cff16faf7560609680d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a46dca10dd56c76cc2fb391?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 02 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Internship - Photographer / Videographer (Fall Semester)](https://jobright.ai/jobs/info/6a46dc37c2d11a6a46670ccf?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Jul 02 |
 | **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a42af6d6faf7560609678ff?utm_campaign=1049&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Fall 2026 FOX News Media Internship Program - Motion Design - New York](https://jobright.ai/jobs/info/6a42d899a5e15b106837a6d1?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | **[First Solar](http://www.firstsolar.com)** | **[Digital Asset Management Intern (Fall 2026)](https://jobright.ai/jobs/info/6a29c32c0c4972328e7e5868?utm_campaign=1049&utm_source=git)** | Phoenix, AZ | Hybrid | Jun 29 |
 | **[DNA Workshop](https://www.dna-workshop.com/)** | **[Student Interior Design Intern (Fall)](https://jobright.ai/jobs/info/6a42d03bff87fd527f9859a0?utm_campaign=1049&utm_source=git)** | Richmond, VA | On Site | Jun 29 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a42cff16faf7560609680d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jun 29 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Graphic Design Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42cc1d6c326942b4e842a4?utm_campaign=1049&utm_source=git)** | Keene, NH | On Site | Jun 29 |
@@ -152,9 +152,9 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC | On Site | Jun 26 |
 | **[Sleeper](https://sleeper.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef81cce7cce40b34229fc?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef819ce7cce40b34229fb?utm_campaign=1049&utm_source=git)** | Remote, New York City | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229fa?utm_campaign=1049&utm_source=git)** | Remote, California | Remote | Jun 26 |
-| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef818ce7cce40b34229f9?utm_campaign=1049&utm_source=git)** | Hybrid - SF Bay Area | Hybrid | Jun 26 |
 | ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f3?utm_campaign=1049&utm_source=git)** | San Francisco | Hybrid | Jun 26 |
+| ↳ | **[User Research Intern](https://jobright.ai/jobs/info/6a3ef80cce7cce40b34229f2?utm_campaign=1049&utm_source=git)** | New York City | Hybrid | Jun 26 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO | On Site | Jun 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
