@@ -148,6 +148,4 @@ For a complete list, click the following sortable link below:
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a3195215958816970015859?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jun 28 |
 | ↳ | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/69ebfc100a6e09555304ba85?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA | On Site | Jun 28 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jun 28 |
-| **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a3fe25b1afc66714d3c9443?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 27 |
-| ↳ | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a3fe254d528ac2915f95e8d?utm_campaign=1049&utm_source=git)** | Corporate - Los Angeles, CA | On Site | Jun 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
