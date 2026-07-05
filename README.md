@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/6a48032f971cd25b06f934d7?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jul 05 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jul 05 |
 | **[PD Instore](https://pdinstore.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/6a43312c501d340b4a82e358?utm_campaign=1049&utm_source=git)** | 7101 - Minneapolis, MN 55427 | On Site | Jul 04 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jul 04 |
@@ -135,7 +136,6 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Graphic Design Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42cc1d6c326942b4e842a4?utm_campaign=1049&utm_source=git)** | Keene, NH | On Site | Jun 29 |
-| **[MARU MORI](www.marumori.co)** | **[Creative Direction Intern — MARU MORI](https://jobright.ai/jobs/info/6a42c0b26a9c2774b3fa733d?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jun 29 |
 | **[Mamaya Health](https://www.mamayahealth.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a42bc07ff87fd527f9855c8?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Remote | Jun 29 |
 | **[PROJXON](www.projxon.com)** | **[Graphic Design Intern (Spring '25-2)](https://jobright.ai/jobs/info/6943c1e150bbaf765055b91c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 29 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a42a476ff87fd527f985047?utm_campaign=1049&utm_source=git)** | Sacramento, CA 95819, USA | On Site | Jun 29 |
