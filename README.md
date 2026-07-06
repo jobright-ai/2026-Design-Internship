@@ -145,5 +145,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b82adab21425e9fd44c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jun 29 |
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a424b686faf756060966832?utm_campaign=1049&utm_source=git)** | PO BOX A3938, Chicago, IL | On Site | Jun 29 |
-| **[Fox Corporation](https://www.foxcorporation.com)** | **[Fall 2026 FOX News Media Internship Program - Motion Design - New York](https://jobright.ai/jobs/info/6a448168105260150b72213e?utm_campaign=1049&utm_source=git)** | USA - New York - NY, US | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
