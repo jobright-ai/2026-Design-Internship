@@ -130,5 +130,4 @@ For a complete list, click the following sortable link below:
 | **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/6a43235dc662c35651adb872?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jun 29 |
 | ↳ | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jun 29 |
 | **[EMCOR Services Automated Controls](https://www.emcorac.com)** | **[Automation Graphic Design Co-op - Fall 2026 Semester](https://jobright.ai/jobs/info/6a4332c54461bf091787b08c?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jun 29 |
-| **[Ohio Department of Public Safety](https://publicsafety.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42e9106a9c2774b3fa7c92?utm_campaign=1049&utm_source=git)** | Columbus, OH | On Site | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
