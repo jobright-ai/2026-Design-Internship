@@ -137,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jun 29 |
 | ↳ | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Jun 29 |
 | **[Compass Group USA](https://www.compassgroupcareers.com)** | **[Graphic Design Marketing Intern, Gourmet Dining / Keene State College](https://jobright.ai/jobs/info/6a42cc1d6c326942b4e842a4?utm_campaign=1049&utm_source=git)** | Keene, NH | On Site | Jun 29 |
-| **[Mamaya Health](https://www.mamayahealth.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a42bc07ff87fd527f9855c8?utm_campaign=1049&utm_source=git)** | Nashville, Tennessee, United States | Remote | Jun 29 |
-| **[PROJXON](www.projxon.com)** | **[Graphic Design Intern (Spring '25-2)](https://jobright.ai/jobs/info/6943c1e150bbaf765055b91c?utm_campaign=1049&utm_source=git)** | United States | Remote | Jun 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
