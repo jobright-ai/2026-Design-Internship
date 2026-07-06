@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 06 |
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd61ac2d11a6a46678df5?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Jul 06 |
 | ↳ | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd6054f64ba41dcb5d606?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Vantage Specialty Chemicals](https://vantagegrp.com)** | **[Creative Design Intern - Part-Time](https://jobright.ai/jobs/info/6a4bcfed971cd25b06f985d2?utm_campaign=1049&utm_source=git)** | Warren County, NJ | On Site | Jul 06 |
