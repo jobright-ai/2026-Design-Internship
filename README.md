@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Digital Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c14cf971cd25b06f998b1?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a4bf2514f64ba41dcb5ddb8?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | Jul 06 |
 | **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/6a4beef8c2d11a6a466794a3?utm_campaign=1049&utm_source=git)** | Newport Beach, CA | On Site | Jul 06 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 06 |
