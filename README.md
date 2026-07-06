@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
+| **[LYNA](https://www.lynacycle.app/)** | **[UI/UX Design Intern (Paywall & Monetization Specialist)](https://jobright.ai/jobs/info/6a4b71c3971cd25b06f977a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 06 |
+| **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Fall 2026](https://jobright.ai/jobs/info/6a4594ad48d2f00f2a86e085?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jul 06 |
 | **[Ohio Magazine](https://www.ohiomagazine.com)** | **[Illustration Internship: Cleveland Magazine](https://jobright.ai/jobs/info/6a4b5683c2d11a6a46677a54?utm_campaign=1049&utm_source=git)** | Greater Cleveland | On Site | Jul 05 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/6a48032f971cd25b06f934d7?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jul 05 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jul 05 |
@@ -95,7 +98,6 @@ For a complete list, click the following sortable link below:
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 02 |
 | **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/6a463ba9971cd25b06f8cdb7?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 02 |
 | **[Aviagen](http://www.avigen.com)** | **[Marketing Assistant / Intern](https://jobright.ai/jobs/info/6a45cf93971cd25b06f89cb4?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Jul 01 |
-| **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Fall 2026](https://jobright.ai/jobs/info/6a4594ad48d2f00f2a86e085?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jul 01 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Graphis Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 01 |
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Graphic Design Intern / Fall 2026](https://jobright.ai/jobs/info/6a45fddc0dd56c76cc2f57ed?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 01 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jul 01 |
