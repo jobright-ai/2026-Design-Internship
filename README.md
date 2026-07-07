@@ -57,12 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60cac643fd23fed3cbf5?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, United States | Remote | Jul 07 |
+| ↳ | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60c835e45603c4bb39c7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
+| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 07 |
+| **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[LUSOMÉ](http://lusome.com/)** | **[Graphic Design Intern PT/Contract](https://jobright.ai/jobs/info/6a4d30fc99523700cbff4c02?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4d2e7c0209ea6fd6851418?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 07 |
 | **[PROJXON](www.projxon.com)** | **[Technical Design Specialist Intern](https://jobright.ai/jobs/info/6a4d2d850209ea6fd68513cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
+| **[Grayson HR](http://www.graysonhr.com/)** | **[Technical Design Intern- Apparel](https://jobright.ai/jobs/info/6a4d5043d27b2c4dda9b7151?utm_campaign=1049&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 07 |
 | **[ZOVU](www.zovuhq.com)** | **[UI/UX Design Internship (NYC)](https://jobright.ai/jobs/info/6a4d2a4399523700cbff49af?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jul 07 |
 | **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
@@ -71,6 +76,7 @@ For a complete list, click the following sortable link below:
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Digital Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c14cf971cd25b06f998b1?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
+| **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Design - Sales Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4c1be24eb370649b27c523?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 06 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[ArtHaus Visual Marketing AI Intern (Summer 2026)](https://jobright.ai/jobs/info/6a342ec429c90c607e4ddd0b?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jul 06 |
 | **[Nesscessity Creative](https://nesscessitycreative.com/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/6a4c7b213122a76a8fd52fa7?utm_campaign=1049&utm_source=git)** | Denver Metropolitan Area, United States | Hybrid | Jul 06 |
