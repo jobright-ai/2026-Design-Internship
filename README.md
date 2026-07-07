@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[LUSOMÉ](http://lusome.com/)** | **[Graphic Design Intern PT/Contract](https://jobright.ai/jobs/info/6a4d30fc99523700cbff4c02?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4d2e7c0209ea6fd6851418?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 07 |
-| **[To & Fro](https://www.linkedin.com/company/12644491)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a4d2e3635e45603c4bb2eeb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[PROJXON](www.projxon.com)** | **[Technical Design Specialist Intern](https://jobright.ai/jobs/info/6a4d2d850209ea6fd68513cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
 | **[ZOVU](www.zovuhq.com)** | **[UI/UX Design Internship (NYC)](https://jobright.ai/jobs/info/6a4d2a4399523700cbff49af?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jul 07 |
