@@ -128,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a21fd0c902d19201c7bb927?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
 | **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a43ef36105260150b720349?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 30 |
-| **[Texas Rangers Baseball Club](http://www.texasrangers.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a46200d4f64ba41dcb504c4?utm_campaign=1049&utm_source=git)** | Arlington, TX, US | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
