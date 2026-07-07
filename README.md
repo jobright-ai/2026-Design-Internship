@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[O.M.G Entertainment](https://www.eventsomg.com/)** | **[Design & Marketing Intern (Part-time)](https://jobright.ai/jobs/info/6a4c343a4eb370649b27caac?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Digital Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c14cf971cd25b06f998b1?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Design - Sales Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4c1be24eb370649b27c523?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 06 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a4bf2514f64ba41dcb5ddb8?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | Jul 06 |
@@ -93,7 +95,6 @@ For a complete list, click the following sortable link below:
 | **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a42af6d6faf7560609678ff?utm_campaign=1049&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 02 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a3435c229c90c607e4ddfe8?utm_campaign=1049&utm_source=git)** | US, Washington, Seattle | On Site | Jul 02 |
-| **[IH Concepts](https://ihconceptsonline.com)** | **[Graphic Design Internship for Summer](https://jobright.ai/jobs/info/6a46c3dc3dbab558e29a87c6?utm_campaign=1049&utm_source=git)** | Madison, WI | Hybrid | Jul 02 |
 | **[Reading Royals](https://royalshockey.com)** | **[Creative Services Internship](https://jobright.ai/jobs/info/6a47dc564f64ba41dcb578aa?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Jul 02 |
 | **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Design and Creative Intern](https://jobright.ai/jobs/info/6a4717408204a812e98caf45?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[Mountain America Credit Union](https://www.macu.com/)** | **[Real Estate Design Intern (6-Month Duration)](https://jobright.ai/jobs/info/6a4627684f64ba41dcb50d23?utm_campaign=1049&utm_source=git)** | West Jordan, UT, US | Hybrid | Jul 02 |
