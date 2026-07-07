@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c5e115d7b097d2df402ea?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jul 06 |
 | **[O.M.G Entertainment](https://www.eventsomg.com/)** | **[Design & Marketing Intern (Part-time)](https://jobright.ai/jobs/info/6a4c343a4eb370649b27caac?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 06 |
@@ -69,7 +70,6 @@ For a complete list, click the following sortable link below:
 | **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd61ac2d11a6a46678df5?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Jul 06 |
 | ↳ | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd6054f64ba41dcb5d606?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
 | **[Vantage Specialty Chemicals](https://vantagegrp.com)** | **[Creative Design Intern - Part-Time](https://jobright.ai/jobs/info/6a4bcfed971cd25b06f985d2?utm_campaign=1049&utm_source=git)** | Warren County, NJ | On Site | Jul 06 |
-| **[Fortress](https://gofortress.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4bfd764eb370649b27bd29?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 06 |
 | **[3-GIS](http://www.3-gis.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4b93264f64ba41dcb5c89b?utm_campaign=1049&utm_source=git)** | Huntsville-Decatur Area | On Site | Jul 06 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
 | **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Fall 2026](https://jobright.ai/jobs/info/6a4594ad48d2f00f2a86e085?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jul 06 |
