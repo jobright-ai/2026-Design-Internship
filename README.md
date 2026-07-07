@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Schilling Social](schillingsocial.com)** | **[Internship](https://jobright.ai/jobs/info/6a4c64de4eb370649b27d0f3?utm_campaign=1049&utm_source=git)** | Palm Beach, FL | Hybrid | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c5e115d7b097d2df402ea?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
