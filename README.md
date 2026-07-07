@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Readeezy](http://readeezy.com)** | **[Illustrator Intern](https://jobright.ai/jobs/info/6a4d0d4c0209ea6fd68509eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
 | **[Schilling Social](schillingsocial.com)** | **[Internship](https://jobright.ai/jobs/info/6a4c64de4eb370649b27d0f3?utm_campaign=1049&utm_source=git)** | Palm Beach, FL | Hybrid | Jul 06 |
@@ -117,5 +118,4 @@ For a complete list, click the following sortable link below:
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 01 |
 | **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a297365c07d4b6ae1c40712?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jul 01 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 01 |
-| **[National Notary Association](https://www.nationalnotary.org/)** | **[Video Production Intern](https://jobright.ai/jobs/info/6a4446e865e80d3c99f2c450?utm_campaign=1049&utm_source=git)** | Hybrid, Chatsworth, CA | Hybrid | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
