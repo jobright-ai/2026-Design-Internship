@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4d68064c6c9f7a619f7b1c?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
+| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-16i – Community Collaborative Initiative Intern](https://jobright.ai/jobs/info/6a4d61df3122a76a8fd5546e?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60cac643fd23fed3cbf5?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, United States | Remote | Jul 07 |
 | ↳ | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60c835e45603c4bb39c7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 07 |
@@ -69,8 +71,8 @@ For a complete list, click the following sortable link below:
 | **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
 | **[Grayson HR](http://www.graysonhr.com/)** | **[Technical Design Intern- Apparel](https://jobright.ai/jobs/info/6a4d5043d27b2c4dda9b7151?utm_campaign=1049&utm_source=git)** | Hoboken, NJ, United States | On Site | Jul 07 |
 | **[ZOVU](www.zovuhq.com)** | **[UI/UX Design Internship (NYC)](https://jobright.ai/jobs/info/6a4d2a4399523700cbff49af?utm_campaign=1049&utm_source=git)** | New York, United States | Remote | Jul 07 |
-| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 07 |
+| **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
 | **[Schilling Social](schillingsocial.com)** | **[Internship](https://jobright.ai/jobs/info/6a4c64de4eb370649b27d0f3?utm_campaign=1049&utm_source=git)** | Palm Beach, FL | Hybrid | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c5e115d7b097d2df402ea?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
