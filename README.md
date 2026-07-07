@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schilling Social](schillingsocial.com)** | **[Internship](https://jobright.ai/jobs/info/6a4c64de4eb370649b27d0f3?utm_campaign=1049&utm_source=git)** | Palm Beach, FL | Hybrid | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c5e115d7b097d2df402ea?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jul 06 |
 | **[O.M.G Entertainment](https://www.eventsomg.com/)** | **[Design & Marketing Intern (Part-time)](https://jobright.ai/jobs/info/6a4c343a4eb370649b27caac?utm_campaign=1049&utm_source=git)** | San Mateo, CA | On Site | Jul 06 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
@@ -127,5 +128,4 @@ For a complete list, click the following sortable link below:
 | **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2026 Fall Graphic Design Internship](https://jobright.ai/jobs/info/6a44159c65e80d3c99f2b80d?utm_campaign=1049&utm_source=git)** | Paterson, NJ | On Site | Jun 30 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Textile Design Intern](https://jobright.ai/jobs/info/6a21fd0c902d19201c7bb927?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA | On Site | Jun 30 |
 | **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a43ef36105260150b720349?utm_campaign=1049&utm_source=git)** | San Francisco, CA | On Site | Jun 30 |
-| **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2707b57d827633afff822c?utm_campaign=1049&utm_source=git)** | Providence, RI, US, 02903 | On Site | Jun 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
