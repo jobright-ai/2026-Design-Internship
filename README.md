@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a4c2cc14eb370649b27c899?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 06 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Digital Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c14cf971cd25b06f998b1?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Design - Sales Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a4c1be24eb370649b27c523?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, Canada | Hybrid | Jul 06 |
 | **[Peak Sports MGMT](https://www.peaksportsmgmt.com)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a4bf2514f64ba41dcb5ddb8?utm_campaign=1049&utm_source=git)** | Allen, TX | On Site | Jul 06 |
