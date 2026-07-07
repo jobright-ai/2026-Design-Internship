@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vantage Specialty Chemicals](http://www.vantagespecialties.com/)** | **[Creative Design Intern – Part Time](https://jobright.ai/jobs/info/6a4d75130209ea6fd68525b1?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Jul 07 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4d68064c6c9f7a619f7b1c?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-16i – Community Collaborative Initiative Intern](https://jobright.ai/jobs/info/6a4d61df3122a76a8fd5546e?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60cac643fd23fed3cbf5?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, United States | Remote | Jul 07 |
