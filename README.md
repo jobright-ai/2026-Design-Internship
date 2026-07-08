@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, Florida, United States | On Site | Jul 08 |
+| **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a34381e1232144fb155ed76?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 08 |
+| **[Princeton University Press](http://press.princeton.edu)** | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f596484fb75f2b32cfc?utm_campaign=1049&utm_source=git)** | Princeton, NJ, United States | Remote | Jul 08 |
 | **[HOAMCO (Homeowners Association Management Company)](http://hoamco.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a4e065fbc9c765d1ef83c4d?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 08 |
 | **[PD Instore](https://pdinstore.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/6a43312c501d340b4a82e358?utm_campaign=1049&utm_source=git)** | 7101 - Minneapolis, MN 55427 | On Site | Jul 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
