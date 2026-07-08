@@ -57,8 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, Florida, United States | On Site | Jul 08 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a34381e1232144fb155ed76?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 08 |
+| **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6a16171b0073182bd92afe5d?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Jul 08 |
 | **[Princeton University Press](http://press.princeton.edu)** | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f596484fb75f2b32cfc?utm_campaign=1049&utm_source=git)** | Princeton, NJ, United States | Remote | Jul 08 |
 | **[HOAMCO (Homeowners Association Management Company)](http://hoamco.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a4e065fbc9c765d1ef83c4d?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 08 |
 | **[PD Instore](https://pdinstore.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/6a43312c501d340b4a82e358?utm_campaign=1049&utm_source=git)** | 7101 - Minneapolis, MN 55427 | On Site | Jul 07 |
@@ -73,6 +75,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60c835e45603c4bb39c7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 07 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
+| **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Public Health](https://jobright.ai/jobs/info/6a4e9c74397d8d353c289ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[LUSOMÉ](http://lusome.com/)** | **[Graphic Design Intern PT/Contract](https://jobright.ai/jobs/info/6a4d30fc99523700cbff4c02?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 07 |
 | **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
@@ -130,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Plug-in Studios](https://www.studio-plug.com/)** | **[Digital Creator Intern](https://jobright.ai/jobs/info/6a46562d4f64ba41dcb52135?utm_campaign=1049&utm_source=git)** | Atlanta,GA,US | Remote | Jul 02 |
 | **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 02 |
 | **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/6a463ba9971cd25b06f8cdb7?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 02 |
-| **[Aviagen](http://en.aviagen.com/languages)** | **[Marketing Assistant / Intern](https://jobright.ai/jobs/info/6a45cf93971cd25b06f89cb4?utm_campaign=1049&utm_source=git)** | Huntsville, AL | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
