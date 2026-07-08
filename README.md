@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 | **[KTGY](http://ktgy.com)** | **[Intern Associate, Interiors - Fall 2026](https://jobright.ai/jobs/info/6a4db0403122a76a8fd5641e?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 07 |
 | **[Rancher Hat Bar](https://www.rancherhatbar.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4da5fbc643fd23fed3da38?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Jul 07 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Vantage Specialty Chemicals](http://www.vantagespecialties.com/)** | **[Creative Design Intern – Part Time](https://jobright.ai/jobs/info/6a4d75130209ea6fd68525b1?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Jul 07 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4d68064c6c9f7a619f7b1c?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
 | **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-16i – Community Collaborative Initiative Intern](https://jobright.ai/jobs/info/6a4d61df3122a76a8fd5546e?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
@@ -133,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jul 01 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 01 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 01 |
-| **[Modine Manufacturing Company](http://www.modine.com)** | **[Designer Intern](https://jobright.ai/jobs/info/6a297365c07d4b6ae1c40712?utm_campaign=1049&utm_source=git)** | Racine, WI | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
