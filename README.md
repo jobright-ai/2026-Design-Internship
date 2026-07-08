@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HOAMCO (Homeowners Association Management Company)](http://hoamco.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a4e065fbc9c765d1ef83c4d?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 08 |
 | **[PD Instore](https://pdinstore.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/6a43312c501d340b4a82e358?utm_campaign=1049&utm_source=git)** | 7101 - Minneapolis, MN 55427 | On Site | Jul 07 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
@@ -132,5 +133,4 @@ For a complete list, click the following sortable link below:
 | **[Grassroots Analytics](https://www.grassrootsanalytics.com/)** | **[Graphic Design Intern / Fall 2026](https://jobright.ai/jobs/info/6a45fddc0dd56c76cc2f57ed?utm_campaign=1049&utm_source=git)** | Washington, DC | On Site | Jul 01 |
 | **[Hamilton Beach Brands Inc.](http://www.hamiltonbeach.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a2b004b2cde2824469c479e?utm_campaign=1049&utm_source=git)** | Glen Allen, VA, US | Hybrid | Jul 01 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | New York, NY | Remote | Jul 01 |
-| **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX | On Site | Jul 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
