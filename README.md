@@ -57,8 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
+| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
+| **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
+| ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern/Co-op - Buildings (Fall 2026)](https://jobright.ai/jobs/info/6a4eaaca15b4965afd5842d2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 08 |
 | **[Regulify.AI](https://regulify.ai)** | **[UI/UX Design Intern (Remote / 2 Months / Immediate Start)](https://jobright.ai/jobs/info/6a4ea8d59469c0662034c343?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 08 |
-| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
+| **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead700ea38951a6ff4123?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Jul 08 |
+| ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, Florida, United States | On Site | Jul 08 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a34381e1232144fb155ed76?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 08 |
 | **[Yellowstone Landscape](http://www.yellowstonelandscape.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6a16171b0073182bd92afe5d?utm_campaign=1049&utm_source=git)** | Albuquerque, NM | On Site | Jul 08 |
