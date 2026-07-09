@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a3d076d78237a036d5dfcc5?utm_campaign=1049&utm_source=git)** | Plano, Texas, United States | On Site | Jul 09 |
+| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Jul 09 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432ea1c8bca56ab2245c00?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
 | **[No Barriers Education](https://www.nobarrierseducation.org/)** | **[UI/UX Intern on Wix (Unpaid Intern)](https://jobright.ai/jobs/info/6a4f4bbd9469c0662034db0d?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | Remote | Jul 08 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
@@ -66,11 +68,11 @@ For a complete list, click the following sortable link below:
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 08 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a4ec9759469c0662034ca80?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 08 |
-| **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
-| **[Regulify.AI](https://regulify.ai)** | **[UI/UX Design Intern (Remote / 2 Months / Immediate Start)](https://jobright.ai/jobs/info/6a4ea8d59469c0662034c343?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
-| **[Fuser](https://fuser.studio)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern/Co-op - Buildings (Fall 2026)](https://jobright.ai/jobs/info/6a4eaaca15b4965afd5842d2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead700ea38951a6ff4123?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| ↳ | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
+| **[Regulify.AI](https://regulify.ai)** | **[UI/UX Design Intern (Remote / 2 Months / Immediate Start)](https://jobright.ai/jobs/info/6a4ea8d59469c0662034c343?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
+| **[Stantec](http://www.stantec.com)** | **[Interior Design Intern/Co-op - Buildings (Fall 2026)](https://jobright.ai/jobs/info/6a4eaaca15b4965afd5842d2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 08 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Jul 08 |
 | ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, Florida, United States | On Site | Jul 08 |
@@ -131,7 +133,4 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a35217a649fdf16292f7e97?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a42cff16faf7560609680d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
 | **[Charleston Battery](https://www.charlestonbattery.com)** | **[Internship - Photographer / Videographer (Fall Semester)](https://jobright.ai/jobs/info/6a46dc37c2d11a6a46670ccf?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Jul 02 |
-| **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a42af6d6faf7560609678ff?utm_campaign=1049&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
-| **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 02 |
-| **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a3435c229c90c607e4ddfe8?utm_campaign=1049&utm_source=git)** | US, Washington, Seattle | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
