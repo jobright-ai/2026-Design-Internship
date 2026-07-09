@@ -137,6 +137,4 @@ For a complete list, click the following sortable link below:
 | **[Reading Royals](https://royalshockey.com)** | **[Creative Services Internship](https://jobright.ai/jobs/info/6a47dc564f64ba41dcb578aa?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Jul 02 |
 | **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Design and Creative Intern](https://jobright.ai/jobs/info/6a4717408204a812e98caf45?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 02 |
 | **[EA SPORTS](http://www.EASports.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a35e1c1649fdf16292fa9d6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jul 02 |
-| **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern - Colorado Rapids](https://jobright.ai/jobs/info/6a4695740dd56c76cc2fa0ad?utm_campaign=1049&utm_source=git)** | Commerce City, CO | On Site | Jul 02 |
-| **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a3f52114d047136e093934d?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
