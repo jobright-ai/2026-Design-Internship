@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Louis Vuitton](https://eu.louisvuitton.com)** | **[Visual Merchandising Intern - 2026](https://jobright.ai/jobs/info/6a4fe6869469c0662034f51d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
+| **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fe667fc327f422fef6f5d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
 | **[Assist Basketball Network ABNTOURS](http://www.assistbasketballnetwork.com)** | **[Volunteer Graphic Design Intern](https://jobright.ai/jobs/info/6a4fccfa9469c0662034ee26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Professional Books, Marketing and Publicity Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeae9469c0662034eab7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | ↳ | **[Liveright Marketing and Digital Design Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeadfc327f422fef641a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a4fb8d9f57ed168c34167d0?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 09 |
-| **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fb8c4fc327f422fef631e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 09 |
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a3d076d78237a036d5dfcc5?utm_campaign=1049&utm_source=git)** | Plano, Texas, United States | On Site | Jul 09 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Jul 09 |
@@ -136,5 +138,4 @@ For a complete list, click the following sortable link below:
 | **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/6a467f8c3dbab558e29a75bd?utm_campaign=1049&utm_source=git)** | Highland Campus, United States of America | On Site | Jul 03 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a30d126524fd5657fe12453?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 | **[Motown Museum](http://www.motownmuseum.com)** | **[Digitization Intern](https://jobright.ai/jobs/info/6a46ae8f8204a812e98c97b7?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jul 03 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a35217a649fdf16292f7e97?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
