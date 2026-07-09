@@ -57,14 +57,17 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 08 |
+| **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 08 |
+| **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a3455b57f3fdd180d4c9fcf?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
+| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
+| **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 08 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a4ec9759469c0662034ca80?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 08 |
-| **[Beatlibrary](https://beatlibrary.io)** | **[Design Fellow (Intern)](https://jobright.ai/jobs/info/6a4ebe891544d7246c0d4185?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 08 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
-| ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
+| **[Regulify.AI](https://regulify.ai)** | **[UI/UX Design Intern (Remote / 2 Months / Immediate Start)](https://jobright.ai/jobs/info/6a4ea8d59469c0662034c343?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | Remote | Jul 08 |
+| **[Fuser](https://fuser.studio)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern/Co-op - Buildings (Fall 2026)](https://jobright.ai/jobs/info/6a4eaaca15b4965afd5842d2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 08 |
-| **[Regulify.AI](https://regulify.ai)** | **[UI/UX Design Intern (Remote / 2 Months / Immediate Start)](https://jobright.ai/jobs/info/6a4ea8d59469c0662034c343?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead700ea38951a6ff4123?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Jul 08 |
 | ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
@@ -87,7 +90,6 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Public Health](https://jobright.ai/jobs/info/6a4e9c74397d8d353c289ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
-| **[LUSOMÉ](http://lusome.com/)** | **[Graphic Design Intern PT/Contract](https://jobright.ai/jobs/info/6a4d30fc99523700cbff4c02?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 07 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4d2e7c0209ea6fd6851418?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 07 |
 | **[PROJXON](www.projxon.com)** | **[Technical Design Specialist Intern](https://jobright.ai/jobs/info/6a4d2d850209ea6fd68513cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
@@ -138,8 +140,4 @@ For a complete list, click the following sortable link below:
 | **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a3f52114d047136e093934d?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jul 02 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432f89e09ecb4959642a87?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 02 |
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a3c3940882f121f56a33e68?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jul 02 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 02 |
-| **[Plug-in Studios](https://www.studio-plug.com/)** | **[Digital Creator Intern](https://jobright.ai/jobs/info/6a46562d4f64ba41dcb52135?utm_campaign=1049&utm_source=git)** | Atlanta,GA,US | Remote | Jul 02 |
-| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 02 |
-| **[SynergenX Health](https://synergenxhealth.com)** | **[Graphic Design Intern (Paid Internship)](https://jobright.ai/jobs/info/6a463ba9971cd25b06f8cdb7?utm_campaign=1049&utm_source=git)** | Houston, TX | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
