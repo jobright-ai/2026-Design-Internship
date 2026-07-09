@@ -58,6 +58,8 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a4ec9759469c0662034ca80?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 08 |
+| **[Beatlibrary](https://beatlibrary.io)** | **[Design Fellow (Intern)](https://jobright.ai/jobs/info/6a4ebe891544d7246c0d4185?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | Hybrid | Jul 08 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
 | ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
@@ -86,7 +88,6 @@ For a complete list, click the following sortable link below:
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Public Health](https://jobright.ai/jobs/info/6a4e9c74397d8d353c289ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[LUSOMÉ](http://lusome.com/)** | **[Graphic Design Intern PT/Contract](https://jobright.ai/jobs/info/6a4d30fc99523700cbff4c02?utm_campaign=1049&utm_source=git)** | Calgary, Alberta, Canada | On Site | Jul 07 |
-| **[Amazon](https://amazon.com)** | **[User Experience (UX) Designer Fall Internship – 2026 (US)](https://jobright.ai/jobs/info/6a28cdcb1dbd8437bebcd55f?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 07 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4d2e7c0209ea6fd6851418?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 07 |
 | **[PROJXON](www.projxon.com)** | **[Technical Design Specialist Intern](https://jobright.ai/jobs/info/6a4d2d850209ea6fd68513cb?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 07 |
