@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a4ffa26397d8d353c28d599?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
+| **[Realogix](https://realogix.ai)** | **[Motion Design & Graphics Intern](https://jobright.ai/jobs/info/6a4ff9abf57ed168c34177ec?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Louis Vuitton](https://eu.louisvuitton.com)** | **[Visual Merchandising Intern - 2026](https://jobright.ai/jobs/info/6a4fe6869469c0662034f51d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fe667fc327f422fef6f5d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
@@ -132,7 +134,6 @@ For a complete list, click the following sortable link below:
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jul 04 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Digital Projects Intern](https://jobright.ai/jobs/info/6a4892374f64ba41dcb592bb?utm_campaign=1049&utm_source=git)** | Rowley, MA 01969, USA | On Site | Jul 03 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jul 03 |
-| **[Nokia](http://www.nokia.com)** | **[User Experience Designer Co-op/Intern](https://jobright.ai/jobs/info/69f2b079825a315d7ca3df9a?utm_campaign=1049&utm_source=git)** | 600 March Road, Ottawa, Ontario, K2K 2E6, CA | On Site | Jul 03 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a3425367f3fdd180d4c8feb?utm_campaign=1049&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 03 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a34be31f6b55d12c791ddfc?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jul 03 |
 | **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/6a467f8c3dbab558e29a75bd?utm_campaign=1049&utm_source=git)** | Highland Campus, United States of America | On Site | Jul 03 |
