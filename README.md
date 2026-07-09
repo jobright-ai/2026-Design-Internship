@@ -138,6 +138,4 @@ For a complete list, click the following sortable link below:
 | **[EA SPORTS](http://www.EASports.com)** | **[Technical Artist Intern - FALL 2026](https://jobright.ai/jobs/info/6a35e1c1649fdf16292fa9d6?utm_campaign=1049&utm_source=git)** | Austin, TX | Hybrid | Jul 02 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern - Colorado Rapids](https://jobright.ai/jobs/info/6a4695740dd56c76cc2fa0ad?utm_campaign=1049&utm_source=git)** | Commerce City, CO | On Site | Jul 02 |
 | **[4imprint](http://investors.4imprint.com/)** | **[Graphic Artist Intern](https://jobright.ai/jobs/info/6a3f52114d047136e093934d?utm_campaign=1049&utm_source=git)** | 4imprint - Main, Oshkosh, WI, US | On Site | Jul 02 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432f89e09ecb4959642a87?utm_campaign=1049&utm_source=git)** | Los Angeles, CA | On Site | Jul 02 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a3c3940882f121f56a33e68?utm_campaign=1049&utm_source=git)** | New York City, NY | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
