@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 09 |
 | **[Ad Hoc Research](http://www.adhoc-recherche.com/en/home/)** | **[Digital Content Creator Intern](https://jobright.ai/jobs/info/6a3d076d78237a036d5dfcc5?utm_campaign=1049&utm_source=git)** | Plano, Texas, United States | On Site | Jul 09 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ec8a6ce7cce40b3421cc2?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Jul 09 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432ea1c8bca56ab2245c00?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 09 |
@@ -131,6 +132,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a30d126524fd5657fe12453?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 | **[Motown Museum](http://www.motownmuseum.com)** | **[Digitization Intern](https://jobright.ai/jobs/info/6a46ae8f8204a812e98c97b7?utm_campaign=1049&utm_source=git)** | Detroit, MI | On Site | Jul 03 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Internship / Cincinnati](https://jobright.ai/jobs/info/6a35217a649fdf16292f7e97?utm_campaign=1049&utm_source=git)** | Cincinnati, OH | On Site | Jul 02 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Design Summer Intern](https://jobright.ai/jobs/info/6a42cff16faf7560609680d3?utm_campaign=1049&utm_source=git)** | New York, NY | Hybrid | Jul 02 |
-| **[Charleston Battery](https://www.charlestonbattery.com)** | **[Internship - Photographer / Videographer (Fall Semester)](https://jobright.ai/jobs/info/6a46dc37c2d11a6a46670ccf?utm_campaign=1049&utm_source=git)** | Charleston, SC | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
