@@ -134,6 +134,4 @@ For a complete list, click the following sortable link below:
 | **[MNJ SOFTWARE](http://www.mnjsoftware.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a42af6d6faf7560609678ff?utm_campaign=1049&utm_source=git)** | Remote (Work From Home) | Remote | Jul 02 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 02 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a3435c229c90c607e4ddfe8?utm_campaign=1049&utm_source=git)** | US, Washington, Seattle | On Site | Jul 02 |
-| **[Reading Royals](https://royalshockey.com)** | **[Creative Services Internship](https://jobright.ai/jobs/info/6a47dc564f64ba41dcb578aa?utm_campaign=1049&utm_source=git)** | Reading, PA | On Site | Jul 02 |
-| **[Ellis Brooklyn](https://www.ellisbrooklyn.com/)** | **[Design and Creative Intern](https://jobright.ai/jobs/info/6a4717408204a812e98caf45?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 02 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
