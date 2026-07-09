@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Assist Basketball Network ABNTOURS](http://www.assistbasketballnetwork.com)** | **[Volunteer Graphic Design Intern](https://jobright.ai/jobs/info/6a4fccfa9469c0662034ee26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
+| **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Professional Books, Marketing and Publicity Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeae9469c0662034eab7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | ↳ | **[Liveright Marketing and Digital Design Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeadfc327f422fef641a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a4fb8d9f57ed168c34167d0?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 09 |
@@ -70,7 +72,6 @@ For a complete list, click the following sortable link below:
 | **[The Village Dallas](https://www.thevillagedallas.com)** | **[Graphic Design Internship - The Village Dallas](https://jobright.ai/jobs/info/6a33263e649fdf16292f1097?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 08 |
 | **[Democratic National Committee](https://democrats.org/)** | **[Fall 2026 DNC Rapid Social Internship](https://jobright.ai/jobs/info/6a3455b57f3fdd180d4c9fcf?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
 | **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Jul 08 |
-| **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 08 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a4ec9759469c0662034ca80?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead700ea38951a6ff4123?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
