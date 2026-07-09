@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Professional Books, Marketing and Publicity Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeae9469c0662034eab7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
+| ↳ | **[Liveright Marketing and Digital Design Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeadfc327f422fef641a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a4fb8d9f57ed168c34167d0?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 09 |
 | **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fb8c4fc327f422fef631e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 09 |
