@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Furman University](https://jobright.ai/jobs/info/6a50f84378e364789ca5798c?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a50e6c357513b72e0c622dc?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
