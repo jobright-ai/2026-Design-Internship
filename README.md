@@ -57,8 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b702522b5b722e722f?utm_campaign=1049&utm_source=git)** | USA, OH, West Chester, United States of America | Hybrid | Jul 10 |
+| ↳ | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b18d7d3e6cf1cbe99b?utm_campaign=1049&utm_source=git)** | West Chester, OH, United States | Hybrid | Jul 10 |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51102cae4052672fe96818?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Furman University](https://jobright.ai/jobs/info/6a50f84378e364789ca5798c?utm_campaign=1049&utm_source=git)** | Greenville, South Carolina, United States | On Site | Jul 10 |
+| **[The Monument](https://themonument.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a510c2f02522b5b722e6fc0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a50e6c357513b72e0c622dc?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
@@ -152,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jul 05 |
 | **[Sony Electronics](http://www.sonyjobs.com)** | **[Intern - UI/UX Researcher - Human Factor Engineer](https://jobright.ai/jobs/info/69f53c0143a25828a8d17f91?utm_campaign=1049&utm_source=git)** | San Diego, CA | Hybrid | Jul 04 |
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jul 04 |
-| **[Peabody Essex Museum](http://www.pem.org/)** | **[Digital Projects Intern](https://jobright.ai/jobs/info/6a4892374f64ba41dcb592bb?utm_campaign=1049&utm_source=git)** | Rowley, MA 01969, USA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
