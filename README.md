@@ -57,6 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a513d6b02522b5b722e8ba7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
+| **[IROC Digital Marketing](http://www.irocdigital.com)** | **[Writer/Content Creator - Intern](https://jobright.ai/jobs/info/6a513d5f8d7d3e6cf1cc02e5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 10 |
+| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a513d5e57513b72e0c65276?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a513d36bf63b66c7997a172?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
+| **[Starlight Children's Foundation](https://www.starlight.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a513c5957513b72e0c651de?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 10 |
+| **[TripArc](https://www.trip-arc.com/)** | **[Intern - UX designer](https://jobright.ai/jobs/info/6a5136ab57513b72e0c64db8?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Jul 10 |
+| **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a5135e278e364789ca59c19?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
+| **[WILLY CHAVARRIA](https://willychavarria.com)** | **[Design Ops Internship](https://jobright.ai/jobs/info/6a5133b857513b72e0c64bba?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 10 |
 | **[Readeezy](http://readeezy.com)** | **[Storybook Illustration Intern](https://jobright.ai/jobs/info/6a512aec8d7d3e6cf1cbf943?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/6a51250002522b5b722e7ed4?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
@@ -149,12 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Digital Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c14cf971cd25b06f998b1?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 06 |
 | **[Sandhills Global](https://www.sandhills.com/)** | **[Graphic Design Output Intern](https://jobright.ai/jobs/info/68cf47a0fb49c96ca6ea6a3c?utm_campaign=1049&utm_source=git)** | Lincoln, NE | On Site | Jul 06 |
 | **[ArtHaus Properties](https://arthaus.mov)** | **[ArtHaus Visual Marketing AI Intern (Summer 2026)](https://jobright.ai/jobs/info/6a342ec429c90c607e4ddd0b?utm_campaign=1049&utm_source=git)** | Oakland, CA | On Site | Jul 06 |
-| **[Necessity](https://nesscessitycreative.com/)** | **[Graphic Designer Intern (Unpaid)](https://jobright.ai/jobs/info/6a4c7b213122a76a8fd52fa7?utm_campaign=1049&utm_source=git)** | Denver Metropolitan Area, United States | Hybrid | Jul 06 |
-| **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 06 |
-| **[Kittle Property Group](https://kittleproperties.com)** | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd61ac2d11a6a46678df5?utm_campaign=1049&utm_source=git)** | Carmel, IN | On Site | Jul 06 |
-| ↳ | **[Architect Intern (Fall 2026 Semester)](https://jobright.ai/jobs/info/6a4bd6054f64ba41dcb5d606?utm_campaign=1049&utm_source=git)** | Indianapolis, IN | On Site | Jul 06 |
-| **[Vantage Specialty Chemicals](http://www.vantagespecialties.com/)** | **[Creative Design Intern - Part-Time](https://jobright.ai/jobs/info/6a4bcfed971cd25b06f985d2?utm_campaign=1049&utm_source=git)** | Warren County, NJ | On Site | Jul 06 |
-| **[3-GIS](http://www.3-gis.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4b93264f64ba41dcb5c89b?utm_campaign=1049&utm_source=git)** | Huntsville-Decatur Area | On Site | Jul 06 |
-| **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 06 |
-| **[Corgan](http://www.corgan.com/)** | **[Brand + Graphics Internship / Fall 2026](https://jobright.ai/jobs/info/6a4594ad48d2f00f2a86e085?utm_campaign=1049&utm_source=git)** | Dallas, TX, US | On Site | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
