@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Center for Public Partnerships & Research](https://cppr.ku.edu/)** | **[Student Hourly-Graphic Design Intern](https://jobright.ai/jobs/info/6a50b2e5f08ee8320766b9f8?utm_campaign=1049&utm_source=git)** | Topeka Metropolitan Area, United States | On Site | Jul 10 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a509803d5d2a327b664bb30?utm_campaign=1049&utm_source=git)** | Sacramento, CA 95819, United States | On Site | Jul 09 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Graphic Design Fall Semester Intern- Sprinfield, MO](https://jobright.ai/jobs/info/6a5097bbddd293054cca9ff8?utm_campaign=1049&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jul 09 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
