@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
+| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a504055fc327f422fef8621?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
+| **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a505461f57ed168c3418a43?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 09 |
 | **[Athletic Brewing Co.](https://www.athleticbrewing.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a501a7f397d8d353c28de08?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 09 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Student Hourly-Graphic Design Intern](https://jobright.ai/jobs/info/6a5006914649561ec08afeef?utm_campaign=1049&utm_source=git)** | University of Kansas Lawrence Campus | On Site | Jul 09 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a4ffa26397d8d353c28d599?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
@@ -65,7 +68,6 @@ For a complete list, click the following sortable link below:
 | **[Louis Vuitton](https://eu.louisvuitton.com)** | **[Visual Merchandising Intern - 2026](https://jobright.ai/jobs/info/6a4fe6869469c0662034f51d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fe667fc327f422fef6f5d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 | **[GEI Consultants, Inc.](http://www.geiconsultants.com)** | **[Graphic UI/UX Designer Intern](https://jobright.ai/jobs/info/6a50394bf57ed168c3418685?utm_campaign=1049&utm_source=git)** | Rancho Cordova, CA, United States | Hybrid | Jul 09 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 09 |
 | **[Assist Basketball Network ABNTOURS](http://www.assistbasketballnetwork.com)** | **[Volunteer Graphic Design Intern](https://jobright.ai/jobs/info/6a4fccfa9469c0662034ee26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 09 |
@@ -139,6 +141,4 @@ For a complete list, click the following sortable link below:
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jul 03 |
 | **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a3425367f3fdd180d4c8feb?utm_campaign=1049&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 03 |
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a34be31f6b55d12c791ddfc?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jul 03 |
-| **[Austin Community College](http://austincc.edu)** | **[Marketing Graphic Design Student Intern (Hourly)](https://jobright.ai/jobs/info/6a467f8c3dbab558e29a75bd?utm_campaign=1049&utm_source=git)** | Highland Campus, United States of America | On Site | Jul 03 |
-| **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a30d126524fd5657fe12453?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
