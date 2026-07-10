@@ -139,6 +139,4 @@ For a complete list, click the following sortable link below:
 | **[Helios & Partners](https://heliospartnership.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a2c4e94d3ec94183f4bc439?utm_campaign=1049&utm_source=git)** | Santa Monica, CA | On Site | Jul 04 |
 | **[Peabody Essex Museum](http://www.pem.org/)** | **[Digital Projects Intern](https://jobright.ai/jobs/info/6a4892374f64ba41dcb592bb?utm_campaign=1049&utm_source=git)** | Rowley, MA 01969, USA | On Site | Jul 03 |
 | **[Bandit Industries, Inc.](http://www.banditchippers.com)** | **[Media Production - Intern](https://jobright.ai/jobs/info/6a32ebc5910b7349107128da?utm_campaign=1049&utm_source=git)** | Remus, MI | On Site | Jul 03 |
-| **[Franklin County Data Center (FCDC)](https://datacenter.franklincountyohio.gov)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a3425367f3fdd180d4c8feb?utm_campaign=1049&utm_source=git)** | Columbus, OH 43215, USA | On Site | Jul 03 |
-| **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a34be31f6b55d12c791ddfc?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jul 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
