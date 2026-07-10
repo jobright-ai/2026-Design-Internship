@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
+| **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jul 09 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a504055fc327f422fef8621?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
 | **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a505461f57ed168c3418a43?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 09 |
+| **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a506c04fc327f422fef8a96?utm_campaign=1049&utm_source=git)** | Oklahoma County, OK, United States | On Site | Jul 09 |
 | **[Athletic Brewing Co.](https://www.athleticbrewing.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a501a7f397d8d353c28de08?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 09 |
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Student Hourly-Graphic Design Intern](https://jobright.ai/jobs/info/6a5006914649561ec08afeef?utm_campaign=1049&utm_source=git)** | University of Kansas Lawrence Campus | On Site | Jul 09 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a4ffa26397d8d353c28d599?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
@@ -108,7 +111,6 @@ For a complete list, click the following sortable link below:
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60cac643fd23fed3cbf5?utm_campaign=1049&utm_source=git)** | North Bethesda, MD, United States | Remote | Jul 07 |
 | ↳ | **[Graphic Design Intern II - Adobe Creative Cloud](https://jobright.ai/jobs/info/6a4d60c835e45603c4bb39c7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 07 |
-| **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[JBS International, Inc.](http://www.jbsinternational.com)** | **[Graphic Design Intern II - Public Health](https://jobright.ai/jobs/info/6a4e9c74397d8d353c289ab8?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 07 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcc6faf756060966843?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 07 |
 | **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4d2e7c0209ea6fd6851418?utm_campaign=1049&utm_source=git)** | Boston, Massachusetts, United States | Remote | Jul 07 |
