@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a510d018d7d3e6cf1cbe7b8?utm_campaign=1049&utm_source=git)** | West Chester, OH, United States | Hybrid | Jul 11 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 11 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a51e9ff8d7d3e6cf1cc4a15?utm_campaign=1049&utm_source=git)** | Lee's Summit, MO, United States | On Site | Jul 11 |
 | **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/6a51e35678e364789ca5e6f9?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 10 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a51dd01ae4052672fe9c15b?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a50a0a3ddd293054ccaad3f?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 07 |
 | **[Vantage Specialty Chemicals](http://www.vantagespecialties.com/)** | **[Creative Design Intern – Part Time](https://jobright.ai/jobs/info/6a4d75130209ea6fd68525b1?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Jul 07 |
 | **[National Cherry Blossom Festival](https://nationalcherryblossomfestival.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4d68064c6c9f7a619f7b1c?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 07 |
-| **[NJ Department of Environmental Protection](http://www.state.nj.us/dep/)** | **[CIER-2026-16i – Community Collaborative Initiative Intern](https://jobright.ai/jobs/info/6a4d61df3122a76a8fd5546e?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 07 |
-| **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a4422570153061b8b3df5a2?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
