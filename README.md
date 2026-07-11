@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Egis](https://www.egis-group.com/fr)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a527a588a74e077472f4c64?utm_campaign=1049&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a527275e726ec56126a31c2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a527240e726ec56126a3196?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
 | **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a432c84c8bca56ab22459dc?utm_campaign=1049&utm_source=git)** | Norwood, NJ, United States | On Site | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Jul 08 |
 | ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, Florida, United States | On Site | Jul 08 |
-| **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a34381e1232144fb155ed76?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | Remote | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
