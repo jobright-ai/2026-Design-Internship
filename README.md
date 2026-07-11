@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a52a1e88576ec69c014cbcf?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jul 11 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6a528e6b8576ec69c014c7e1?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 11 |
 | **[Egis](https://www.egis-group.com/fr)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a527a588a74e077472f4c64?utm_campaign=1049&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 11 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a527275e726ec56126a31c2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead809469c0662034c41f?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 08 |
 | **[Stantec](http://www.stantec.com)** | **[Interior Design Intern/Co-op - Buildings (Fall 2026)](https://jobright.ai/jobs/info/6a4eaaca15b4965afd5842d2?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 08 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd317dbc6f6622c9910e8f?utm_campaign=1049&utm_source=git)** | Lowell, MA | On Site | Jul 08 |
-| ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
