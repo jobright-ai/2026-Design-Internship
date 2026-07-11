@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UMDB- UntoldCine Movie Database](https://umdb.org/)** | **[Looking for a Creative UI/UX Designer Intern to Help Shape the Future of UMDb](https://jobright.ai/jobs/info/6a5256bf8ef95364ead8df13?utm_campaign=1049&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 11 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a524eaf8a74e077472f3fc9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[CRB](https://www.crbgroup.com/)** | **[Intern- Architectural Designer](https://jobright.ai/jobs/info/6a5242e4d007ee02d95f6cf5?utm_campaign=1049&utm_source=git)** | St Louis, MO, United States | On Site | Jul 11 |
 | **[Cloud Counselage Pvt. Ltd.](https://www.cloudcounselage.com)** | **[Intern - Design & Content (Remote)](https://jobright.ai/jobs/info/6a5204e9ae4052672fe9d3b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 11 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Princeton University Press](http://press.princeton.edu)** | **[Graphic Design Internship: Fall 2026 & Spring 2027 (NJ or PA)](https://jobright.ai/jobs/info/6a399f596484fb75f2b32cfc?utm_campaign=1049&utm_source=git)** | Princeton, NJ, United States | Remote | Jul 08 |
 | **[HOAMCO (Homeowners Association Management Company)](http://hoamco.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a4e065fbc9c765d1ef83c4d?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 08 |
 | **[PD Instore](https://pdinstore.com/)** | **[3D Design Intern](https://jobright.ai/jobs/info/6a43312c501d340b4a82e358?utm_campaign=1049&utm_source=git)** | 7101 - Minneapolis, MN 55427 | On Site | Jul 07 |
-| **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 07 |
-| **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
