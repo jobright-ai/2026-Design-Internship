@@ -59,6 +59,7 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/6a51c3d257513b72e0c677d7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Chalaran](www.chalaran.com)** | **[Content Design Intern — Beauty Startup / Video, Social & Website Creative / Part-Time / Remote](https://jobright.ai/jobs/info/6a51afd202522b5b722e9981?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a51ca6f57513b72e0c67ee3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 10 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Visual Designer Intern - Spring 2016](https://jobright.ai/jobs/info/6a51c29278e364789ca5c641?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Patel Comics](https://thepatelcomics.com/)** | **[Concept Artist Intern](https://jobright.ai/jobs/info/6a51b2cc8d7d3e6cf1cc13a6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Taraki](https://www.taraki.co/)** | **[Wix Designer Intern - Madvisions](https://jobright.ai/jobs/info/6a43235b620da04f9b578f65?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 07 |
 | **[City of Grand Junction](https://www.gjcity.org)** | **[Visit Grand Junction Intern – Administrative and Content](https://jobright.ai/jobs/info/6a509e9542c6dc326e8ea2c8?utm_campaign=1049&utm_source=git)** | Grand Junction, CO, United States | On Site | Jul 06 |
 | **[Schilling Social](schillingsocial.com)** | **[Internship](https://jobright.ai/jobs/info/6a4c64de4eb370649b27d0f3?utm_campaign=1049&utm_source=git)** | Palm Beach, FL | Hybrid | Jul 06 |
-| **[Road Scholar](https://www.roadscholar.org)** | **[Intern, Email Design - Remote Internship Opportunity!](https://jobright.ai/jobs/info/6a4c5e115d7b097d2df402ea?utm_campaign=1049&utm_source=git)** | Boston, MA | Remote | Jul 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
