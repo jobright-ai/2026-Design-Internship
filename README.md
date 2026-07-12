@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a52a9fc8576ec69c014ce8f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
+| **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a52c6b28ef95364ead8fce3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 11 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a52c68ce726ec56126a475b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
+| ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a52a9fc8576ec69c014ce8f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
 | **[SeatSwap, Inc.](https://seatswaptickets.com/)** | **[Graphic/Web Design Internship](https://jobright.ai/jobs/info/6a52a9f78576ec69c014ce8d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a52a1e88576ec69c014cbcf?utm_campaign=1049&utm_source=git)** | Austin, TX US (Primary) | On Site | Jul 11 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6a528e6b8576ec69c014c7e1?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 11 |
@@ -81,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 10 |
 | **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6a51d0ddbf63b66c7997d4ce?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Falls Area, United States | On Site | Jul 10 |
 | **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/6a51c3d257513b72e0c677d7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
-| **[Chalaran](www.chalaran.com)** | **[Content Design Intern — Beauty Startup / Video, Social & Website Creative / Part-Time / Remote](https://jobright.ai/jobs/info/6a51afd202522b5b722e9981?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a51ca6f57513b72e0c67ee3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a51d4dfbf63b66c7997d9a9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 10 |
 | **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a51d24abf63b66c7997d828?utm_campaign=1049&utm_source=git)** | Long Island City, NY, United States | On Site | Jul 10 |
@@ -107,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Asset Management (Fall 2026)](https://jobright.ai/jobs/info/6a511e91bf63b66c799790c6?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 10 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
-| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51102cae4052672fe96818?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Monument](https://themonument.com)** | **[Animation Intern](https://jobright.ai/jobs/info/6a51b1338d7d3e6cf1cc1252?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4ebb8715b4965afd584832?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Jul 08 |
 | **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a4ec9759469c0662034ca80?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 08 |
 | **[Fuser](https://fuser.studio)** | **[Brand & Motion Design Intern](https://jobright.ai/jobs/info/6a4ead700ea38951a6ff4123?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
-| ↳ | **[Creative Design Intern](https://jobright.ai/jobs/info/6a4ead709469c0662034c412?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 08 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
