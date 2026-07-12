@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[PWP Landscape Architecture](https://www.pwpla.com)** | **[PWP Summer Internship 2026](https://jobright.ai/jobs/info/6a53ff278576ec69c0151b07?utm_campaign=1049&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 12 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e255c8eb0843027ae172?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a53a757e726ec56126a78fd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 12 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Asset Management (Fall 2026)](https://jobright.ai/jobs/info/6a511e91bf63b66c799790c6?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 10 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
-| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51102cae4052672fe96818?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Monument](https://themonument.com)** | **[Animation Intern](https://jobright.ai/jobs/info/6a51b1338d7d3e6cf1cc1252?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 10 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/69c378fe7a7a0045db8941ba?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, USA, Jacksonville Beach, FL | On Site | Jul 09 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Professional Books, Marketing and Publicity Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeae9469c0662034eab7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
-| ↳ | **[Liveright Marketing and Digital Design Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeadfc327f422fef641a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
