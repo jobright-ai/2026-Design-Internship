@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e255c8eb0843027ae172?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a53a757e726ec56126a78fd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
 | **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 12 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a538b6fd007ee02d95fbbb7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -139,7 +140,6 @@ For a complete list, click the following sortable link below:
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a509803d5d2a327b664bb30?utm_campaign=1049&utm_source=git)** | Sacramento, CA 95819, United States | On Site | Jul 09 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Graphic Design Fall Semester Intern- Sprinfield, MO](https://jobright.ai/jobs/info/6a5097bbddd293054cca9ff8?utm_campaign=1049&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jul 09 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b18d7d3e6cf1cbe99b?utm_campaign=1049&utm_source=git)** | USA, OH, West Chester, United States of America | Remote | Jul 09 |
-| **[Central Minnesota Jobs and Training Services, Inc.](https://www.cmjts.org/)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51d150bf63b66c7997d529?utm_campaign=1049&utm_source=git)** | St Louis Park, MN, United States | On Site | Jul 09 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 09 |
 | **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jul 09 |
