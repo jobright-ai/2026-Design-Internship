@@ -58,6 +58,7 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a53a757e726ec56126a78fd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
+| **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 12 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a538b6fd007ee02d95fbbb7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retouch Internship](https://jobright.ai/jobs/info/6a538b2e8576ec69c015019f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a53788c8ef95364ead92475?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 09 |
 | **[W. W. Norton & Company, Inc.](http://www.wwnorton.com)** | **[Norton Professional Books, Marketing and Publicity Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeae9469c0662034eab7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
 | ↳ | **[Liveright Marketing and Digital Design Internship, Fall 2026](https://jobright.ai/jobs/info/6a4fbeadfc327f422fef641a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 09 |
-| **[Atlanta Gladiators](http://atlantagladiators.com)** | **[Motion Graphics Internship](https://jobright.ai/jobs/info/6a4fb8d9f57ed168c34167d0?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
