@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[UST HealthProof](https://usthealthproof.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a3ad99e797099171917c020?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54c119f7e23d26a08fea69?utm_campaign=1049&utm_source=git)** | unknown, Chicago, IL | On Site | Jul 13 |
 | ↳ | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a54a7288ef95364ead96434?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[NetEase Games](https://www.neteasegames.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a54a4108a74e077472fc742?utm_campaign=1049&utm_source=git)** | United States-Remote | Remote | Jul 13 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Graphic Design Fall Semester Intern- Sprinfield, MO](https://jobright.ai/jobs/info/6a5097bbddd293054cca9ff8?utm_campaign=1049&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jul 09 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b18d7d3e6cf1cbe99b?utm_campaign=1049&utm_source=git)** | USA, OH, West Chester, United States of America | Remote | Jul 09 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jul 09 |
-| **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a504055fc327f422fef8621?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
