@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Real Art Daily (RAD) Productions](https://radprod.com)** | **[Visual Content and Design Intern](https://jobright.ai/jobs/info/6a548d7c8a74e077472fc313?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jul 13 |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a5488d28a74e077472fc1cc?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
+| **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Intern - Design and PR](https://jobright.ai/jobs/info/6a5487e38a74e077472fc19b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a54698c8576ec69c01530d5?utm_campaign=1049&utm_source=git)** | Hyde Park, MA, United States | On Site | Jul 12 |
 | **[GrowSquares](https://www.growsquares.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a544fb7c8eb0843027af7b4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
-| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a543797e726ec56126a9846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Velinsa](https://velinsa.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a542b48d007ee02d95fddfb?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a5421f48ef95364ead94939?utm_campaign=1049&utm_source=git)** | Farmingdale, NY, United States | On Site | Jul 12 |
 | **[Zero Studios](https://zero.nyc/)** | **[Design Intern](https://jobright.ai/jobs/info/6a5408d48a74e077472fa698?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a505461f57ed168c3418a43?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 09 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a506c04fc327f422fef8a96?utm_campaign=1049&utm_source=git)** | Oklahoma County, OK, United States | On Site | Jul 09 |
 | **[Athletic Brewing Co.](https://www.athleticbrewing.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a501a7f397d8d353c28de08?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 09 |
-| **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Student Hourly-Graphic Design Intern](https://jobright.ai/jobs/info/6a5006914649561ec08afeef?utm_campaign=1049&utm_source=git)** | University of Kansas Lawrence Campus | On Site | Jul 09 |
-| **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a4ffa26397d8d353c28d599?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
