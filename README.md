@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a5544b94119652ff386474b?utm_campaign=1049&utm_source=git)** | Beverly, MA, United States | On Site | Jul 13 |
+| **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a42a46e6faf7560609676d4?utm_campaign=1049&utm_source=git)** | Sacramento, CA 95819, United States | On Site | Jul 13 |
+| **[Printemps New York](https://us.printemps.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a55383d268af95237bea251?utm_campaign=1049&utm_source=git)** | NYC Metro Area | On Site | Jul 13 |
 | **[PHI Aviation](http://www.phihelico.com)** | **[Design Draftsman Intern](https://jobright.ai/jobs/info/6a552fa7f2c46727285f074f?utm_campaign=1049&utm_source=git)** | Lafayette, LA, United States | On Site | Jul 13 |
 | **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a5527f9ae07d60a8d00f3ea?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 13 |
 | **[Kwaza Games LLC](http://etwaves.online)** | **[Kwaza Web UI Designer (Internship - University Must Reach Out)](https://jobright.ai/jobs/info/6a55228a268af95237be986e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 13 |
@@ -73,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a54ddf181744f383a313818?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Merchandise Internship](https://jobright.ai/jobs/info/6a54dde93cd1632418bebf4b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde8b361d54aceab785f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddcb8b24713fc151b471?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd758b24713fc151b46e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -136,7 +139,6 @@ For a complete list, click the following sortable link below:
 | **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/6a51e35678e364789ca5e6f9?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 10 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a51dd01ae4052672fe9c15b?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US | On Site | Jul 10 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 10 |
-| **[IBM](http://www.ibm.com)** | **[Enterprise Experience Design - Story Teller Designer Intern (September 2026 - 4 Months - Toronto, Calgary, Montreal, Ottawa, Vancouver)](https://jobright.ai/jobs/info/6a51c3d257513b72e0c677d7?utm_campaign=1049&utm_source=git)** | Toronto, Ontario, Canada | On Site | Jul 10 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a51ca6f57513b72e0c67ee3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Graphic / Packaging Design](https://jobright.ai/jobs/info/6a51d4dfbf63b66c7997d9a9?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 10 |
 | **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a51d24abf63b66c7997d828?utm_campaign=1049&utm_source=git)** | Long Island City, NY, United States | On Site | Jul 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Starlight Children's Foundation](https://www.starlight.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a513c5957513b72e0c651de?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 10 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a5135e278e364789ca59c19?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
 | **[RSP Architects](http://www.rsparch.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/6a51250002522b5b722e7ed4?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Jul 10 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Asset Management (Fall 2026)](https://jobright.ai/jobs/info/6a511e91bf63b66c799790c6?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
