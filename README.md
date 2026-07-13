@@ -57,9 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a5527f9ae07d60a8d00f3ea?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 13 |
+| **[Kwaza Games LLC](http://etwaves.online)** | **[Kwaza Web UI Designer (Internship - University Must Reach Out)](https://jobright.ai/jobs/info/6a55228a268af95237be986e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Designer Intern (Global Value Advisory)](https://jobright.ai/jobs/info/6a55063d4119652ff3862c71?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Remote | Jul 13 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a5503dfae07d60a8d00e44d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 13 |
+| **[Fuyao Group](http://www.fuyaogroup.com)** | **[Intern - Multimedia Specialist - General Office](https://jobright.ai/jobs/info/6a552267ae07d60a8d00f1ed?utm_campaign=1049&utm_source=git)** | Moraine, OH, United States | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Designer Intern (TikTok-Design-LIVE) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/69b12d100b2db6275c064886?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a513d5e57513b72e0c65276?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Elastic Band Company](https://elasticbandco.com)** | **[Intern](https://jobright.ai/jobs/info/6a54e06681744f383a313956?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Asset Management (Fall 2026)](https://jobright.ai/jobs/info/6a511e91bf63b66c799790c6?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 10 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
-| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51102cae4052672fe96818?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 10 |
-| **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b702522b5b722e722f?utm_campaign=1049&utm_source=git)** | USA, OH, West Chester, United States of America | Remote | Jul 10 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
