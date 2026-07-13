@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NetEase Games](https://www.neteasegames.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a54a4108a74e077472fc742?utm_campaign=1049&utm_source=git)** | United States-Remote | Remote | Jul 13 |
+| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, US | On Site | Jul 13 |
 | **[Real Art Daily (RAD) Productions](https://radprod.com)** | **[Visual Content and Design Intern](https://jobright.ai/jobs/info/6a548d7c8a74e077472fc313?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a5488d28a74e077472fc1cc?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
 | **[Cynthia Rowley](https://www.cynthiarowley.com)** | **[Fashion Intern - Design and PR](https://jobright.ai/jobs/info/6a5487e38a74e077472fc19b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
@@ -151,10 +153,8 @@ For a complete list, click the following sortable link below:
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a509803d5d2a327b664bb30?utm_campaign=1049&utm_source=git)** | Sacramento, CA 95819, United States | On Site | Jul 09 |
 | **[Ozarks Regional YMCA](https://www.orymca.org/)** | **[Graphic Design Fall Semester Intern- Sprinfield, MO](https://jobright.ai/jobs/info/6a5097bbddd293054cca9ff8?utm_campaign=1049&utm_source=git)** | Springfield, MO 65806, USA | On Site | Jul 09 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a5111b18d7d3e6cf1cbe99b?utm_campaign=1049&utm_source=git)** | USA, OH, West Chester, United States of America | Remote | Jul 09 |
-| **[Design Workshop](https://www.designworkshop.com/)** | **[2026 Fall Internship](https://jobright.ai/jobs/info/6a4fe221fc327f422fef6dd0?utm_campaign=1049&utm_source=git)** | Basalt, CO, United States | On Site | Jul 09 |
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op Fall 2026](https://jobright.ai/jobs/info/69e971873aa0c479643a9ecf?utm_campaign=1049&utm_source=git)** | Akron, OH | On Site | Jul 09 |
 | **[USTA National Campus](http://www.ustanationalcampus.com)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a504055fc327f422fef8621?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
 | **[Novara Construction and Remodeling](https://novaraconstructiontx.com/)** | **[Creative Content Creator Intern](https://jobright.ai/jobs/info/6a505461f57ed168c3418a43?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 09 |
 | **[State of Oklahoma](https://oklahoma.gov/)** | **[Choosing Childbirth Intern](https://jobright.ai/jobs/info/6a506c04fc327f422fef8a96?utm_campaign=1049&utm_source=git)** | Oklahoma County, OK, United States | On Site | Jul 09 |
-| **[Athletic Brewing Co.](https://www.athleticbrewing.com)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6a501a7f397d8d353c28de08?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
