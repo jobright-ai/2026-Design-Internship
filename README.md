@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a513d5e57513b72e0c65276?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
 | **[Elastic Band Company](https://elasticbandco.com)** | **[Intern](https://jobright.ai/jobs/info/6a54e06681744f383a313956?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Duelit](https://www.duelit.com)** | **[UI/UX Designer Intern (UNPAID)](https://jobright.ai/jobs/info/6a54de4031f2d15a8d813b85?utm_campaign=1049&utm_source=git)** | NY, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
@@ -90,7 +91,6 @@ For a complete list, click the following sortable link below:
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a4d53ba3122a76a8fd55138?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 12 |
 | **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a53e255c8eb0843027ae172?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a53a757e726ec56126a78fd?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 12 |
-| **[Oklahoma State University Center for Health Sciences](https://health.okstate.edu/)** | **[Web Intern GV9574](https://jobright.ai/jobs/info/6a19be56e24ef365258273a4?utm_campaign=1049&utm_source=git)** | Tulsa, OK, United States | On Site | Jul 12 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a538b6fd007ee02d95fbbb7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retouch Internship](https://jobright.ai/jobs/info/6a538b2e8576ec69c015019f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 12 |
 | **[City of New York](http://www1.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a53788c8ef95364ead92475?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 12 |
@@ -144,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - UX designer](https://jobright.ai/jobs/info/6a5136ab57513b72e0c64db8?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Jul 10 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a513d6b02522b5b722e8ba7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[IROC Digital Marketing](http://www.irocdigital.com)** | **[Writer/Content Creator - Intern](https://jobright.ai/jobs/info/6a513d5f8d7d3e6cf1cc02e5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 10 |
-| **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a513d5e57513b72e0c65276?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 10 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a513d36bf63b66c7997a172?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 10 |
 | **[Starlight Children's Foundation](https://www.starlight.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a513c5957513b72e0c651de?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 10 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a5135e278e364789ca59c19?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 10 |
@@ -152,9 +151,10 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Intern - Asset Management (Fall 2026)](https://jobright.ai/jobs/info/6a511e91bf63b66c799790c6?utm_campaign=1049&utm_source=git)** | Altamonte Springs, FL, United States | On Site | Jul 10 |
 | **[Brooks Running](http://www.brooksrunning.com)** | **[Footwear Design Intern, Inline](https://jobright.ai/jobs/info/6a344fa81232144fb155f530?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 10 |
-| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
-| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| **[SAP](https://www.sap.com)** | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e8e40524e919f4a9ac61?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
+| ↳ | **[SAP iXp Intern - User Experience Designer [Vancouver]](https://jobright.ai/jobs/info/6a50e88702522b5b722e5c86?utm_campaign=1049&utm_source=git)** | Vancouver, British Columbia, CA, V6B 1A9 | Hybrid | Jul 10 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Graphic Design Intern - St. Louis Park](https://jobright.ai/jobs/info/6a51102cae4052672fe96818?utm_campaign=1049&utm_source=git)** | St. Louis Park, MN, United States | On Site | Jul 10 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[The Monument](https://themonument.com)** | **[Animation Intern](https://jobright.ai/jobs/info/6a51b1338d7d3e6cf1cc1252?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 10 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a510c2f02522b5b722e6fc0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
