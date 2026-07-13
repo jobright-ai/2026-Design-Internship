@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[GrowSquares](https://www.growsquares.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a544fb7c8eb0843027af7b4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 12 |
 | **[Invite Only Studios](http://www.inviteonly.studio)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a543797e726ec56126a9846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 12 |
+| **[Velinsa](https://velinsa.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a542b48d007ee02d95fddfb?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 12 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a5421f48ef95364ead94939?utm_campaign=1049&utm_source=git)** | Farmingdale, NY, United States | On Site | Jul 12 |
 | **[Zero Studios](https://zero.nyc/)** | **[Design Intern](https://jobright.ai/jobs/info/6a5408d48a74e077472fa698?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 12 |
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a5403768576ec69c0151bc0?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, United States | On Site | Jul 12 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The University of Kansas School of Business](http://www.business.ku.edu/)** | **[Student Hourly-Graphic Design Intern](https://jobright.ai/jobs/info/6a5006914649561ec08afeef?utm_campaign=1049&utm_source=git)** | University of Kansas Lawrence Campus | On Site | Jul 09 |
 | **[(USTA) United States Tennis Association](https://www.usta.com/en/home.html)** | **[Design, Website & Creative Intern (USTA NorCal)](https://jobright.ai/jobs/info/6a4ffa26397d8d353c28d599?utm_campaign=1049&utm_source=git)** | Alameda, CA, United States | Hybrid | Jul 09 |
 | **[Indy Fuel Hockey Club](https://www.indyfuelhockey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a501ce0397d8d353c28def4?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 09 |
-| **[Louis Vuitton](https://eu.louisvuitton.com)** | **[Visual Merchandising Intern - 2026](https://jobright.ai/jobs/info/6a4fe6869469c0662034f51d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
-| **[Victoria Hagan Interiors](https://victoriahagan.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4fe667fc327f422fef6f5d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
