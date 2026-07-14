@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Binghamton University](https://jobright.ai/jobs/info/6a564f5810c4d945d8648c94?utm_campaign=1049&utm_source=git)** | 4400 Vestal Pkwy E, Binghamton, NY, 13902, US | On Site | Jul 14 |
 | **[JLL](http://www.jll.com/)** | **[Environmental Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a564ac410c4d945d8648a86?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 14 |
 | **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UST HealthProof](https://usthealthproof.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a3ad99e797099171917c020?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Jul 13 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54c119f7e23d26a08fea69?utm_campaign=1049&utm_source=git)** | unknown, Chicago, IL | On Site | Jul 13 |
 | ↳ | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a54a7288ef95364ead96434?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[NetEase Games](https://www.neteasegames.com)** | **[User Research Intern](https://jobright.ai/jobs/info/6a54a4108a74e077472fc742?utm_campaign=1049&utm_source=git)** | United States-Remote | Remote | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
