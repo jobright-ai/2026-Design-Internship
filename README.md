@@ -57,12 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Zenly](https://www.zenly.com)** | **[Real Estate Startup Internship - Summer 2017](https://jobright.ai/jobs/info/6a55bac4fdf4fa71202b4472?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 13 |
+| **[Olson Kundig](http://www.olsonkundig.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a55b854fdf4fa71202b40e8?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
+| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/6a43235dc662c35651adb872?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 13 |
+| **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a50e09bfd78601961764051?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY, United States | On Site | Jul 13 |
 | **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6a55af3a14f1040fa611a8b5?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 13 |
 | **[Jackson Durham](https://www.jacksondurham.com)** | **[Photography Intern](https://jobright.ai/jobs/info/6a55a345fdf4fa71202b36c1?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 13 |
 | **[Place Showroom](http://placeshowroom.com)** | **[NYC Internship Fall 2026](https://jobright.ai/jobs/info/6a5560de4119652ff3865541?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 13 |
 | **[Annette English + Associates](https://annetteenglish.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a558f0cae07d60a8d011f1d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| **[Claim Health](https://www.claimhealth.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a540f61c8eb0843027ae990?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 13 |
-| ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/6a0a92f7403fc339507f75bb?utm_campaign=1049&utm_source=git)** | New York City | On Site | Jul 13 |
+| **[Claim Health](https://www.claimhealth.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a0a92f7403fc339507f75bb?utm_campaign=1049&utm_source=git)** | New York City | On Site | Jul 13 |
+| ↳ | **[Visual Design Intern](https://jobright.ai/jobs/info/6a540f61c8eb0843027ae990?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 13 |
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a558a034119652ff3866483?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jul 13 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a558575377f983ce8a9aa12?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Print Intern - School of Art - College of Fine Arts](https://jobright.ai/jobs/info/6a55856f377f983ce8a9aa0f?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
@@ -107,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a54ddf181744f383a313818?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Merchandise Internship](https://jobright.ai/jobs/info/6a54dde93cd1632418bebf4b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde8b361d54aceab785f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddcb8b24713fc151b471?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd758b24713fc151b46e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Gopafy - Smart Business Solutions](https://gopafy.com)** | **[Design & Content Intern](https://jobright.ai/jobs/info/6a537f41d007ee02d95fb8b3?utm_campaign=1049&utm_source=git)** | KS, United States | Remote | Jul 11 |
 | **[CASE Agency](https://www.caseagency.com/)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6a528e6b8576ec69c014c7e1?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 11 |
 | **[Egis](https://www.egis-group.com/fr)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a527a588a74e077472f4c64?utm_campaign=1049&utm_source=git)** | Coral Gables, FL, United States | On Site | Jul 11 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a527275e726ec56126a31c2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
-| ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a527240e726ec56126a3196?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 11 |
-| **[Orthofeet](https://www.orthofeet.com/)** | **[Seasonal Culture and Engagement Intern](https://jobright.ai/jobs/info/6a432c84c8bca56ab22459dc?utm_campaign=1049&utm_source=git)** | Norwood, NJ, United States | On Site | Jul 11 |
-| **[UMDB- UntoldCine Movie Database](https://umdb.org/)** | **[Looking for a Creative UI/UX Designer Intern to Help Shape the Future of UMDb](https://jobright.ai/jobs/info/6a5256bf8ef95364ead8df13?utm_campaign=1049&utm_source=git)** | Los Angeles Metropolitan Area, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
