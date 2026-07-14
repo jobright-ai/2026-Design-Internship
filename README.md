@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Place Showroom](http://placeshowroom.com)** | **[NYC Internship Fall 2026](https://jobright.ai/jobs/info/6a5560de4119652ff3865541?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 13 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 13 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5551ff377f983ce8a9960d?utm_campaign=1049&utm_source=git)** | 701 Oakland Ave., Rock Hill, SC, 29730, US | On Site | Jul 13 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a5550c1268af95237bead9f?utm_campaign=1049&utm_source=git)** | Matawan, NJ, United States | Hybrid | Jul 13 |
@@ -77,6 +78,7 @@ For a complete list, click the following sortable link below:
 | **[Malltip Inc](https://www.malltip.com)** | **[Visual Designer Intern - Spring 2016](https://jobright.ai/jobs/info/6a5559bc268af95237beb1fd?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a290d5d40ac8e32932a508c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 | ↳ | **[Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a30d56e89f8f147d3736fe1?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 13 |
+| ↳ | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a30d126524fd5657fe12453?utm_campaign=1049&utm_source=git)** | Seattle, WA | On Site | Jul 13 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Graphic Design Intern - Brand Partnerships](https://jobright.ai/jobs/info/6a5503dfae07d60a8d00e44d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 13 |
 | **[Fuyao Group](http://www.fuyaogroup.com)** | **[Intern - Multimedia Specialist - General Office](https://jobright.ai/jobs/info/6a552267ae07d60a8d00f1ed?utm_campaign=1049&utm_source=git)** | Moraine, OH, United States | On Site | Jul 13 |
@@ -88,8 +90,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a54ddf181744f383a313818?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Merchandise Internship](https://jobright.ai/jobs/info/6a54dde93cd1632418bebf4b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde8b361d54aceab785f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddcb8b24713fc151b471?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd758b24713fc151b46e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a3f03dc882f121f56a3c56a?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 10 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Visual Designer Intern - Spring 2016](https://jobright.ai/jobs/info/6a51c29278e364789ca5c641?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 10 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6a51e081bf63b66c7997e5d0?utm_campaign=1049&utm_source=git)** | Stamford, CT, United States | On Site | Jul 10 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a51c3e5ae4052672fe9a796?utm_campaign=1049&utm_source=git)** | Chicago, IL, USA, Chicago, IL | On Site | Jul 10 |
-| **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (LA)](https://jobright.ai/jobs/info/6a51d7bebf63b66c7997db97?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
