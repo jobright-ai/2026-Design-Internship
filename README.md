@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a558a034119652ff3866483?utm_campaign=1049&utm_source=git)** | Cleveland, OH 44114, USA | On Site | Jul 13 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a558575377f983ce8a9aa12?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Print Intern - School of Art - College of Fine Arts](https://jobright.ai/jobs/info/6a55856f377f983ce8a9aa0f?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
+| **[LAXIR](https://www.laxir.us/)** | **[Digital Marketing/ Graphic Design Or Developer INTERNSHIP](https://jobright.ai/jobs/info/6a55856a268af95237bec2e9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
+| **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5583d4f2c46727285f29df?utm_campaign=1049&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 13 |
 | **[Chalaran](www.chalaran.com)** | **[Content Design Intern — Growth Creative / Beauty Startup / Part-Time / Unpaid / Remote](https://jobright.ai/jobs/info/6a5577f3f2c46727285f26ef?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 13 |
 | **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a55744a377f983ce8a9a5c8?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
 | **[AEG](http://www.aegworldwide.com)** | **[Intern-Content Creator](https://jobright.ai/jobs/info/6a5570ae2084cd792b478b68?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Cloud Counselage Pvt. Ltd.](https://www.cloudcounselage.com)** | **[Intern - Design & Content (Remote)](https://jobright.ai/jobs/info/6a5204e9ae4052672fe9d3b2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 11 |
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 11 |
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/6a51fa73bf63b66c7997f012?utm_campaign=1049&utm_source=git)** | Highland Park, IL, United States | On Site | Jul 11 |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 11 |
-| **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a51e9ff8d7d3e6cf1cc4a15?utm_campaign=1049&utm_source=git)** | Lee's Summit, MO, United States | On Site | Jul 11 |
-| **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/6a51e35678e364789ca5e6f9?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 10 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a51dd01ae4052672fe9c15b?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US | On Site | Jul 10 |
-| **[Iris USA](https://www.iris-worldwide.com/)** | **[Art Director Summer Intern](https://jobright.ai/jobs/info/6a420b159dd7f954cafe9958?utm_campaign=1049&utm_source=git)** | Atlanta, GA | Hybrid | Jul 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
