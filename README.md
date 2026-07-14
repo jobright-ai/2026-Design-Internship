@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55db35ec54dd532d814b20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
+| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - TCL](https://jobright.ai/jobs/info/6a55d4e6ec54dd532d814770?utm_campaign=1049&utm_source=git)** | Bluffton, SC, USA | On Site | Jul 13 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | **[Perkins Management Services Company](https://www.perkinsusa.com)** | **[Marketing Design Intern](https://jobright.ai/jobs/info/6a55cffe05c65f7c8f4c809b?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 13 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Graphic Designer - Intern / Remote](https://jobright.ai/jobs/info/6a4330be4461bf091787ab6c?utm_campaign=1049&utm_source=git)** | Lombard, IL, United States | Remote | Jul 13 |
@@ -122,8 +124,8 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a54ddf181744f383a313818?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Merchandise Internship](https://jobright.ai/jobs/info/6a54dde93cd1632418bebf4b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| ↳ | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde8b361d54aceab785f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| ↳ | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde8b361d54aceab785f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddcb8b24713fc151b471?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd758b24713fc151b46e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 12 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 12 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a53373a8576ec69c014f0c0?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 11 |
-| **[JCDecaux](http://www.jcdecaux.com)** | **[Visual Content Intern](https://jobright.ai/jobs/info/6a5313e68ef95364ead90e95?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 11 |
-| **[Invite Only Studios](http://www.inviteonly.studio)** | **[Social Media and Content Creator Intern](https://jobright.ai/jobs/info/6a52ec049fbdab22fe13d94d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
