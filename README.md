@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lafrance Studio](HTTPS://www.lauralafrance.com)** | **[Design Assistant Intern](https://jobright.ai/jobs/info/6a57c6f0e9b77f668bd6ab70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 15 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[Shawna Kuykendall Interiors](https://www.shawnakinteriors.com)** | **[Fall 2026 Interior Design Intern](https://jobright.ai/jobs/info/6a57bb3510c4d945d8650a9d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
@@ -80,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a56b91d53b3962b910b230d?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 14 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a51dd01ae4052672fe9c15b?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US (Primary) | On Site | Jul 14 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Binghamton University](https://jobright.ai/jobs/info/6a56a42610c4d945d864b14c?utm_campaign=1049&utm_source=git)** | 4400 Vestal Pkwy E, Binghamton, NY, 13902, US | On Site | Jul 14 |
-| **[DoubleVerify](http://www.doubleverify.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a56ea0ae9b77f668bd66366?utm_campaign=1049&utm_source=git)** | Utica-Rome Area | Hybrid | Jul 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a566a1b21f64463ad3546f4?utm_campaign=1049&utm_source=git)** | Providence, RI, United States | On Site | Jul 14 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Jul 14 |
