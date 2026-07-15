@@ -57,6 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
+| **[Shawna Kuykendall Interiors](https://www.shawnakinteriors.com)** | **[Fall 2026 Interior Design Intern](https://jobright.ai/jobs/info/6a57bb3510c4d945d8650a9d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
+| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
+| **[ALPFA Baltimore Chapter](https://www.alpfa.org/baltimore-professional-chapter)** | **[Intern-Content Creator](https://jobright.ai/jobs/info/6a57ae4af7517b519ad5c185?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a579f2ef7517b519ad5b573?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 15 |
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PHI Aviation](http://www.phihelico.com)** | **[Design Draftsman Intern](https://jobright.ai/jobs/info/6a552fa7f2c46727285f074f?utm_campaign=1049&utm_source=git)** | Lafayette, LA, United States | On Site | Jul 13 |
 | **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a5527f9ae07d60a8d00f3ea?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 13 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - Designer Intern (Global Value Advisory)](https://jobright.ai/jobs/info/6a555928377f983ce8a998ca?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Remote | Jul 13 |
-| **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a55583ef2c46727285f19ea?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5557d74119652ff38651d1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
-| **[Malltip Inc](https://www.malltip.com)** | **[Visual Designer Intern - Spring 2016](https://jobright.ai/jobs/info/6a5559bc268af95237beb1fd?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
-| **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a290d5d40ac8e32932a508c?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
