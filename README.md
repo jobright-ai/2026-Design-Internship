@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 15 |
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Evenflow Brands](https://www.evenflowbrands.com/)** | **[Graphic Designer Intern / Fresher (Remote)](https://jobright.ai/jobs/info/6a5767e2efb06a45240da5a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/6a576170efb06a45240da2f2?utm_campaign=1049&utm_source=git)** | Waukesha, WI, United States | On Site | Jul 15 |
