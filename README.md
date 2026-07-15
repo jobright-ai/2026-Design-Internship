@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 15 |
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a57684710c4d945d864e14f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Evenflow Brands](https://www.evenflowbrands.com/)** | **[Graphic Designer Intern / Fresher (Remote)](https://jobright.ai/jobs/info/6a5767e2efb06a45240da5a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/6a576170efb06a45240da2f2?utm_campaign=1049&utm_source=git)** | Waukesha, WI, United States | On Site | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
@@ -66,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[ONEBIT](https://onebitapp.com/)** | **[Video Creative Intern](https://jobright.ai/jobs/info/6a56f90bf7517b519ad58c95?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | **[Upside Clothing](shopupsideclothing.com)** | **[Social Media/Graphic Design Intern](https://jobright.ai/jobs/info/6a56f2d221f64463ad357898?utm_campaign=1049&utm_source=git)** | Boca Raton, FL, United States | On Site | Jul 14 |
 | **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
-| **[University of Iowa](http://researchpark.uiowa.edu)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
+| **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 14 |
 | **[Sparks Village Academy](sparksvillage.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6a572f7821f64463ad3583b6?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Binghamton University](https://jobright.ai/jobs/info/6a57140fefb06a45240d9135?utm_campaign=1049&utm_source=git)** | Binghamton, NY, United States | On Site | Jul 14 |
