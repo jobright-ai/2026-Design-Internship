@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a580f9c68d16a30e2411935?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
+| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall UX/UI Design Internship (Unpaid)](https://jobright.ai/jobs/info/6a5802b08f51964c0404640e?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jul 15 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6a57f3573330ca6f993c2553?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Jul 15 |
 | **[Readeezy](http://readeezy.com)** | **[Graphic Book Illustration Internship](https://jobright.ai/jobs/info/6a57f0a99838a11e5d835ce2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
@@ -76,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b2621f64463ad358293?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[ONEBIT](https://onebitapp.com/)** | **[Video Creative Intern](https://jobright.ai/jobs/info/6a56f90bf7517b519ad58c95?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 14 |
-| **[Upside Clothing](shopupsideclothing.com)** | **[Social Media/Graphic Design Intern](https://jobright.ai/jobs/info/6a56f2d221f64463ad357898?utm_campaign=1049&utm_source=git)** | Boca Raton, FL, United States | On Site | Jul 14 |
 | **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 14 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a554ea82084cd792b477a87?utm_campaign=1049&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 13 |
 | **[Xerces Society for Invertebrate Conservation](http://www.xerces.org/)** | **[Science Illustration Intern](https://jobright.ai/jobs/info/6a554c7f268af95237beaaaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 13 |
 | **[SĒDR STUDIO](https://www.sedrstudio.com/)** | **[Video And Short Form Content Intern](https://jobright.ai/jobs/info/6a554713f2c46727285f10b8?utm_campaign=1049&utm_source=git)** | Covington, KY, United States | On Site | Jul 13 |
-| **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Graphic & Web Design Internship](https://jobright.ai/jobs/info/6a5546e12084cd792b477620?utm_campaign=1049&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
