@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a593e944da96a42cfd8ffd7?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
+| **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5933e663a8f619507c0def?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Jul 16 |
 | **[Maxine Shriber Interior Design New York](https://www.maxineshriberdesign.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a593151686b4755d1e0ef16?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[FlexiSAF Edusoft Limited](http://flexisaf.com)** | **[AI Native UI\/UX Design Intern](https://jobright.ai/jobs/info/6a59279c3ac7627fe9ffda51?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
-| **[dataing](https://www.dataing.io/)** | **[UGC Content Internship](https://jobright.ai/jobs/info/6a592692c8e3a473cb8a5503?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a591de1686b4755d1e0e701?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 16 |
 | **[Whalar Group](https://www.whalargroup.com)** | **[Intern, Creative Strategy](https://jobright.ai/jobs/info/6a58db20c8e3a473cb8a36d2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
@@ -70,10 +71,10 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a58ec8e686b4755d1e0d3b1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Spyderserve](https://www.spyderserve.com)** | **[Content Integration Internship](https://jobright.ai/jobs/info/6a58e72463a8f619507befa7?utm_campaign=1049&utm_source=git)** | Marion County, IN, United States | On Site | Jul 16 |
-| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[TikTok Creator & Account Manager Internship](https://jobright.ai/jobs/info/6a58e6f34da96a42cfd8dc5f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jul 16 |
 | **[Buncombe County Government](https://www.buncombecounty.org/)** | **[Communications & Public Engagement Intern](https://jobright.ai/jobs/info/6a58e6b063a8f619507bef7e?utm_campaign=1049&utm_source=git)** | Asheville, NC, United States | Hybrid | Jul 16 |
 | **[Plug-in Studios](https://www.studio-plug.com/)** | **[Digital Creator Intern](https://jobright.ai/jobs/info/6a46562d4f64ba41dcb52135?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 16 |
 | **[City of New York](https://www.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a58dabac8e3a473cb8a3694?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | On Site | Jul 16 |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[TikTok Creator & Account Manager Internship](https://jobright.ai/jobs/info/6a58e6f34da96a42cfd8dc5f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[HiWave](https://shop.hiwave.co)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a587c0672fe7a7b98dceb22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/6a43235dc662c35651adb872?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 13 |
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a50e09bfd78601961764051?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY, United States | On Site | Jul 13 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/6a5639b153b3962b910aec50?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER, United States | On Site | Jul 13 |
-| **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6a55af3a14f1040fa611a8b5?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
