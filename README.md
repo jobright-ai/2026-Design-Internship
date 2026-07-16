@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Style Spaces by Hutch](http://hutch.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a58576b72fe7a7b98dcdc7c?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 15 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Exhibition Design](https://jobright.ai/jobs/info/6a347537649fdf16292f60ee?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 15 |
 | **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a58220972fe7a7b98dcd1d7?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 15 |
 | **[First Tech Federal Credit Union](https://www.firsttechfed.com/)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/6a5820349f1f56462cf68adb?utm_campaign=1049&utm_source=git)** | Johns Island, SC, United States | On Site | Jul 15 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a510d018d7d3e6cf1cbe7b8?utm_campaign=1049&utm_source=git)** | West Chester, OH, United States | Hybrid | Jul 15 |
@@ -70,14 +72,12 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[Shawna Kuykendall Interiors](https://www.shawnakinteriors.com)** | **[Fall 2026 Interior Design Intern](https://jobright.ai/jobs/info/6a57bb3510c4d945d8650a9d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
-| **[ALPFA Baltimore Chapter](https://www.alpfa.org/baltimore-professional-chapter)** | **[Intern-Content Creator](https://jobright.ai/jobs/info/6a57ae4af7517b519ad5c185?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 15 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 15 |
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Evenflow Brands](https://www.evenflowbrands.com/)** | **[Graphic Designer Intern / Fresher (Remote)](https://jobright.ai/jobs/info/6a5767e2efb06a45240da5a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[DeafandHoH.com, LLC](https://www.deafandhoh.com/)** | **[Digital Design Student Internship](https://jobright.ai/jobs/info/6a576170efb06a45240da2f2?utm_campaign=1049&utm_source=git)** | Waukesha, WI, United States | On Site | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b2621f64463ad358293?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| **[ONEBIT](https://onebitapp.com/)** | **[Video Creative Intern](https://jobright.ai/jobs/info/6a56f90bf7517b519ad58c95?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 14 |
 | **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
 | **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 14 |
