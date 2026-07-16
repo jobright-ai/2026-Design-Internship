@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a5864000304e26a7e7e5b65?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 15 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a58625472fe7a7b98dce22e?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[UI/UX Figma Internship - Fall 2026](https://jobright.ai/jobs/info/6a585f223330ca6f993c4441?utm_campaign=1049&utm_source=git)** | Clearwater, FL, United States | On Site | Jul 15 |
 | **[RightOn Education](https://www.rightoneducation.com)** | **[Product Design (UI/UX) Intern](https://jobright.ai/jobs/info/6a585da29f1f56462cf694b4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 15 |
@@ -94,7 +94,6 @@ For a complete list, click the following sortable link below:
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Binghamton University](https://jobright.ai/jobs/info/6a56a42610c4d945d864b14c?utm_campaign=1049&utm_source=git)** | 4400 Vestal Pkwy E, Binghamton, NY, 13902, US | On Site | Jul 14 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
 | **[Brightstar Lottery](https://www.brightstarlottery.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a566a1b21f64463ad3546f4?utm_campaign=1049&utm_source=git)** | Providence, RI, United States | On Site | Jul 14 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Jul 14 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 14 |
 | **[Surya](https://www.surya.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a567f1e53b3962b910b081f?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 14 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Fall)](https://jobright.ai/jobs/info/6a567c66e9b77f668bd639f2?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 13 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5551ff377f983ce8a9960d?utm_campaign=1049&utm_source=git)** | 701 Oakland Ave., Rock Hill, SC, 29730, US | On Site | Jul 13 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a5550c1268af95237bead9f?utm_campaign=1049&utm_source=git)** | Matawan, NJ, United States | Hybrid | Jul 13 |
+| **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a554eab2084cd792b477a89?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
