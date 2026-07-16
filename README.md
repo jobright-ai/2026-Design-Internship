@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a580f9c68d16a30e2411935?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
-| **[Quilly](https://www.linkedin.com/company/99477222)** | **[Fall UX/UI Design Internship (Unpaid)](https://jobright.ai/jobs/info/6a5802b08f51964c0404640e?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Jul 15 |
+| **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a58220972fe7a7b98dcd1d7?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 15 |
+| **[First Tech Federal Credit Union](https://www.firsttechfed.com/)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/6a5820349f1f56462cf68adb?utm_campaign=1049&utm_source=git)** | Johns Island, SC, United States | On Site | Jul 15 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a510d018d7d3e6cf1cbe7b8?utm_campaign=1049&utm_source=git)** | West Chester, OH, United States | Hybrid | Jul 15 |
 | **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6a57f3573330ca6f993c2553?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Jul 15 |
-| **[Readeezy](http://readeezy.com)** | **[Graphic Book Illustration Internship](https://jobright.ai/jobs/info/6a57f0a99838a11e5d835ce2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Graphic Design Internship Fall 2026](https://jobright.ai/jobs/info/6a57cd33f7517b519ad5d2e2?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 15 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a57e09d9838a11e5d8355dc?utm_campaign=1049&utm_source=git)** | Greater Evansville Area, United States | On Site | Jul 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a554eab2084cd792b477a89?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 13 |
 | **[Compass Group Canada](http://www.compass-canada.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a554ea82084cd792b477a87?utm_campaign=1049&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 13 |
 | **[Xerces Society for Invertebrate Conservation](http://www.xerces.org/)** | **[Science Illustration Intern](https://jobright.ai/jobs/info/6a554c7f268af95237beaaaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 13 |
+| **[SĒDR STUDIO](https://www.sedrstudio.com/)** | **[Video And Short Form Content Intern](https://jobright.ai/jobs/info/6a554713f2c46727285f10b8?utm_campaign=1049&utm_source=git)** | Covington, KY, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
