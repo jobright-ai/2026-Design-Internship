@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a58b8b7686b4755d1e0ba9f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[HiWave](https://shop.hiwave.co)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a587c0672fe7a7b98dceb22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 15 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a58625472fe7a7b98dce22e?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 15 |
@@ -73,7 +75,7 @@ For a complete list, click the following sortable link below:
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a57e09d9838a11e5d8355dc?utm_campaign=1049&utm_source=git)** | Greater Evansville Area, United States | On Site | Jul 15 |
 | **[Comcast](https://corporate.comcast.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a579f2ef7517b519ad5b573?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Graphics Artist Intern](https://jobright.ai/jobs/info/6a57d2f0a791c6211bf01428?utm_campaign=1049&utm_source=git)** | Pensacola, Florida, United States | On Site | Jul 15 |
-| **[Lafrance Studio](HTTPS://www.lauralafrance.com)** | **[Design Assistant Intern](https://jobright.ai/jobs/info/6a57c6f0e9b77f668bd6ab70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 15 |
+| **[Lafrance Studio](HTTPS://www.lscustommanufacture.com)** | **[Design Assistant Intern](https://jobright.ai/jobs/info/6a57c6f0e9b77f668bd6ab70?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Jul 15 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
 | **[Shawna Kuykendall Interiors](https://www.shawnakinteriors.com)** | **[Fall 2026 Interior Design Intern](https://jobright.ai/jobs/info/6a57bb3510c4d945d8650a9d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
@@ -98,7 +100,7 @@ For a complete list, click the following sortable link below:
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a40e2651afc66714d3ca679?utm_campaign=1049&utm_source=git)** | Boston, MA 02114, USA | On Site | Jul 14 |
 | **[Surya](https://www.surya.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a567f1e53b3962b910b081f?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 14 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Fall)](https://jobright.ai/jobs/info/6a567c66e9b77f668bd639f2?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 14 |
-| **[State of Iowa - Executive Branch](https://icrc.iowa.gov)** | **[Communications/Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a567b8af7517b519ad55ef2?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
+| **[State of Iowa - Executive Branch](https://www.floydco.iowa.gov)** | **[Communications/Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a567b8af7517b519ad55ef2?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Jul 14 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Creative / Graphic Design](https://jobright.ai/jobs/info/6a564a4210c4d945d86489c8?utm_campaign=1049&utm_source=git)** | Stamford, Connecticut, United States | On Site | Jul 14 |
 | **[Bloom Nutrition](https://bloomnu.com)** | **[TikTok Content Intern](https://jobright.ai/jobs/info/6a566e2b53b3962b910b030c?utm_campaign=1049&utm_source=git)** | Austin, Texas Metropolitan Area | On Site | Jul 14 |
 | **[The Powder Room Studio LA](https://www.thepowderroomstudiola.com/)** | **[Photography Assistant Intern (Part Time)](https://jobright.ai/jobs/info/6a566c86efb06a45240d5c84?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Blackjack Horticulture, Inc.](https://www.blackjackhorticulture.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a556b794119652ff3865c97?utm_campaign=1049&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 13 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 13 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 13 |
-| **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5551ff377f983ce8a9960d?utm_campaign=1049&utm_source=git)** | 701 Oakland Ave., Rock Hill, SC, 29730, US | On Site | Jul 13 |
-| **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a5550c1268af95237bead9f?utm_campaign=1049&utm_source=git)** | Matawan, NJ, United States | Hybrid | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
