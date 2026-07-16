@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5933e663a8f619507c0def?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Jul 16 |
+| **[Maxine Shriber Interior Design New York](https://www.maxineshriberdesign.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a593151686b4755d1e0ef16?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 16 |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[FlexiSAF Edusoft Limited](http://flexisaf.com)** | **[AI Native UI\/UX Design Intern](https://jobright.ai/jobs/info/6a59279c3ac7627fe9ffda51?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[dataing](https://www.dataing.io/)** | **[UGC Content Internship](https://jobright.ai/jobs/info/6a592692c8e3a473cb8a5503?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
-| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a59236763a8f619507c0767?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a591de1686b4755d1e0e701?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 16 |
 | **[Whalar Group](https://www.whalargroup.com)** | **[Intern, Creative Strategy](https://jobright.ai/jobs/info/6a58db20c8e3a473cb8a36d2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/6a5909653ac7627fe9ffce78?utm_campaign=1049&utm_source=git)** | Newport Beach, CA, United States | On Site | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a50e09bfd78601961764051?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY, United States | On Site | Jul 13 |
 | **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/6a5639b153b3962b910aec50?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER, United States | On Site | Jul 13 |
 | **[Charlap Hyman & Herrero](http://www.ch-herrero.com)** | **[Interiors Intern](https://jobright.ai/jobs/info/6a55af3a14f1040fa611a8b5?utm_campaign=1049&utm_source=git)** | Buffalo-Niagara Area | On Site | Jul 13 |
-| **[Jackson Durham](https://www.jacksondurham.com)** | **[Photography Intern](https://jobright.ai/jobs/info/6a55a345fdf4fa71202b36c1?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 13 |
-| **[Annette English + Associates](https://annetteenglish.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a558f0cae07d60a8d011f1d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| **[Claim Health](https://www.claimhealth.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a0a92f7403fc339507f75bb?utm_campaign=1049&utm_source=git)** | New York City | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
