@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a58b8b7686b4755d1e0ba9f?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a424b801cc9cc2b12feb5cf?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 16 |
 | **[HiWave](https://shop.hiwave.co)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a587c0672fe7a7b98dceb22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 15 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Digital Asset Management](https://jobright.ai/jobs/info/6a3434281232144fb155eb8f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 15 |
@@ -86,7 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
 | ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b2621f64463ad358293?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
 | **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
-| **[University of Iowa](http://tippie.uiowa.edu/)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
+| **[University of Iowa](https://uicb.uiowa.edu)** | **[Athletics Graphic Design Intern](https://jobright.ai/jobs/info/6a5716a153b3962b910b394c?utm_campaign=1049&utm_source=git)** | Iowa City, IA, United States | On Site | Jul 14 |
 | **[HumanKind](https://www.humankind.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a4fa2cbf57ed168c34162bf?utm_campaign=1049&utm_source=git)** | Lynchburg, VA, United States | On Site | Jul 14 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Binghamton University](https://jobright.ai/jobs/info/6a57140fefb06a45240d9135?utm_campaign=1049&utm_source=git)** | Binghamton, NY, United States | On Site | Jul 14 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcf557b3862f15e0c13?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 14 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Blackjack Horticulture, Inc.](https://www.blackjackhorticulture.com)** | **[Summer Internship](https://jobright.ai/jobs/info/6a556b794119652ff3865c97?utm_campaign=1049&utm_source=git)** | Birmingham, AL, United States | On Site | Jul 13 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 13 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a42bfc26faf756060967da1?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 13 |
+| **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5551ff377f983ce8a9960d?utm_campaign=1049&utm_source=git)** | 701 Oakland Ave., Rock Hill, SC, 29730, US | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
