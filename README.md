@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
+| **[LOOK](https://findyourlook.co/)** | **[Design Internship](https://jobright.ai/jobs/info/6a594c2763a8f619507c199e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a593e944da96a42cfd8ffd7?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5933e663a8f619507c0def?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Jul 16 |
 | **[Maxine Shriber Interior Design New York](https://www.maxineshriberdesign.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a593151686b4755d1e0ef16?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 16 |
+| **[Q Prime Artist Management](http://qprime.com)** | **[Graphic Design Intern (Music Industry)](https://jobright.ai/jobs/info/6a594789c8e3a473cb8a6357?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[FlexiSAF Edusoft Limited](http://flexisaf.com)** | **[AI Native UI\/UX Design Intern](https://jobright.ai/jobs/info/6a59279c3ac7627fe9ffda51?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Mota Group, Inc](http://www.mota.com)** | **[Graphic Designer Intern for Import / Export Company - Immediate Opening](https://jobright.ai/jobs/info/6a55f538f7517b519ad52365?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 13 |
 | **[Zenly](https://www.zenly.com)** | **[Real Estate Startup Internship - Summer 2017](https://jobright.ai/jobs/info/6a55bac4fdf4fa71202b4472?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 13 |
 | **[Olson Kundig](http://www.olsonkundig.com)** | **[Interior Design Internship](https://jobright.ai/jobs/info/6a55b854fdf4fa71202b40e8?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 13 |
-| **[Taraki](https://www.taraki.co/)** | **[AI Artist Intern - Madvisions](https://jobright.ai/jobs/info/6a43235dc662c35651adb872?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Remote | Jul 13 |
-| **[The Experiential Group](https://theexperientialgroup.com)** | **[Experiential Design Internship](https://jobright.ai/jobs/info/6a50e09bfd78601961764051?utm_campaign=1049&utm_source=git)** | Dumbo, Brooklyn, NY, United States | On Site | Jul 13 |
-| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Graphic Design Student Intern](https://jobright.ai/jobs/info/6a5639b153b3962b910aec50?utm_campaign=1049&utm_source=git)** | JOHNSON WILDFLOWER CENTER, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
