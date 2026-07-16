@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a590e27686b4755d1e0e233?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
+| **[MiraculousMinds](https://www.linkedin.com/company/7617644)** | **[Multimedia Design & Editing Intern](https://jobright.ai/jobs/info/6a5909653ac7627fe9ffce78?utm_campaign=1049&utm_source=git)** | Newport Beach, CA, United States | On Site | Jul 16 |
 | **[Atmosfy](https://atmosfy.io)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a58ec8e686b4755d1e0d3b1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Whalar Group](https://www.whalargroup.com)** | **[Intern, Creative Strategy](https://jobright.ai/jobs/info/6a58db20c8e3a473cb8a36d2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Spyderserve](https://www.spyderserve.com)** | **[Content Integration Internship](https://jobright.ai/jobs/info/6a58e72463a8f619507befa7?utm_campaign=1049&utm_source=git)** | Marion County, IN, United States | On Site | Jul 16 |
@@ -74,7 +76,6 @@ For a complete list, click the following sortable link below:
 | **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a58220972fe7a7b98dcd1d7?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 15 |
 | **[First Tech Federal Credit Union](https://www.firsttechfed.com/)** | **[Landscape Development Internship](https://jobright.ai/jobs/info/6a5820349f1f56462cf68adb?utm_campaign=1049&utm_source=git)** | Johns Island, SC, United States | On Site | Jul 15 |
 | **[QVC](https://www.qurateretailgroup.com/)** | **[Intern - Temp (Cinmar)](https://jobright.ai/jobs/info/6a510d018d7d3e6cf1cbe7b8?utm_campaign=1049&utm_source=git)** | West Chester, OH, United States | Hybrid | Jul 15 |
-| **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6a57f3573330ca6f993c2553?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Jul 15 |
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Graphic Design Internship Fall 2026](https://jobright.ai/jobs/info/6a57cd33f7517b519ad5d2e2?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 15 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a57e09d9838a11e5d8355dc?utm_campaign=1049&utm_source=git)** | Greater Evansville Area, United States | On Site | Jul 15 |
@@ -115,6 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a4bf740c2d11a6a46679730?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 14 |
 | ↳ | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a399c586484fb75f2b32b6c?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 14 |
 | **[JLL](http://www.jll.com/)** | **[Environmental Design Internship - Fall 2026](https://jobright.ai/jobs/info/6a564ac410c4d945d8648a86?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 14 |
+| **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - UX designer](https://jobright.ai/jobs/info/6a5136ab57513b72e0c64db8?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 14 |
 | **[Barkera®](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a561348e9b77f668bd6154a?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Remote | Jul 14 |
 | **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1e0af9c2a87d6cd3e0fb26?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 14 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Carnegie Mellon University](https://www.cmu.edu/cfa/)** | **[Print Intern - School of Art - College of Fine Arts](https://jobright.ai/jobs/info/6a55856f377f983ce8a9aa0f?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 13 |
 | **[LAXIR](https://www.laxir.us/)** | **[Digital Marketing/ Graphic Design Or Developer INTERNSHIP](https://jobright.ai/jobs/info/6a55856a268af95237bec2e9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
 | **[Chartwells Higher Education Dining Services](http://chartwellshighered.com/)** | **[Graphic Design Intern, Chartwells Higher Ed / Winthrop University](https://jobright.ai/jobs/info/6a5583d4f2c46727285f29df?utm_campaign=1049&utm_source=git)** | Rock Hill, SC, United States | On Site | Jul 13 |
-| **[Design Observer](http://designobserver.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a55744a377f983ce8a9a5c8?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 13 |
-| **[AEG](http://www.aegworldwide.com)** | **[Intern-Content Creator](https://jobright.ai/jobs/info/6a5570ae2084cd792b478b68?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
