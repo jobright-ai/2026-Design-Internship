@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Chicago Transit Authority](http://www.transitchicago.com/)** | **[2026-2027 Fall Digital Media Video Intern-Learning & Support](https://jobright.ai/jobs/info/6a59d24c686b4755d1e11f1a?utm_campaign=1049&utm_source=git)** | USA-Illinois-Chicago | Hybrid | Jul 16 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a59d1a0686b4755d1e11ee2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Freestyle](https://freestyleokc.com)** | **[Internship / Fellowship: Video Production & Photography](https://jobright.ai/jobs/info/6a59b4e163a8f619507c3751?utm_campaign=1049&utm_source=git)** | OKC, OK, United States | On Site | Jul 16 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a59b291c8e3a473cb8a81b9?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 16 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/?lang=por)** | **[Paid Intern - HQF Interior Design](https://jobright.ai/jobs/info/6a5962914da96a42cfd91089?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Jul 16 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 13 |
 | ↳ | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432f91b0f2553559ece808?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 | ↳ | **[Volunteer/Intern: Graphic Design](https://jobright.ai/jobs/info/6a55c9b82ce8bf79a13a0e6e?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
+| **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a55c837fdf4fa71202b501b?utm_campaign=1049&utm_source=git)** | Milwaukee, WI 53212, USA | Hybrid | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
