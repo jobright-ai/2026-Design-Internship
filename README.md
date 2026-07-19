@@ -58,8 +58,9 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
-| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
+| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
 | **[Medlaunch Concepts](medlaunchconcepts.com)** | **[Motion Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a5c7625856af468ab00f233?utm_campaign=1049&utm_source=git)** | Clearwater, FL, United States | Remote | Jul 19 |
@@ -115,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a5bfd8b4da96a42cfd9b829?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
 | **[LOOK](https://findyourlook.co/)** | **[Design Internship](https://jobright.ai/jobs/info/6a594c2763a8f619507c199e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a59236763a8f619507c0767?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 14 |
 | **[Savannah Ghost Pirates](https://ghostpirateshockey.com)** | **[Photography Intern, Savannah Ghost Pirates 2026-27 Season](https://jobright.ai/jobs/info/6a57f8a13330ca6f993c27bd?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Jul 14 |
 | **[TikTok](https://www.tiktok.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a56b91d53b3962b910b230d?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Jul 14 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a51dd01ae4052672fe9c15b?utm_campaign=1049&utm_source=git)** | Waterloo, IA 50703 US (Primary) | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
