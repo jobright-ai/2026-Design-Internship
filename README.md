@@ -57,12 +57,18 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Big Loud](http://bigloud.com/)** | **[Creative Strategy Internship Fall 2026](https://jobright.ai/jobs/info/6a5a902563a8f619507c7a2d?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | On Site | Jul 17 |
+| **[The Shipyard](http://theshipyard.com)** | **[Digital Experience Design Intern](https://jobright.ai/jobs/info/6a5a7a51856af468ab008ca3?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 17 |
+| ↳ | **[Digital Experience Design Intern](https://jobright.ai/jobs/info/6a5a6fc963a8f619507c6e6b?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | Hybrid | Jul 17 |
+| **[Rakuten](http://global.rakuten.com)** | **[UX Intern (6-month contract)](https://jobright.ai/jobs/info/6a5a4e953ac7627fe900349f?utm_campaign=1049&utm_source=git)** | Toronto, Canada | On Site | Jul 17 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a5a4245686b4755d1e14302?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 17 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 17 |
+| **[Rivian and Volkswagen Group Technologies](https://rivianvw.tech)** | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a55b6adfdf4fa71202b3db8?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 17 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a5a0c954da96a42cfd93e49?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a5a0c74686b4755d1e13302?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Jul 17 |
 | **[Duelit](https://www.duelit.com)** | **[UI/UX Designer Intern (UNPAID)](https://jobright.ai/jobs/info/6a5a07cec8e3a473cb8a98c5?utm_campaign=1049&utm_source=git)** | NY, United States | Remote | Jul 17 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
-| ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
+| ↳ | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
 | **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59eb113ac7627fe90012ab?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | ↳ | **[Graphic Design Volunteer/ Intern](https://jobright.ai/jobs/info/6a59e9ce856af468ab005a24?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9bec8e3a473cb8a8c89?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
@@ -87,6 +93,7 @@ For a complete list, click the following sortable link below:
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a593e944da96a42cfd8ffd7?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
+| **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5933e663a8f619507c0def?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Jul 16 |
@@ -147,14 +154,7 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a177d9c81fe455c705a96c9?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 14 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - UX designer](https://jobright.ai/jobs/info/6a5136ab57513b72e0c64db8?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 14 |
 | **[Barkera®](https://barkera.com)** | **[Creative Positions (Intern)](https://jobright.ai/jobs/info/6a561348e9b77f668bd6154a?utm_campaign=1049&utm_source=git)** | Ft. Lauderdale, Florida | Remote | Jul 14 |
-| **[BHDP Architecture](http://bhdp.com)** | **[Fall Architectural Intern / Charlotte](https://jobright.ai/jobs/info/6a1e0af9c2a87d6cd3e0fb26?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Jul 14 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/6a560b7c21f64463ad3520e0?utm_campaign=1049&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 14 |
 | **[Product Ventures](https://getavirtualassistanttoday.com)** | **[Internship General Application](https://jobright.ai/jobs/info/6a5609fa21f64463ad35206d?utm_campaign=1049&utm_source=git)** | Fairfield, CT, United States | On Site | Jul 14 |
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a55f59be9b77f668bd5feca?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Jul 14 |
-| **[Diverse Health](https://mydiversehealth.com)** | **[Web Experience Intern (UX/UI + Web Development)](https://jobright.ai/jobs/info/6a55f583f7517b519ad523cd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 14 |
-| **[Parallel, A Brand Agency](https://thinkparallel.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a55f57121f64463ad35111c?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 14 |
-| **[Surya](https://www.surya.com/)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a567f1e53b3962b910b081f?utm_campaign=1049&utm_source=git)** | White, GA, United States | On Site | Jul 14 |
-| **[Mead Quin Inc.](meadquin.com)** | **[Interior Designer Studio Internship [PAID]](https://jobright.ai/jobs/info/6a55f100392ae330b30e80c8?utm_campaign=1049&utm_source=git)** | Emeryville, CA, United States | On Site | Jul 14 |
-| **[The Aparecio Foundation](http://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55db35ec54dd532d814b20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 13 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a561003f7517b519ad53922?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
