@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9d87b9f4dd0b4d51cb71?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jul 20 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a5dba5d856af468ab01211a?utm_campaign=1049&utm_source=git)** | Waterloo, IA, United States | On Site | Jul 19 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Designer Intern (Remote)](https://jobright.ai/jobs/info/6a5d8de64da96a42cfd9ecb4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 19 |
@@ -102,6 +103,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Technical Art, 3D Intern - Fall 2026](https://jobright.ai/jobs/info/6a204eb7902d19201c7b13f1?utm_campaign=1049&utm_source=git)** | Palo Alto, CA | On Site | Jul 17 |
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a5a0c954da96a42cfd93e49?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Duelit](https://www.duelit.com)** | **[UI/UX Designer Intern (UNPAID)](https://jobright.ai/jobs/info/6a5a07cec8e3a473cb8a98c5?utm_campaign=1049&utm_source=git)** | NY, United States | Remote | Jul 17 |
+| **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5dfb1767b2850e77deeb83?utm_campaign=1049&utm_source=git)** | Nottingham, MD, United States | Hybrid | Jul 17 |
 | **[HDR](https://taplow.fi)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59eb113ac7627fe90012ab?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
 | ↳ | **[Graphic Design Volunteer/ Intern](https://jobright.ai/jobs/info/6a59e9ce856af468ab005a24?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
@@ -123,8 +125,8 @@ For a complete list, click the following sortable link below:
 | **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a5bfd8b4da96a42cfd9b829?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
 | **[LOOK](https://findyourlook.co/)** | **[Design Internship](https://jobright.ai/jobs/info/6a594c2763a8f619507c199e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
-| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
+| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Evenflow Brands](https://www.evenflowbrands.com/)** | **[Graphic Designer Intern / Fresher (Remote)](https://jobright.ai/jobs/info/6a5767e2efb06a45240da5a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 14 |
-| ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b2621f64463ad358293?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 14 |
-| **[Colliers](http://www.colliers.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a564aa5efb06a45240d4dae?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
