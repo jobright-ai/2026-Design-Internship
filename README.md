@@ -66,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC, United States | On Site | Jul 19 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a4fe08a4649561ec08af56e?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States | On Site | Jul 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
