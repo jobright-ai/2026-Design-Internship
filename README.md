@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Prox Shopping](www.joinprox.com)** | **[UGC Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/6a5e47f967b2850e77df01cf?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Remote | Jul 20 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Fall 2026](https://jobright.ai/jobs/info/6a5e3877050c423c792edd5f?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 20 |
+| **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e370cf29acc1a1174621d?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Jul 20 |
+| **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6a5e354167b2850e77defc13?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 20 |
+| **[Style Spaces by Hutch](http://hutch.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5e33ac270e3033b045c5fa?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 20 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e2335f3674a0545d273a8?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Jul 20 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Social Media Video Editing Internship](https://jobright.ai/jobs/info/6a5e0fe3270e3033b045bbbd?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jul 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 20 |
@@ -128,7 +133,7 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
 | **[LOOK](https://findyourlook.co/)** | **[Design Internship](https://jobright.ai/jobs/info/6a594c2763a8f619507c199e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
-| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
+| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a59236763a8f619507c0767?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[New World Inc.](http://newworldinc.io)** | **[Design Intern](https://jobright.ai/jobs/info/6a455b53c2d11a6a46668ef1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Marbles Kids Museum](https://www.marbleskidsmuseum.org/)** | **[Graphic Design Internship Fall 2026](https://jobright.ai/jobs/info/6a57cd33f7517b519ad5d2e2?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 15 |
 | **[Midwestern Pet Foods](https://midwesternpetfoods.com/)** | **[Graphics Design Intern](https://jobright.ai/jobs/info/6a57e09d9838a11e5d8355dc?utm_campaign=1049&utm_source=git)** | Greater Evansville Area, United States | On Site | Jul 15 |
-| **[Comcast](https://corporate.comcast.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a579f2ef7517b519ad5b573?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
-| **[Lamar Advertising Company](http://www.lamar.com)** | **[Graphics Artist Intern](https://jobright.ai/jobs/info/6a57d2f0a791c6211bf01428?utm_campaign=1049&utm_source=git)** | Pensacola, Florida, United States | On Site | Jul 15 |
-| **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
-| **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
