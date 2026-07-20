@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC, United States | On Site | Jul 19 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
@@ -117,7 +118,7 @@ For a complete list, click the following sortable link below:
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
 | **[LOOK](https://findyourlook.co/)** | **[Design Internship](https://jobright.ai/jobs/info/6a594c2763a8f619507c199e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
-| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a592ac64da96a42cfd8f8f6?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
+| ↳ | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a59236763a8f619507c0767?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 | **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
@@ -143,7 +144,6 @@ For a complete list, click the following sortable link below:
 | **[Comcast](https://corporate.comcast.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a579f2ef7517b519ad5b573?utm_campaign=1049&utm_source=git)** | PA - Philadelphia, 3601 S Broad St, United States of America | On Site | Jul 15 |
 | **[Lamar Advertising Company](http://www.lamar.com)** | **[Graphics Artist Intern](https://jobright.ai/jobs/info/6a57d2f0a791c6211bf01428?utm_campaign=1049&utm_source=git)** | Pensacola, Florida, United States | On Site | Jul 15 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 15 |
-| **[Shawna Kuykendall Interiors](https://www.shawnakinteriors.com)** | **[Fall 2026 Interior Design Intern](https://jobright.ai/jobs/info/6a57bb3510c4d945d8650a9d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 15 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 15 |
 | **[Acadium](http://www.acadium.com)** | **[UX/UI Website Designer Intern](https://jobright.ai/jobs/info/6a57686321f64463ad35916e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
 | **[Evenflow Brands](https://www.evenflowbrands.com/)** | **[Graphic Designer Intern / Fresher (Remote)](https://jobright.ai/jobs/info/6a5767e2efb06a45240da5a0?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 15 |
