@@ -57,13 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fbc00b0f20036bc632bc9?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
+| **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Graphic Design Intern - Spring 2019](https://jobright.ai/jobs/info/6a5fc8faf68dd368023e8a8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual Graphic Design Intern (Korean/English)](https://jobright.ai/jobs/info/6a5fc6c36e0c3c7c7d3d8f9b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/6a5fc264b0f20036bc632f67?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
 | **[The Future of Free Speech](https://futurefreespeech.com/)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6a5fb8e38c7fd835513baa7a?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | Remote | Jul 21 |
 | **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Integrated Marketing Graphic Design](https://jobright.ai/jobs/info/6a4310f86c326942b4e85164?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jul 21 |
 | **[gin design group](https://www.gindesigngroup.com)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a5fa9e9f68dd368023e7da5?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
 | **[decisio media](https://decisio.media)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6a5fa9336e0c3c7c7d3d82ff?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a5fa91f33ef5c58b4fff3c9?utm_campaign=1049&utm_source=git)** | Westerly, RI, United States | On Site | Jul 21 |
-| **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fa8e46e0c3c7c7d3d82e7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
 | **[Codeage](https://www.codeage.com)** | **[Graphic Design/Illustrator Intern](https://jobright.ai/jobs/info/6a5fa428193b511309679af8?utm_campaign=1049&utm_source=git)** | Beverly Hills, CA, United States | On Site | Jul 21 |
 | **[BRIDGE SHOWROOM](http://www.bridgeshowroom.com)** | **[Fashion Intern at Dallas FIG](https://jobright.ai/jobs/info/6a5f9c5d193b5113096797fe?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a54de0f3cd1632418bebf6a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
@@ -104,8 +105,8 @@ For a complete list, click the following sortable link below:
 | **[Salt River Project](https://www.srpnet.com/)** | **[College Intern - Technology and Digital Asset Management](https://jobright.ai/jobs/info/6a5e7b6df29acc1a11747c69?utm_campaign=1049&utm_source=git)** | Tempe, AZ, United States | Hybrid | Jul 20 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Fall 2026](https://jobright.ai/jobs/info/6a5e7211f3674a0545d291db?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 20 |
 | **[Third Way](http://www.thirdway.org/)** | **[Digital Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5e70cf27bf767ea68f6c93?utm_campaign=1049&utm_source=git)** | Washington, US | On Site | Jul 20 |
-| **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a59074b63a8f619507bfc7e?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 20 |
-| ↳ | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15c5e4554b0e12c0585968?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 20 |
+| **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15c5e4554b0e12c0585968?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 20 |
+| ↳ | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a59074b63a8f619507bfc7e?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 20 |
 | **[Soccer Speed LLC](www.soccer-speed.com)** | **[Photography Intern](https://jobright.ai/jobs/info/6a5e8126050c423c792ef94e?utm_campaign=1049&utm_source=git)** | Greater Chicago Area | On Site | Jul 20 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a54ddf181744f383a313818?utm_campaign=1049&utm_source=git)** | P.O. Box a3938, Chicago, IL, United States | On Site | Jul 20 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Fall 2026 Graphic Design Undergraduate Internship](https://jobright.ai/jobs/info/6a394bd1649fdf16293000db?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Franklin County](https://www.franklincountyohio.gov/)** | **[2026 Fall Graphic Design Intern](https://jobright.ai/jobs/info/6a5a0c954da96a42cfd93e49?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 17 |
 | **[Duelit](https://www.duelit.com)** | **[UI/UX Designer Intern (UNPAID)](https://jobright.ai/jobs/info/6a5a07cec8e3a473cb8a98c5?utm_campaign=1049&utm_source=git)** | NY, United States | Remote | Jul 17 |
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5dfb1767b2850e77deeb83?utm_campaign=1049&utm_source=git)** | Nottingham, MD, United States | Hybrid | Jul 17 |
-| **[HDR](https://taplow.fi)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
