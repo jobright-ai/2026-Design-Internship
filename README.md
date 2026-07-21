@@ -57,7 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5f2e5a8f1b3d6629ad47af?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a513d6b02522b5b722e8ba7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a5f3b26193b511309677b89?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a5527f9ae07d60a8d00f3ea?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a524eaf8a74e077472f3fc9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
+| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5f3486d5c3a14fb34ec6b6?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Jul 21 |
+| **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a5f346542a5e636626616c9?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 21 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f1d89d32b0656b39f6d99?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Treehouse Strategy](http://treehousestrategy.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a5f1405f29acc1a1174a4db?utm_campaign=1049&utm_source=git)** | 75 S Broadway, White Plains, NY 10601, USA | Remote | Jul 20 |
@@ -92,8 +98,8 @@ For a complete list, click the following sortable link below:
 | **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC, United States | On Site | Jul 19 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a4fe08a4649561ec08af56e?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States | On Site | Jul 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 | **[The Walt Disney Studios](https://waltdisneystudios.com)** | **[Studios Creative Advertising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5868693330ca6f993c4936?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Jul 16 |
 | **[David Zwirner](http://www.davidzwirner.com/)** | **[Registration & Production Intern](https://jobright.ai/jobs/info/6a5939b93ac7627fe9ffe0ea?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
-| **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 16 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5933e663a8f619507c0def?utm_campaign=1049&utm_source=git)** | Cincinnati, Ohio, United States | Hybrid | Jul 16 |
-| **[Connected Creative](https://www.connectedcreative.ca/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a597cea686b4755d1e10a20?utm_campaign=1049&utm_source=git)** | Edmonton, Alberta, Canada | Hybrid | Jul 16 |
-| **[FlexiSAF Edusoft Limited](http://flexisaf.com)** | **[AI Native UI\/UX Design Intern](https://jobright.ai/jobs/info/6a59279c3ac7627fe9ffda51?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 16 |
-| **[HUSH](http://heyhush.com/)** | **[Intern: Architectural Design](https://jobright.ai/jobs/info/6a591de1686b4755d1e0e701?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 16 |
-| **[Whalar Group](https://www.whalargroup.com)** | **[Intern, Creative Strategy](https://jobright.ai/jobs/info/6a58db20c8e3a473cb8a36d2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
