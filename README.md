@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fbc00b0f20036bc632bc9?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
+| **[The Future of Free Speech](https://futurefreespeech.com/)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6a5fb8e38c7fd835513baa7a?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | Remote | Jul 21 |
+| **[SAP](https://www.sap.com)** | **[SAP Concur iXp Intern - Integrated Marketing Graphic Design](https://jobright.ai/jobs/info/6a4310f86c326942b4e85164?utm_campaign=1049&utm_source=git)** | Bellevue, WA, US, 98004 | Hybrid | Jul 21 |
 | **[gin design group](https://www.gindesigngroup.com)** | **[Fall 2026 Intern](https://jobright.ai/jobs/info/6a5fa9e9f68dd368023e7da5?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 21 |
 | **[decisio media](https://decisio.media)** | **[Graphic Design Marketing Intern](https://jobright.ai/jobs/info/6a5fa9336e0c3c7c7d3d82ff?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 21 |
 | **[Riverhead Building Supply](https://www.rbscorp.com)** | **[Internship Design Showroom](https://jobright.ai/jobs/info/6a5fa91f33ef5c58b4fff3c9?utm_campaign=1049&utm_source=git)** | Westerly, RI, United States | On Site | Jul 21 |
@@ -118,8 +121,8 @@ For a complete list, click the following sortable link below:
 | **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC, United States | On Site | Jul 19 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
 | **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
 | ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
+| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 19 |
 | **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a4fe08a4649561ec08af56e?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States | On Site | Jul 19 |
 | **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Duelit](https://www.duelit.com)** | **[UI/UX Designer Intern (UNPAID)](https://jobright.ai/jobs/info/6a5a07cec8e3a473cb8a98c5?utm_campaign=1049&utm_source=git)** | NY, United States | Remote | Jul 17 |
 | **[Celebree School](https://www.celebree.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5dfb1767b2850e77deeb83?utm_campaign=1049&utm_source=git)** | Nottingham, MD, United States | Hybrid | Jul 17 |
 | **[HDR](https://taplow.fi)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Jul 17 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59eb113ac7627fe90012ab?utm_campaign=1049&utm_source=git)** | Chicago, IL | On Site | Jul 17 |
-| ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9bec8e3a473cb8a8c89?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
-| ↳ | **[3D Architectural Rendering Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9bb4da96a42cfd92f3b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
