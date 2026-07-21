@@ -57,11 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a54dde831f2d15a8d813b39?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
+| **[Style Spaces by Hutch](http://hutch.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5e33ac270e3033b045c5fa?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 21 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a5f5e39193b5113096783d8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Zero Studios](https://zero.nyc/)** | **[Design Intern](https://jobright.ai/jobs/info/6a5408d48a74e077472fa698?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Jul 21 |
 | **[Intrinsic Development](https://www.id.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a51e9ff8d7d3e6cf1cc4a15?utm_campaign=1049&utm_source=git)** | Lee's Summit, MO, United States | On Site | Jul 21 |
 | **[MATTE Projects](https://matteprojects.com/)** | **[Graphic Design Internship Fall 2026 (On-site, NYC)](https://jobright.ai/jobs/info/6a3b1f20797099171917d4af?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a55583ef2c46727285f19ea?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 21 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a513d6b02522b5b722e8ba7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a5f3b26193b511309677b89?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | ↳ | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5120ce57513b72e0c64263?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[Four Hands](https://fourhands.com)** | **[Visual Merchandising Intern](https://jobright.ai/jobs/info/6a5527f9ae07d60a8d00f3ea?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
@@ -91,7 +93,6 @@ For a complete list, click the following sortable link below:
 | **[Prox Shopping](www.joinprox.com)** | **[UGC Content Creation Intern (Unpaid)](https://jobright.ai/jobs/info/6a5e47f967b2850e77df01cf?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Remote | Jul 20 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e370cf29acc1a1174621d?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Jul 20 |
 | **[The Garrett Companies](https://www.thegarrettco.com/)** | **[Landscape Architect Intern - Summer 2026](https://jobright.ai/jobs/info/6a5e354167b2850e77defc13?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 20 |
-| **[Style Spaces by Hutch](http://hutch.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5e33ac270e3033b045c5fa?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 20 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e2335f3674a0545d273a8?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Jul 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9d87b9f4dd0b4d51cb71?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jul 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Minnesota Wild](http://wild.com)** | **[Iowa Wild - Junior Graphic Designer Intern (Seasonal Part-Time)](https://jobright.ai/jobs/info/6a596052c8e3a473cb8a6d50?utm_campaign=1049&utm_source=git)** | Iowa Wild Hockey Club, 730 3rd Street, Des Moines, Iowa, United States of America | On Site | Jul 16 |
 | **[Oakton College](http://www.oakton.edu/)** | **[Graphic Design & Print Production Intern Student Employee, #1620](https://jobright.ai/jobs/info/6a5bfd8b4da96a42cfd9b829?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Jul 16 |
 | **[NoGood](https://nogood.io)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a5957813ac7627fe9ffecb6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 16 |
-| **[Agnico Eagle Mines Limited](http://agnicoeagle.com)** | **[(Fall 26) Communications Assistant, Graphic Design Internship](https://jobright.ai/jobs/info/6a5923f5856af468ab002010?utm_campaign=1049&utm_source=git)** | Ontario-Toronto | Hybrid | Jul 16 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
