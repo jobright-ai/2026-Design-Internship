@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[AMG | Association Management](https://www.alamomanagementgroup.com/)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a58220972fe7a7b98dcd1d7?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 22 |
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Fall Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a60dce2ab9bd46763248b77?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 22 |
 | **[American Medical Association](http://ama-assn.org)** | **[Graphic Design Intern (Hybrid)](https://jobright.ai/jobs/info/6a60d829f0358056fcac0790?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a60d24797c51d628eb3a752?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
@@ -101,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fd7d9b0f20036bc633669?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
 | **[SecureRx Technologies Inc.](secure-rx.ca)** | **[UX / Product Design Intern (Co-op) – Fall 2026, (Healthcare SaaS) - Remote](https://jobright.ai/jobs/info/6a5fd2388c7fd835513bb3d7?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Jul 21 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f1d89d32b0656b39f6d99?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6a5fe95eb0f20036bc633e52?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 21 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Graphic Design Intern - Spring 2019](https://jobright.ai/jobs/info/6a5fc8faf68dd368023e8a8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual Graphic Design Intern (Korean/English)](https://jobright.ai/jobs/info/6a5fc6c36e0c3c7c7d3d8f9b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e2335f3674a0545d273a8?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Jul 20 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 20 |
 | **[TikTok](https://www.tiktok.com)** | **[AI Creative Designer Intern [TikTok-Design-Effect]- 2026 Summer (BS/MS)](https://jobright.ai/jobs/info/6a2f9d87b9f4dd0b4d51cb71?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Jul 20 |
-| **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a5dba5d856af468ab01211a?utm_campaign=1049&utm_source=git)** | Waterloo, IA, United States | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
