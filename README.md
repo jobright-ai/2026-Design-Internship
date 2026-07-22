@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[hot sand](www.HotSandAP.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a60bd04a4c799127e993f80?utm_campaign=1049&utm_source=git)** | Asbury Park, NJ, United States | Hybrid | Jul 22 |
+| **[gin design group](https://www.gindesigngroup.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a60b38ffc94743cc67a9f3d?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 22 |
+| **[PRISM Bags](https://prismbags.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a60a03971c79e639619c064?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 22 |
+| **[Style Spaces by Hutch](http://hutch.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a58576b72fe7a7b98dcdc7c?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 22 |
+| **[Doner](http://doner.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a6095fba4b66100689cb9e5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
+| **[Style Spaces by Hutch](http://hutch.com/)** | **[Intern](https://jobright.ai/jobs/info/6a4d2c5399523700cbff4a69?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Jul 22 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a51ca6f57513b72e0c67ee3?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[PURPLE](https://purplepr.com)** | **[Graphic Design Intern at NORTH SIX](https://jobright.ai/jobs/info/6a6086d071c79e639619b94a?utm_campaign=1049&utm_source=git)** | New York, United States | On Site | Jul 22 |
 | **[LAXIR](https://www.laxir.us/)** | **[Digital Marketing/ Graphic Design Or Developer INTERNSHIP](https://jobright.ai/jobs/info/6a55856a268af95237bec2e9?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 22 |
 | **[Together Group](https://www.together.group/)** | **[Graphic Design Intern at NORTH SIX](https://jobright.ai/jobs/info/6a608497a4b66100689cb6f2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
@@ -150,11 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Designer Intern (Remote)](https://jobright.ai/jobs/info/6a5d8de64da96a42cfd9ecb4?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 19 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 19 |
 | **[I.M.P.](http://www.impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | All Venues - Washington, DC, United States | On Site | Jul 19 |
-| **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 19 |
-| **[Mary Bird Perkins Cancer Center](https://marybird.org)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3ad3c606a4fd4b1fabf0f2?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA | On Site | Jul 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a534b208a74e077472f7e92?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, United States | On Site | Jul 19 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a22ca8b14de9460dc8431f1?utm_campaign=1049&utm_source=git)** | Baton Rouge, LA, US | On Site | Jul 19 |
-| **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Jul 19 |
-| **[Legends Global](http://legends.net)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a4fe08a4649561ec08af56e?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States | On Site | Jul 19 |
-| **[ASM Global](http://www.asmglobal.com)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Jul 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
