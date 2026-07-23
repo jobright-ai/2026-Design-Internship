@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a60d24797c51d628eb3a752?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Fall)](https://jobright.ai/jobs/info/6a567c66e9b77f668bd639f2?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 22 |
 | **[HiWave](https://shop.hiwave.co)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a5ef79af29acc1a11749fa1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a614defab14335fc0f17a47?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
 | **[TerraCycle](http://www.terracycle.com/en-US)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a6130f87196365a6f00956a?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | Hybrid | Jul 22 |
@@ -78,7 +80,6 @@ For a complete list, click the following sortable link below:
 | **[FatCat Strategies](https://fatcatstrategies.com)** | **[Fall Graphic Design Intern (Part-time) or 1099 Contractor](https://jobright.ai/jobs/info/6a60dce2ab9bd46763248b77?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Jul 22 |
 | **[American Medical Association](http://ama-assn.org)** | **[Graphic Design Intern (Hybrid)](https://jobright.ai/jobs/info/6a60d829f0358056fcac0790?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 22 |
 | **[Matthews™](https://www.matthews.com/)** | **[Graphic Design Intern (PHX)](https://jobright.ai/jobs/info/6a46c624c2d11a6a466706ef?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ | On Site | Jul 22 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a60d24797c51d628eb3a752?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[hot sand](www.HotSandAP.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a60bd04a4c799127e993f80?utm_campaign=1049&utm_source=git)** | Asbury Park, NJ, United States | Hybrid | Jul 22 |
 | **[gin design group](https://www.gindesigngroup.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a60b38ffc94743cc67a9f3d?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 22 |
 | **[PRISM Bags](https://prismbags.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a60a03971c79e639619c064?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Remote | Jul 22 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Fall 2026](https://jobright.ai/jobs/info/6a5e7211f3674a0545d291db?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 21 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[3D Architectural Rendering Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e9bb4da96a42cfd92f3b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
 | **[HUSH](http://heyhush.com/)** | **[Intern: Design](https://jobright.ai/jobs/info/6a5ad3ad856af468ab009cb4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 21 |
-| **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Signage and Graphic Design Internship-Fall 2026](https://jobright.ai/jobs/info/6a6156f1eaa37f43e758825b?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | Hybrid | Jul 21 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fd9e18c7fd835513bb79c?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 21 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/6a5fc264b0f20036bc632f67?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 21 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a6008ff6e0c3c7c7d3da711?utm_campaign=1049&utm_source=git)** | Sarasota, FL, United States | On Site | Jul 21 |
@@ -120,8 +120,8 @@ For a complete list, click the following sortable link below:
 | **[Phillips](http://phillips.com/)** | **[Fall DropShop Internship](https://jobright.ai/jobs/info/6a5fd9006e0c3c7c7d3d9684?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a4bf740c2d11a6a46679730?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 21 |
 | **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fd7d9b0f20036bc633669?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
-| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f1d89d32b0656b39f6d99?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Graphic Design Intern - Spring 2019](https://jobright.ai/jobs/info/6a5fc8faf68dd368023e8a8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual Graphic Design Intern (Korean/English)](https://jobright.ai/jobs/info/6a5fc6c36e0c3c7c7d3d8f9b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
