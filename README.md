@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/6a51fa73bf63b66c7997f012?utm_campaign=1049&utm_source=git)** | Highland Park, IL, United States | On Site | Jul 22 |
+| **[Trenton Ironhawks](trentonironhawks.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/6a6173e77196365a6f00af6d?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 22 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a60d24797c51d628eb3a752?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Fall)](https://jobright.ai/jobs/info/6a567c66e9b77f668bd639f2?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 22 |
 | **[HiWave](https://shop.hiwave.co)** | **[TikTok Intern](https://jobright.ai/jobs/info/6a5ef79af29acc1a11749fa1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 22 |
@@ -68,9 +70,10 @@ For a complete list, click the following sortable link below:
 | **[USA Hockey](http://usahockey.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/6a61326d7196365a6f009612?utm_campaign=1049&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 22 |
 | **[Florida Watch](http://floridawatch.org)** | **[Paid Digital Intern](https://jobright.ai/jobs/info/6a612f7311edf44d7915f458?utm_campaign=1049&utm_source=git)** | Tallahassee, FL, United States | Remote | Jul 22 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6a611e62eaa37f43e7586e60?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Jul 22 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 22 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6102aeab14335fc0f165db?utm_campaign=1049&utm_source=git)** | Deerfield, IL, United States | On Site | Jul 22 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6102aeab14335fc0f165db?utm_campaign=1049&utm_source=git)** | Deerfield, IL, United States | On Site | Jul 22 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 22 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a61069b11edf44d7915f003?utm_campaign=1049&utm_source=git)** | Deerfield, IL, United States | On Site | Jul 22 |
+| **[rag & bone](http://www.rag-bone.com)** | **[Fall 2026 Intern - Accessories Design](https://jobright.ai/jobs/info/6a616e8feaa37f43e7588918?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
 | **[Golden Hippo®](https://www.huntrealestate.com/)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 22 |
 | **[SKETCH. a design studio](https://www.sketchdesignstudio.com)** | **[Social Media Content Intern](https://jobright.ai/jobs/info/6a614302ab14335fc0f173cd?utm_campaign=1049&utm_source=git)** | Boca Raton, FL, United States | Remote | Jul 22 |
 | **[Jackson Durham](https://www.jacksondurham.com)** | **[Photography Intern](https://jobright.ai/jobs/info/6a55a345fdf4fa71202b36c1?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 22 |
@@ -119,10 +122,9 @@ For a complete list, click the following sortable link below:
 | **[ProdataKey](https://www.prodatakey.com)** | **[Graphic Design Internship - Draper, UT](https://jobright.ai/jobs/info/6a5fdc5633ef5c58b4000a06?utm_campaign=1049&utm_source=git)** | Draper, UT, United States | On Site | Jul 21 |
 | **[Phillips](http://phillips.com/)** | **[Fall DropShop Internship](https://jobright.ai/jobs/info/6a5fd9006e0c3c7c7d3d9684?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a4bf740c2d11a6a46679730?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 21 |
-| **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5fd7d9b0f20036bc633669?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Jul 21 |
 | **[AECOM](https://www.aecom.com/aecom-capital/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a2c21d3d3ec94183f4bb605?utm_campaign=1049&utm_source=git)** | Washington, DC | Hybrid | Jul 21 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f1d89d32b0656b39f6d99?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6a5f7e5233ef5c58b4ffe2ca?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Jul 21 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Graphic Design Intern - Spring 2019](https://jobright.ai/jobs/info/6a5fc8faf68dd368023e8a8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[H Mart Manhattan](https://www.hmartny.com/)** | **[Bilingual Graphic Design Intern (Korean/English)](https://jobright.ai/jobs/info/6a5fc6c36e0c3c7c7d3d8f9b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 21 |
 | **[Select Model Management](https://www.selectmodel.com/)** | **[Intern](https://jobright.ai/jobs/info/6a5fe0a5b0f20036bc633bd2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Treehouse Strategy](http://treehousestrategy.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a5f1405f29acc1a1174a4db?utm_campaign=1049&utm_source=git)** | 75 S Broadway, White Plains, NY 10601, USA | Remote | Jul 20 |
 | **[Carlson Consulting Engineers, Inc.](https://www.carlsonconsulting.net)** | **[Landscape Architect – Summer Internship](https://jobright.ai/jobs/info/6a5f2ca542a5e63662661400?utm_campaign=1049&utm_source=git)** | Bartlett, TN, United States | On Site | Jul 20 |
 | **[James Martin Associates](http://www.jamesmartinassociates.com/)** | **[Landscape Services Intern](https://jobright.ai/jobs/info/6a5ef14627bf767ea68f9150?utm_campaign=1049&utm_source=git)** | Mundelein, IL, United States | On Site | Jul 20 |
-| **[GRAMMY Museum](https://grammymuseum.org/)** | **[Intern, Creative Services (Graphic Design)](https://jobright.ai/jobs/info/6a5ea6ef27bf767ea68f8347?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Remote | Jul 20 |
-| **[1 Atelier](https://1atelier.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5ea5e167b2850e77df288c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 20 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
