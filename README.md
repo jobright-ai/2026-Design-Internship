@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a53373a8576ec69c014f0c0?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a59b291c8e3a473cb8a81b9?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
+| ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a53373a8576ec69c014f0c0?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Vizzy Labs](https://www.vizzylabs.ai)** | **[UI/UX Design Intern — AI Game Agent Product](https://jobright.ai/jobs/info/6a65841be8d8d22e3292eaab?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area, United States | Remote | Jul 25 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a54dd758b24713fc151b46e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a52c6b28ef95364ead8fce3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 25 |
@@ -89,7 +90,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
-| **[Social View Agency](https://www.socialviewagency.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63d116979290281c7045ae?utm_campaign=1049&utm_source=git)** | Las Vegas Metropolitan Area, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55db35ec54dd532d814b20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a52c68ce726ec56126a475b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
