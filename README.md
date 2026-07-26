@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a661f9d5c7e2d715ebb2f6d?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
+| **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a538b6fd007ee02d95fbbb7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[RETOUCHER/DIGITAL ARTIST INTERNSHIP](https://jobright.ai/jobs/info/6a59b291c8e3a473cb8a81b9?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a53373a8576ec69c014f0c0?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
@@ -86,8 +88,8 @@ For a complete list, click the following sortable link below:
 | **[SPOTLIST Inc.](https://www.spotlistinc.com/)** | **[Graphic Design Intern (Unpaid) (Remote)](https://jobright.ai/jobs/info/6a51b90657513b72e0c66a6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Volunteer/Intern](https://jobright.ai/jobs/info/6a5c00f6c8e3a473cb8b14f1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Connected Creative](https://www.connectedcreative.ca/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6446210c8e2b4f36dd1835?utm_campaign=1049&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Jul 24 |
-| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
+| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TerraCycle](http://www.terracycle.com/en-US)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a6130f87196365a6f00956a?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | Hybrid | Jul 22 |
 | **[Youlify](https://www.youlify.ai)** | **[Paid Graphic Design Intern](https://jobright.ai/jobs/info/6a614421d51f6101c8fbab37?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 22 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddcb8b24713fc151b471?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 22 |
-| **[USA Hockey](http://usahockey.com/)** | **[Graphics Intern](https://jobright.ai/jobs/info/6a61326d7196365a6f009612?utm_campaign=1049&utm_source=git)** | Plymouth, MI, United States | On Site | Jul 22 |
-| **[MSI Mold Builders](https://www.msimoldbuilders.com)** | **[Design Internship](https://jobright.ai/jobs/info/6a651df9e8d8d22e3292df56?utm_campaign=1049&utm_source=git)** | Cedar Rapids, IA, United States | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
