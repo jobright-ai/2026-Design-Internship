@@ -57,7 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a671cbf3b5e6b116a54dd1b?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a6735432bf1fb2b719245f7?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a5666b0efb06a45240d591b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Alderwood Creative](https://alderwoodcreative.com/)** | **[Creative Marketing Assistant - Part Time (Intern-Friendly)](https://jobright.ai/jobs/info/6a6712cb3b5e6b116a54db1d?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 27 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a54698c8576ec69c01530d5?utm_campaign=1049&utm_source=git)** | Hyde Park, MA, United States | On Site | Jul 26 |
@@ -102,8 +102,8 @@ For a complete list, click the following sortable link below:
 | **[SPOTLIST Inc.](https://www.spotlistinc.com/)** | **[Graphic Design Intern (Unpaid) (Remote)](https://jobright.ai/jobs/info/6a51b90657513b72e0c66a6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Volunteer/Intern](https://jobright.ai/jobs/info/6a5c00f6c8e3a473cb8b14f1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Connected Creative](https://www.connectedcreative.ca/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6446210c8e2b4f36dd1835?utm_campaign=1049&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Jul 24 |
-| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
+| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
@@ -153,8 +153,8 @@ For a complete list, click the following sortable link below:
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a623d0c1e089c0cc884b2fb?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 23 |
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a54dd2b81744f383a3137e4?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 23 |
 | **[Mota Group, Inc](http://www.mota.com)** | **[Graphic Designer Intern for Import / Export Company - Immediate Opening](https://jobright.ai/jobs/info/6a55f538f7517b519ad52365?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 23 |
-| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 23 |
-| ↳ | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a58e1b5856af468ab0005d5?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 23 |
+| **[NAC](http://nacarchitecture.com)** | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a58e1b5856af468ab0005d5?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 23 |
+| ↳ | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a29b61a2cde2824469be19a?utm_campaign=1049&utm_source=git)** | Columbus,OH,US | On Site | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432ea1c8bca56ab2245c00?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Custer, Inc.](http://www.custerinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a61d1e8eaa37f43e758a37d?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
