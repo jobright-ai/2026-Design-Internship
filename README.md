@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a671cbf3b5e6b116a54dd1b?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a5666b0efb06a45240d591b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[Alderwood Creative](https://alderwoodcreative.com/)** | **[Creative Marketing Assistant - Part Time (Intern-Friendly)](https://jobright.ai/jobs/info/6a6712cb3b5e6b116a54db1d?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 27 |
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a54698c8576ec69c01530d5?utm_campaign=1049&utm_source=git)** | Hyde Park, MA, United States | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9abc8e3a473cb8a8c70?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
@@ -117,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[bould design](http://bould.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a63de57979290281c70491b?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 24 |
 | **[1 Atelier](https://1atelier.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5ea5e167b2850e77df288c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[The University of Texas at Austin](https://www.jsg.utexas.edu/)** | **[Photo and Video Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d087cef057612c8868?utm_campaign=1049&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
+| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Photo and Video Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d087cef057612c8868?utm_campaign=1049&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a54a7288ef95364ead96434?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5557d74119652ff38651d1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[City of New York](https://www.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a58dabac8e3a473cb8a3694?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Student Intern (Interiors)](https://jobright.ai/jobs/info/6a58e1b5856af468ab0005d5?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a432ea1c8bca56ab2245c00?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[Custer, Inc.](http://www.custerinc.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a61d1e8eaa37f43e758a37d?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, United States | On Site | Jul 23 |
-| **[Mueller Communications, LLC](https://www.muellercommunications.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a61c08a7196365a6f00c22f?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | Hybrid | Jul 23 |
-| **[Hyperquake](https://www.hyperquake.com/)** | **[Design Intern, Experiences](https://jobright.ai/jobs/info/6a5934123ac7627fe9ffde93?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | Hybrid | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
