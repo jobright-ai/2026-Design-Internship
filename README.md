@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a67c1055d2a117fb9ced155?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 27 |
+| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a4bf740c2d11a6a46679730?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Creative Content & Production Intern](https://jobright.ai/jobs/info/6a67b4992bf1fb2b719268f5?utm_campaign=1049&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 27 |
 | **[HiWave](https://shop.hiwave.co)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a587c0672fe7a7b98dceb22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a67735f2bf1fb2b719252ab?utm_campaign=1049&utm_source=git)** | Columbia, MO, United States | On Site | Jul 27 |
@@ -110,7 +112,6 @@ For a complete list, click the following sortable link below:
 | **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 | **[BREVIAN](https://brevian.ai/)** | **[UX Intern](https://jobright.ai/jobs/info/6a51e35678e364789ca5e6f9?utm_campaign=1049&utm_source=git)** | Sunnyvale, CA, United States | On Site | Jul 25 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Web Experience Intern (UX/UI + Web Development)](https://jobright.ai/jobs/info/6a55f583f7517b519ad523cd?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
-| **[Foreign Policy](http://www.foreignpolicy.com/)** | **[Fall Multimedia Intern](https://jobright.ai/jobs/info/6a4eb4adfc327f422fef3e14?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 25 |
 | **[ByteDance](http://bytedance.com)** | **[UX Researcher Intern (GMPT) - 2026 Summer (BS/MS）](https://jobright.ai/jobs/info/6a643e7d8d53603449605ecc?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Jul 24 |
 | **[SPOTLIST Inc.](https://www.spotlistinc.com/)** | **[Graphic Design Intern (Unpaid) (Remote)](https://jobright.ai/jobs/info/6a51b90657513b72e0c66a6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Volunteer/Intern](https://jobright.ai/jobs/info/6a5c00f6c8e3a473cb8b14f1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a50aae9d5d2a327b664cf89?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL, United States | On Site | Jul 23 |
 | **[FIRST](https://firstagency.com/)** | **[2D Design Intern](https://jobright.ai/jobs/info/6a628f6d1e089c0cc884d505?utm_campaign=1049&utm_source=git)** | New York, United States | Hybrid | Jul 23 |
 | ↳ | **[2D Design Intern](https://jobright.ai/jobs/info/6a628c73d5caab4af8baeba7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 23 |
-| **[Carolina Core FC](https://www.carolinacorefc.com)** | **[Graphic Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a62877bf805ef6ff423378e?utm_campaign=1049&utm_source=git)** | High Point, NC, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
