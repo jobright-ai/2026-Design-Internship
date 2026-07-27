@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a67735f2bf1fb2b719252ab?utm_campaign=1049&utm_source=git)** | Columbia, MO, United States | On Site | Jul 27 |
+| ↳ | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a6773362bda4d2842853f29?utm_campaign=1049&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jul 27 |
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6767b12bda4d2842853a99?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retouch Internship](https://jobright.ai/jobs/info/6a538b2e8576ec69c015019f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[IROC Digital Marketing](http://www.irocdigital.com)** | **[Writer/Content Creator - Intern](https://jobright.ai/jobs/info/6a513d5f8d7d3e6cf1cc02e5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
@@ -109,8 +111,8 @@ For a complete list, click the following sortable link below:
 | **[SPOTLIST Inc.](https://www.spotlistinc.com/)** | **[Graphic Design Intern (Unpaid) (Remote)](https://jobright.ai/jobs/info/6a51b90657513b72e0c66a6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Volunteer/Intern](https://jobright.ai/jobs/info/6a5c00f6c8e3a473cb8b14f1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Connected Creative](https://www.connectedcreative.ca/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6446210c8e2b4f36dd1835?utm_campaign=1049&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Jul 24 |
-| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
+| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a6261b71e089c0cc884c287?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[United States Bowling Congress](https://bowl.com)** | **[Graphic Designer - Intern](https://jobright.ai/jobs/info/6a6257df07e15f1ab0e45a36?utm_campaign=1049&utm_source=git)** | Arlington, TX, United States | On Site | Jul 23 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia Marketing and Graphics Design Intern](https://jobright.ai/jobs/info/6a6255e907e15f1ab0e4595a?utm_campaign=1049&utm_source=git)** | Columbia, SC, United States | On Site | Jul 23 |
-| **[Hive Collective](https://hivepalmbeach.com/)** | **[Hive Design Intern Fall 2026](https://jobright.ai/jobs/info/6a624646d5caab4af8bacf54?utm_campaign=1049&utm_source=git)** | West Palm Beach, FL, United States | On Site | Jul 23 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Fall 2026: Industrial Design Intern (September through December)](https://jobright.ai/jobs/info/6a2a7979c07d4b6ae1c46049?utm_campaign=1049&utm_source=git)** | Needham, MA | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
