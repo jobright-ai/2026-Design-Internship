@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a677f50d0fb4c3df393d139?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 27 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a67735f2bf1fb2b719252ab?utm_campaign=1049&utm_source=git)** | Columbia, MO, United States | On Site | Jul 27 |
 | ↳ | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a6773362bda4d2842853f29?utm_campaign=1049&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jul 27 |
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6767b12bda4d2842853a99?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[2026-27 Graphic Design Intern - In-Season](https://jobright.ai/jobs/info/6a6271091e089c0cc884c806?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 23 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retouch/Digital Artist Intern/Volunteer](https://jobright.ai/jobs/info/6a6261b71e089c0cc884c287?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 23 |
 | **[United States Bowling Congress](https://bowl.com)** | **[Graphic Designer - Intern](https://jobright.ai/jobs/info/6a6257df07e15f1ab0e45a36?utm_campaign=1049&utm_source=git)** | Arlington, TX, United States | On Site | Jul 23 |
-| **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Columbia Marketing and Graphics Design Intern](https://jobright.ai/jobs/info/6a6255e907e15f1ab0e4595a?utm_campaign=1049&utm_source=git)** | Columbia, SC, United States | On Site | Jul 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
