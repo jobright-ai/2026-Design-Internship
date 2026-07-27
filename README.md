@@ -58,7 +58,6 @@ For a complete list, click the following sortable link below:
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
 | **[PWP Landscape Architecture](https://www.pwpla.com)** | **[PWP Summer Internship 2026](https://jobright.ai/jobs/info/6a53ff278576ec69c0151b07?utm_campaign=1049&utm_source=git)** | Berkeley, CA, United States | On Site | Jul 26 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6690245c7e2d715ebb3af1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[BreakingTaboo](https://breaking-taboo.org)** | **[Social Media/ Graphic Designer Internship for Mental Health Organization](https://jobright.ai/jobs/info/6a668bbce8d8d22e329303fa?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 26 |
 | **[Adjective & Co.](https://adjectiveandco.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a5403768576ec69c0151bc0?utm_campaign=1049&utm_source=git)** | Jacksonville Beach, FL, United States | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a5488d28a74e077472fc1cc?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Mariani Landscape](http://marianilandscape.com)** | **[Landscape Design Internship](https://jobright.ai/jobs/info/6a51fa73bf63b66c7997f012?utm_campaign=1049&utm_source=git)** | Highland Park, IL, United States | On Site | Jul 22 |
 | **[Trenton Ironhawks](trentonironhawks.com)** | **[Photography/Videography Intern](https://jobright.ai/jobs/info/6a6173e77196365a6f00af6d?utm_campaign=1049&utm_source=git)** | Trenton, NJ, United States | On Site | Jul 22 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a60d24797c51d628eb3a752?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Jul 22 |
+| **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Architecture (Fall)](https://jobright.ai/jobs/info/6a567c66e9b77f668bd639f2?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Jul 22 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
