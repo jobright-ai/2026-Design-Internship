@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a677f50d0fb4c3df393d139?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 27 |
 | **[Veterans United Home Loans](https://www.veteransunited.com)** | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a67735f2bf1fb2b719252ab?utm_campaign=1049&utm_source=git)** | Columbia, MO, United States | On Site | Jul 27 |
 | ↳ | **[Intern, Graphic Designer](https://jobright.ai/jobs/info/6a6773362bda4d2842853f29?utm_campaign=1049&utm_source=git)** | Greater Columbia, Missouri Area | On Site | Jul 27 |
 | **[LGA Partners](http://lga-partners.com)** | **[Interior Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a6767b12bda4d2842853a99?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Jul 27 |
+| **[GRO](https://www.readysetgro.io/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6a678f54872eb74f9ead9bb5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retouch Internship](https://jobright.ai/jobs/info/6a538b2e8576ec69c015019f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
 | **[IROC Digital Marketing](http://www.irocdigital.com)** | **[Writer/Content Creator - Intern](https://jobright.ai/jobs/info/6a513d5f8d7d3e6cf1cc02e5?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 27 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a54dd0c81744f383a3137c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
