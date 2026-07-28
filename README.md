@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[10Beauty](https://www.10beauty.co)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68eefb05bae84301b5969e?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
+| **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a68eaa03b549b0b531d2bbe?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Internship](https://jobright.ai/jobs/info/6a68de383b549b0b531d2705?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a68da293b549b0b531d2418?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Buffalo Construction, Inc.](https://buffaloconstruction.com)** | **[Marketing & Graphic Design Intern (Part-time)](https://jobright.ai/jobs/info/6a63b5f98d53603449603d58?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
 | **[Houston Ballet](https://www.houstonballet.org/)** | **[Part-Time Creative Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/6a63b32587cef057612ca123?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Jul 24 |
 | **[Aiken House](https://www.aikenhouse.com)** | **[Intern - Creative Writer + Journalist](https://jobright.ai/jobs/info/6a6502bd87cef057612cdc06?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 24 |
-| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[bould design](http://bould.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a63de57979290281c70491b?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
