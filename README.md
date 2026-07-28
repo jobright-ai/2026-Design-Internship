@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a68a69a207d4f2e632e3e0a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a544035c8eb0843027af437?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a55f59be9b77f668bd5feca?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Jul 28 |
 | **[Parallel, A Brand Agency](https://thinkparallel.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a55f57121f64463ad35111c?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 28 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[bould design](http://bould.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a63de57979290281c70491b?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 24 |
 | **[1 Atelier](https://1atelier.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5ea5e167b2850e77df288c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
+| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Photo and Video Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d087cef057612c8868?utm_campaign=1049&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
