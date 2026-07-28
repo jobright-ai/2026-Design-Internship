@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a685251abe8ae03a4722b26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Graphic Designer - Intern / Remote](https://jobright.ai/jobs/info/6a4330be4461bf091787ab6c?utm_campaign=1049&utm_source=git)** | Lombard, IL, United States | Remote | Jul 27 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a55cfa914f1040fa611c3d2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
@@ -67,6 +66,7 @@ For a complete list, click the following sortable link below:
 | **[MG2 Design](https://mg2.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/6a682d7951eb742d72756551?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[Aebly Media](https://www.aeblymedia.com)** | **[Social Media & Content Creation Intern — Design / Video](https://jobright.ai/jobs/info/6a68262ab9adcd752800dee2?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 27 |
 | **[Colliers Engineering & Design](https://colliersengineering.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/6a681eae32b81b568a245852?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
+| **[Maverick](https://www.maverickbuilders.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a685d89abe8ae03a4722d83?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 27 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a34381e1232144fb155ed76?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 27 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Materials Library / Fall 2026](https://jobright.ai/jobs/info/6a5e6b9ef3674a0545d28e6f?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Jul 27 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a58625472fe7a7b98dce22e?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 27 |
