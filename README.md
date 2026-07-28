@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Schmidt Associates](http://schmidt-arch.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a58625472fe7a7b98dce22e?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Jul 27 |
 | **[Alliance Health System](https://alliancehealthsystem.com/)** | **[Video Editor Intern](https://jobright.ai/jobs/info/6a5550c1268af95237bead9f?utm_campaign=1049&utm_source=git)** | Matawan, NJ, United States | Hybrid | Jul 27 |
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Graphic & Web Design Internship](https://jobright.ai/jobs/info/6a5546e12084cd792b477620?utm_campaign=1049&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 27 |
 | **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a67c1055d2a117fb9ced155?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 27 |
@@ -107,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[California Energy Commission](http://www.energy.ca.gov)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a42a46e6faf7560609676d4?utm_campaign=1049&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a558575377f983ce8a9aa12?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Marketing - Graphic Design Internship](https://jobright.ai/jobs/info/6a55cfd2fdf4fa71202b594c?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 25 |
-| **[CCMC](http://ccmcnet.com)** | **[Digital Marketing & Communications Fall Intern](https://jobright.ai/jobs/info/6a34be31f6b55d12c791ddfc?utm_campaign=1049&utm_source=git)** | Babcock Ranch, FL | On Site | Jul 25 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retoucher Internship](https://jobright.ai/jobs/info/6a59e988686b4755d1e123d3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Elastic Band Company](https://elasticbandco.com)** | **[Intern](https://jobright.ai/jobs/info/6a54e06681744f383a313956?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Digital Design](https://jobright.ai/jobs/info/6a64847ae8d8d22e3292cead?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 25 |
@@ -118,8 +118,8 @@ For a complete list, click the following sortable link below:
 | **[SPOTLIST Inc.](https://www.spotlistinc.com/)** | **[Graphic Design Intern (Unpaid) (Remote)](https://jobright.ai/jobs/info/6a51b90657513b72e0c66a6a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher /Digital Artist Volunteer/Intern](https://jobright.ai/jobs/info/6a5c00f6c8e3a473cb8b14f1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Connected Creative](https://www.connectedcreative.ca/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6446210c8e2b4f36dd1835?utm_campaign=1049&utm_source=git)** | Edmonton, AB, Canada | Hybrid | Jul 24 |
-| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
+| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
