@@ -57,11 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Markkit](https://markkit.ai/)** | **[UGC Creator Internship (Portfolio Building)](https://jobright.ai/jobs/info/6a6928b93b549b0b531d4333?utm_campaign=1049&utm_source=git)** | Los Angeles County, United States | On Site | Jul 28 |
+| **[Kaili Woop](https://www.kailiwoop.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a69271d36d36c1ff2998636?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
+| **[10Beauty](https://www.10beauty.co)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68eefb05bae84301b5969e?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Design Studio Intern](https://jobright.ai/jobs/info/6a6919f1b22f1b56a602ac94?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a69126d3b549b0b531d3b3a?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 28 |
-| **[10Beauty](https://www.10beauty.co)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68eefb05bae84301b5969e?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6909ec05bae84301b5a162?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 28 |
 | **[Kitme](https://www.trykitme.com)** | **[Summer-to-Fall Social Media Intern (Graphic Design)](https://jobright.ai/jobs/info/6a6900275d01972698ee5d65?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Design - Sales Engineering (Fall 2026)](https://jobright.ai/jobs/info/6a6928595d01972698ee6bc0?utm_campaign=1049&utm_source=git)** | Dorval, QC, Canada | Hybrid | Jul 28 |
 | **[Nerveli](https://www.getnerveli.com/)** | **[Social Content & Design Intern](https://jobright.ai/jobs/info/6a68f9cd05bae84301b59bb3?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Clockwork (acquired by 10Beauty)](https://www.likeclockwork.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68f42a3b549b0b531d2ef4?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a68eaa03b549b0b531d2bbe?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 28 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
 | **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55db35ec54dd532d814b20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a52c68ce726ec56126a475b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a5135e278e364789ca59c19?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 24 |
-| **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a639ab7979290281c70322b?utm_campaign=1049&utm_source=git)** | Green Bay, WI, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
