@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6909ec05bae84301b5a162?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 28 |
 | **[Kitme](https://www.trykitme.com)** | **[Summer-to-Fall Social Media Intern (Graphic Design)](https://jobright.ai/jobs/info/6a6900275d01972698ee5d65?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a68fafa5d01972698ee5b88?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Nerveli](https://www.getnerveli.com/)** | **[Social Content & Design Intern](https://jobright.ai/jobs/info/6a68f9cd05bae84301b59bb3?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Clockwork (acquired by 10Beauty)](https://www.likeclockwork.com)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68f42a3b549b0b531d2ef4?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
 | **[10Beauty](https://www.10beauty.co)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68eefb05bae84301b5969e?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
