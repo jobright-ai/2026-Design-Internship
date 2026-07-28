@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a68a69a207d4f2e632e3e0a?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
+| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a544035c8eb0843027af437?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
+| **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a55f59be9b77f668bd5feca?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Jul 28 |
+| **[Parallel, A Brand Agency](https://thinkparallel.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a55f57121f64463ad35111c?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 28 |
+| **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/6a560b7c21f64463ad3520e0?utm_campaign=1049&utm_source=git)** | New Orleans, LA, United States | On Site | Jul 28 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Merchandise Internship](https://jobright.ai/jobs/info/6a6894585f2a9115e18d88e1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Rampant Creative](https://www.linkedin.com/company/18541408)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a5c1837c8e3a473cb8b1704?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
@@ -78,7 +83,6 @@ For a complete list, click the following sortable link below:
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Graphic & Web Design Internship](https://jobright.ai/jobs/info/6a5546e12084cd792b477620?utm_campaign=1049&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 27 |
 | **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a67c1055d2a117fb9ced155?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 27 |
 | **[International Economic Forum of the Americas](https://forum-americas.org)** | **[Stagiaire en design graphique / Graphic Design Intern](https://jobright.ai/jobs/info/6a68319e50dec41e3527e800?utm_campaign=1049&utm_source=git)** | Montreal, QC, Canada | Hybrid | Jul 27 |
-| **[Art Institute of Chicago](http://www.artic.edu/)** | **[McMullan Arts Leadership Internship, Experience Design, Visual Design](https://jobright.ai/jobs/info/6a4bf740c2d11a6a46679730?utm_campaign=1049&utm_source=git)** | Chicago, Illinois, United States | On Site | Jul 27 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Creative Content & Production Intern](https://jobright.ai/jobs/info/6a67b4992bf1fb2b719268f5?utm_campaign=1049&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 27 |
 | **[Aramark Collegiate Hospitality](https://www.aramark.com/industries/education/higher-education)** | **[Student Graphic Design Intern](https://jobright.ai/jobs/info/6a68127ed0fb4c3df394009d?utm_campaign=1049&utm_source=git)** | Tallahassee, FL, United States | On Site | Jul 27 |
 | **[HiWave](https://shop.hiwave.co)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a587c0672fe7a7b98dceb22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfd16c326942b4e84369?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 | **[bould design](http://bould.com/)** | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a63de57979290281c70491b?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 24 |
 | **[1 Atelier](https://1atelier.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a5ea5e167b2850e77df288c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[The University of Texas at Austin](http://www.texasenterprise.utexas.edu/)** | **[Photo and Video Student Intern, Marketing and Communication, Moody College of Communication](https://jobright.ai/jobs/info/6a6367d087cef057612c8868?utm_campaign=1049&utm_source=git)** | UT Main Campus, United States | Hybrid | Jul 24 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a54a7288ef95364ead96434?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5557d74119652ff38651d1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
-| **[City of New York](https://www.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a58dabac8e3a473cb8a3694?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
