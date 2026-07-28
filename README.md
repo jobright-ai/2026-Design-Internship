@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Merchandise Internship](https://jobright.ai/jobs/info/6a6894585f2a9115e18d88e1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
+| ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Rampant Creative](https://www.linkedin.com/company/18541408)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a5c1837c8e3a473cb8b1704?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 27 |
 | **[MBJ Network](www.mbj-network.com)** | **[Lead Graphic Designer - Intern / Remote](https://jobright.ai/jobs/info/6a4330be4461bf091787ab6c?utm_campaign=1049&utm_source=git)** | Lombard, IL, United States | Remote | Jul 27 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retoucher /Digital Artist Intern](https://jobright.ai/jobs/info/6a54a7288ef95364ead96434?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a5557d74119652ff38651d1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 24 |
 | **[City of New York](https://www.nyc.gov)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a58dabac8e3a473cb8a3694?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 24 |
-| **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a509803d5d2a327b664bb30?utm_campaign=1049&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
