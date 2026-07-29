@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[TikTok Creator & Account Manager Internship](https://jobright.ai/jobs/info/6a69e0dbc63ba56308f50402?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jul 29 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - GRAPHIC DESIGN/MULTIMEDIA (HDQ)](https://jobright.ai/jobs/info/6a69bd8109998f68b5a6d73d?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 29 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a69a3a247d8280e278500a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 28 |
@@ -81,6 +82,7 @@ For a complete list, click the following sortable link below:
 | **[VX Media](https://www.vxmedia.co)** | **[Creative Intern](https://jobright.ai/jobs/info/6a68eaa03b549b0b531d2bbe?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 28 |
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Internship](https://jobright.ai/jobs/info/6a68de383b549b0b531d2705?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
+| **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 28 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a544035c8eb0843027af437?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
 | **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a55f59be9b77f668bd5feca?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Jul 28 |
 | **[Parallel, A Brand Agency](https://thinkparallel.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a55f57121f64463ad35111c?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Marketing - Graphic Design Internship](https://jobright.ai/jobs/info/6a55cfd2fdf4fa71202b594c?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 25 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Retoucher Internship](https://jobright.ai/jobs/info/6a59e988686b4755d1e123d3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 | **[Elastic Band Company](https://elasticbandco.com)** | **[Intern](https://jobright.ai/jobs/info/6a54e06681744f383a313956?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
-| **[Melaleuca: The Wellness Company](http://www.melaleuca.com/)** | **[Internship 2027 - Digital Design](https://jobright.ai/jobs/info/6a64847ae8d8d22e3292cead?utm_campaign=1049&utm_source=git)** | Idaho Falls, ID, United States | On Site | Jul 25 |
-| **[University Co-op](https://www.universitycoop.com/)** | **[Creative Intern](https://jobright.ai/jobs/info/6a32b72cf6b55d12c791532a?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
