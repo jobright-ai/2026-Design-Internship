@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a6a1caf8693c23e7fb78ccc?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6a142348355b3f12beee26?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[The Brand Collective, Inc.](https://www.wearebrandcollective.com/)** | **[UX & Digital Intern](https://jobright.ai/jobs/info/6a6a11ea19d76667a2abd6c6?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 29 |
@@ -65,7 +66,7 @@ For a complete list, click the following sortable link below:
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Jul 29 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, FL, United States | On Site | Jul 29 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Design Intern NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[TikTok Creator & Account Manager Internship](https://jobright.ai/jobs/info/6a69e0dbc63ba56308f50402?utm_campaign=1049&utm_source=git)** | Canada | Remote | Jul 29 |
 | **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - GRAPHIC DESIGN/MULTIMEDIA (HDQ)](https://jobright.ai/jobs/info/6a69bd8109998f68b5a6d73d?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 29 |
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 28 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Axcelis Technologies](http://www.axcelis.com)** | **[Technical Illustrator Intern](https://jobright.ai/jobs/info/6a62178c846162391c933d25?utm_campaign=1049&utm_source=git)** | Beverly, MA, United States | On Site | Jul 25 |
 | **[Atlanta Gladiators](http://atlantagladiators.com)** | **[2026-27 Graphic Design Intern](https://jobright.ai/jobs/info/6a650bf987cef057612cdd04?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Jul 25 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9b64da96a42cfd92f32?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
-| ↳ | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a527240e726ec56126a3196?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
