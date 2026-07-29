@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - GRAPHIC DESIGN/MULTIMEDIA (HDQ)](https://jobright.ai/jobs/info/6a698cff491b620ac80a4c4a?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 28 |
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 28 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[James Montana AIA LLC](http://www.jamesmontana.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a696cff34acfa6657c8c455?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | Jul 28 |
@@ -123,7 +124,6 @@ For a complete list, click the following sortable link below:
 | **[ISlide, Inc.](https://www.islideusa.com/)** | **[Fall 2026 Marketing Design Intern](https://jobright.ai/jobs/info/6a54698c8576ec69c01530d5?utm_campaign=1049&utm_source=git)** | Hyde Park, MA, United States | On Site | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Design/Creative Volunteer/Intern](https://jobright.ai/jobs/info/6a59e9abc8e3a473cb8a8c70?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[GrowSquares](https://www.growsquares.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a544fb7c8eb0843027af7b4?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Jul 26 |
-| **[SOAR365](https://www.soar365.org/)** | **[Graphic Design Intern (paid)](https://jobright.ai/jobs/info/6a6966e716abd1144c64a994?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | Hybrid | Jul 26 |
 | **[Toshiba Global Commerce Solutions](https://commerce.toshiba.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a66a5b00c8e2b4f36dd58ce?utm_campaign=1049&utm_source=git)** | Durham, NC, United States | On Site | Jul 26 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Interior Design](https://jobright.ai/jobs/info/6a315a0ee7b7d514a3bd3036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 26 |
 | **[Tuff City Records](http://www.tuffcity.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a66a5128d5360344960a03a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 26 |
