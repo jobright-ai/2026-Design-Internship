@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Houchens Insurance Group](https://www.higusa.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6936d03b549b0b531d48f6?utm_campaign=1049&utm_source=git)** | Bowling Green, KY, United States | On Site | Jul 28 |
+| **[Berkeley Industrial Engineering & Operations Research](https://ieor.berkeley.edu)** | **[Industrial Design Intern - Fall Semester (August - December). at Graham Packaging Company](https://jobright.ai/jobs/info/6a69343cb22f1b56a602b554?utm_campaign=1049&utm_source=git)** | Indiana, United States | On Site | Jul 28 |
 | **[Markkit](https://markkit.ai/)** | **[UGC Creator Internship (Portfolio Building)](https://jobright.ai/jobs/info/6a6928b93b549b0b531d4333?utm_campaign=1049&utm_source=git)** | Los Angeles County, United States | On Site | Jul 28 |
 | **[Kaili Woop](https://www.kailiwoop.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a69271d36d36c1ff2998636?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
 | **[10Beauty](https://www.10beauty.co)** | **[Consumer Insights Intern](https://jobright.ai/jobs/info/6a68eefb05bae84301b5969e?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Jul 28 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 24 |
 | **[Buffalo Sabres](http://sabres.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a63ab00979290281c70362d?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | On Site | Jul 24 |
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 24 |
-| **[Schmidt Associates](http://schmidt-arch.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a5d8bdc3ac7627fe900cb14?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Jul 24 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a55db35ec54dd532d814b20?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 24 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
