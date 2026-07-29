@@ -66,7 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d0a80c8e2b4f36dd00a6?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a6a1caf8693c23e7fb78ccc?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[The Brand Collective, Inc.](https://www.wearebrandcollective.com/)** | **[UX & Digital Intern](https://jobright.ai/jobs/info/6a6a11ea19d76667a2abd6c6?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | Hybrid | Jul 29 |
 | **[Panepinto Properties Inc](https://panepintodevelopment.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a6a111048355b3f12beecaf?utm_campaign=1049&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 29 |
 | **[Loop Financial](https://www.bankonloop.com/en-ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a6a0eac48355b3f12beeb6c?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Jul 29 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[NGIN Workplace](http://www.nginworkplace.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6a52c6b28ef95364ead8fce3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 25 |
 | **[Malltip Inc](https://www.malltip.com)** | **[Visual Designer Intern - Spring 2016](https://jobright.ai/jobs/info/6a51c29278e364789ca5c641?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 25 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a6533028d53603449607b32?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Jul 25 |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a52a9fc8576ec69c014ce8f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 25 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
