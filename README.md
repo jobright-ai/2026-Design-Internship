@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - GRAPHIC DESIGN/MULTIMEDIA (HDQ)](https://jobright.ai/jobs/info/6a69bd8109998f68b5a6d73d?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 29 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a69a3a247d8280e278500a9?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
-| **[Basin Electric Power Cooperative](https://www.basinelectric.com/)** | **[STUDENT INTERN - GRAPHIC DESIGN/MULTIMEDIA (HDQ)](https://jobright.ai/jobs/info/6a698cff491b620ac80a4c4a?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Jul 28 |
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 28 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b34e9b77f668bd66f55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 28 |
 | **[James Montana AIA LLC](http://www.jamesmontana.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6a696cff34acfa6657c8c455?utm_campaign=1049&utm_source=git)** | Connecticut, United States | On Site | Jul 28 |
