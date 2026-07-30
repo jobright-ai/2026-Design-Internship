@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a6ad89257120971bf3a2f54?utm_campaign=1049&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 29 |
 | **[MyndBridge, Inc.](https://musicbreeds.org)** | **[Design Intern - Social Media Content](https://jobright.ai/jobs/info/6a6ab773394f9d64d8be6b1c?utm_campaign=1049&utm_source=git)** | Hollis, New York, United States | On Site | Jul 29 |
 | **[Midland Scientific, Inc.](https://www.midlandsci.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/6a6a862f16c69119640feeed?utm_campaign=1049&utm_source=git)** | La Vista, NE, United States | On Site | Jul 29 |
 | **[St. Martin America Inc.](http://stmartincabinetry.com/)** | **[Graphic Design & Brand Marketing Intern](https://jobright.ai/jobs/info/6a6a93198693c23e7fb7b637?utm_campaign=1049&utm_source=git)** | Los Angeles metropolitan area, United States | On Site | Jul 29 |
@@ -64,7 +65,7 @@ For a complete list, click the following sortable link below:
 | **[SMUGGLER](http://smugglersite.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6a6cae16c69119640fe5dc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
-| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696bb816abd1144c64aafb?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
+| **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696b9278c2a406e51aaf6f?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6a56af48355b3f12bf06c3?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 29 |
 | **[Loop Financial](https://www.bankonloop.com/en-ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a6a0eac48355b3f12beeb6c?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 29 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6a57be15efb06a45240dcfb8?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Jul 29 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/6a48032f971cd25b06f934d7?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a597a65856af468ab003eee?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[VerdeGo](https://verdego.com)** | **[Landscape Internship](https://jobright.ai/jobs/info/6a640aa5e8d8d22e3292bcf1?utm_campaign=1049&utm_source=git)** | Bunnell, FL, United States | On Site | Jul 26 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
