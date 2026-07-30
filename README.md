@@ -57,10 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Midland Scientific, Inc.](https://www.midlandsci.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/6a6a862f16c69119640feeed?utm_campaign=1049&utm_source=git)** | La Vista, NE, United States | On Site | Jul 29 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6a84a348355b3f12bf1866?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
 | **[Falcon's Beyond](https://falconsbeyondglobal.com)** | **[Falcons Creative Group Internship](https://jobright.ai/jobs/info/6a6a78810b42f866b6198e67?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | **[SMUGGLER](http://smugglersite.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6a6cae16c69119640fe5dc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696b9278c2a406e51aaf6f?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6a56af48355b3f12bf06c3?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 29 |
 | **[Loop Financial](https://www.bankonloop.com/en-ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a6a0eac48355b3f12beeb6c?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 29 |
@@ -75,7 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 29 |
 | **[Seaspice Brasserie & Lounge](http://www.seaspicemiami.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6a2ae916c69119640fcb90?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Jul 29 |
 | **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a6a26e116c69119640fca30?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 29 |
-| **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
+| **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d0a80c8e2b4f36dd00a6?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a6a1caf8693c23e7fb78ccc?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Panepinto Properties Inc](https://panepintodevelopment.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a6a111048355b3f12beecaf?utm_campaign=1049&utm_source=git)** | Jersey City, NJ, United States | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Graphic Designer Intern/Volunteer](https://jobright.ai/jobs/info/6a5488d28a74e077472fc1cc?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
 | **[Abercrombie & Fitch Co.](http://abercrombie.com)** | **[A&F Co. Design Sophomore Summit - Summer 2026](https://jobright.ai/jobs/info/6a48032f971cd25b06f934d7?utm_campaign=1049&utm_source=git)** | Columbus, OH | Remote | Jul 26 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Art Director Intern/Volunteer](https://jobright.ai/jobs/info/6a597a65856af468ab003eee?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 26 |
-| **[VerdeGo](https://verdego.com)** | **[Landscape Internship](https://jobright.ai/jobs/info/6a640aa5e8d8d22e3292bcf1?utm_campaign=1049&utm_source=git)** | Bunnell, FL, United States | On Site | Jul 26 |
-| **[Pratt Industries](http://www.prattindustries.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a45892d971cd25b06f8920f?utm_campaign=1049&utm_source=git)** | 6389 FM 3009 Suite 100, Schertz, TX,78154 | On Site | Jul 26 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
