@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a6b82c732f9300c3a3df557?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
+| **[Hanes Companies, Inc](https://hanescompanies.com/)** | **[Summer Intern - Fabric Group](https://jobright.ai/jobs/info/6a6b785cacb0a61f9dbc0fc7?utm_campaign=1049&utm_source=git)** | Conover, NC, United States | On Site | Jul 30 |
+| **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a6b7790acb0a61f9dbc0f5a?utm_campaign=1049&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 30 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 30 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 30 |
 | ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/6a51d9c08d7d3e6cf1cc3d50?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Jul 30 |
@@ -83,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Falcon's Beyond](https://falconsbeyondglobal.com)** | **[Falcons Creative Group Internship](https://jobright.ai/jobs/info/6a6a78810b42f866b6198e67?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | **[SMUGGLER](http://smugglersite.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6a6cae16c69119640fe5dc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696b9278c2a406e51aaf6f?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6a56af48355b3f12bf06c3?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 29 |
 | **[Loop Financial](https://www.bankonloop.com/en-ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a6a0eac48355b3f12beeb6c?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 29 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Hasana, Inc.](http://shophasana.com)** | **[Intern/Volunteer Art Director](https://jobright.ai/jobs/info/6a54dd0c81744f383a3137c5?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 27 |
 | **[Rescuing Leftover Cuisine](http://www.rescuingleftovercuisine.org)** | **[Photography Intern - Spring 2019](https://jobright.ai/jobs/info/6a5d1c5e4da96a42cfd9db62?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 | **[BGE, Inc.](https://www.bgeinc.com)** | **[FRISCO - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a13e5739fdbf21f36cbac5d?utm_campaign=1049&utm_source=git)** | Frisco, TX | On Site | Jul 27 |
-| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Marketing Intern or Co-op (Fall 2026)](https://jobright.ai/jobs/info/6a6735432bf1fb2b719245f7?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Jul 27 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a5666b0efb06a45240d591b?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Alderwood Creative](https://alderwoodcreative.com/)** | **[Creative Marketing Assistant - Part Time (Intern-Friendly)](https://jobright.ai/jobs/info/6a6712cb3b5e6b116a54db1d?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
