@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a6c165d32f9300c3a3e2576?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
+| ↳ | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a6c159fca1f9338465fdd76?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5503dfae07d60a8d00e44d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6c0e72c00ae03109f8743e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
+| **[Freestyle](https://freestyleokc.com)** | **[Internship / Fellowship: Video Production & Photography](https://jobright.ai/jobs/info/6a59b4e163a8f619507c3751?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 30 |
 | **[Innovative Embedded Systems Pvt. Ltd. (SIIC IIT Kanpur).](http://www.iembsys.com)** | **[Scientist Intern, User Experience (HCI/HMI)](https://jobright.ai/jobs/info/6a6c08e432f9300c3a3e2121?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | Hybrid | Jul 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 30 |
 | **[Retrofête](https://retrofete.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6bfdc3ca1f9338465fd5f4?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 30 |
@@ -73,7 +78,6 @@ For a complete list, click the following sortable link below:
 | **[WCVB Channel 5](http://www.wcvb.com/)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a6bb4315c54bc4752cea81b?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 30 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a6bb2c25c54bc4752cea7a0?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Jul 30 |
 | **[Key Tech Inc.](http://keytechinc.com)** | **[Industrial Designer (Full-Time & Intern Positions)](https://jobright.ai/jobs/info/6a6bb18cca1f9338465fbe0d?utm_campaign=1049&utm_source=git)** | Baltimore, MD, United States | On Site | Jul 30 |
-| **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a6b7790acb0a61f9dbc0f5a?utm_campaign=1049&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 30 |
 | **[CALSTART](http://www.calstart.org)** | **[Brand Implementation & Graphic Design Intern](https://jobright.ai/jobs/info/6a6baa7457120971bf3a82a7?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
 | **[OXOS Medical](https://www.oxos.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6a6baa6bacb0a61f9dbc225c?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
 | **[Dennis Entertainment](https://www.linkedin.com/company/104971907)** | **[Creative Development Intern](https://jobright.ai/jobs/info/6a6baa6457120971bf3a829f?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | On Site | Jul 30 |
@@ -81,6 +85,7 @@ For a complete list, click the following sortable link below:
 | **[Pennsylvania Horticultural Society (PHS)](https://phsonline.org)** | **[Design Team Intern](https://jobright.ai/jobs/info/6a6b909b32f9300c3a3df9d8?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 30 |
 | **[Atomic Marketing -TX](https://atomicmkt.com)** | **[Graphic Design Internship (PAID)](https://jobright.ai/jobs/info/6a6b8dedacb0a61f9dbc18ac?utm_campaign=1049&utm_source=git)** | El Paso Metropolitan Area, United States | On Site | Jul 30 |
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a6b82c732f9300c3a3df557?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
+| **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a6b7790acb0a61f9dbc0f5a?utm_campaign=1049&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 30 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 30 |
 | **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/6a51d9c08d7d3e6cf1cc3d50?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Jul 30 |
 | ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 30 |
@@ -116,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[K9 Wear](https://www.k9wear.com)** | **[Social Media & Visual Content Creator Intern](https://jobright.ai/jobs/info/6a6a3be216c69119640fd2f0?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Jul 29 |
 | **[LEAP](https://www.leapspace.one)** | **[Creative Specialist Intern](https://jobright.ai/jobs/info/6a56d1c9efb06a45240d854a?utm_campaign=1049&utm_source=git)** | Broomfield, CO, United States | On Site | Jul 29 |
 | **[Direct Supply](http://www.directsupply.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6a4d886535e45603c4bb43e3?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Jul 29 |
-| **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d0a80c8e2b4f36dd00a6?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
+| **[Vida Design Inc.](https://vida-design.com)** | **[Interior Designer Intern](https://jobright.ai/jobs/info/6a63d1b187cef057612cad49?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Jul 29 |
 | **[Cinq à Sept](http://cinqasept.nyc)** | **[Color Design Intern](https://jobright.ai/jobs/info/6a6a1caf8693c23e7fb78ccc?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Jul 29 |
 | **[Rho](https://rho.co)** | **[Design Intern](https://jobright.ai/jobs/info/6a4d94333122a76a8fd5601c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 29 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Jul 29 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Merchandise Internship](https://jobright.ai/jobs/info/6a6894585f2a9115e18d88e1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | ↳ | **[Graphic Designer Volunteer/Intern](https://jobright.ai/jobs/info/6a54ddca8b24713fc151b470?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 28 |
 | **[Rampant Creative](https://www.linkedin.com/company/18541408)** | **[Creative Production Intern](https://jobright.ai/jobs/info/6a5c1837c8e3a473cb8b1704?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 28 |
-| **[MBJ Network](www.mbj-network.com)** | **[Lead Graphic Designer - Intern / Remote](https://jobright.ai/jobs/info/6a4330be4461bf091787ab6c?utm_campaign=1049&utm_source=git)** | Lombard, IL, United States | Remote | Jul 27 |
-| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Set Designer/Builder](https://jobright.ai/jobs/info/6a55cfa914f1040fa611c3d2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| ↳ | **[Volunteer/Intern Sign Painting/ Hand Lettering](https://jobright.ai/jobs/info/6a432eaa4461bf091787a3ad?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 27 |
-| **[MG2 Design](https://mg2.com)** | **[Architecture/Interior Design Student Intern](https://jobright.ai/jobs/info/6a682d7951eb742d72756551?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 27 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
