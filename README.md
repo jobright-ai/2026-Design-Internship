@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Motion 3D/After Effects Graphic Design Specialist Intern/Volunteer](https://jobright.ai/jobs/info/6a59e989686b4755d1e123d4?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Jul 31 |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6c62c6c00ae03109f88ad5?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 31 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[IT Communications and Graphics Design Intern (Spring 2027)](https://jobright.ai/jobs/info/6a6c5fb5acb0a61f9dbc56ea?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Jul 31 |
 | **[University Enterprises, Inc.](http://www.enterprises.csus.edu)** | **[Student Assistant - Graphic Design Intern](https://jobright.ai/jobs/info/6a6c4f2bacb0a61f9dbc50a5?utm_campaign=1049&utm_source=git)** | Sacramento, CA, United States | On Site | Jul 31 |
 | **[Charles River Analytics](http://www.cra.com)** | **[Scientist Intern, User Experience (HCI/HMI)](https://jobright.ai/jobs/info/6a6bfcecacb0a61f9dbc3c8b?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Jul 31 |
@@ -114,7 +116,7 @@ For a complete list, click the following sortable link below:
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a6ad89257120971bf3a2f54?utm_campaign=1049&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 29 |
 | **[Midland Scientific, Inc.](https://www.midlandsci.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/6a6a862f16c69119640feeed?utm_campaign=1049&utm_source=git)** | La Vista, NE, United States | On Site | Jul 29 |
 | **[Falcon's Beyond](https://falconsbeyondglobal.com)** | **[Falcons Creative Group Internship](https://jobright.ai/jobs/info/6a6a78810b42f866b6198e67?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696bb816abd1144c64aafb?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6a56af48355b3f12bf06c3?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 29 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kids in the Game](http://kidsinthegame.com/)** | **[Photography & Videography Internship](https://jobright.ai/jobs/info/6a68de383b549b0b531d2705?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 28 |
 | ↳ | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a43309a501d340b4a82e1e8?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Jul 28 |
 | **[Magnet Media, Inc.](http://www.magnetmediafilms.com)** | **[Creative Development Intern (Spring 2027)](https://jobright.ai/jobs/info/6a42cfcea5e15b106837a3d9?utm_campaign=1049&utm_source=git)** | New York | On Site | Jul 28 |
-| **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Visual Display Intern](https://jobright.ai/jobs/info/6a544035c8eb0843027af437?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Jul 28 |
-| **[Frame Amo](http://frameamo.com)** | **[Graphic Design Intern (3D & Product Rendering)](https://jobright.ai/jobs/info/6a55f59be9b77f668bd5feca?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Jul 28 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
