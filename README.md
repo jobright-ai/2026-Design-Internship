@@ -57,10 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Pursuit](https://www.pursuit.org)** | **[Junior Design Intern](https://jobright.ai/jobs/info/6a51d24abf63b66c7997d828?utm_campaign=1049&utm_source=git)** | Long Island City, New York, United States | On Site | Jul 30 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Design Intern](https://jobright.ai/jobs/info/6a6c165d32f9300c3a3e2576?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
 | ↳ | **[Summer Intern - Graphic Design](https://jobright.ai/jobs/info/6a6c159fca1f9338465fdd76?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6a5503dfae07d60a8d00e44d?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Jul 30 |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a6c0e72c00ae03109f8743e?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Freestyle](https://freestyleokc.com)** | **[Internship / Fellowship: Video Production & Photography](https://jobright.ai/jobs/info/6a59b4e163a8f619507c3751?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Jul 30 |
 | **[Innovative Embedded Systems Pvt. Ltd. (SIIC IIT Kanpur).](http://www.iembsys.com)** | **[Scientist Intern, User Experience (HCI/HMI)](https://jobright.ai/jobs/info/6a6c08e432f9300c3a3e2121?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | Hybrid | Jul 30 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a4cff3b3122a76a8fd53c25?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 30 |
@@ -87,8 +87,8 @@ For a complete list, click the following sortable link below:
 | **[Walk-On's Sports Bistreaux](https://walk-ons.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a6b82c732f9300c3a3df557?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
 | **[Odys Aviation](https://www.odysaviation.com)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6a6b7790acb0a61f9dbc0f5a?utm_campaign=1049&utm_source=git)** | Long Beach, CA, United States | On Site | Jul 30 |
 | **[NYC Campaign Finance Board](http://www.nyccfb.info/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a3d4c5a78237a036d5e0844?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Jul 30 |
-| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/6a51d9c08d7d3e6cf1cc3d50?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Jul 30 |
-| ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 30 |
+| **[Magna International](http://www.magna.com/)** | **[User Experience Summer Intern](https://jobright.ai/jobs/info/69dd0d69bc6f6622c99100d1?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, US | On Site | Jul 30 |
+| ↳ | **[User Experience Summer Intern](https://jobright.ai/jobs/info/6a51d9c08d7d3e6cf1cc3d50?utm_campaign=1049&utm_source=git)** | Lowell, Massachusetts, United States | On Site | Jul 30 |
 | **[Plug-in Studios](https://www.studio-plug.com/)** | **[Digital Creator Intern](https://jobright.ai/jobs/info/6a46562d4f64ba41dcb52135?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Jul 30 |
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Nerveli](https://www.getnerveli.com/)** | **[Product Design (UX/UI) Intern](https://jobright.ai/jobs/info/6a6b5f15acb0a61f9dbc0646?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
@@ -108,8 +108,8 @@ For a complete list, click the following sortable link below:
 | **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a6ad89257120971bf3a2f54?utm_campaign=1049&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 29 |
 | **[Midland Scientific, Inc.](https://www.midlandsci.com)** | **[Graphic Design/Marketing Intern](https://jobright.ai/jobs/info/6a6a862f16c69119640feeed?utm_campaign=1049&utm_source=git)** | La Vista, NE, United States | On Site | Jul 29 |
 | **[Falcon's Beyond](https://falconsbeyondglobal.com)** | **[Falcons Creative Group Internship](https://jobright.ai/jobs/info/6a6a78810b42f866b6198e67?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a5f2986d5c3a14fb34ec340?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Jul 29 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Jul 29 |
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Graduate Intern, Architectural & Interior Design Systems – Fall 2026](https://jobright.ai/jobs/info/6a696b9278c2a406e51aaf6f?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Jul 29 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Intern / Fall 2026 - Abilene Data Centers](https://jobright.ai/jobs/info/6a6a56af48355b3f12bf06c3?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Jul 29 |
 | **[Loop Financial](https://www.bankonloop.com/en-ca)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a6a0eac48355b3f12beeb6c?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Jul 29 |
