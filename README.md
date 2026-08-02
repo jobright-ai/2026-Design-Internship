@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 02 |
 | **[TripArc](https://www.trip-arc.com/)** | **[Intern - UX Designer](https://jobright.ai/jobs/info/6a5136ab57513b72e0c64db8?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Aug 02 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Analyst](https://jobright.ai/jobs/info/69a8a89879f3f4037f42ec6c?utm_campaign=1049&utm_source=git)** | Vero Beach, FL | On Site | Aug 02 |
 | **[UNOX S.p.A.](https://www.unox.com/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6a6f2386ad0fe2053db9ee84?utm_campaign=1049&utm_source=git)** | Indiana, United States | On Site | Aug 02 |
@@ -76,10 +77,10 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect](http://www.transperfect.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6d6edf32f9300c3a3e81e1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a6d4919acb0a61f9dbc9aca?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 31 |
 | ↳ | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a6d43a5ca1f933846603345?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 31 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 31 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Jul 31 |
+| ↳ | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a6d14f032f9300c3a3e6fcd?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 31 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Art Direction internship (For Academic Credit)](https://jobright.ai/jobs/info/6a6d109e57120971bf3aed60?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | ↳ | **[Fall 2026 Copy Internship (For Academic Credit only)](https://jobright.ai/jobs/info/6a6d10815c54bc4752cf0f9f?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Smart Design](http://smartdesignworldwide.com/)** | **[2026 Industrial Design Intern (Fall)](https://jobright.ai/jobs/info/6a6b0ad632f9300c3a3dc636?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 30 |
 | **[MyndBridge, Inc.](https://musicbreeds.org)** | **[Design Intern - Social Media Content](https://jobright.ai/jobs/info/6a6ab773394f9d64d8be6b1c?utm_campaign=1049&utm_source=git)** | Hollis, New York, United States | On Site | Jul 30 |
 | **[DTJ DESIGN, Inc.](http://dtjdesign.com)** | **[2026 Summer Intern (LA)](https://jobright.ai/jobs/info/6a51d7bebf63b66c7997db97?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Jul 29 |
-| **[American Interiors](http://aminteriors.com)** | **[Design Intern](https://jobright.ai/jobs/info/6a6ad89257120971bf3a2f54?utm_campaign=1049&utm_source=git)** | Cleveland, OH, United States | On Site | Jul 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
