@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Designer Intern (Remote)](https://jobright.ai/jobs/info/6a5d8de64da96a42cfd9ecb4?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Creative Marketing & Graphic Design Intern (Sports & Health Industry)](https://jobright.ai/jobs/info/6a6ffc0dc56c0956e8add712?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Aug 02 |
 | **[Urban Creator Inc.](https://www.urbancreator.net)** | **[Graphic design Marketing Intern @Marketing Agency(Korean Speaking)_ Fall & Winter 2026](https://jobright.ai/jobs/info/6a6febc2ad0fe2053db9ff9c?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, United States | Remote | Aug 02 |
 | **[I.M.P.](https://impconcerts.com)** | **[Art Internship](https://jobright.ai/jobs/info/6a5d53c94da96a42cfd9e4b5?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 02 |
@@ -81,9 +82,9 @@ For a complete list, click the following sortable link below:
 | **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a6d4919acb0a61f9dbc9aca?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 31 |
 | ↳ | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a6d43a5ca1f933846603345?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 31 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Jul 31 |
+| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 31 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a6d14f032f9300c3a3e6fcd?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 31 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Art Direction internship (For Academic Credit)](https://jobright.ai/jobs/info/6a6d109e57120971bf3aed60?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | ↳ | **[Fall 2026 Copy Internship (For Academic Credit only)](https://jobright.ai/jobs/info/6a6d10815c54bc4752cf0f9f?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a6b2364c00ae03109f82170?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 | **[USG Insurance Services, Inc.](http://www.usgins.com/)** | **[Graphic & Web Design Internship](https://jobright.ai/jobs/info/6a6b2361c00ae03109f82168?utm_campaign=1049&utm_source=git)** | Canonsburg, PA, United States | On Site | Jul 30 |
 | **[Maverick](https://www.maverickbuilders.com)** | **[Marketing Intern](https://jobright.ai/jobs/info/6a685d89abe8ae03a4722d83?utm_campaign=1049&utm_source=git)** | St. Petersburg, FL, United States | On Site | Jul 30 |
-| **[Smart Design](http://smartdesignworldwide.com/)** | **[2026 Industrial Design Intern (Fall)](https://jobright.ai/jobs/info/6a6b0ad632f9300c3a3dc636?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | Hybrid | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
