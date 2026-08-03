@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a705743a605182afe22e9f9?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
+| **[Vizzy Labs](https://www.vizzylabs.ai)** | **[UI/UX Design Intern — AI Game Agent Product](https://jobright.ai/jobs/info/6a70558324e15f2d5de442bc?utm_campaign=1049&utm_source=git)** | San Francisco Bay Area, United States | Remote | Aug 03 |
 | **[Plunkett Raysich Architects, LLP](http://prarch.com)** | **[Intern - Architecture](https://jobright.ai/jobs/info/6a5dba5d856af468ab01211a?utm_campaign=1049&utm_source=git)** | Waterloo, IA, United States | On Site | Aug 03 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Designer Intern (Remote)](https://jobright.ai/jobs/info/6a5d8de64da96a42cfd9ecb4?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 02 |
 | **[Beyond the Game Health](https://beyondthegamehealth.com/)** | **[Creative Marketing & Graphic Design Intern (Sports & Health Industry)](https://jobright.ai/jobs/info/6a6ffc0dc56c0956e8add712?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Aug 02 |
@@ -83,10 +85,10 @@ For a complete list, click the following sortable link below:
 | **[TransPerfect](http://www.transperfect.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6d6edf32f9300c3a3e81e1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | **[leManoosh](https://lemanoosh.com)** | **[Huge Design Internship](https://jobright.ai/jobs/info/6a6d4919acb0a61f9dbc9aca?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Jul 31 |
 | ↳ | **[Intern, Industrial Design](https://jobright.ai/jobs/info/6a6d43a5ca1f933846603345?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Jul 31 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Jul 31 |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Jul 31 |
+| ↳ | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
+| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Jul 31 |
 | **[ZOLL Cardiac Management Solutions](https://cardiac.zoll.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6a6d14f032f9300c3a3e6fcd?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | Hybrid | Jul 31 |
 | **[BGBx](http://bgbgroup.com/)** | **[Fall 2026 Art Direction internship (For Academic Credit)](https://jobright.ai/jobs/info/6a6d109e57120971bf3aed60?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
 | ↳ | **[Fall 2026 Copy Internship (For Academic Credit only)](https://jobright.ai/jobs/info/6a6d10815c54bc4752cf0f9f?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 31 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Grand Studio](http://grandstudio.com/)** | **[Fall 2026 UX Design Intern](https://jobright.ai/jobs/info/6a6b2588ca1f9338465f8b79?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Beautiful Lives Thrift Boutique](https://beautifullivesboutique.com)** | **[Graphic Design Intern (Fall)](https://jobright.ai/jobs/info/6a6b244ac00ae03109f822f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Jul 30 |
 | **[Primitive](https://www.leadwithprimitive.com)** | **[Creative Studio Intern](https://jobright.ai/jobs/info/6a6b240a32f9300c3a3dd187?utm_campaign=1049&utm_source=git)** | Lubbock, TX, United States | On Site | Jul 30 |
-| **[//3877](https://www.3877.design)** | **[Interior Design Intern _ DC](https://jobright.ai/jobs/info/6a6b23a132f9300c3a3dd0aa?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Jul 30 |
-| **[Whitney Museum of American Art](http://whitney.org)** | **[[Fall 2026] Exhibition Design Internship](https://jobright.ai/jobs/info/6a6b2364c00ae03109f82170?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Jul 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
