@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5b1f604da96a42cfd996ff?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Creative Intern – Art Director](https://jobright.ai/jobs/info/6a758d5eb17cba569035a918?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a750ba5b17cba569035903b?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Graphic Design Intern — NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Link-Belt Cranes](https://www.linkbelt.com)** | **[Graphic Design Co-Op/Internship](https://jobright.ai/jobs/info/6a5c56b563a8f619507cd313?utm_campaign=1049&utm_source=git)** | Lexington, KY, United States | On Site | Aug 01 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Fall 2026 Internship - Outlet Design](https://jobright.ai/jobs/info/6a51e081bf63b66c7997e5d0?utm_campaign=1049&utm_source=git)** | Stamford, CT, United States | On Site | Aug 01 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a5bfb01c8e3a473cb8b138a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 01 |
-| **[ATL FinTech Society](https://groupme.com/join_group/108897826/o6hqWioZ)** | **[Photographer and Videographer Intern](https://jobright.ai/jobs/info/6a6e5d5cc56c0956e8adb336?utm_campaign=1049&utm_source=git)** | Atlanta metropolitan area, United States | Hybrid | Aug 01 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
