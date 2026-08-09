@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a77b3a7b17cba5690360a84?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 08 |
 | **[GigFinesse](https://www.gigfinesse.com/)** | **[Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5fd9e18c7fd835513bb79c?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 08 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Photography & Videography Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a778246a26ccc369f8377df?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 08 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Designer Project Intern (TikTok-Design-UX) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a50a9f0f08ee8320766b1c7?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 08 |
@@ -83,7 +82,7 @@ For a complete list, click the following sortable link below:
 | **[Align Studio LLC](Alignstudio.host)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a760744bb6ca93ae56107e2?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | Hybrid | Aug 07 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Immediate Start through May 2027)](https://jobright.ai/jobs/info/6a635fef5c7e2d715ebabb8b?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a2bf58693c23e7fb79266?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5b1f604da96a42cfd996ff?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Creative Intern – Art Director](https://jobright.ai/jobs/info/6a758d5eb17cba569035a918?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a750ba5b17cba569035903b?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Graphic Design Intern — NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -155,6 +154,7 @@ For a complete list, click the following sortable link below:
 | **[MADE Hoops](https://www.madehoops.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a714626e2b7476e7b20d881?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 | **[Tesla](https://www.tesla.com)** | **[Internship, Architecture, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a71422c02d93145bf88ed36?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 03 |
 | **[Pyramid Healthcare](https://www.pyramidhc.com)** | **[Graphic Design Marketing Intern-Fall 2026](https://jobright.ai/jobs/info/6a70f7cc71acd469eeda0d66?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f11003bd7b70d6ce4c?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 03 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 03 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f1cb96192a36845dd8?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
