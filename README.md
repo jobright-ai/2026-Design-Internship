@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a79051db17cba569036235b?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74a48f20b26a6e93f47e9e?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a78d3124817aa430704c1d4?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 09 |
@@ -88,7 +89,6 @@ For a complete list, click the following sortable link below:
 | **[Champions Group Holdings](http://ChampionsGroupHoldings.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7627a94817aa4307047054?utm_campaign=1049&utm_source=git)** | Brea, CA, United States | On Site | Aug 07 |
 | **[VentureX](https://venture-x.ca/)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6a763df8b17cba569035d475?utm_campaign=1049&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 07 |
 | **[The Edge Agency](https://theedgeagency.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a76aa1b4817aa4307048f05?utm_campaign=1049&utm_source=git)** | Suwanee, GA, United States | Remote | Aug 07 |
-| **[Align Studio LLC](Alignstudio.host)** | **[Photography & Videography Intern](https://jobright.ai/jobs/info/6a760744bb6ca93ae56107e2?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | Hybrid | Aug 07 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Immediate Start through May 2027)](https://jobright.ai/jobs/info/6a635fef5c7e2d715ebabb8b?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a2bf58693c23e7fb79266?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
