@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74a48f20b26a6e93f47e9e?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a78d3124817aa430704c1d4?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 09 |
 | **[Villa Albertine, the French Institute for Culture and Education](https://villa-albertine.org)** | **[Internship – Graphic Design](https://jobright.ai/jobs/info/6a77d2257b3417772adeae7d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
@@ -105,7 +106,6 @@ For a complete list, click the following sortable link below:
 | **[KZ_K STUDIO](https://kzkstudionyc.com/)** | **[Marketing & Graphic Design Intern](https://jobright.ai/jobs/info/6a74aba9972ac843c699673c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
 | **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a74a16e7b3417772ade09f5?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Aug 06 |
 | **[Caraway Home](https://www.carawayhome.com)** | **[Industrial Design Internship](https://jobright.ai/jobs/info/6a749d6fb17cba56903567da?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 06 |
-| **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74a48f20b26a6e93f47e9e?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 06 |
 | **[Jacksonville Icemen](https://jacksonvilleicemen.com)** | **[Jacksonville Icemen Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a76d8f57b3417772ade952a?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Aug 06 |
 | **[Savannah Ghost Pirates](https://ghostpirateshockey.com)** | **[Savannah Ghost Pirates Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a76a7c2b17cba569035ec70?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Aug 05 |
 | **[WSP in the U.S.](https://www.wsp.com/en-us)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6a73ac88e55c73319eb18cf9?utm_campaign=1049&utm_source=git)** | Virginia Beach, VA, United States | On Site | Aug 05 |
