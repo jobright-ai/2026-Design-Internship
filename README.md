@@ -57,15 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a7a3a84a26ccc369f83d49f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
+| **[Mortenson](https://www.mortenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7a0a679ee17f276dbf0eb5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 10 |
+| **[SideKix HQ Inc.](SideKixHQ.com)** | **[Product Designer (Intern)](https://jobright.ai/jobs/info/6a7a401167a1ad0bc53d2849?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Graphic Design Intern - BYU-Pathway Worldwide (Full Time)](https://jobright.ai/jobs/info/6a79f1db9ee17f276dbf04ca?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 10 |
 | **[Nekia Nichelle, LLC.](http://www.nekianichelle.com)** | **[Videographer/Photographer Intern](https://jobright.ai/jobs/info/6a7a337abb6ca93ae561a65a?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Aug 10 |
 | **[ACCESS, Inc.](http://www.access-shelter.org/)** | **[Graphic Design Intern- In-Person (Unpaid)](https://jobright.ai/jobs/info/6a7a315eb17cba5690365d79?utm_campaign=1049&utm_source=git)** | Akron, OH, United States | On Site | Aug 10 |
 | **[Gravity Group](https://www.gravitygroup.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7a241abb6ca93ae561a1d1?utm_campaign=1049&utm_source=git)** | Harrisonburg, VA, United States | On Site | Aug 10 |
 | **[Medpace](http://www.medpace.com)** | **[UX Design Intern - Spring 2027](https://jobright.ai/jobs/info/6a7a10cebb6ca93ae5619b2d?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | On Site | Aug 10 |
-| **[Woodbury School of Business](https://www.uvu.edu/woodbury)** | **[Student - iETC Web Design & Development Internship](https://jobright.ai/jobs/info/6a7a3ac6b17cba56903662b3?utm_campaign=1049&utm_source=git)** | Orem, UT, United States | On Site | Aug 10 |
 | **[Spirit Music](http://www.spiritmusicgroup.com/)** | **[Intern, Creative Administration (Fall 2026)](https://jobright.ai/jobs/info/6a7a0d919ee17f276dbf0fc8?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | On Site | Aug 10 |
-| **[Mortenson](https://www.mortenson.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7a0a679ee17f276dbf0eb5?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Aug 10 |
 | **[PROCON](http://proconinc.com)** | **[Architectural Intern-2027](https://jobright.ai/jobs/info/6a5e2335f3674a0545d273a8?utm_campaign=1049&utm_source=git)** | Hooksett, NH, United States | On Site | Aug 10 |
 | **[OnCue Marketing, LLC](http://www.OnCueExpress.com)** | **[GRAPHIC DESIGN INTERN](https://jobright.ai/jobs/info/6a7a00f1b17cba5690364d7a?utm_campaign=1049&utm_source=git)** | Stillwater, OK, United States | On Site | Aug 10 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a79fce7a26ccc369f83bd37?utm_campaign=1049&utm_source=git)** | Pittston, PA, United States | On Site | Aug 10 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Fall 2026](https://jobright.ai/jobs/info/6a5cc5723ac7627fe900b24a?utm_campaign=1049&utm_source=git)** | New York, NY | On Site | Aug 04 |
 | **[Hoboken Grace Community Church](http://www.hobokengrace.com)** | **[Graphic Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a724a5a45b6af1c30dbdc77?utm_campaign=1049&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
 | ↳ | **[Technology Intern - Fall 2026](https://jobright.ai/jobs/info/6a743564bb6ca93ae560999e?utm_campaign=1049&utm_source=git)** | Hoboken, NJ, United States | On Site | Aug 04 |
+| **[Elite Tournaments](https://elitetournaments.com)** | **[Digital Media Internship](https://jobright.ai/jobs/info/6a70a478357dfc6ff2b3a008?utm_campaign=1049&utm_source=git)** | West Friendship, MD, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
