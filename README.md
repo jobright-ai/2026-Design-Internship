@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a7991c2b17cba5690363033?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Fall Herschend Creative Studios Internship](https://jobright.ai/jobs/info/6a792073bb6ca93ae5616c72?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 10 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Graphic Design Internship with Podcast/Record Company](https://jobright.ai/jobs/info/6a796508a26ccc369f839dba?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Internship in Paris](https://jobright.ai/jobs/info/6a7935934817aa430704c8e0?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 09 |
@@ -93,7 +94,7 @@ For a complete list, click the following sortable link below:
 | **[VentureX](https://venture-x.ca/)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6a763df8b17cba569035d475?utm_campaign=1049&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 07 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Immediate Start through May 2027)](https://jobright.ai/jobs/info/6a635fef5c7e2d715ebabb8b?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a2bf58693c23e7fb79266?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Creative Intern – Art Director](https://jobright.ai/jobs/info/6a758d5eb17cba569035a918?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a750ba5b17cba569035903b?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Graphic Design Intern — NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -131,8 +132,8 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Digital Modeling, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a72d0f9e2b7476e7b2147ba?utm_campaign=1049&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 04 |
 | **[Mead Quin Inc.](meadquin.com)** | **[Interior Designer Studio Internship [PAID]](https://jobright.ai/jobs/info/6a55f100392ae330b30e80c8?utm_campaign=1049&utm_source=git)** | Emeryville, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Effect Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284ff45b6af1c30dbf071?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| ↳ | **[Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284decb96192a3684e64b?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | ↳ | **[AI Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d871acd469eeda85e3?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
+| ↳ | **[Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284decb96192a3684e64b?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | **[Bright & Gray Creative](www.brightandgray.com)** | **[CREATIVE INTERN FALL 2026](https://jobright.ai/jobs/info/6a729422e2b7476e7b213f16?utm_campaign=1049&utm_source=git)** | Birmingham, AL, United States | Hybrid | Aug 04 |
 | **[BetterBody Foods & Nutrition](http://www.betterbodyfoods.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a728cf9e2b7476e7b213db1?utm_campaign=1049&utm_source=git)** | Lindon, UT, United States | Hybrid | Aug 04 |
 | **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[NW Art Center Internship - Student- 2026](https://jobright.ai/jobs/info/6a727e7ecb96192a3684e4c7?utm_campaign=1049&utm_source=git)** | Minot, ND, United States | On Site | Aug 04 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcf557b3862f15e0c13?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a639ab7979290281c70322b?utm_campaign=1049&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 03 |
-| **[Tesla](https://www.tesla.com)** | **[Internship, Industrial Design, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a714e6602d93145bf88ef09?utm_campaign=1049&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
