@@ -57,7 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a7991c2b17cba5690363033?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
+| **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 10 |
+| **[GY Properties](https://www.gy-properties.com/)** | **[Graphic Design Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a79ad94bb6ca93ae5617d4e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 10 |
+| ↳ | **[Interior Design Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a79ad897b3417772aded726?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 10 |
 | **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Fall Herschend Creative Studios Internship](https://jobright.ai/jobs/info/6a792073bb6ca93ae5616c72?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 10 |
 | **[ElectraCast Media](http://www.electracast.com)** | **[Graphic Design Internship with Podcast/Record Company](https://jobright.ai/jobs/info/6a796508a26ccc369f839dba?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[Study Abroad Europe](http://www.studyabroadineurope.com)** | **[Fashion Internship in Paris](https://jobright.ai/jobs/info/6a7935934817aa430704c8e0?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | On Site | Aug 09 |
@@ -65,7 +67,6 @@ For a complete list, click the following sortable link below:
 | **[The Dollywood Company](https://www.dollywood.com/)** | **[Fall Herschend Creative Studios Internship](https://jobright.ai/jobs/info/6a7920d2bb6ca93ae5616c7e?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 09 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74a48f20b26a6e93f47e9e?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a78d3124817aa430704c1d4?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
-| **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 09 |
 | **[Villa Albertine, the French Institute for Culture and Education](https://villa-albertine.org)** | **[Internship – Graphic Design](https://jobright.ai/jobs/info/6a77d2257b3417772adeae7d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 08 |
 | **[UpShift Creative Group](https://upshiftcreative.com/)** | **[Design Intern- Los Angeles](https://jobright.ai/jobs/info/6a77eb88b17cba5690360ec9?utm_campaign=1049&utm_source=git)** | Calabasas, CA, United States | Hybrid | Aug 08 |
 | ↳ | **[Design Intern- Chicago](https://jobright.ai/jobs/info/6a77e8d6bb6ca93ae5615587?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 08 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AEG](http://www.aegworldwide.com)** | **[Intern-Content Creator](https://jobright.ai/jobs/info/6a5570ae2084cd792b478b68?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[(General Hire) Designer Project Intern (TikTok-Design) - 2026 Start (BS/MS)](https://jobright.ai/jobs/info/6a2fbd34093df201d07ae5bc?utm_campaign=1049&utm_source=git)** | San Jose, CA | On Site | Aug 04 |
 | **[The Aparecio Foundation](https://www.apareciofoundation.org)** | **[Intern/Volunteer Retouch/Digital Artist](https://jobright.ai/jobs/info/6a424bcf557b3862f15e0c13?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Aug 04 |
-| **[KI](http://www.ki.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a639ab7979290281c70322b?utm_campaign=1049&utm_source=git)** | Green Bay, WI, United States | On Site | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
