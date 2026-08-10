@@ -57,7 +57,6 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a79051db17cba569036235b?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 09 |
 | **[BWBR](https://www.bwbr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74a48f20b26a6e93f47e9e?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Aug 09 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6a78d3124817aa430704c1d4?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 09 |
 | **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 09 |
@@ -91,7 +90,7 @@ For a complete list, click the following sortable link below:
 | **[The Edge Agency](https://theedgeagency.net)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a76aa1b4817aa4307048f05?utm_campaign=1049&utm_source=git)** | Suwanee, GA, United States | Remote | Aug 07 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Immediate Start through May 2027)](https://jobright.ai/jobs/info/6a635fef5c7e2d715ebabb8b?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a2bf58693c23e7fb79266?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a365f92f6b55d12c7922667?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5b1f604da96a42cfd996ff?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Creative Intern – Art Director](https://jobright.ai/jobs/info/6a758d5eb17cba569035a918?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a750ba5b17cba569035903b?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Graphic Design Intern — NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Tesla](https://www.tesla.com)** | **[Internship, Industrial Design, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a714e6602d93145bf88ef09?utm_campaign=1049&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 03 |
 | ↳ | **[Internship, UX Design, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a714d64ee751e0c793432fa?utm_campaign=1049&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 03 |
 | **[CALSTART](http://www.calstart.org)** | **[Graphic Design, Video & Motion Graphics Intern](https://jobright.ai/jobs/info/6a710afd9a0ca4480c7d2bd6?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
+| **[MADE Hoops](https://www.madehoops.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a714626e2b7476e7b20d881?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 03 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
