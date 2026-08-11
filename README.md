@@ -57,10 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a7b4252ecf5194164fbccea?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 11 |
+| **[Acadium](http://www.acadium.com)** | **[Web Design Intern](https://jobright.ai/jobs/info/6a7b4059ecfd297707537b48?utm_campaign=1049&utm_source=git)** | Florida, United States | Remote | Aug 11 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a7b30b8ecfd297707537571?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 11 |
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Intern](https://jobright.ai/jobs/info/6a7b2dea77e6b569c61bedc1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 11 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/6a7b1db7ecfd297707536f3a?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Aug 11 |
 | **[Jacques Marie Mage](https://jacquesmariemage.com/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6a5bfb01c8e3a473cb8b138a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 11 |
+| **[Andis Company](https://andis.com)** | **[Industrial Design Intern/Co-op - Spring 2027](https://jobright.ai/jobs/info/6a7b489aecfd297707537eb8?utm_campaign=1049&utm_source=git)** | Racine County, Wisconsin, United States | On Site | Aug 11 |
 | **[Ultimate 3D Printing Store](https://ultimate3dprintingstore.com)** | **[3D Printing Internship](https://jobright.ai/jobs/info/6a7b173977e6b569c61be631?utm_campaign=1049&utm_source=git)** | Odessa, FL, United States | On Site | Aug 11 |
 | **[Lendsqr](https://lendsqr.com)** | **[Visual Design Intern (Remote)](https://jobright.ai/jobs/info/6a7aab02a26ccc369f83f18c?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 10 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Graphic Design Intern - BYU-Pathway Worldwide (Full Time)](https://jobright.ai/jobs/info/6a79eec99ee17f276dbf03a9?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 10 |
@@ -118,7 +121,7 @@ For a complete list, click the following sortable link below:
 | **[VentureX](https://venture-x.ca/)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6a763df8b17cba569035d475?utm_campaign=1049&utm_source=git)** | Oakville, ON, Canada | On Site | Aug 07 |
 | **[GE Appliances, a Haier company](http://geappliancesco.com/)** | **[Interaction Design Internship (Immediate Start through May 2027)](https://jobright.ai/jobs/info/6a635fef5c7e2d715ebabb8b?utm_campaign=1049&utm_source=git)** | Louisville, KY, United States | On Site | Aug 07 |
 | **[Monumental Sports & Entertainment](http://www.monumentalsports.com/)** | **[Internship: Digital Graphic Design (Part-Time/Seasonal)](https://jobright.ai/jobs/info/6a6a2bf58693c23e7fb79266?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Aug 07 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5350c68a74e077472f7fe6?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern (Fall 2026)](https://jobright.ai/jobs/info/6a5b1f604da96a42cfd996ff?utm_campaign=1049&utm_source=git)** | United States-Colorado-Denver | On Site | Aug 07 |
 | **[Chernoff Newman](http://chernoffnewman.com)** | **[Creative Intern – Art Director](https://jobright.ai/jobs/info/6a758d5eb17cba569035a918?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Aug 07 |
 | **[TikTok](https://www.tiktok.com)** | **[Creative Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a750ba5b17cba569035903b?utm_campaign=1049&utm_source=git)** | Los Angeles, United States | On Site | Aug 06 |
 | **[Eight Sleep](http://eightsleep.com)** | **[Graphic Design Intern — NYC](https://jobright.ai/jobs/info/6a69eba78693c23e7fb77e8b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 06 |
@@ -153,8 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Internship, Digital Modeling, Design Studio (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a72d0f9e2b7476e7b2147ba?utm_campaign=1049&utm_source=git)** | Hawthorne, CA, United States | On Site | Aug 04 |
 | **[Mead Quin Inc.](meadquin.com)** | **[Interior Designer Studio Internship [PAID]](https://jobright.ai/jobs/info/6a55f100392ae330b30e80c8?utm_campaign=1049&utm_source=git)** | Emeryville, CA, United States | On Site | Aug 04 |
 | **[TikTok](https://www.tiktok.com)** | **[Effect Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284ff45b6af1c30dbf071?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| ↳ | **[AI Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284d871acd469eeda85e3?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
 | ↳ | **[Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284decb96192a3684e64b?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 04 |
-| **[BetterBody Foods & Nutrition](http://www.betterbodyfoods.com)** | **[Creative Intern](https://jobright.ai/jobs/info/6a728cf9e2b7476e7b213db1?utm_campaign=1049&utm_source=git)** | Lindon, UT, United States | Hybrid | Aug 04 |
-| **[Dakota College at Bottineau](https://www.dakotacollege.edu/)** | **[NW Art Center Internship - Student- 2026](https://jobright.ai/jobs/info/6a727e7ecb96192a3684e4c7?utm_campaign=1049&utm_source=git)** | Minot, ND, United States | On Site | Aug 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
