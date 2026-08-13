@@ -57,9 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Design System Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7d10cddc3dff2d1c0ca937?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
+| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Social Media & Video](https://jobright.ai/jobs/info/6a7b80cb3b399d106e4d6f4e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 12 |
 | **[Speke Media Group](https://www.spekemedia.com/)** | **[PR INTERN, GRAPHIC DESIGN & BRAND](https://jobright.ai/jobs/info/6a7d017ba346cb6c8d5f14f1?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 12 |
+| **[KIHOMAC](https://kihomac.com/)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/6a7ce3a8a346cb6c8d5f0bef?utm_campaign=1049&utm_source=git)** | Byron, GA, United States | On Site | Aug 12 |
 | **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdd27dc3dff2d1c0c98a0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Event & Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdcc977d5f033c4b910bd?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
+| **[IMH Fragrance](https://imhfragrance.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7d09d777d5f033c4b91f2b?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Aug 12 |
 | **[Eleven Ad Group](www.elevenadv.com)** | **[Remote Junior Graphic Designer / Graphic Design Intern (Automotive Advertising Preferred)](https://jobright.ai/jobs/info/6a7ccc54d77e8156a8e34518?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | Remote | Aug 12 |
 | **[Dominican University](https://www.dom.edu)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7cc184dc3dff2d1c0c8f53?utm_campaign=1049&utm_source=git)** | River Forest, IL, United States | On Site | Aug 12 |
 | **[DMS International](https://dmsinetwork.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a7cbc8bd77e8156a8e33fab?utm_campaign=1049&utm_source=git)** | Silver Spring, MD, United States | Remote | Aug 12 |
@@ -70,19 +74,17 @@ For a complete list, click the following sortable link below:
 | **[Marketeq Talent](http://marketeqdigtial.com)** | **[UX Research & Design Intern](https://jobright.ai/jobs/info/6a7ca10083621355407aab43?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 12 |
 | **[MARKHAM](https://www.markham.co/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a7c9312dc3dff2d1c0c774b?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Aug 12 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 12 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfd7357dfc6ff2b3ba00?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 12 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c7350a346cb6c8d5edbf8?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfdc02d93145bf88cd22?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 12 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c76ac77d5f033c4b8e55e?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfd7357dfc6ff2b3ba00?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 12 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Design / Graphics Internship](https://jobright.ai/jobs/info/6a7c9879a346cb6c8d5ee9c9?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Aug 12 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Multimedia Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a7c362983621355407a91da?utm_campaign=1049&utm_source=git)** | Newport News, VA, United States | On Site | Aug 12 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Membership Photographer/Videographer Intern](https://jobright.ai/jobs/info/6a7bac23bc05d77f2bde0807?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Aug 11 |
-| **[KIHOMAC](https://kihomac.com/)** | **[Copy Editor Intern](https://jobright.ai/jobs/info/6a7ce3a8a346cb6c8d5f0bef?utm_campaign=1049&utm_source=git)** | Byron, GA, United States | On Site | Aug 11 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a7b8e8f77e6b569c61c1901?utm_campaign=1049&utm_source=git)** | Newport News, VA, United States | On Site | Aug 11 |
 | **[Wasserman](https://the.team/)** | **[Fall 2026 Internship - Graphic Design](https://jobright.ai/jobs/info/6a7b51fc77e6b569c61bfc40?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Aug 11 |
 | **[BrandActive](http://brandactive.com)** | **[Design and Research Intern](https://jobright.ai/jobs/info/6a7b8ae2ecf5194164fbedc4?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Aug 11 |
 | **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Fall 2026 Sports Business Internship - Marketing - Graphic Design](https://jobright.ai/jobs/info/6a7c028483621355407a8a5f?utm_campaign=1049&utm_source=git)** | Pawtucket, RI, United States | On Site | Aug 11 |
 | **[Chicago Union](https://watchufa.com/union)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7bffd3d77e8156a8e30f0c?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Aug 11 |
-| **[The Port Authority of New York & New Jersey](https://www.jointheportauthority.com)** | **[Intern, Social Media & Video](https://jobright.ai/jobs/info/6a7b80cb3b399d106e4d6f4e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7b56b2bc05d77f2bdde5f4?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 11 |
 | **[Chil & Co.](https://www.chilatl.com)** | **[Creative Design Internship](https://jobright.ai/jobs/info/6a7c081ba346cb6c8d5ecf3f?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | Hybrid | Aug 11 |
 | **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6a7b514eecf5194164fbd2dc?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Americans for Immigrant Justice](https://aijustice.org/)** | **[Project Intern: Immigrants in the Arts (Unpaid Internship)](https://jobright.ai/jobs/info/6a74f17237da8525e8cdb83d?utm_campaign=1049&utm_source=git)** | Miami, Florida, United States | Remote | Aug 06 |
 | **[St. Louis Blues](http://www.stlouisblues.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6a74f0f137da8525e8cdb7f6?utm_campaign=1049&utm_source=git)** | St. Louis, MO, United States | Hybrid | Aug 06 |
 | **[Nelnet](https://nelnetinc.com)** | **[Intern – Graphic Designer](https://jobright.ai/jobs/info/6a74df9220b26a6e93f4967d?utm_campaign=1049&utm_source=git)** | Lincoln, NE, United States | On Site | Aug 06 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern](https://jobright.ai/jobs/info/6a565bf8efb06a45240d5353?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 06 |
-| **[Big Night Entertainment Group](http://bneg.com/)** | **[CardVault by Tom Brady - Graphic Design Intern](https://jobright.ai/jobs/info/6a74a16e7b3417772ade09f5?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Aug 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
