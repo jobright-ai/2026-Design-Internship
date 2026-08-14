@@ -57,15 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tier One Partners](http://www.tieronepr.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7f80cee51a1e18a24135ef?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Aug 14 |
 | **[Big Brothers Big Sisters of America](http://www.bbbs.org)** | **[Presentation Designer (2 Year Fellowship)](https://jobright.ai/jobs/info/6a7f7f3619ce4e6e9d938900?utm_campaign=1049&utm_source=git)** | Continental United States, United States | Remote | Aug 14 |
 | **[Syracuse Crunch](https://syracusecrunch.com/)** | **[GREENSBORO GARGOYLES PHOTOGRAPHY & VIDEOGRAPHY INTERNSHIP 2026-2027 SEASON](https://jobright.ai/jobs/info/6a7f75fbad9ff00c26bae551?utm_campaign=1049&utm_source=git)** | Greensboro, NC, United States | On Site | Aug 14 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Fall 2026 Intern, Graphic Design (Social Media)](https://jobright.ai/jobs/info/6a7f74d119ce4e6e9d9380d8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
 | ↳ | **[Fall 2026 Intern, Creative](https://jobright.ai/jobs/info/6a7f7145b56bea5779c0b4de?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfdc02d93145bf88cd22?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 14 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfd7357dfc6ff2b3ba00?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 14 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c7350a346cb6c8d5edbf8?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 14 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3b1419ce4e6e9d9365d6?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Aug 14 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 14 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f1cb96192a36845dd8?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 14 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f11003bd7b70d6ce4c?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 14 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3745927c79391ad07147?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Aug 14 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 14 |
 | **[FANCI GLOBAL](https://fanci.me)** | **[Creative & Social Media Content Intern-Demi-fine Jewelry Brand](https://jobright.ai/jobs/info/6a7f6bc2b56bea5779c0b1b7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 14 |
 | **[TRG](https://trg.agency)** | **[Motion Graphics Intern (2026 Fall)](https://jobright.ai/jobs/info/6a7f499a927c79391ad07918?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Aug 14 |
 | **[Fast Horse](https://www.fasthorseinc.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6a7f62f8927c79391ad08753?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | Hybrid | Aug 14 |
@@ -100,10 +101,10 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Design System Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7d10cddc3dff2d1c0ca937?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6936d03b549b0b531d48f6?utm_campaign=1049&utm_source=git)** | Bowling Green, KY, United States | On Site | Aug 12 |
 | **[Dennis Group](http://dennisgrp.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6a7d29efa346cb6c8d5f1c2e?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Aug 12 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Aug 12 |
-| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a19873a547e292ae1392ada?utm_campaign=1049&utm_source=git)** | 1900 Harpers Way, Torrance, California, United States | On Site | Aug 12 |
-| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a58f7bd63a8f619507bf74f?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a58f7bd63a8f619507bf74f?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
 | ↳ | **[Creative Design and Research Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7d1af57c52154b59f5dfb7?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
+| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Aug 12 |
+| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a19873a547e292ae1392ada?utm_campaign=1049&utm_source=git)** | 1900 Harpers Way, Torrance, California, United States | On Site | Aug 12 |
 | **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdd27dc3dff2d1c0c98a0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Event & Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdcc977d5f033c4b910bd?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | **[FIKA](fikafikafika.com)** | **[Media Production Intern](https://jobright.ai/jobs/info/6a7d359fa346cb6c8d5f1d98?utm_campaign=1049&utm_source=git)** | Greater Los Angeles, California, United States | On Site | Aug 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ASM Global](https://asmglobal.com/)** | **[Digital Workplace Experience Intern](https://jobright.ai/jobs/info/6a52cafd8a74e077472f6211?utm_campaign=1049&utm_source=git)** | West Conshohocken, PA, United States of America | On Site | Aug 10 |
 | **[GY Properties](https://www.gy-properties.com/)** | **[Graphic Design Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a79ad94bb6ca93ae5617d4e?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 10 |
 | ↳ | **[Interior Design Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a79ad897b3417772aded726?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 10 |
-| **[Herschend Family Entertainment](http://www.hfecorp.com/)** | **[Fall Herschend Creative Studios Internship](https://jobright.ai/jobs/info/6a792073bb6ca93ae5616c72?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
