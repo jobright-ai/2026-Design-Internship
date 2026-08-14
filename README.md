@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[The City of San Diego](https://www.sandiego.gov/publicworks)** | **[Digital Communications Intern - Council District 7](https://jobright.ai/jobs/info/6a7e9fcab56bea5779c068c5?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Aug 13 |
 | **[Guess?, LLC.](http://guess.com/en/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/6a6c159fca1f9338465fdd76?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 13 |
 | **[Philo Homes](https://philo.homes/)** | **[Graphic Design Intern (Bilingual Mandarin)](https://jobright.ai/jobs/info/6a7e716cb56bea5779c06015?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Aug 13 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[HQF - Multimedia Designer Paid Intern](https://jobright.ai/jobs/info/6a7e50a2e2030208f2768cd7?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Aug 13 |
@@ -74,9 +75,9 @@ For a complete list, click the following sortable link below:
 | **[TikTok](https://www.tiktok.com)** | **[Design System Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7d10cddc3dff2d1c0ca937?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Aug 12 |
 | **[Houchens Insurance Group](https://www.higusa.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a6936d03b549b0b531d48f6?utm_campaign=1049&utm_source=git)** | Bowling Green, KY, United States | On Site | Aug 12 |
 | **[Dennis Group](http://dennisgrp.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6a7d29efa346cb6c8d5f1c2e?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Aug 12 |
-| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a58f7bd63a8f619507bf74f?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
+| **[American Honda Motor Company, Inc.](https://www.honda.com/)** | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Aug 12 |
 | ↳ | **[Creative Design and Research Co-op/Intern - Summer 2027](https://jobright.ai/jobs/info/6a7d1af57c52154b59f5dfb7?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
-| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a062a67a88ea73abf7f8531?utm_campaign=1049&utm_source=git)** | Torrance, California, United States | On Site | Aug 12 |
+| ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a58f7bd63a8f619507bf74f?utm_campaign=1049&utm_source=git)** | Torrance, CA, United States | Hybrid | Aug 12 |
 | ↳ | **[Creative Design and Research Co-op/Intern - Spring 2027](https://jobright.ai/jobs/info/6a19873a547e292ae1392ada?utm_campaign=1049&utm_source=git)** | 1900 Harpers Way, Torrance, California, United States | On Site | Aug 12 |
 | **[Van Wyck & Van Wyck](https://www.vanwyck.net)** | **[Event Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdd27dc3dff2d1c0c98a0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
 | ↳ | **[Event & Production Intern - Fall 2026](https://jobright.ai/jobs/info/6a7cdcc977d5f033c4b910bd?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 12 |
@@ -93,10 +94,10 @@ For a complete list, click the following sortable link below:
 | **[Penn Community Bank](http://penncommunitybank.com)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6a7ca4d07c52154b59f5b619?utm_campaign=1049&utm_source=git)** | Perkasie, PA, United States | Hybrid | Aug 12 |
 | **[IFAB Engineering Partners Ltd.](https://www.ifabpartners.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6a7c7dec77d5f033c4b8e6d3?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Aug 12 |
 | **[MARKHAM](https://www.markham.co/)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6a7c9312dc3dff2d1c0c774b?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Remote | Aug 12 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f11003bd7b70d6ce4c?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 12 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 12 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 12 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c7350a346cb6c8d5edbf8?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f1cb96192a36845dd8?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 12 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c76ac77d5f033c4b8e55e?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 12 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfdc02d93145bf88cd22?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Aug 12 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Multimedia Intern Job Details / JLABHCM20](https://jobright.ai/jobs/info/6a7c362983621355407a91da?utm_campaign=1049&utm_source=git)** | Newport News, VA, United States | On Site | Aug 12 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Membership Photographer/Videographer Intern](https://jobright.ai/jobs/info/6a7bac23bc05d77f2bde0807?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Aug 11 |
 | **[Jefferson Lab](https://www.jlab.org)** | **[Multimedia Intern](https://jobright.ai/jobs/info/6a7b8e8f77e6b569c61c1901?utm_campaign=1049&utm_source=git)** | Newport News, VA, United States | On Site | Aug 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[UW Credit Union](http://uwcu.org/)** | **[Multimedia Graphic Design Intern](https://jobright.ai/jobs/info/6a76566fbb6ca93ae5612230?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Aug 07 |
 | **[Morris Adjmi Architects](https://www.ma.com/)** | **[Interior Design Co-op Intern (Winter 2027)](https://jobright.ai/jobs/info/6a6e3e72cd3bac13d3706e60?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern - Fall 2026](https://jobright.ai/jobs/info/6a769f1667a1ad0bc53cadb6?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | Hybrid | Aug 07 |
-| **[Morris Adjmi Architects](https://www.ma.com/)** | **[Architecture Co-op Intern (Winter 2027)](https://jobright.ai/jobs/info/6a6e4c97ad0fe2053db9dadc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 07 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
