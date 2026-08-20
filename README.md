@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Tyson Foods](http://tysonfoods.com)** | **[Year-round Intern - UX Design and Research](https://jobright.ai/jobs/info/6a7f2900e2030208f276c267?utm_campaign=1049&utm_source=git)** | Springdale, AR, United States | On Site | Aug 20 |
+| **[Hilton](https://www.hilton.com/en/)** | **[2027 Corporate Summer Internship - Architecture, Design and Construction](https://jobright.ai/jobs/info/6a87171ecde3717f9e9b0214?utm_campaign=1049&utm_source=git)** | Memphis, TN, United States | On Site | Aug 20 |
+| ↳ | **[2027 Corporate Summer Internship - Architecture, Design and Construction](https://jobright.ai/jobs/info/6a87165625fc4e7ae3dab380?utm_campaign=1049&utm_source=git)** | Memphis, TN, United States | On Site | Aug 20 |
 | **[ABRAMS](http://www.abramsbooks.com)** | **[Design Intern (Comic Arts)](https://jobright.ai/jobs/info/6a870e3a25fc4e7ae3daaf9e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 20 |
 | ↳ | **[Social Media Intern (Comic Arts)](https://jobright.ai/jobs/info/6a870cb7cde3717f9e9afd52?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Aug 20 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Aug 20 |
 | **[SideKix HQ Inc.](SideKixHQ.com)** | **[Content & Social Creative - Internship](https://jobright.ai/jobs/info/6a87097cd34f700f87fc317f?utm_campaign=1049&utm_source=git)** | United States | Remote | Aug 20 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c76ac77d5f033c4b8e55e?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8474ead34f700f87fb8b17?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85aee42f4f0014cae25707?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfd7357dfc6ff2b3ba00?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85aed574e02153f1457bf6?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a847d277b33d72276256432?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 20 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85aed574e02153f1457bf6?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Aug 20 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8372113eeac101cfa9fd63?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70dfd7357dfc6ff2b3ba00?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a43e819d76667a2abe9fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c7350a346cb6c8d5edbf8?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Aug 20 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8489fee459fa3baa85f060?utm_campaign=1049&utm_source=git)** | Westlake, TX, United States | On Site | Aug 20 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3745927c79391ad07147?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8474d7e12474455273a590?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8474ead34f700f87fb8b17?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3b1419ce4e6e9d9365d6?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Aug 20 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85aee42f4f0014cae25707?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Aug 20 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Design / Graphics Internship](https://jobright.ai/jobs/info/6a86f50cd34f700f87fc2b3a?utm_campaign=1049&utm_source=git)** | Canada | Remote | Aug 20 |
 | **[Wildlife Conservation Society](http://www.wcs.org/)** | **[Photo Management Intern - Fall 2026](https://jobright.ai/jobs/info/6a86b517cc81eb647e9f3348?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Aug 20 |
 | **[GY Properties](https://www.gy-properties.com/)** | **[Interior Design Intern (Fall / Winter 2026)](https://jobright.ai/jobs/info/6a79ad897b3417772aded726?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Aug 19 |
@@ -98,7 +101,6 @@ For a complete list, click the following sortable link below:
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[UX Interaction Design Co-op - Spring 2027 Job Details / Crown Equipment Corporation](https://jobright.ai/jobs/info/6a850179c1a3fd7120f742b4?utm_campaign=1049&utm_source=git)** | New Bremen, OH, United States | On Site | Aug 18 |
 | **[&Barr](http://andbarr.co)** | **[Spring 2027-Creative Internship](https://jobright.ai/jobs/info/6a8594ea4afae74a08340586?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Aug 18 |
 | **[Altar'd State](https://www.altardstate.com/)** | **[Fall 2026 Graphic Design Intern](https://jobright.ai/jobs/info/6a8617404afae74a0834361f?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Aug 18 |
-| **[BRR Architecture](http://brrarch.com)** | **[Design Staff (Internship)](https://jobright.ai/jobs/info/6a853165d34f700f87fbc3bc?utm_campaign=1049&utm_source=git)** | Bentonville, AR, United States | On Site | Aug 18 |
 | **[Cornerstone Agency](http://www.cornerstoneagency.com)** | **[Editorial Intern (Photo/Video) - Fall 2026](https://jobright.ai/jobs/info/6a84c6037b33d7227625838e?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Aug 18 |
 | **[Turning Point Action](https://www.tpaction.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a84c0dcd34f700f87fbab04?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Aug 18 |
 | **[Ada Bible Church](http://adabible.org)** | **[Intern- Design/Marketing](https://jobright.ai/jobs/info/6a850789e12474455273d75a?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, United States | On Site | Aug 18 |
@@ -124,11 +126,11 @@ For a complete list, click the following sortable link below:
 | **[TRG](https://trg.agency)** | **[Motion Graphics Intern (2026 Fall)](https://jobright.ai/jobs/info/6a7f499a927c79391ad07918?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Aug 18 |
 | **[ARA](https://www.ara.com)** | **[Intern - AI-Enabled Digital Artist (Graphics, Animation, and Video)](https://jobright.ai/jobs/info/6a3f1dd0882f121f56a3c903?utm_campaign=1049&utm_source=git)** | Panama City, FL, United States | On Site | Aug 18 |
 | **[Formlabs](http://www.formlabs.com)** | **[Print Production Intern (Fall 2026)](https://jobright.ai/jobs/info/6a83e6dcf1685316891d3ada?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Aug 17 |
-| **[Dennis Group](http://dennisgrp.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6a8388ca379c304e892f7fd4?utm_campaign=1049&utm_source=git)** | Springfield, MA, United States | On Site | Aug 17 |
-| ↳ | **[Architect Intern](https://jobright.ai/jobs/info/6a7d29efa346cb6c8d5f1c2e?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Aug 17 |
+| **[Dennis Group](http://dennisgrp.com)** | **[Architect Intern](https://jobright.ai/jobs/info/6a7d29efa346cb6c8d5f1c2e?utm_campaign=1049&utm_source=git)** | Duluth, GA, United States | On Site | Aug 17 |
+| ↳ | **[Architect Intern](https://jobright.ai/jobs/info/6a8388ca379c304e892f7fd4?utm_campaign=1049&utm_source=git)** | Springfield, MA, United States | On Site | Aug 17 |
 | **[Accelevation LLC](https://www.accelevationllc.com/)** | **[Marketing & Creative Services Intern/Co-Op](https://jobright.ai/jobs/info/6a83c7c02dbaf907b076a989?utm_campaign=1049&utm_source=git)** | Miamisburg, OH, United States | On Site | Aug 17 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Industrial Design Intern -BBGTC](https://jobright.ai/jobs/info/6a838bce9b859b227766fa49?utm_campaign=1049&utm_source=git)** | Edgewater, FL, United States | On Site | Aug 17 |
-| **[HNTB](http://www.hntb.com/)** | **[Architect Intern (Summer 2027) (For Current & Recent HNTB Interns Only)](https://jobright.ai/jobs/info/6a8361b71081a745e970edc9?utm_campaign=1049&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 17 |
+| **[HNTB](http://www.hntb.com/)** | **[Architect Intern (Summer 2027) (For Current & Recent HNTB Interns Only)](https://jobright.ai/jobs/info/6a8363bd9b859b227766e7fe?utm_campaign=1049&utm_source=git)** | Kansas City, MO, United States | On Site | Aug 17 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Brunswick Boat Group Technology Center-Advanced Research & Storytelling Intern](https://jobright.ai/jobs/info/6a85cc6474e02153f1458609?utm_campaign=1049&utm_source=git)** | Edgewater, FL, United States | Hybrid | Aug 17 |
 | **[Jam in the Van](https://jaminthevan.com/)** | **[Creative Content & Production Intern](https://jobright.ai/jobs/info/6a83d9b229c715662f4b4a55?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Aug 17 |
 | **[SAP](https://www.sap.com)** | **[SAP iXp Intern - UA Content Designer [Vancouver]](https://jobright.ai/jobs/info/6a838f653eeac101cfaa0c9a?utm_campaign=1049&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Aug 17 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Union Home Mortgage Corp.](https://www.uhm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7fa34c927c79391ad0b7e0?utm_campaign=1049&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, UX Business Application Designer and Digital Media Specialist](https://jobright.ai/jobs/info/6a7f4b0ce2030208f276ced3?utm_campaign=1049&utm_source=git)** | Canada | Remote | Aug 14 |
 | **[Annie Mac Home Mortgages](https://www.uhm.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a7f9aa7927c79391ad0b1f8?utm_campaign=1049&utm_source=git)** | Strongsville, OH, United States | On Site | Aug 14 |
-| **[Ohara Davies-Gaetano Interiors](https://odg-interiors.com)** | **[Intern](https://jobright.ai/jobs/info/6a7faf4419ce4e6e9d93a600?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | Hybrid | Aug 14 |
-| **[Big Brothers Big Sisters of America](http://www.bbbs.org)** | **[Presentation Designer (2 Year Fellowship)](https://jobright.ai/jobs/info/6a7f7f3619ce4e6e9d938900?utm_campaign=1049&utm_source=git)** | Continental United States, United States | Remote | Aug 14 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
