@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Trilon](https://www.trilongroup.com/)** | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/6a985971def18223c854ef92?utm_campaign=1049&utm_source=git)** | Springfield, Massachusetts, United States | Hybrid | Sep 16 |
+| ↳ | **[Internship - Landscape Designer](https://jobright.ai/jobs/info/6a985984af954907d6572e66?utm_campaign=1049&utm_source=git)** | Providence, RI, United States | Hybrid | Sep 16 |
+| **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Commercial Marketing Production Artist Internship - Summer 2027](https://jobright.ai/jobs/info/6a986215def18223c854f1e6?utm_campaign=1049&utm_source=git)** | Middleton, WI, United States | On Site | Sep 16 |
+| **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aaad2d78e1bf0f764af6b5d?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | Remote | Sep 16 |
+| **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6aaacf4a8e1bf0f764af6a5a?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Sep 16 |
 | **[OXOS Medical](https://www.oxos.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6aaacc77c85610f4a4841bb7?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
 | **[OpenX](https://www.openx.com/)** | **[Intern - Marketing Design](https://jobright.ai/jobs/info/6a9847cf11f73b6462c8d997?utm_campaign=1049&utm_source=git)** | United States | Remote | Sep 16 |
 | **[Google](https://www.google.com)** | **[User Experience Design Intern, BS/MS, Summer 2027](https://jobright.ai/jobs/info/6aa805522ed333b4ea5ccb36?utm_campaign=1049&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 16 |
@@ -137,9 +142,9 @@ For a complete list, click the following sortable link below:
 | **[Auction Resource](https://auctionresource.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aa9742a10b1cd4f416061af?utm_campaign=1049&utm_source=git)** | Lincoln, NE, United States | On Site | Sep 15 |
 | **[Inter-American Development Bank](https://www.iadb.org/en)** | **[IDB. Undergraduate Intern to Support Systems UX/UI Design and Communications](https://jobright.ai/jobs/info/6a8d475ca5639a4810325812?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Sep 15 |
 | **[Storr Office Environments](https://www.storr.com )** | **[Design Internship](https://jobright.ai/jobs/info/6aa96e543387a3d9b67d51eb?utm_campaign=1049&utm_source=git)** | Raleigh–Durham–Chapel Hill Area, North Carolina, United States | On Site | Sep 15 |
-| **[BRPH](http://brph.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6aa1930d3272060a8e3f0a48?utm_campaign=1049&utm_source=git)** | Charleston, SC, United States | On Site | Sep 15 |
+| **[BRPH](http://brph.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6aa957523387a3d9b67d4856?utm_campaign=1049&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 15 |
 | ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6aa957ac28e24cb385139d3d?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Sep 15 |
-| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6aa957523387a3d9b67d4856?utm_campaign=1049&utm_source=git)** | Melbourne, FL, United States | On Site | Sep 15 |
+| ↳ | **[Architectural Intern](https://jobright.ai/jobs/info/6aa1930d3272060a8e3f0a48?utm_campaign=1049&utm_source=git)** | Charleston, SC, United States | On Site | Sep 15 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: UX/UI Design Intern](https://jobright.ai/jobs/info/6a8c742a25fc4e7ae3db85b2?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | On Site | Sep 15 |
 | ↳ | **[Mercury Marine: Experience Management Intern](https://jobright.ai/jobs/info/6a8c86ddcde3717f9e9bdad6?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Sep 15 |
 | **[HDR](http://www.hdrinc.com)** | **[Architecture Internship and Entry-Level Graduate Opportunities](https://jobright.ai/jobs/info/6aa96333eff87f571fc99779?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Sep 15 |
@@ -148,13 +153,8 @@ For a complete list, click the following sortable link below:
 | **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/6aa86885930bff471a2a723f?utm_campaign=1049&utm_source=git)** | Durham, NC, United States | Remote | Sep 15 |
 | **[Galloway & Company, LLC](https://gallowayus.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953ce28e24cb385139c35?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Sep 15 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953bb10b1cd4f41605692?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 15 |
-| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953b910b1cd4f4160568f?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 15 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953b909ae03adcacdcc78?utm_campaign=1049&utm_source=git)** | Colorado Springs, CO, United States | On Site | Sep 15 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6aa953b828e24cb385139c30?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 15 |
+| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953b910b1cd4f4160568f?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | On Site | Sep 15 |
 | ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953b828e24cb385139c31?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 15 |
-| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aa953b7eff87f571fc991b5?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Sep 15 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90c7802e254e06fb9f2e9b?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Sep 15 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a9192419864261ccd29d74e?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Sep 15 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85aee42f4f0014cae25707?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Sep 15 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a91e451d18f75674827a9ec?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Sep 15 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6aa953b828e24cb385139c30?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
