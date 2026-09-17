@@ -57,9 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a93b0b4a27a2d3c9848e2d7?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Sep 17 |
+| **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a7f4846b56bea5779c09d2a?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, United States | On Site | Sep 17 |
 | ↳ | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a93b0b38e5968545337bdd7?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, United States | On Site | Sep 17 |
-| ↳ | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a7f4846b56bea5779c09d2a?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, United States | On Site | Sep 17 |
+| ↳ | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a93b0b4a27a2d3c9848e2d7?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Sep 17 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Brand/Visual Design Intern](https://jobright.ai/jobs/info/6a8f393ad7c91d0cf446e342?utm_campaign=1049&utm_source=git)** | Port Washington, NY, United States | On Site | Sep 17 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Designer, Creative Department](https://jobright.ai/jobs/info/6aaaf4b6f6bd9d2d17c1a8fa?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 17 |
 | **[Island Facades](https://www.islandfacades.com)** | **[Designer Internship](https://jobright.ai/jobs/info/6aab8fec455e4265cc3477f4?utm_campaign=1049&utm_source=git)** | Calverton, NY, United States | Hybrid | Sep 16 |
@@ -86,8 +86,8 @@ For a complete list, click the following sortable link below:
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Apparel Design Intern Summer 2027](https://jobright.ai/jobs/info/6aaaae8940807b73bd39131f?utm_campaign=1049&utm_source=git)** | Springfield, MO, United States | On Site | Sep 16 |
 | **[Bird Construction](https://www.bird.ca/)** | **[Student Design Coordinator](https://jobright.ai/jobs/info/6aaab17c4be87a72913a09d0?utm_campaign=1049&utm_source=git)** | Mississauga, ON, Canada | On Site | Sep 16 |
 | **[Hallmark Cards](http://www.hallmark.com)** | **[2027 Summer Internship- Creative (eGreetings)](https://jobright.ai/jobs/info/6aaaf9af40807b73bd3930fe?utm_campaign=1049&utm_source=git)** | Kansas City, MO, United States | Hybrid | Sep 16 |
-| **[Cognié](www.cognie-paris.com)** | **[Content Creator Intern NYC STUDENTS](https://jobright.ai/jobs/info/6aaafe904be87a72913a2910?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Remote | Sep 16 |
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Commercial Marketing Production Artist Internship - Summer 2027](https://jobright.ai/jobs/info/6a986215def18223c854f1e6?utm_campaign=1049&utm_source=git)** | Middleton, WI, United States | On Site | Sep 16 |
+| **[Cognié](www.cognie-paris.com)** | **[Content Creator Social Media Intern NYC STUDENTS](https://jobright.ai/jobs/info/6aaafe904be87a72913a2910?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | Remote | Sep 16 |
 | **[Quartz Health Solutions](https://quartzbenefits.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aaad2d78e1bf0f764af6b5d?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | Remote | Sep 16 |
 | **[Center for Strategic and International Studies (CSIS)](https://www.csis.org)** | **[Data Visualization Intern](https://jobright.ai/jobs/info/6aaacf4a8e1bf0f764af6a5a?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Sep 16 |
 | **[OXOS Medical](https://www.oxos.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6aaacc77c85610f4a4841bb7?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Sep 16 |
@@ -122,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e2c928e24cb38513d01c?utm_campaign=1049&utm_source=git)** | Celebration, FL, United States | On Site | Sep 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Glendale, Spring 2027](https://jobright.ai/jobs/info/6aab39384be87a72913a3df3?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Sep 15 |
 | ↳ | **[WDI Master Planning Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6aab38db40807b73bd39473d?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, United States | Hybrid | Sep 15 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Sierra Creative Content Creator & Social Media Co-op](https://jobright.ai/jobs/info/6aab0bdfc85610f4a48433b5?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
-| ↳ | **[Digital Experience Discovery & Delivery Co-op](https://jobright.ai/jobs/info/6aab0be98e1bf0f764af8214?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Digital Experience Discovery & Delivery Co-op](https://jobright.ai/jobs/info/6aab0be98e1bf0f764af8214?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
+| ↳ | **[Sierra Creative Content Creator & Social Media Co-op](https://jobright.ai/jobs/info/6aab0bdfc85610f4a48433b5?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Digital Asset](https://jobright.ai/jobs/info/6aaa9d998e1bf0f764af5626?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Sep 15 |
 | **[ATC](http://www.atcllc.com/)** | **[Intern-Asset Management Summer 2027](https://jobright.ai/jobs/info/6aaafa608e1bf0f764af7a46?utm_campaign=1049&utm_source=git)** | Pewaukee, WI, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2027 Digital Media Internship](https://jobright.ai/jobs/info/6aa9d9b428e24cb38513cb88?utm_campaign=1049&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
