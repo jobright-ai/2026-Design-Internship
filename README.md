@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Passero Associates](http://passero.com)** | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a93b0b4a27a2d3c9848e2d7?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Sep 17 |
+| ↳ | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a93b0b38e5968545337bdd7?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, United States | On Site | Sep 17 |
+| ↳ | **[Architecture Co-op/Intern](https://jobright.ai/jobs/info/6a7f4846b56bea5779c09d2a?utm_campaign=1049&utm_source=git)** | St. Augustine, FL, United States | On Site | Sep 17 |
 | **[Kiss Beauty Group](https://www.kissusa.com)** | **[Brand/Visual Design Intern](https://jobright.ai/jobs/info/6a8f393ad7c91d0cf446e342?utm_campaign=1049&utm_source=git)** | Port Washington, NY, United States | On Site | Sep 17 |
 | **[Athena Global Advisors](https://www.athenaglobaladvisors.com)** | **[Summer 2027 Intern, Designer, Creative Department](https://jobright.ai/jobs/info/6aaaf4b6f6bd9d2d17c1a8fa?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Sep 17 |
 | **[Island Facades](https://www.islandfacades.com)** | **[Designer Internship](https://jobright.ai/jobs/info/6aab8fec455e4265cc3477f4?utm_campaign=1049&utm_source=git)** | Calverton, NY, United States | Hybrid | Sep 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[APCO](http://www.apcoworldwide.com)** | **[Design & Production Internship – Winter/Spring '27](https://jobright.ai/jobs/info/6aa943c010b1cd4f416051cb?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | Hybrid | Sep 15 |
 | **[Endeavor](http://www.endeavor.org)** | **[Graphic Design Intern, MarComm / Undergraduate or Graduate - Summer 2027](https://jobright.ai/jobs/info/6aa93462eff87f571fc988d3?utm_campaign=1049&utm_source=git)** | New York, New York, United States | Hybrid | Sep 15 |
 | **[Charlotte Checkers](http://gocheckers.com)** | **[Charlotte Checkers Graphic Design Internship 2026-2027 Season](https://jobright.ai/jobs/info/6aa9bce83387a3d9b67d67cf?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Sep 15 |
-| **[Hasana, Inc.](http://shophasana.com)** | **[Graphic Design/Creative Internship](https://jobright.ai/jobs/info/6a572b2621f64463ad358293?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Sep 15 |
-| **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa9945beff87f571fc9a60d?utm_campaign=1049&utm_source=git)** | Rogers, AR, United States | On Site | Sep 15 |
-| **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6aa95f5a6d0edc2d91b09553?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
