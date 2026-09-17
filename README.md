@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Island Facades](https://www.islandfacades.com)** | **[Designer Internship](https://jobright.ai/jobs/info/6aab8fec455e4265cc3477f4?utm_campaign=1049&utm_source=git)** | Calverton, NY, United States | Hybrid | Sep 16 |
 | **[TikTok](https://www.tiktok.com)** | **[Effect Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284ff45b6af1c30dbf071?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Sep 16 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6aab5c0cf6bd9d2d17c1c5d3?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Sep 16 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6aab5a728e1bf0f764af960f?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Sep 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa9945beff87f571fc9a60d?utm_campaign=1049&utm_source=git)** | Rogers, AR, United States | On Site | Sep 15 |
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6aa95f5a6d0edc2d91b09553?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2027](https://jobright.ai/jobs/info/6a97086bf5337b2cf731fa08?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | On Site | Sep 15 |
-| **[Rocket Industrial](https://www.rocketindustrial.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/6aa993936d0edc2d91b0a4d5?utm_campaign=1049&utm_source=git)** | Wausau, WI, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
