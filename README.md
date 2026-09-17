@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Sign Shop Graphics Undergraduate Intern](https://jobright.ai/jobs/info/6a8c71ee581f2d7bfdfe3957?utm_campaign=1049&utm_source=git)** | Forestville, CA, United States | On Site | Sep 16 |
+| **[Villa Albertine, the French Institute for Culture and Education](https://villa-albertine.org)** | **[Internship – Graphic Design](https://jobright.ai/jobs/info/6aab3cadc85610f4a4844360?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Sep 16 |
 | **[The Seattle Times](http://seattletimes.com/)** | **[Summer 2027 Graphics Internship](https://jobright.ai/jobs/info/6aab24a44be87a72913a3837?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Sep 16 |
 | **[Crown Equipment Corporation](https://303crownmaids.com/)** | **[Marketing DIgital UX Co-Op - Summer 2027](https://jobright.ai/jobs/info/6aab04738e1bf0f764af7f48?utm_campaign=1049&utm_source=git)** | New Bremen, OH, United States | On Site | Sep 16 |
 | **[Super.com](https://www.super.com)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6aab16f2f6bd9d2d17c1b63f?utm_campaign=1049&utm_source=git)** | Canada | Remote | Sep 16 |
@@ -110,8 +112,8 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney Imagineering](https://disneyimaginations.com)** | **[Disney Live Entertainment Character Interaction Design Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e818eff87f571fc9c714?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Sep 15 |
 | **[Google](https://www.google.com)** | **[User Experience Research Intern, MS, Summer 2027](https://jobright.ai/jobs/info/6aa8051f82e82a31997c33c0?utm_campaign=1049&utm_source=git)** | Mountain View, CA, United States | On Site | Sep 15 |
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e2c928e24cb38513d01c?utm_campaign=1049&utm_source=git)** | Celebration, FL, United States | On Site | Sep 15 |
-| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Glendale, Spring 2027](https://jobright.ai/jobs/info/6aab39384be87a72913a3df3?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Sep 15 |
-| ↳ | **[WDI Master Planning Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6aab38db40807b73bd39473d?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, United States | Hybrid | Sep 15 |
+| **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6aab38db40807b73bd39473d?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, United States | Hybrid | Sep 15 |
+| ↳ | **[WDI Master Planning Intern, Glendale, Spring 2027](https://jobright.ai/jobs/info/6aab39384be87a72913a3df3?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Sep 15 |
 | **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Sierra Creative Content Creator & Social Media Co-op](https://jobright.ai/jobs/info/6aab0bdfc85610f4a48433b5?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
 | ↳ | **[Digital Experience Discovery & Delivery Co-op](https://jobright.ai/jobs/info/6aab0be98e1bf0f764af8214?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Digital Asset](https://jobright.ai/jobs/info/6aaa9d998e1bf0f764af5626?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Sep 15 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Design Internship](https://jobright.ai/jobs/info/6aaa06f93387a3d9b67d8ab0?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, United States | On Site | Sep 15 |
 | **[Weissman](https://www.weissmans.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aa9911a28e24cb38513abb7?utm_campaign=1049&utm_source=git)** | Saint Louis, MO, United States | On Site | Sep 15 |
 | **[Endeavor Ukraine](https://endeavor.org/ukraine/)** | **[Graphic Design Intern, MarComm / Undergraduate or Graduate - Summer 2027](https://jobright.ai/jobs/info/6aa9a9476d0edc2d91b0a8db?utm_campaign=1049&utm_source=git)** | New York City, NY, United States | Hybrid | Sep 15 |
-| **[Weissman](https://www.weissmans.com/)** | **[Trend Research Intern](https://jobright.ai/jobs/info/6aa987b83387a3d9b67d55a9?utm_campaign=1049&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
-| **[LAKE](https://lakepajamas.com)** | **[Design Intern](https://jobright.ai/jobs/info/6aa9a3586d0edc2d91b0a7c3?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
