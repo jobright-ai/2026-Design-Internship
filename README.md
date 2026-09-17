@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[TikTok](https://www.tiktok.com)** | **[Effect Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284ff45b6af1c30dbf071?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Sep 16 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6aab5c0cf6bd9d2d17c1c5d3?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Sep 16 |
 | **[Old Woman Creek National Estuarine Research Reserve](https://ohiodnr.gov/discover-and-learn/safety-conservation/about-ODNR/coastal-management/owc-nerr)** | **[College Intern - Visual Communications](https://jobright.ai/jobs/info/6aab5a728e1bf0f764af960f?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Sep 16 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern - Landscape Architecture & Planning](https://jobright.ai/jobs/info/6aab05e976707040fb083b5f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Sep 16 |
@@ -116,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Walt Disney World](https://disneyworld.disney.go.com)** | **[Disney Destinations Communications Intern, Spring 2027](https://jobright.ai/jobs/info/6aa9e2c928e24cb38513d01c?utm_campaign=1049&utm_source=git)** | Celebration, FL, United States | On Site | Sep 15 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[WDI Master Planning Intern, Orlando, Spring 2027](https://jobright.ai/jobs/info/6aab38db40807b73bd39473d?utm_campaign=1049&utm_source=git)** | Lake Buena Vista, FL, United States | Hybrid | Sep 15 |
 | ↳ | **[WDI Master Planning Intern, Glendale, Spring 2027](https://jobright.ai/jobs/info/6aab39384be87a72913a3df3?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Sep 15 |
-| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Sierra Creative Content Creator & Social Media Co-op](https://jobright.ai/jobs/info/6aab0bdfc85610f4a48433b5?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
-| ↳ | **[Digital Experience Discovery & Delivery Co-op](https://jobright.ai/jobs/info/6aab0be98e1bf0f764af8214?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
+| **[The TJX Companies, Inc.](http://www.tjx.com/)** | **[Digital Experience Discovery & Delivery Co-op](https://jobright.ai/jobs/info/6aab0be98e1bf0f764af8214?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
+| ↳ | **[Sierra Creative Content Creator & Social Media Co-op](https://jobright.ai/jobs/info/6aab0bdfc85610f4a48433b5?utm_campaign=1049&utm_source=git)** | Framingham, MA, United States | On Site | Sep 15 |
 | **[Invesco](https://www.invesco.com)** | **[Early Career Intern - Digital Asset](https://jobright.ai/jobs/info/6aaa9d998e1bf0f764af5626?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Sep 15 |
 | **[ATC](http://www.atcllc.com/)** | **[Intern-Asset Management Summer 2027](https://jobright.ai/jobs/info/6aaafa608e1bf0f764af7a46?utm_campaign=1049&utm_source=git)** | Pewaukee, WI, United States | On Site | Sep 15 |
 | **[ArchCity Defenders](https://www.archcitydefenders.org)** | **[Spring 2027 Digital Media Internship](https://jobright.ai/jobs/info/6aa9d9b428e24cb38513cb88?utm_campaign=1049&utm_source=git)** | St. Louis, MO, United States | On Site | Sep 15 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Base Power Company](https://www.basepowercompany.com)** | **[Design Intern](https://jobright.ai/jobs/info/6aa95f5a6d0edc2d91b09553?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Sep 15 |
 | **[VHB](https://www.vhb.com/)** | **[Landscape Architect Intern- Summer 2027](https://jobright.ai/jobs/info/6a97086bf5337b2cf731fa08?utm_campaign=1049&utm_source=git)** | Richmond, VA, United States | On Site | Sep 15 |
 | **[Rocket Industrial](https://www.rocketindustrial.com/)** | **[Packaging Intern](https://jobright.ai/jobs/info/6aa993936d0edc2d91b0a4d5?utm_campaign=1049&utm_source=git)** | Wausau, WI, United States | On Site | Sep 15 |
-| **[Altar'd State](https://www.altardstate.com/)** | **[Spring 2027 Design Internship](https://jobright.ai/jobs/info/6aaa06f93387a3d9b67d8ab0?utm_campaign=1049&utm_source=git)** | Costa Mesa, CA, United States | On Site | Sep 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
