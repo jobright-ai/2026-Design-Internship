@@ -57,11 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a00e027c0f3b3add73?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | On Site | Oct 06 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ac064da25272e15c95?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Oct 06 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac54407372c01f6cd738942?utm_campaign=1049&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 06 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ae8ff3fb9b3bc88962?utm_campaign=1049&utm_source=git)** | Murrieta, CA, United States | On Site | Oct 06 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a1064da25272e15c90?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Oct 06 |
+| **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6ac56dab064da25272e16e32?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 06 |
+| **[BHDP Architecture](http://bhdp.com)** | **[Spring 2027 Design Internship / Architecture / Columbus](https://jobright.ai/jobs/info/6ab2cf73326574570a003447?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 06 |
+| ↳ | **[Spring 2027 Design Internship / Environmental Graphic Design / Cincinnati](https://jobright.ai/jobs/info/6ab2cf5778c69ff506c40ad7?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 06 |
+| ↳ | **[Spring 2027 Design Internship / Architecture / Cincinnati](https://jobright.ai/jobs/info/6ab2cf5a8254c44790e577ff?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 06 |
 | **[EAA Radio](http://www.eaaradio.net/)** | **[Photo Intern](https://jobright.ai/jobs/info/6ac558e44ac55253f5d76224?utm_campaign=1049&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | **[EAA](http://www.eaa.org/)** | **[Photo Intern](https://jobright.ai/jobs/info/6ac558490e027c0f3b3ae77a?utm_campaign=1049&utm_source=git)** | Oshkosh, WI, United States | On Site | Oct 06 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Design Intern](https://jobright.ai/jobs/info/6ac5317e4ac55253f5d75209?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 06 |
@@ -102,17 +101,22 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6aa84224930bff471a2a6232?utm_campaign=1049&utm_source=git)** | Middleton, WI, United States | On Site | Oct 06 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ac064da25272e15c95?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a00e027c0f3b3add73?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a1064da25272e15c90?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac54407372c01f6cd738942?utm_campaign=1049&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ae8ff3fb9b3bc88962?utm_campaign=1049&utm_source=git)** | Murrieta, CA, United States | On Site | Oct 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6ac354bad9621c5b2839c7ee?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Part Time - Paid Intern Digital Designer (For the Strength of Youth Social Media)](https://jobright.ai/jobs/info/6ac354b6064da25272e0e0ba?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6ac423f9d9621c5b2839fdd6?utm_campaign=1049&utm_source=git)** | Scotts Valley, CA, United States | On Site | Oct 05 |
 | **[Duolingo](https://www.duolingo.com)** | **[Illustrator, Intern](https://jobright.ai/jobs/info/6ac4103d0e027c0f3b3a9176?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | On Site | Oct 05 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Design Research Intern](https://jobright.ai/jobs/info/6ac44adf064da25272e1254f?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[2027 TFC Summer Internship - Creative Services](https://jobright.ai/jobs/info/6ac40d168ff3fb9b3bc83cc1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ab3051d326574570a0048ab?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac41821d9621c5b2839fa17?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ac4285d372c01f6cd7344f0?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | ↳ | **[NOMA HBCU Professional Development Career Fair (Fall 2025)](https://jobright.ai/jobs/info/6a9674c426613756de6d820f?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab603ac634ec6aa7c0d1dfa?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab3051d326574570a0048ab?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Consumer Experience Product Design Cambridge MA](https://jobright.ai/jobs/info/6ac52bc0d9621c5b283a39f3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 05 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Graphics Intern](https://jobright.ai/jobs/info/6ac46df7064da25272e12a8b?utm_campaign=1049&utm_source=git)** | Athens, GA, United States | On Site | Oct 05 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Spring 2027 Graphic Design Intern](https://jobright.ai/jobs/info/6ac42fc3d9621c5b283a01a6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[JQOL](http://www.jqolusa.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ac3ded2372c01f6cd7329ce?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 04 |
 | **[State of Missouri](http://mo.gov)** | **[2027 Intern - Communications/Grain Inspection & Warehousing](https://jobright.ai/jobs/info/6ac3cc50064da25272e0f5ea?utm_campaign=1049&utm_source=git)** | Jefferson City, MO, United States | On Site | Oct 04 |
 | **[Raven Software](http://www.ravensoftware.com)** | **[Activision 2027 Summer Internships - UI/UX](https://jobright.ai/jobs/info/6ac33e7f4ac55253f5d6dbad?utm_campaign=1049&utm_source=git)** | Playa Vista, CA, United States | On Site | Oct 04 |
-| **[Milliken & Company](http://www.milliken.com/en-us/)** | **[Marketing - Graphic Design Intern](https://jobright.ai/jobs/info/6ac3ea184ac55253f5d6fcbb?utm_campaign=1049&utm_source=git)** | Spartanburg, SC, United States | On Site | Oct 04 |
-| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Structural / Graphic Design Co-Op (Spring 2027)](https://jobright.ai/jobs/info/6ac3e2520e027c0f3b3a801d?utm_campaign=1049&utm_source=git)** | Lyndhurst, NJ, United States | On Site | Oct 04 |
-| **[Retrofête](https://retrofete.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6ac2e5cf064da25272e0d971?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 04 |
-| **[TikTok](https://www.tiktok.com)** | **[Content Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a7fcfcfe51a1e18a2416215?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
