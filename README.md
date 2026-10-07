@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ohara Davies-Gaetano Interiors](https://odg-interiors.com)** | **[Intern](https://jobright.ai/jobs/info/6ac58c430e027c0f3b3af808?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Oct 06 |
+| **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15c5e4554b0e12c0585968?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 06 |
+| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Product Design](https://jobright.ai/jobs/info/6aa19cc1500b01124c77de40?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 06 |
 | **[Anthropologie Weddings](https://www.bhldn.com)** | **[Anthropologie Creative Digital Design/Design Intern](https://jobright.ai/jobs/info/6ab2f5841508734c1530cde3?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Oct 06 |
 | **[KQED](http://www.kqed.org)** | **[Creative Design Intern](https://jobright.ai/jobs/info/6ac57399064da25272e17072?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 06 |
 | **[Ohio BWC (official)](https://info.bwc.ohio.gov)** | **[Office of Public Information, Creative Services Intern (Spring Semester)](https://jobright.ai/jobs/info/6ac3dd6c0e027c0f3b3a7e71?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Oct 06 |
@@ -107,21 +110,21 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ac064da25272e15c95?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Oct 05 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a1064da25272e15c90?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a00e027c0f3b3add73?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ae8ff3fb9b3bc88962?utm_campaign=1049&utm_source=git)** | Murrieta, CA, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac54407372c01f6cd738942?utm_campaign=1049&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a1064da25272e15c90?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Oct 05 |
 | **[A Igreja de Jesus Cristo dos Santos dos Últimos Dias](https://www.churchofjesuschrist.org/)** | **[Part Time - Paid Intern Digital Designer (For the Strength of Youth Social Media)](https://jobright.ai/jobs/info/6ac354b6064da25272e0e0ba?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6ac354bad9621c5b2839c7ee?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
 | **[Heron Power](https://www.heronpower.com)** | **[Intern, Graphic Design](https://jobright.ai/jobs/info/6ac423f9d9621c5b2839fdd6?utm_campaign=1049&utm_source=git)** | Scotts Valley, CA, United States | On Site | Oct 05 |
 | **[Duolingo](https://www.duolingo.com)** | **[Illustrator, Intern](https://jobright.ai/jobs/info/6ac4103d0e027c0f3b3a9176?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | On Site | Oct 05 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Design Research Intern](https://jobright.ai/jobs/info/6ac44adf064da25272e1254f?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[Freeman Company](https://linktr.ee/freeman.events)** | **[2027 TFC Summer Internship - Creative Services](https://jobright.ai/jobs/info/6ac40d168ff3fb9b3bc83cc1?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 05 |
-| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ac4285d372c01f6cd7344f0?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab306c18254c44790e58dfc?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
+| **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ab603ac634ec6aa7c0d1dfa?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
 | ↳ | **[NOMA HBCU Professional Development Career Fair (Fall 2025)](https://jobright.ai/jobs/info/6a9674c426613756de6d820f?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab603ac634ec6aa7c0d1dfa?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6aba17bfeeb00e733cc0275c?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac41821d9621c5b2839fa17?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Consumer Experience Product Design Cambridge MA](https://jobright.ai/jobs/info/6ac52bc0d9621c5b283a39f3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 05 |
 | **[The University of Georgia](http://www.ai.uga.edu)** | **[Creative Graphics Intern](https://jobright.ai/jobs/info/6ac46df7064da25272e12a8b?utm_campaign=1049&utm_source=git)** | Athens, GA, United States | On Site | Oct 05 |
 | **[Studio Museum in Harlem](https://www.studiomuseum.org/)** | **[Spring 2027 Graphic Design Intern](https://jobright.ai/jobs/info/6ac42fc3d9621c5b283a01a6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 05 |
@@ -130,7 +133,6 @@ For a complete list, click the following sortable link below:
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Community Affairs Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac42306d9621c5b2839fdaf?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 05 |
 | ↳ | **[Visual Communications Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac422fc4ac55253f5d71187?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Oct 05 |
 | **[Utah Jazz](http://www.nba.com/jazz)** | **[Photography Intern (Jazz Bantam & Lady Notes)](https://jobright.ai/jobs/info/6ac4278e8ff3fb9b3bc84563?utm_campaign=1049&utm_source=git)** | Sandy, UT, United States | On Site | Oct 05 |
-| **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Product Design](https://jobright.ai/jobs/info/6aa19cc1500b01124c77de40?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 05 |
 | **[AARP](http://www.aarp.org)** | **[Graphic Design and Creative Operations Intern](https://jobright.ai/jobs/info/6ac3f51f064da25272e10572?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Oct 05 |
 | **[Diverse Health](https://mydiversehealth.com)** | **[Web Experience Intern (UX/UI + Web Development)](https://jobright.ai/jobs/info/6a55f583f7517b519ad523cd?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 05 |
 | **[Twiz Creative](https://twizcreative.com)** | **[Creative Intern: Social Media Content Designer](https://jobright.ai/jobs/info/6ac45848064da25272e12660?utm_campaign=1049&utm_source=git)** | Royal Oak, MI, United States | On Site | Oct 05 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Oct 05 |
 | **[Flytrex](http://www.flytrex.com)** | **[Social Media Videographer & Photographer Intern](https://jobright.ai/jobs/info/6ac380b60e027c0f3b3a65d7?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 05 |
 | **[The Church of Jesus Christ of Latter-day Saints](https://www.lds.org)** | **[Part Time - Paid Intern Digital Designer (For the Strength of Youth Social Media)](https://jobright.ai/jobs/info/6ac354bf064da25272e0e0bf?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
-| ↳ | **[Full Time Paid Intern - YA Weekly Design (Church Magazines)](https://jobright.ai/jobs/info/6ac354c04ac55253f5d6dcb9?utm_campaign=1049&utm_source=git)** | Salt Lake City, UT, United States | Hybrid | Oct 05 |
-| **[JQOL](http://www.jqolusa.com)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ac3ded2372c01f6cd7329ce?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 04 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
