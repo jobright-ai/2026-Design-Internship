@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op – Landscape Architecture & Planning (Summer 2027)](https://jobright.ai/jobs/info/6aa9addf28e24cb38513b53c?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
+| **[Labcorp](https://www.labcorp.com)** | **[Intern — User Experience Design](https://jobright.ai/jobs/info/6aa86885930bff471a2a723f?utm_campaign=1049&utm_source=git)** | Durham, NC, United States | Remote | Oct 07 |
+| **[GHD](http://www.ghd.com)** | **[Graduate Intern Architect (Hiring Day Event ON)](https://jobright.ai/jobs/info/6aa94b053387a3d9b67d4494?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 07 |
 | **[Minnesota Historical Society](http://www.mnhs.org/)** | **[Intern - MNHS Press Design Intern](https://jobright.ai/jobs/info/6ac5f529064da25272e18bb7?utm_campaign=1049&utm_source=git)** | St. Paul, MN, United States | On Site | Oct 07 |
 | **[Cast tours](https://cast.tours/)** | **[AI VIDEO & CONTENT CREATOR INTERN – LIVE ENTERTAINMENT, MUSIC, TRAVEL & FILM UNPAID COLLEGE INTERNSHIP](https://jobright.ai/jobs/info/6ac5e93f0e027c0f3b3b0b5d?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 06 |
 | **[ITW](http://www.itw.com/)** | **[Designer/Drafter Intern](https://jobright.ai/jobs/info/6ac5b9a9372c01f6cd73b049?utm_campaign=1049&utm_source=git)** | Eden Prairie, MN, United States | On Site | Oct 06 |
@@ -115,9 +118,9 @@ For a complete list, click the following sortable link below:
 | **[Springs Window Fashions](http://www.springswindowfashions.com)** | **[Marketing Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6aa84224930bff471a2a6232?utm_campaign=1049&utm_source=git)** | Middleton, WI, United States | On Site | Oct 06 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Retoucher/Digital Artist Internship](https://jobright.ai/jobs/info/6a432fa5b0f2553559ece846?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
-| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a00e027c0f3b3add73?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | On Site | Oct 05 |
-| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ac064da25272e15c95?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Oct 05 |
+| **[The Whiting-Turner Contracting Company](http://www.whiting-turner.com/)** | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ac064da25272e15c95?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543ae8ff3fb9b3bc88962?utm_campaign=1049&utm_source=git)** | Murrieta, CA, United States | On Site | Oct 05 |
+| ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a00e027c0f3b3add73?utm_campaign=1049&utm_source=git)** | New Haven, CT, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac54407372c01f6cd738942?utm_campaign=1049&utm_source=git)** | Morristown, NJ, United States | On Site | Oct 05 |
 | ↳ | **[Design Management Intern](https://jobright.ai/jobs/info/6ac543a1064da25272e15c90?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Oct 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ac59d9f0e027c0f3b3afb84?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
@@ -127,8 +130,8 @@ For a complete list, click the following sortable link below:
 | **[Duolingo](https://www.duolingo.com)** | **[Illustrator, Intern](https://jobright.ai/jobs/info/6ac4103d0e027c0f3b3a9176?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | On Site | Oct 05 |
 | **[Axos Bank](https://www.axosbank.com/)** | **[UX Design Research Intern](https://jobright.ai/jobs/info/6ac44adf064da25272e1254f?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 05 |
 | **[HDR](http://www.hdrinc.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ab306c18254c44790e58dfc?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Oct 05 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac4285d372c01f6cd7344f0?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | ↳ | **[NOMA HBCU Professional Development Career Fair (Fall 2025)](https://jobright.ai/jobs/info/6a9674c426613756de6d820f?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac41821d9621c5b2839fa17?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Oct 05 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab603ac634ec6aa7c0d1dfa?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 05 |
 | **[Sanofi](https://www.sanofi.com)** | **[2027 Summer Intern Consumer Experience Product Design Cambridge MA](https://jobright.ai/jobs/info/6ac52bc0d9621c5b283a39f3?utm_campaign=1049&utm_source=git)** | Cambridge, MA, United States | On Site | Oct 05 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[General Motors](https://www.gm.com)** | **[Summer 2027 Intern - Industrial Design](https://jobright.ai/jobs/info/6ac3bca5372c01f6cd731d18?utm_campaign=1049&utm_source=git)** | Warren, MI, United States | On Site | Oct 05 |
 | **[FGF Brands](https://www.fgfbrands.com/)** | **[Digital Illustrator Co-op (Winter 2027)](https://jobright.ai/jobs/info/6ac3c17d372c01f6cd731e85?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Ontario, Canada | On Site | Oct 05 |
 | **[NBCUniversal](https://www.nbcuniversal.com/)** | **[Visual Development Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3bfa10e027c0f3b3a72e1?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
-| **[DreamWorks Animation](https://www.dreamworks.com)** | **[Visual Development Intern, DreamWorks Animation, Spring 2027](https://jobright.ai/jobs/info/6ac3bfa08ff3fb9b3bc81f0b?utm_campaign=1049&utm_source=git)** | Glendale, CA, United States | Hybrid | Oct 05 |
-| **[Arcadis](http://www.arcadis.com)** | **[Interior Design Student Intern/Co-op](https://jobright.ai/jobs/info/6a88cbbe25fc4e7ae3db2622?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Oct 05 |
-| **[JetZero](https://www.jetzero.aero)** | **[2027 Product & Design Summer Internship](https://jobright.ai/jobs/info/6ac3b82a4ac55253f5d6eb36?utm_campaign=1049&utm_source=git)** | Long Beach, CA, United States | On Site | Oct 05 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
