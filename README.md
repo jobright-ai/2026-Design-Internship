@@ -57,7 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Lauder Summer 2027 Intern, Creative](https://jobright.ai/jobs/info/6aa3b46d626f9945308b28ec?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
+| **[Signify](https://www.signify.com)** | **[Video Editing & Motion Graphics Intern, Cooper Lighting Solutions - Spring 2027](https://jobright.ai/jobs/info/6ac6c97b8ff3fb9b3bc8f2a1?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Oct 07 |
+| **[Samantha Siu New York](https://www.samanthasiu.com)** | **[Social Media Video Editor Intern](https://jobright.ai/jobs/info/6ac6c894064da25272e1c69b?utm_campaign=1049&utm_source=git)** | New York City metropolitan area, United States | Hybrid | Oct 07 |
+| **[dataing](https://www.dataing.io/)** | **[Tik Tok Intern - Student💝💝](https://jobright.ai/jobs/info/6ac6c60e8ff3fb9b3bc8f0ad?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 07 |
+| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Brand Creative Design Intern](https://jobright.ai/jobs/info/6ac6a5020e027c0f3b3b3944?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
+| **[Wellabe](https://www.wellabe.com)** | **[Creative Brand Summer 2027 Internship-Onsite-Des Moines, IA](https://jobright.ai/jobs/info/6ac6bb754ac55253f5d7bcb4?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Oct 07 |
+| **[The Estée Lauder Companies Inc.](https://www.elcompanies.com/en)** | **[Lauder Summer 2027 Intern, Creative](https://jobright.ai/jobs/info/6aa3ecddf7baf881567cc20e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 07 |
 | **[Dewberry](http://www.dewberry.com/)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6ac6b4300e027c0f3b3b3ef6?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Oct 07 |
 | **[AccuWeather](http://www.accuweather.com)** | **[Creative Writer Intern: Forecasting and Communications](https://jobright.ai/jobs/info/6aa1bde02f936e4a53dadbd7?utm_campaign=1049&utm_source=git)** | State College, PA, United States | On Site | Oct 07 |
 | **[Hearst Newspapers](https://eevd.fa.us6.oraclecloud.com/hcmUI/CandidateExperience/en/sites/CX_15)** | **[Creative Services Intern](https://jobright.ai/jobs/info/6ac6757cd9621c5b283a8df8?utm_campaign=1049&utm_source=git)** | Sacramento, CA, United States | On Site | Oct 07 |
@@ -81,38 +86,38 @@ For a complete list, click the following sortable link below:
 | **[Weissman](https://www.weissmans.com/)** | **[Technical Design Intern](https://jobright.ai/jobs/info/6abc0aea7119e56191ceb03b?utm_campaign=1049&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 07 |
 | **[Benchmark Group, Inc.](http://teamofchoice.com)** | **[Architectural Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac65e8ed9621c5b283a87b8?utm_campaign=1049&utm_source=git)** | Rogers, AR, United States | On Site | Oct 07 |
 | **[North Carolina Department of Agriculture and Consumer Services](http://ncagr.gov)** | **[Sign Shop Graphics Undergraduate Intern](https://jobright.ai/jobs/info/6a8c71ee581f2d7bfdfe3957?utm_campaign=1049&utm_source=git)** | Santa Rosa, CA, United States | On Site | Oct 07 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2c2692b2612ef0f8d820?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a919368a27a2d3c9848897e?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f1cb96192a36845dd8?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84eb3dbb1f8967cedfd2?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3b1419ce4e6e9d9365d6?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84cdde327d3e210d2e83?utm_campaign=1049&utm_source=git)** | Oakland, CA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aa454adc1928370a285d8cc?utm_campaign=1049&utm_source=git)** | Woodstock, GA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8f9808d96ad228f125e2cc?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aa83dd1a77a53f5a1578180?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8474d7e12474455273a590?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8372113eeac101cfa9fd63?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bcc92b2612ef0f8d7ee?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a99a5b6040e5c3d07597d4d?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bd33217d1d13329daf5?utm_campaign=1049&utm_source=git)** | Escondido, CA, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90c7acd96ad228f12633e8?utm_campaign=1049&utm_source=git)** | Charleston, SC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abe69f2d9621c5b2838f0f5?utm_campaign=1049&utm_source=git)** | Saint Paul, MN, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a91e7aca27a2d3c9848a8e4?utm_campaign=1049&utm_source=git)** | Holly Springs, NC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c16956574eac8b62b7?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a906af47c32860d14cf9457?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 07 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a837575b5a0ac0e84a26074?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c82e757fcb5c8b8ddc?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c76ac77d5f033c4b8e55e?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Oct 07 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aac7add636cddf7396f43a9?utm_campaign=1049&utm_source=git)** | Escondido, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aa454adc1928370a285d8cc?utm_campaign=1049&utm_source=git)** | Woodstock, GA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8b8fd4680f314a29d414c5?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a85ad30cc81eb647e9eea1e?utm_campaign=1049&utm_source=git)** | Oklahoma City, OK, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abd2eafd9621c5b2838a66e?utm_campaign=1049&utm_source=git)** | Naples, FL, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84b23d96632d741ae645?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abd11834ac55253f5d5b0be?utm_campaign=1049&utm_source=git)** | Westlake, TX, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a70d6f1cb96192a36845dd8?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a99b26e040e5c3d07598225?utm_campaign=1049&utm_source=git)** | Oakland, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84eb3dbb1f8967cedfd2?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abad365d2914e9273eed864?utm_campaign=1049&utm_source=git)** | Tucson, AZ, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aa83dd1a77a53f5a1578180?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c16956574eac8b62b7?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a91e449d18f75674827a9e9?utm_campaign=1049&utm_source=git)** | Holly Springs, NC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c8de327d3e210d2e80?utm_campaign=1049&utm_source=git)** | Summerville, SC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a906af47c32860d14cf9457?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a9192419864261ccd29d74e?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abb46073db4ca81fc7c7585?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aba271553f24fb3b7fe8075?utm_campaign=1049&utm_source=git)** | Charleston, SC, United States | On Site | Oct 07 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90ce968ffa38557e6cef80?utm_campaign=1049&utm_source=git)** | Fort Mill, SC, United States | On Site | Oct 07 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84d22e757fcb5c8b8df3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a91e451d18f75674827a9ec?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90ce9c8ffa38557e6cef83?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abd11834ac55253f5d5b0be?utm_campaign=1049&utm_source=git)** | Westlake, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7c7350a346cb6c8d5edbf8?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a6a3f2b8693c23e7fb799ba?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abd2eafd9621c5b2838a66e?utm_campaign=1049&utm_source=git)** | Naples, FL, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90c7810bd89e205d24c536?utm_campaign=1049&utm_source=git)** | Summerville, SC, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bd6a9a644f96568ac85?utm_campaign=1049&utm_source=git)** | Tucson, AZ, United States | On Site | Oct 07 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abb461ad2914e9273ef0267?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a91e7b7c12c90443efc8b30?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abe69f2d9621c5b2838f0f5?utm_campaign=1049&utm_source=git)** | Saint Paul, MN, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84e20ebc8fb2313ea05a?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8468687b33d72276255ab1?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a7f3b1419ce4e6e9d9365d6?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a8474d7e12474455273a590?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Oct 07 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abe886f064da25272e01571?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Oct 07 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bd33217d1d13329daf5?utm_campaign=1049&utm_source=git)** | Escondido, CA, United States | On Site | Oct 07 |
 | **[Weissman](https://www.weissmans.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aa9911a28e24cb38513abb7?utm_campaign=1049&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 07 |
 | ↳ | **[Fashion Design Intern](https://jobright.ai/jobs/info/6aaacae076707040fb082439?utm_campaign=1049&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 07 |
 | **[Intuit](https://www.intuit.com)** | **[Summer 2027: Product Design Intern](https://jobright.ai/jobs/info/6aa827733a9f0a4fe6f179c0?utm_campaign=1049&utm_source=git)** | Mountain View, CA, United States | Hybrid | Oct 07 |
@@ -127,11 +132,10 @@ For a complete list, click the following sortable link below:
 | **[Charlotte Hornets](https://www.nba.com/hornets/)** | **[Digital Design Intern](https://jobright.ai/jobs/info/6ac56dab064da25272e16e32?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 06 |
 | **[Porter Lyons](https://porterlyons.com)** | **[Creative + Administrative Intern](https://jobright.ai/jobs/info/6a560b7c21f64463ad3520e0?utm_campaign=1049&utm_source=git)** | New Orleans, LA, United States | On Site | Oct 06 |
 | **[JRJ Architects](https://www.jrjarch.com)** | **[Fall Architectural Intern](https://jobright.ai/jobs/info/6ac5a01bd9621c5b283a61a6?utm_campaign=1049&utm_source=git)** | Beaverton, OR, United States | On Site | Oct 06 |
-| **[Lyric Opera of Chicago](https://www.lyricopera.org/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ac64d5d064da25272e19add?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Oct 06 |
 | **[Ohara Davies-Gaetano Interiors](https://odg-interiors.com)** | **[Intern](https://jobright.ai/jobs/info/6ac58c430e027c0f3b3af808?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Oct 06 |
 | **[TensorWave](https://tensorwave.com)** | **[Office Design Intern (REMOTE)](https://jobright.ai/jobs/info/6ac642bbd9621c5b283a7df7?utm_campaign=1049&utm_source=git)** | Las Vegas, NV, United States | Remote | Oct 06 |
-| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Internship - Content Design](https://jobright.ai/jobs/info/6ac6b3324ac55253f5d7ba1a?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 06 |
-| **[Dow Jones](http://www.dowjones.com)** | **[Summer 2027 Internship Program – Brand Creative Design Intern](https://jobright.ai/jobs/info/6ac6a5020e027c0f3b3b3944?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 06 |
+| **[Salesforce](https://www.salesforce.com)** | **[Summer 2027 Internship - Content Design](https://jobright.ai/jobs/info/6ac6c187d9621c5b283aa932?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 06 |
+| **[OHM Advisors](http://ohm-advisors.com)** | **[Landscape Architecture Intern (Hiring for May 2027)](https://jobright.ai/jobs/info/6ac6c9b20e027c0f3b3b46f1?utm_campaign=1049&utm_source=git)** | Cleveland, OH, United States | On Site | Oct 06 |
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Interior Design Intern (Winter 2027)](https://jobright.ai/jobs/info/6ac6b31e372c01f6cd73eaa9?utm_campaign=1049&utm_source=git)** | Dorval, Quebec, H4S 2A3, Canada | Hybrid | Oct 06 |
 | **[Swish Breaks](https://www.swishbreaks.com)** | **[Video and Graphics Editor (Intern)](https://jobright.ai/jobs/info/6a15c5e4554b0e12c0585968?utm_campaign=1049&utm_source=git)** | New York | On Site | Oct 06 |
 | **[Pilot Company](http://www.pilotflyingj.com)** | **[Program Intern, Product Design](https://jobright.ai/jobs/info/6aa19cc1500b01124c77de40?utm_campaign=1049&utm_source=git)** | Knoxville, TN, United States | On Site | Oct 06 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Spring 2027 - CS Interior Design - Collegiate Associate](https://jobright.ai/jobs/info/6ac52ae9d9621c5b283a39bb?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Oct 06 |
 | ↳ | **[Summer 2027 - CS Interior Design - Collegiate Associate](https://jobright.ai/jobs/info/6ac52ae1064da25272e152ff?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Oct 06 |
 | **[Molly Bowen Design](mollybowen.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ac414ab372c01f6cd733e59?utm_campaign=1049&utm_source=git)** | Wimberley, TX, United States | On Site | Oct 06 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: UX/UI Design Intern](https://jobright.ai/jobs/info/6a8c742a25fc4e7ae3db85b2?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | On Site | Oct 06 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6ac518880e027c0f3b3acc95?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Oct 06 |
-| **[Awardco](https://www.awardco.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6aa8659282e82a31997c5b85?utm_campaign=1049&utm_source=git)** | Lindon, UT, United States | On Site | Oct 06 |
-| **[Allegion](https://www.allegion.com)** | **[Summer Intern - User Experience (UX)](https://jobright.ai/jobs/info/6ac50f7e8ff3fb9b3bc874fb?utm_campaign=1049&utm_source=git)** | Golden, CO, United States | Hybrid | Oct 06 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
