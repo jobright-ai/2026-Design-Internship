@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Lowe's Companies, Inc.](https://www.lowes.com)** | **[Merchandising – Concept Design & Integration / Visual – Undergraduate Internship – Summer 2027](https://jobright.ai/jobs/info/6abaa544ee0b348be729aaa8?utm_campaign=1049&utm_source=git)** | Mooresville, NC, United States | On Site | Oct 20 |
+| **[HDR](http://www.hdrinc.com)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/6abaaf0bd2914e9273eecb14?utm_campaign=1049&utm_source=git)** | Omaha, NE, United States | On Site | Oct 20 |
+| **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74f3eeac101cfa9bfc9?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Oct 20 |
+| **[Gentherm](https://gentherm.com/)** | **[Marketing Technology and UI/UX Intern](https://jobright.ai/jobs/info/6acdbd1c3e2155b545aa1bf9?utm_campaign=1049&utm_source=git)** | Novi, MI, United States | On Site | Oct 20 |
+| **[hussh 🤫](https://hush1one.com)** | **[User Experience Designer Internship](https://jobright.ai/jobs/info/6ad735d152aa6152bb69a46a?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 20 |
+| ↳ | **[User Experience Researcher Internship](https://jobright.ai/jobs/info/6ad735c5950ef68d5183ebff?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | Hybrid | Oct 20 |
 | **[rednote](https://www.rednote.com)** | **[Creative Community Intern](https://jobright.ai/jobs/info/6ad715cb950ef68d5183e643?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 20 |
 | **[KHAITE](https://khaite.com/)** | **[Design Intern, Non-Apparel, Spring 2027](https://jobright.ai/jobs/info/6ad68f023dc655658d8e7749?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 19 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture- Intern](https://jobright.ai/jobs/info/6ad6947de4b94611ab840515?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 19 |
@@ -77,8 +83,8 @@ For a complete list, click the following sortable link below:
 | **[Amplify](http://www.amplify.com)** | **[Summer 2027: Product Design Intern](https://jobright.ai/jobs/info/6ad66a8d67bec1d0d9c6eb70?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 19 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern - Hiring Event with AECOM – Boston, MA](https://jobright.ai/jobs/info/6ad682ed950ef68d5183abc2?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 19 |
 | **[Four Hands](https://fourhands.com)** | **[CGI Artist Intern](https://jobright.ai/jobs/info/6ad680e93dc655658d8e6cc4?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Oct 19 |
-| **[AECOM](http://www.aecom.com/)** | **[Architecture Intern - Hiring Event with AECOM - Arlington, VA](https://jobright.ai/jobs/info/6ad1488f256e49282e6541e6?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 19 |
-| ↳ | **[Architecture Intern - Hiring Event with AECOM - Arlington, VA](https://jobright.ai/jobs/info/6ad145e3a4f99fef8194344c?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 19 |
+| **[AECOM](http://www.aecom.com/)** | **[Architecture Intern - Hiring Event with AECOM - Arlington, VA](https://jobright.ai/jobs/info/6ad145e3a4f99fef8194344c?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 19 |
+| ↳ | **[Architecture Intern - Hiring Event with AECOM - Arlington, VA](https://jobright.ai/jobs/info/6ad1488f256e49282e6541e6?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Oct 19 |
 | **[Welltower™ Inc. (NYSE:WELL)](http://www.welltower.com)** | **[Interior Design - Summer '27 Intern](https://jobright.ai/jobs/info/6ad669443dc655658d8e5c2d?utm_campaign=1049&utm_source=git)** | Northern California, United States | Remote | Oct 19 |
 | **[Hendrick Health](https://www.hendrickhealth.org/)** | **[Intern (Interior Design)](https://jobright.ai/jobs/info/6acfa9dc12303667b989f839?utm_campaign=1049&utm_source=git)** | Abilene, TX, United States | On Site | Oct 19 |
 | **[Kroenke Sports & Entertainment](https://www.ballarena.com)** | **[Intern, Creative Services](https://jobright.ai/jobs/info/6ad665913dc655658d8e594e?utm_campaign=1049&utm_source=git)** | Centennial, CO, United States | On Site | Oct 19 |
@@ -110,9 +116,9 @@ For a complete list, click the following sortable link below:
 | **[CarGurus](http://www.cargurus.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6ad5c25f950ef68d51830d47?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | Hybrid | Oct 19 |
 | **[Consumers Energy](https://www.consumersenergy.com/community/foundation)** | **[Intern/Co-Op-UX Designer](https://jobright.ai/jobs/info/6ad5328c25289a0b3bf5e925?utm_campaign=1049&utm_source=git)** | Fremont, MI, United States | Remote | Oct 18 |
 | **[The Walt Disney Company](https://thewaltdisneycompany.com)** | **[Product Design (Toys) Intern, Spring 2027](https://jobright.ai/jobs/info/6ad6a85152aa6152bb69797e?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 18 |
+| ↳ | **[Retail Store Design Intern, Spring 2027](https://jobright.ai/jobs/info/6ad6c57552aa6152bb6983b0?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 18 |
 | ↳ | **[Disney Consumer Products Retail Creative Graphic Design Intern, Spring 2027](https://jobright.ai/jobs/info/6ad6a85b54bbabbab06fa779?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 18 |
 | ↳ | **[Disney Experiences Graphic Design Intern, Spring 2027](https://jobright.ai/jobs/info/6ad6a847950ef68d5183c170?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 18 |
-| ↳ | **[Retail Store Design Intern, Spring 2027](https://jobright.ai/jobs/info/6ad6c57552aa6152bb6983b0?utm_campaign=1049&utm_source=git)** | Kissimmee, FL, United States | On Site | Oct 18 |
 | **[Lindt & Sprüngli (North America) Inc.](https://www.chocolate.lindt.com/)** | **[Digital Designer Intern](https://jobright.ai/jobs/info/6ad67e9652aa6152bb695e88?utm_campaign=1049&utm_source=git)** | Stratham, NH, United States | On Site | Oct 18 |
 | **[Johnson & Johnson](http://www.jnj.com)** | **[HFE Co-op (Summer/2027) Raritan](https://jobright.ai/jobs/info/6ad6748c54bbabbab06f847a?utm_campaign=1049&utm_source=git)** | Raritan, NJ, United States | On Site | Oct 18 |
 | **[Cambridge Investment Research, Inc.](http://www.joincambridge.com)** | **[UX Design Intern](https://jobright.ai/jobs/info/6ab19ed223005eee3545b9e5?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Oct 18 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Sony Pictures Entertainment](http://sonypictures.com)** | **[Intern, Global Creative Content, Sony Pictures - Spring 2027](https://jobright.ai/jobs/info/6ad277d3810010ec72f58423?utm_campaign=1049&utm_source=git)** | Culver City, CA, United States | On Site | Oct 17 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74ce9c7b3417772ade1aa9?utm_campaign=1049&utm_source=git)** | Laramie, WY, United States | On Site | Oct 17 |
 | **[BGE, Inc.](https://browngay.com)** | **[HOUSTON - Planning & Landscape Architecture, Internship](https://jobright.ai/jobs/info/6a9a03fd040e5c3d0759a43e?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Oct 17 |
-| **[SPX Technologies](http://www.spx.com)** | **[Graphic Design Intern Job Details / our team](https://jobright.ai/jobs/info/6abb0a58d2914e9273eee6a4?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL, United States | On Site | Oct 17 |
-| ↳ | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ac951b7af788e6ad3b5afe9?utm_campaign=1049&utm_source=git)** | Burr Ridge, IL, United States | On Site | Oct 17 |
-| **[Westwood Professional Services](http://www.westwoodps.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6a987f64def18223c854fbbe?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | On Site | Oct 17 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a987f5bdd171c72857928a8?utm_campaign=1049&utm_source=git)** | Midlothian, VA, United States | On Site | Oct 17 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a987f5edd171c72857928ad?utm_campaign=1049&utm_source=git)** | Staunton, VA, United States | On Site | Oct 17 |
-| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6a997e1b8a8b765bc55f34c2?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 17 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
