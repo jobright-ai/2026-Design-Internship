@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/6ae0d709829a3bada15f7a74?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
+| **[The Athletic](https://theathletic.com/)** | **[Product Design Student Intern, Summer 2027 (Remote)](https://jobright.ai/jobs/info/6ace4d9cbb78de94580d549b?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 27 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Industrial Design Co-op (January through June)](https://jobright.ai/jobs/info/6ae0d4d11f9d9308370a4813?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Oct 27 |
+| **[ServiceNow](http://www.servicenow.com)** | **[Experience Team – UX Research Internships – Summer 2027](https://jobright.ai/jobs/info/6ae0d44e5a5afc94bd2c7964?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Oct 27 |
+| **[Buffalo Toronto Public Media](https://www.wned.org)** | **[Internship - Graphic Design](https://jobright.ai/jobs/info/6ae0d37e67c31ab34899d4de?utm_campaign=1049&utm_source=git)** | Buffalo, NY, United States | Remote | Oct 27 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 27 |
 | **[GPD Group](http://gpdgroup.com)** | **[Architectural Design Internship](https://jobright.ai/jobs/info/6ae0af18de23f466ec8b786d?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 27 |
 | **[Figma](https://www.figma.com)** | **[Product Design Intern (2027)](https://jobright.ai/jobs/info/6aa8363082e82a31997c4739?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 27 |
@@ -114,7 +119,7 @@ For a complete list, click the following sortable link below:
 | **[Schweitzer Engineering Laboratories (SEL)](http://www.selinc.com/)** | **[UI/UX Designer Intern](https://jobright.ai/jobs/info/6adfefdd9a8c91d5c358ace1?utm_campaign=1049&utm_source=git)** | Pullman, WA, United States | On Site | Oct 25 |
 | **[DoorDash](http://www.doordash.com)** | **[Product Design, Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa88a9da77a53f5a1579f91?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Oct 25 |
 | **[Hasana, Inc.](http://shophasana.com)** | **[Design Internship](https://jobright.ai/jobs/info/6ab8a9a6ba1c25652c613eac?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 25 |
-| **[Green Bay Packaging](https://gbp.com/)** | **[Graphics Technician Intern](https://jobright.ai/jobs/info/6adbc33b46a8cabdc1ff4989?utm_campaign=1049&utm_source=git)** | De Pere, WI, United States | On Site | Oct 24 |
+| **[Green Bay Packaging](https://gbp.com/)** | **[Graphics Technician Intern](https://jobright.ai/jobs/info/6ab6b948634ec6aa7c0d435b?utm_campaign=1049&utm_source=git)** | De Pere, WI, United States | On Site | Oct 24 |
 | **[Lyft](https://www.lyft.com/)** | **[UX Research Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa48db0f7baf881567cf22f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Oct 24 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Photo and Video Marketing Production](https://jobright.ai/jobs/info/6aa457c91d92e2d05d1146d6?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Oct 24 |
 | **[VAA LLC](http://vaaeng.com)** | **[Architectural Intern – Summer](https://jobright.ai/jobs/info/6aa427ca422289703bd655cc?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Oct 24 |
@@ -125,7 +130,6 @@ For a complete list, click the following sortable link below:
 | **[Jacobs](http://www.jacobs.com)** | **[Interior Design Intern - Summer 2027](https://jobright.ai/jobs/info/6ab7c30dba1c25652c612676?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 24 |
 | **[Architecture49 Inc.](https://architecture49.com/en/)** | **[Intern, Architecture](https://jobright.ai/jobs/info/6ac014ee064da25272e079fa?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 24 |
 | **[Progressive Companies](https://www.weareprogressive.com)** | **[Summer 2027 Urban Design Intern](https://jobright.ai/jobs/info/6abfbb71064da25272e05991?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | On Site | Oct 24 |
-| **[Perseus Group, Constellation Software](https://csiperseus.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6ac01800064da25272e07b96?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Oct 24 |
 | **[Weissman](https://www.weissmans.com/)** | **[Trend Research Intern](https://jobright.ai/jobs/info/6aa9f423eff87f571fc9cc28?utm_campaign=1049&utm_source=git)** | Saint Louis, MO, United States | On Site | Oct 24 |
 | **[Nexstar Media Group, Inc.](http://www.nexstar.tv)** | **[Digital Media Intern (In-Person) Fall 2026)](https://jobright.ai/jobs/info/6a398ce006a4fd4b1fabac04?utm_campaign=1049&utm_source=git)** | AL, Mobile, US | On Site | Oct 24 |
 | **[Ghafari Associates](https://www.ghafari.com/)** | **[2027 Summer Intern - Interior Design](https://jobright.ai/jobs/info/6ad90ebcb0725dc268dd9518?utm_campaign=1049&utm_source=git)** | Dearborn, MI, United States | On Site | Oct 24 |
@@ -153,8 +157,4 @@ For a complete list, click the following sortable link below:
 | **[goodr](https://goodr.com)** | **[Content Creation Intern](https://jobright.ai/jobs/info/6adb9ee65dc7953215a33a0d?utm_campaign=1049&utm_source=git)** | Inglewood, CA, United States | On Site | Oct 23 |
 | **[Iris USA](https://www.iris-worldwide.com/)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6adbc971389e06bb41ad3dc7?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | Hybrid | Oct 23 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Architecture Intern - Global Facilities (Raleigh/Roanoke/Chesapeake)](https://jobright.ai/jobs/info/6ab6a6eb634ec6aa7c0d3bff?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Oct 23 |
-| **[ICE](https://www.ice.com)** | **[Summer Internship Program 2027 - Enterprise UX Intern](https://jobright.ai/jobs/info/6adbc2089e3e874dbfba1910?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 23 |
-| **[Reingold, Inc.](http://reingold.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6adbbf49c5c64fa3d9cb0f6d?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Oct 23 |
-| **[North Jersey Pro Soccer](https://www.northjerseyprosoccer.com/)** | **[2027 Spring Intern (Graphic Design)](https://jobright.ai/jobs/info/6adbbb9746a8cabdc1ff4709?utm_campaign=1049&utm_source=git)** | Paterson, NJ, United States | Hybrid | Oct 23 |
-| ↳ | **[2027 Spring Intern (Digital Photography)](https://jobright.ai/jobs/info/6adbbb8f46a8cabdc1ff4705?utm_campaign=1049&utm_source=git)** | Paterson, NJ, United States | Hybrid | Oct 23 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
