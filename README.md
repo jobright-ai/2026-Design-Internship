@@ -74,7 +74,7 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c43d96632d741ae659?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 31 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84bb3dbb1f8967cedf7d?utm_campaign=1049&utm_source=git)** | Holly Springs, NC, United States | On Site | Oct 31 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84d22e757fcb5c8b8df3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Oct 31 |
-| **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6ae4c79e77c09cb3bd4ae980?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Oct 31 |
+| **[Revvity](https://www.revvity.com/)** | **[UX Intern](https://jobright.ai/jobs/info/6ae4c79dd45dc30fb7d3206e?utm_campaign=1049&utm_source=git)** | Ontario, Canada | Remote | Oct 31 |
 | **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6aad9633de327d3e210d3596?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Oct 31 |
 | **[ALICE + OLIVIA](http://www.aliceandolivia.com)** | **[Fall Design Intern](https://jobright.ai/jobs/info/6ac96aee6355f8776ff18f2d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 31 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[Product Designer Intern](https://jobright.ai/jobs/info/6ad165d1ae21edea94fd5f43?utm_campaign=1049&utm_source=git)** | Olathe, KS, United States | On Site | Oct 31 |
@@ -105,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Omnicom](https://www.omc.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ae4cfe8fb2cd420ace5a094?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Clemson](https://jobright.ai/jobs/info/6abfd2ca8ff3fb9b3bc78f23?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Oct 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Concept Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4be77c09cb3bd4af478?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
-| **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae272ff6679108488c4b8e8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
+| **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ab197ac191d8c340dbdbadb?utm_campaign=1049&utm_source=git)** | Waco, TX, United States | Hybrid | Oct 30 |
 | ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 30 |
-| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ab197ac191d8c340dbdbadb?utm_campaign=1049&utm_source=git)** | Waco, TX, United States | Hybrid | Oct 30 |
 | ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6acfe225c9f40bec907fe996?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Oct 30 |
+| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae272ff6679108488c4b8e8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
 | ↳ | **[Graphic Design Intern - Summer 2027 Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d5ae910d11c3ae9090?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
 | **[L&M Corrugated Container Corporation](https://lmcontainer.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6ae4c683d7424a2a828e8692?utm_campaign=1049&utm_source=git)** | Appleton, WI, United States | On Site | Oct 30 |
