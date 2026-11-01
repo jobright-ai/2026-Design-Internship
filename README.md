@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84da6956574eac8b62d7?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 01 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6ac9718ad4a5a03707412635?utm_campaign=1049&utm_source=git)** | Irving, TX, United States | On Site | Nov 01 |
 | **[SWBR](https://www.swbr.com/)** | **[Summer 2027 Internships](https://jobright.ai/jobs/info/6ae6c60bd7424a2a828f0276?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Oct 31 |
 | **[Tech Lance Pvt Ltd](https://techlancepvt.com)** | **[UI/UX Intern](https://jobright.ai/jobs/info/6ae6b56ad45dc30fb7d397e3?utm_campaign=1049&utm_source=git)** | United States | Remote | Oct 31 |
 | **[2toLead](http://www.2tolead.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ae668d677c09cb3bd4b5c45?utm_campaign=1049&utm_source=git)** | Canada | Remote | Oct 31 |
@@ -98,16 +100,16 @@ For a complete list, click the following sortable link below:
 | **[Bombardier](https://www.bombardier.com/en/aerospace.html)** | **[Intern, Graphic Design (Winter 2027)](https://jobright.ai/jobs/info/6ac803cd51a1b3e4219eff4e?utm_campaign=1049&utm_source=git)** | Dorval, QC, Canada | Hybrid | Oct 30 |
 | **[Boulder Connect](https://www.linkedin.com/company/109152072)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6ae4e383d45dc30fb7d33416?utm_campaign=1049&utm_source=git)** | De Pere, WI, United States | On Site | Oct 30 |
 | ↳ | **[Packaging Design Intern](https://jobright.ai/jobs/info/6ae4e37bd45dc30fb7d3340e?utm_campaign=1049&utm_source=git)** | Appleton, WI, United States | On Site | Oct 30 |
-| **[State of Ohio](http://www.ong.ohio.gov)** | **[Creative Services Intern, Office of Communications](https://jobright.ai/jobs/info/6ae3a64c77c09cb3bd4a7ce6?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
+| **[State of Ohio](http://ohio.gov/)** | **[Creative Services Intern, Office of Communications](https://jobright.ai/jobs/info/6ae3a64c77c09cb3bd4a7ce6?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Oct 30 |
 | **[Omnicom](https://www.omc.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ae4cfe8fb2cd420ace5a094?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
 | **[The Post and Courier](http://www.postandcourier.com/)** | **[The Post and Courier Marketing and Graphics Design Intern - Clemson](https://jobright.ai/jobs/info/6abfd2ca8ff3fb9b3bc78f23?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Oct 30 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Concept Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4be77c09cb3bd4af478?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Oct 30 |
-| **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae272ff6679108488c4b8e8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
-| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6acfe225c9f40bec907fe996?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Oct 30 |
-| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ab197ac191d8c340dbdbadb?utm_campaign=1049&utm_source=git)** | Waco, TX, United States | Hybrid | Oct 30 |
+| **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ab197ac191d8c340dbdbadb?utm_campaign=1049&utm_source=git)** | Waco, TX, United States | Hybrid | Oct 30 |
 | ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Oct 30 |
-| **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
-| ↳ | **[Graphic Design Intern - Summer 2027 Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d5ae910d11c3ae9090?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
+| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae272ff6679108488c4b8e8?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Oct 30 |
+| ↳ | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6acfe225c9f40bec907fe996?utm_campaign=1049&utm_source=git)** | Washington, District of Columbia, United States | Hybrid | Oct 30 |
+| **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027 Job Details / Munich Re Careers](https://jobright.ai/jobs/info/6ae308d5ae910d11c3ae9090?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
+| ↳ | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Oct 30 |
 | **[L&M Corrugated Container Corporation](https://lmcontainer.com)** | **[Packaging Design Intern](https://jobright.ai/jobs/info/6ae4c683d7424a2a828e8692?utm_campaign=1049&utm_source=git)** | Appleton, WI, United States | On Site | Oct 30 |
 | **[South Oxford Management](https://www.somliving.com/)** | **[Part-Time Paid Internships](https://jobright.ai/jobs/info/6ae4c437c3139b475b5b58b4?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 30 |
 | **[FC Cincinnati](http://www.fccincinnati.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ae4c24efb2cd420ace595b0?utm_campaign=1049&utm_source=git)** | Cincinnati, OH, United States | On Site | Oct 30 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Dennis Entertainment](https://www.linkedin.com/company/104971907)** | **[Spring 2027 Creative Development Intern](https://jobright.ai/jobs/info/6ae3f79feab1f967309788fe?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | On Site | Oct 29 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture- Intern](https://jobright.ai/jobs/info/6ad6947de4b94611ab840515?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Oct 29 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6ae22a8c1f9d9308370af05d?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Oct 29 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a90c783a19886486676329c?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Oct 29 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aa454adc1928370a285d8cc?utm_campaign=1049&utm_source=git)** | Woodstock, GA, United States | On Site | Oct 29 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
