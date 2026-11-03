@@ -68,15 +68,16 @@ For a complete list, click the following sortable link below:
 | **[Perkins&Will](http://perkinswill.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6ae8f7ff061d6d7ff3d7f19d?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 02 |
 | **[Costco Wholesale](https://www.costco.com/)** | **[CDS Intern - Central Engineering UX/UI Designer](https://jobright.ai/jobs/info/6ae8d8b3777c336eb6d66db6?utm_campaign=1049&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
 | ↳ | **[CDS Intern - Central Engineering UX/UI Designer](https://jobright.ai/jobs/info/6ae8da2c777c336eb6d66ed5?utm_campaign=1049&utm_source=git)** | Issaquah, WA, United States | On Site | Nov 02 |
+| **[The Miller Hull Partnership, LLP](http://millerhull.com)** | **[6-month Architecture Internship (Winter 2027)](https://jobright.ai/jobs/info/6ae9aade73d24ab055c58370?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Nov 02 |
 | **[Insomniac Games](https://insomniac.games/)** | **[User Research Intern (Tools)- Master's](https://jobright.ai/jobs/info/6ad69874950ef68d5183b8df?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Nov 02 |
-| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8c9f56c51033758f42d3d?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 02 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8e4f4fb2cd420ace69e81?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | On Site | Nov 02 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8c9f6fb2cd420ace68c0a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
-| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8e508a2a252e21942a99d?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 02 |
-| ↳ | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6ae8e50a777c336eb6d6766d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| **[Skidmore, Owings & Merrill (SOM)](http://www.som.com/)** | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8e508a2a252e21942a99d?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 02 |
+| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8c9f56c51033758f42d3d?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 02 |
 | ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8ca01061d6d7ff3d7d18e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 02 |
-| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6ae8e50403f4a1104b257826?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | On Site | Nov 02 |
+| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8e4f4fb2cd420ace69e81?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | On Site | Nov 02 |
+| ↳ | **[Summer Intern - Landscape](https://jobright.ai/jobs/info/6ae8e50a777c336eb6d6766d?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
+| ↳ | **[Summer Intern - Architecture](https://jobright.ai/jobs/info/6ae8c9f6fb2cd420ace68c0a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6ae8e5136c51033758f43fc3?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 02 |
+| ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6ae8e50403f4a1104b257826?utm_campaign=1049&utm_source=git)** | Austin, Texas, United States | On Site | Nov 02 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6ae8e4fe777c336eb6d67653?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 02 |
 | ↳ | **[Summer Intern - City Design](https://jobright.ai/jobs/info/6ae8e4ff777c336eb6d67658?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 02 |
 | ↳ | **[Summer Intern - Interior Design](https://jobright.ai/jobs/info/6ae8e501a2a252e21942a990?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 02 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Creative Development Intern, NYT Wirecutter](https://jobright.ai/jobs/info/6ae4e146d7424a2a828e98e7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Oct 30 |
 | **[Ware Malcomb](http://www.waremalcomb.com)** | **[Intern, Interior Architecture & Design (Spring)](https://jobright.ai/jobs/info/6ae52f93c3139b475b5b967c?utm_campaign=1049&utm_source=git)** | Ottawa, ON, Canada | On Site | Oct 30 |
 | **[PAR, Inc.](https://www.parinc.com)** | **[GRAPHIC DESIGN-PRODUCTION INTERN](https://jobright.ai/jobs/info/6ae4941677c09cb3bd4acec3?utm_campaign=1049&utm_source=git)** | Lutz, FL, United States | On Site | Oct 30 |
-| **[Wolf Pack Athletics](https://wolfpack-athletics.com)** | **[Media & Content Creation Intern](https://jobright.ai/jobs/info/6ae4f6afd7424a2a828ea698?utm_campaign=1049&utm_source=git)** | Omaha, NE, United States | On Site | Oct 30 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
