@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30eecd45dc30fb7d27473?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ad7903867bec1d0d9c765b5?utm_campaign=1049&utm_source=git)** | Franklin, TN, United States | On Site | Nov 11 |
 | **[Rilla](https://www.rilla.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a878cf54afae74a083491ef?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[TikTok](https://www.tiktok.com)** | **[Product Design Intern (Monetization Ads) - 2027 Summer](https://jobright.ai/jobs/info/6a82c74f3eeac101cfa9bfc9?utm_campaign=1049&utm_source=git)** | San Jose | On Site | Nov 11 |
 | ↳ | **[Product Design Intern (TikTok-Design) - 2027 Summer](https://jobright.ai/jobs/info/6a7284decb96192a3684e64b?utm_campaign=1049&utm_source=git)** | San Jose, CA, United States | On Site | Nov 11 |
@@ -95,7 +97,7 @@ For a complete list, click the following sortable link below:
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6af361b17c81de7a524bee78?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 10 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Human Factors Intern, UX Research](https://jobright.ai/jobs/info/6af34f527c81de7a524be532?utm_campaign=1049&utm_source=git)** | Fontana, CA, United States | On Site | Nov 10 |
 | **[Omnicom](https://www.omc.com)** | **[Intern, Design](https://jobright.ai/jobs/info/6af34e17f6053e296fc7b3de?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 10 |
-| **[National Life Group](https://www.nationallife.com)** | **[Graphic Design Intern – Summer 2027](https://jobright.ai/jobs/info/6aba6680be5f1e93251154c0?utm_campaign=1049&utm_source=git)** | Addison, TX, United States | Hybrid | Nov 10 |
+| **[National Life Group](https://www.nationallife.com)** | **[Graphic Design Intern – Summer 2027](https://jobright.ai/jobs/info/6ababc3dee0b348be729b2c7?utm_campaign=1049&utm_source=git)** | Addison, TX, United States | Hybrid | Nov 10 |
 | **[Mountainside](http://mountainside.com)** | **[Creative Marketing Intern](https://jobright.ai/jobs/info/6af3a893769e9374033c8eae?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Imprivata](http://www.imprivata.com)** | **[Visual Design Intern (20-25 hours per week)](https://jobright.ai/jobs/info/6abbe29ca9a644f965688708?utm_campaign=1049&utm_source=git)** | Waltham, Massachusetts, United States | Hybrid | Nov 10 |
 | **[KHAITE](https://khaite.com/)** | **[Visual Merchandising Intern, Spring 2027](https://jobright.ai/jobs/info/6ad64440e4b94611ab83c804?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
@@ -126,7 +128,7 @@ For a complete list, click the following sortable link below:
 | **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Graphic Design and Digital Marketing Internship-Spring 2027](https://jobright.ai/jobs/info/6af34f9ef6053e296fc7b53e?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 09 |
 | **[Altice USA](https://www.optimum.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6af3f48bebe39ae3299d991a?utm_campaign=1049&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 09 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/6af226a662fb9f5fcd8951c5?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 09 |
-| **[Passero Associates](http://passero.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6aea099a913589212b1f23a7?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Nov 09 |
+| **[Passero Associates](http://passero.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6aea0e394f991d64376c9f4d?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Creative & Digital Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af2555a905985ccaa40bf21?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Digital Asset Management Spring Internship](https://jobright.ai/jobs/info/6af1f6cf1aaffa49f737f21f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 09 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2027 Summer Internship - Graphic Design / Photoshop Support Tech](https://jobright.ai/jobs/info/6af22aa2905985ccaa40a1d2?utm_campaign=1049&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 09 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Michael Kors](https://www.michaelkors.com/)** | **[2027 Capri Holdings Summer Corporate Internship Program – Store Design & Visual Experience](https://jobright.ai/jobs/info/6af20495905985ccaa407ad6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
 | **[Clark Associates](http://clarkassociatesinc.biz)** | **[UX Product Design Intern](https://jobright.ai/jobs/info/6af1caf562fb9f5fcd89111b?utm_campaign=1049&utm_source=git)** | Alaska, United States | Remote | Nov 09 |
 | ↳ | **[Graphic Design Intern, Brand](https://jobright.ai/jobs/info/6af1caea0cb834dad932050f?utm_campaign=1049&utm_source=git)** | Lititz, PA, United States | Remote | Nov 09 |
-| **[Garver](https://garverusa.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb265c7e2d715ebaeb5b?utm_campaign=1049&utm_source=git)** | Wichita, KS, United States | On Site | Nov 09 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6a63eb820c8e2b4f36dd0900?utm_campaign=1049&utm_source=git)** | Oklahoma City, Oklahoma, United States | On Site | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
