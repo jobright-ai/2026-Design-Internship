@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[CHS Inc.](https://www.chsinc.com)** | **[Corporate Landscape & Grounds Management Intern](https://jobright.ai/jobs/info/6ad9960e39284cd524287b35?utm_campaign=1049&utm_source=git)** | Inver Grove Heights, MN, United States | On Site | Nov 11 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2c2692b2612ef0f8d820?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Nov 11 |
+| **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/6ad79c783dc655658d8ee096?utm_campaign=1049&utm_source=git)** | Olathe, KS, United States | On Site | Nov 11 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30eecd45dc30fb7d27473?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ad7903867bec1d0d9c765b5?utm_campaign=1049&utm_source=git)** | Franklin, TN, United States | On Site | Nov 11 |
 | **[Rilla](https://www.rilla.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a878cf54afae74a083491ef?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[Franchise, Products & Partnerships: Creative and Product Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af1ec671aaffa49f737ec76?utm_campaign=1049&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
 | ↳ | **[Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1f01aaffa49f737e7fc?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
 | ↳ | **[Universal Television Entertainment Digital, Creative & Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af1e1eb0cb834dad9320db5?utm_campaign=1049&utm_source=git)** | Universal City, California, United States | On Site | Nov 09 |
-| **[Michael Kors](https://www.michaelkors.com/)** | **[2027 Capri Holdings Summer Corporate Internship Program – Store Design & Visual Experience](https://jobright.ai/jobs/info/6af20495905985ccaa407ad6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 09 |
-| **[Clark Associates](http://clarkassociatesinc.biz)** | **[UX Product Design Intern](https://jobright.ai/jobs/info/6af1caf562fb9f5fcd89111b?utm_campaign=1049&utm_source=git)** | Alaska, United States | Remote | Nov 09 |
-| ↳ | **[Graphic Design Intern, Brand](https://jobright.ai/jobs/info/6af1caea0cb834dad932050f?utm_campaign=1049&utm_source=git)** | Lititz, PA, United States | Remote | Nov 09 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
