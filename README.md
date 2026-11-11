@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Alexandra Peck Design](https://alexandrapeck.com)** | **[Junior Interior Design Intern](https://jobright.ai/jobs/info/6af4150ce229a09f4237a368?utm_campaign=1049&utm_source=git)** | West Hollywood, CA, United States | On Site | Nov 10 |
 | **[STITCH® Golf](https://stitchgolf.com)** | **[Design Intern](https://jobright.ai/jobs/info/6af38108769e9374033c70be?utm_campaign=1049&utm_source=git)** | Apex, NC, United States | On Site | Nov 10 |
 | **[Riot Games](http://www.riotgames.com)** | **[Motion Graphics Art Intern - Summer 2027](https://jobright.ai/jobs/info/6af3a9897c81de7a524c21eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | ↳ | **[Animation Art Intern - Summer 2027](https://jobright.ai/jobs/info/6af3a97310c7aed77861d08a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
@@ -76,7 +77,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af387574ac248020e8d217d?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 10 |
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Exhibit Design & Operations](https://jobright.ai/jobs/info/6af381a0f6053e296fc7d41f?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 10 |
-| **[Holiner](holiner.com)** | **[Graphic Design & Social Media Intern](https://jobright.ai/jobs/info/6af3946ef6053e296fc7e033?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | Hybrid | Nov 10 |
 | **[Colony Brands, Inc.](http://www.colonybrands.com/)** | **[Creative Services Specialist Internship](https://jobright.ai/jobs/info/6ae1120f829a3bada15fa483?utm_campaign=1049&utm_source=git)** | Monroe, WI, United States | On Site | Nov 10 |
 | ↳ | **[AI Image Production Specialist Internship](https://jobright.ai/jobs/info/6ae1121b6679108488c40bc1?utm_campaign=1049&utm_source=git)** | Monroe, WI, United States | On Site | Nov 10 |
 | **[Trilon](https://www.trilongroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6acfdf48c0dd9da253cf4f57?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 10 |
@@ -97,8 +97,8 @@ For a complete list, click the following sortable link below:
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6aba1a18eeb00e733cc0276b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6af31b864ac248020e8cdd74?utm_campaign=1049&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 10 |
 | **[Thomas & Hutton](http://thomasandhutton.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/6ac7af8551a1b3e4219edfb4?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Nov 10 |
-| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Nov 10 |
-| ↳ | **[Landscape Designer Intern](https://jobright.ai/jobs/info/6a62f5a8185082502f484841?utm_campaign=1049&utm_source=git)** | Charleston, WV, United States | Hybrid | Nov 10 |
+| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/6a62f5a8185082502f484841?utm_campaign=1049&utm_source=git)** | Charleston, WV, United States | Hybrid | Nov 10 |
+| ↳ | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Nov 10 |
 | **[Amplify](http://www.amplify.com)** | **[Summer 2027: Product Design Intern](https://jobright.ai/jobs/info/6ad66a8d67bec1d0d9c6eb70?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 | **[HDR](http://www.hdrinc.com)** | **[User Experience Designer Intern](https://jobright.ai/jobs/info/6abaaf0bd2914e9273eecb14?utm_campaign=1049&utm_source=git)** | Omaha, NE, United States | On Site | Nov 10 |
 | **[Gentherm](https://gentherm.com/)** | **[Marketing Technology and UI/UX Intern](https://jobright.ai/jobs/info/6acdbd1c3e2155b545aa1bf9?utm_campaign=1049&utm_source=git)** | Novi, MI, United States | On Site | Nov 10 |
@@ -117,7 +117,7 @@ For a complete list, click the following sortable link below:
 | **[ZooTampa at Lowry Park](https://zootampa.org/)** | **[Graphic Design and Digital Marketing Internship-Spring 2027](https://jobright.ai/jobs/info/6af34f9ef6053e296fc7b53e?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 09 |
 | **[Altice USA](https://www.optimum.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6af3f48bebe39ae3299d991a?utm_campaign=1049&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 09 |
 | **[Duolingo](https://www.duolingo.com)** | **[Product Designer, Thrive Intern](https://jobright.ai/jobs/info/6af226a662fb9f5fcd8951c5?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 09 |
-| **[Passero Associates](http://passero.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6aea099a913589212b1f23a7?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Nov 09 |
+| **[Passero Associates](http://passero.com)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6aea0e394f991d64376c9f4d?utm_campaign=1049&utm_source=git)** | Rochester, NY, United States | On Site | Nov 09 |
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Creative & Digital Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af2555a905985ccaa40bf21?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 09 |
 | **[U-Haul](http://www.uhaul.com/)** | **[Digital Asset Management Spring Internship](https://jobright.ai/jobs/info/6af1f6cf1aaffa49f737f21f?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 09 |
 | **[Duncan Aviation](https://www.duncanaviation.aero/)** | **[2027 Summer Internship - Graphic Design / Photoshop Support Tech](https://jobright.ai/jobs/info/6af22aa2905985ccaa40a1d2?utm_campaign=1049&utm_source=git)** | Lincoln, NE, United States | On Site | Nov 09 |
