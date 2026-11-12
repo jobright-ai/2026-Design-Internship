@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[David Yurman](http://www.davidyurman.com)** | **[Women's Design, Design Projects Intern](https://jobright.ai/jobs/info/6ad8f220e4b94611ab850b47?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
+| **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027](https://jobright.ai/jobs/info/6ad8d095b0725dc268dd61f0?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 12 |
+| **[CPL](http://www.cplteam.com)** | **[Architecture Intern - Healthcare Practice](https://jobright.ai/jobs/info/6ae7f5b56c51033758f3e271?utm_campaign=1049&utm_source=git)** | Fairport, NY, United States | On Site | Nov 12 |
 | **[LJA](https://www.lja.com/)** | **[Intern - Graphic Design](https://jobright.ai/jobs/info/6ad916ef39284cd52428409a?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Nov 12 |
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Creative Services](https://jobright.ai/jobs/info/6ac8abd0fcdafb60c6a49093?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 12 |
 | **[C.T. Male Associates Engineering, Surveying, Architecture, Landscape Architecture & Geology, DPC](http://ctmale.com)** | **[Architectural Student Intern](https://jobright.ai/jobs/info/6abbfec392b2612ef0f8c390?utm_campaign=1049&utm_source=git)** | Latham, NY, United States | On Site | Nov 12 |
@@ -105,7 +108,6 @@ For a complete list, click the following sortable link below:
 | **[NBCUniversal](https://www.nbcuniversal.com)** | **[NBC News Creative & Digital Design Internships – Summer 2027](https://jobright.ai/jobs/info/6af49139cd7be4db20d862b2?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 11 |
 | **[Kendall Hunt Publishing Company](https://www.kendallhunt.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af48f3a2278454e18c360ef?utm_campaign=1049&utm_source=git)** | Dubuque, IA, United States | On Site | Nov 11 |
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aa065f8a2266b538d230128?utm_campaign=1049&utm_source=git)** | Richardson, TX, United States | Hybrid | Nov 11 |
-| **[CPL](http://www.cplteam.com)** | **[Architecture Intern - Healthcare Practice](https://jobright.ai/jobs/info/6ae7f5b56c51033758f3e271?utm_campaign=1049&utm_source=git)** | Fairport, NY, United States | On Site | Nov 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Summer 2027](https://jobright.ai/jobs/info/6ad7dbf767bec1d0d9c79d7a?utm_campaign=1049&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 11 |
 | **[Dana-co LLC](https://www.dana-co.com)** | **[Intimate Apparel Design Internship](https://jobright.ai/jobs/info/6af57d85a3cce217be6c9d8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Food Lion](https://www.foodlion.com)** | **[Intern - Center Store Category](https://jobright.ai/jobs/info/6a9ee393352f093fc756d06e?utm_campaign=1049&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 11 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[ServiceNow](http://www.servicenow.com)** | **[Experience Team – UX Research Internships – Summer 2027](https://jobright.ai/jobs/info/6ae0d44e5a5afc94bd2c7964?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
 | **[Addepar](https://addepar.com)** | **[Design Intern - Summer 2027](https://jobright.ai/jobs/info/6af344cc7c81de7a524bdb7b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6af361b17c81de7a524bee78?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 10 |
-| **[Omnicom](https://www.omc.com)** | **[Intern, Design](https://jobright.ai/jobs/info/6af34e17f6053e296fc7b3de?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 10 |
-| **[National Life Group](https://www.nationallife.com)** | **[Graphic Design Intern – Summer 2027](https://jobright.ai/jobs/info/6aba6680be5f1e93251154c0?utm_campaign=1049&utm_source=git)** | Addison, TX, United States | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
