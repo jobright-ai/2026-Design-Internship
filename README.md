@@ -57,12 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[7th Peak Marketing](https://www.7thpeakmarketing.com)** | **[Marketing Winter Internship (Graphic Design/Social Media Management)](https://jobright.ai/jobs/info/6af6265ea4a5218a07e83be9?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | Hybrid | Nov 12 |
 | **[Cedar](https://cedar.build)** | **[Architectural Design Intern - Summer 2027](https://jobright.ai/jobs/info/6af6225179862a378dcf1036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[dataing](https://www.dataing.io/)** | **[TIk Tok Intern ❤️](https://jobright.ai/jobs/info/6af61ac58cc703bba47afdaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Parsons Corporation](http://www.parsons.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6af361b17c81de7a524bee78?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 12 |
 | **[AARP](http://www.aarp.org)** | **[Venture Studio Intern (Spring 2027)](https://jobright.ai/jobs/info/6ada2d92950ef68d51854b41?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 12 |
-| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa1be770ffb3d4fea6b6ca6?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 12 |
-| ↳ | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa17973ef23570cae244037?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 12 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa17973ef23570cae244037?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 12 |
+| ↳ | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa1be770ffb3d4fea6b6ca6?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 12 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ae15d35de23f466ec8be889?utm_campaign=1049&utm_source=git)** | Pittston, PA, United States | On Site | Nov 12 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/6af6034bf10ae27369e15bff?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
 | **[Keeler & Co. Interior Design](https://www.keelerandco.com)** | **[Winter/Spring 2027 Interior Design Internship](https://jobright.ai/jobs/info/6af6016e8cc703bba47aeea5?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6af36a6380020ca3a8975807?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af387574ac248020e8d217d?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
 | **[STITCH® Golf](https://stitchgolf.com)** | **[Design Intern](https://jobright.ai/jobs/info/6af38108769e9374033c70be?utm_campaign=1049&utm_source=git)** | Apex, NC, United States | On Site | Nov 10 |
-| **[Riot Games](http://www.riotgames.com)** | **[Motion Graphics Art Intern - Summer 2027](https://jobright.ai/jobs/info/6af3a9897c81de7a524c21eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
