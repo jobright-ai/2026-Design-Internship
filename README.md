@@ -57,6 +57,12 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Cedar](https://cedar.build)** | **[Architectural Design Intern - Summer 2027](https://jobright.ai/jobs/info/6af6225179862a378dcf1036?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
+| **[dataing](https://www.dataing.io/)** | **[TIk Tok Intern ❤️](https://jobright.ai/jobs/info/6af61ac58cc703bba47afdaa?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 12 |
+| **[Parsons Corporation](http://www.parsons.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6af361b17c81de7a524bee78?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 12 |
+| **[AARP](http://www.aarp.org)** | **[Venture Studio Intern (Spring 2027)](https://jobright.ai/jobs/info/6ada2d92950ef68d51854b41?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 12 |
+| **[Navy Federal Credit Union](http://www.navyfederal.org)** | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa1be770ffb3d4fea6b6ca6?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | On Site | Nov 12 |
+| ↳ | **[Summer Associate Internship (Data Storytelling & Visual Communications)](https://jobright.ai/jobs/info/6aa17973ef23570cae244037?utm_campaign=1049&utm_source=git)** | Pensacola, FL, United States | Hybrid | Nov 12 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ae15d35de23f466ec8be889?utm_campaign=1049&utm_source=git)** | Pittston, PA, United States | On Site | Nov 12 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/6af6034bf10ae27369e15bff?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
 | **[Keeler & Co. Interior Design](https://www.keelerandco.com)** | **[Winter/Spring 2027 Interior Design Internship](https://jobright.ai/jobs/info/6af6016e8cc703bba47aeea5?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
@@ -73,6 +79,7 @@ For a complete list, click the following sortable link below:
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6aa03f6f5b2d5633ef3bd61a?utm_campaign=1049&utm_source=git)** | Richardson, TX, United States | Hybrid | Nov 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ad91c5939284cd5242843de?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
 | **[Diskcopy LLC](http://www.diskcopy.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af5d60979862a378dcee075?utm_campaign=1049&utm_source=git)** | Highland Heights, OH, United States | On Site | Nov 12 |
+| **[Farnsworth Group, Inc.](http://f-w.com)** | **[Asset Management Intern - Summer 2027](https://jobright.ai/jobs/info/6abd490b0e027c0f3b394c58?utm_campaign=1049&utm_source=git)** | Fort Collins, CO, United States | On Site | Nov 12 |
 | **[AEG](http://www.aegworldwide.com)** | **[CMN Internship (Touring)](https://jobright.ai/jobs/info/6abd56184ac55253f5d5cdb7?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[Women's Design, Design Projects Intern](https://jobright.ai/jobs/info/6ad8f220e4b94611ab850b47?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[Packaging Science Engineering Intern, Graphics/Graphic Design - Summer 2027](https://jobright.ai/jobs/info/6ad8d095b0725dc268dd61f0?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 12 |
@@ -146,15 +153,8 @@ For a complete list, click the following sortable link below:
 | **[3M](https://www.3m.com)** | **[Internship - 2027 Undergraduate 3M UX/UI Design Intern - Safety & Industrial Business Group (SIBG)](https://jobright.ai/jobs/info/6acd2fbc3c831dc4086c10b7?utm_campaign=1049&utm_source=git)** | Maplewood, MN, United States | On Site | Nov 11 |
 | ↳ | **[Internship - 2027 Undergraduate 3M Brand Design Intern - Safety & Industrial Business Group (SIBG)](https://jobright.ai/jobs/info/6acd3a27e7a1d93332110a3c?utm_campaign=1049&utm_source=git)** | Maplewood, MN, United States | On Site | Nov 11 |
 | **[James Hardie](https://www.jameshardie.com)** | **[Human Factors Intern, UX Research](https://jobright.ai/jobs/info/6af54a2a9144106c56a24daf?utm_campaign=1049&utm_source=git)** | Fontana, CA, United States | On Site | Nov 11 |
-| **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6af387574ac248020e8d217d?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af36a6380020ca3a8975807?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
+| **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern](https://jobright.ai/jobs/info/6af36a6380020ca3a8975807?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af387574ac248020e8d217d?utm_campaign=1049&utm_source=git)** | Roanoke, VA, United States | Hybrid | Nov 10 |
 | **[STITCH® Golf](https://stitchgolf.com)** | **[Design Intern](https://jobright.ai/jobs/info/6af38108769e9374033c70be?utm_campaign=1049&utm_source=git)** | Apex, NC, United States | On Site | Nov 10 |
 | **[Riot Games](http://www.riotgames.com)** | **[Motion Graphics Art Intern - Summer 2027](https://jobright.ai/jobs/info/6af3a9897c81de7a524c21eb?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 10 |
-| ↳ | **[Animation Art Intern - Summer 2027](https://jobright.ai/jobs/info/6af3a97310c7aed77861d08a?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 10 |
-| ↳ | **[Concept Art Intern, Teamfight Tactics - Summer 2027](https://jobright.ai/jobs/info/6af3a3aa7c81de7a524c1f09?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Remote | Nov 10 |
-| **[Formlabs](http://www.formlabs.com)** | **[Industrial Design Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6a9768f9d13b4819f39e0e74?utm_campaign=1049&utm_source=git)** | Somerville, MA, United States | On Site | Nov 10 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1604acb0a61f9dbc8e03?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
-| **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Experience Team Intern](https://jobright.ai/jobs/info/6af3691a7c81de7a524bf458?utm_campaign=1049&utm_source=git)** | Topeka, KS, United States | On Site | Nov 10 |
-| **[ServiceNow](http://www.servicenow.com)** | **[Experience Team – Associate Product Design Internships – Summer 2027](https://jobright.ai/jobs/info/6ae10ed405a39c3e2c70fa54?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
-| **[Optimum](https://www.optimum.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6af3693980020ca3a8975578?utm_campaign=1049&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
