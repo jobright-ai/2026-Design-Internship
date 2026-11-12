@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ae15d35de23f466ec8be889?utm_campaign=1049&utm_source=git)** | Pittston, PA, United States | On Site | Nov 12 |
 | **[Kum & Go](https://www.kumandgo.com/)** | **[Sports Graphic Design Intern](https://jobright.ai/jobs/info/6af6034bf10ae27369e15bff?utm_campaign=1049&utm_source=git)** | Des Moines, IA, United States | On Site | Nov 12 |
 | **[Keeler & Co. Interior Design](https://www.keelerandco.com)** | **[Winter/Spring 2027 Interior Design Internship](https://jobright.ai/jobs/info/6af6016e8cc703bba47aeea5?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
 | **[Southern Glazer's Wine & Spirits](http://www.southernglazers.com/)** | **[2027 Summer Internship Digital Design- Miramar, FL or Atlanta, GA](https://jobright.ai/jobs/info/6af601198cc703bba47aee6a?utm_campaign=1049&utm_source=git)** | Miramar, FL, United States | On Site | Nov 12 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Experience Team Intern](https://jobright.ai/jobs/info/6af3691a7c81de7a524bf458?utm_campaign=1049&utm_source=git)** | Topeka, KS, United States | On Site | Nov 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Experience Team – Associate Product Design Internships – Summer 2027](https://jobright.ai/jobs/info/6ae10ed405a39c3e2c70fa54?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
 | **[Optimum](https://www.optimum.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6af3693980020ca3a8975578?utm_campaign=1049&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 10 |
-| **[TSP, Inc. - Architecture | Engineering | Planning](http://teamtsp.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b4ecd7be4db20d85808?utm_campaign=1049&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
