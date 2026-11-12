@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6aa0a6baea127c37946984a3?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Remote | Nov 12 |
 | **[Newell Brands](https://www.newellbrands.com/)** | **[2027 Newell Brands Intern- Industrial Design](https://jobright.ai/jobs/info/6af579399144106c56a25960?utm_campaign=1049&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 12 |
 | ↳ | **[2027 Newell Brands Intern- Brand Design](https://jobright.ai/jobs/info/6af5792e9144106c56a25954?utm_campaign=1049&utm_source=git)** | Sandy Springs, GA, United States | On Site | Nov 12 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af55d05a3cce217be6c98bd?utm_campaign=1049&utm_source=git)** | Dayton, OH, United States | On Site | Nov 11 |
@@ -98,6 +99,7 @@ For a complete list, click the following sortable link below:
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aa065f8a2266b538d230128?utm_campaign=1049&utm_source=git)** | Richardson, TX, United States | Hybrid | Nov 11 |
 | **[CPL](http://www.cplteam.com)** | **[Architecture Intern - Healthcare Practice](https://jobright.ai/jobs/info/6ae7f5b56c51033758f3e271?utm_campaign=1049&utm_source=git)** | Fairport, NY, United States | On Site | Nov 11 |
 | **[BNP Paribas](https://group.bnpparibas)** | **[Business Presentation Specialist Intern – Summer 2027](https://jobright.ai/jobs/info/6ad7dbf767bec1d0d9c79d7a?utm_campaign=1049&utm_source=git)** | Montreal, QC, Canada | On Site | Nov 11 |
+| **[Dana-co LLC](https://www.dana-co.com)** | **[Intimate Apparel Design Internship](https://jobright.ai/jobs/info/6af57d85a3cce217be6c9d8a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
 | **[Food Lion](https://www.foodlion.com)** | **[Intern - Center Store Category](https://jobright.ai/jobs/info/6a9ee393352f093fc756d06e?utm_campaign=1049&utm_source=git)** | Salisbury, NC, United States | On Site | Nov 11 |
 | **[Unisys](http://www.unisys.com)** | **[Graphic Designer Intern (College Junior or Senior)](https://jobright.ai/jobs/info/6ad86c84950ef68d518483af?utm_campaign=1049&utm_source=git)** | Blue Bell, PA, United States | On Site | Nov 11 |
 | **[Burns & McDonnell](http://www.burnsmcd.com)** | **[Interior Design Intern (Kansas City)](https://jobright.ai/jobs/info/6abbed003217d1d13329be20?utm_campaign=1049&utm_source=git)** | Kansas City, MO, United States | On Site | Nov 11 |
@@ -129,9 +131,9 @@ For a complete list, click the following sortable link below:
 | **[Advisors Excel](http://advisorsexcel.com)** | **[Creative Experience Team Intern](https://jobright.ai/jobs/info/6af3691a7c81de7a524bf458?utm_campaign=1049&utm_source=git)** | Topeka, KS, United States | On Site | Nov 10 |
 | **[ServiceNow](http://www.servicenow.com)** | **[Experience Team – Associate Product Design Internships – Summer 2027](https://jobright.ai/jobs/info/6ae10ed405a39c3e2c70fa54?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | Hybrid | Nov 10 |
 | **[Optimum](https://www.optimum.com/)** | **[Intern - Product Design](https://jobright.ai/jobs/info/6af3693980020ca3a8975578?utm_campaign=1049&utm_source=git)** | Bethpage, NY, United States | On Site | Nov 10 |
-| **[TSP, Inc. - Architecture | Engineering | Planning](http://teamtsp.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b513a9a26aee709d8bb?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 10 |
+| **[TSP, Inc. - Architecture | Engineering | Planning](http://teamtsp.com)** | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b4ecd7be4db20d85808?utm_campaign=1049&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 10 |
 | ↳ | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b4acd7be4db20d85805?utm_campaign=1049&utm_source=git)** | Rochester, MN, United States | On Site | Nov 10 |
-| ↳ | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b4ecd7be4db20d85808?utm_campaign=1049&utm_source=git)** | Rapid City, SD, United States | On Site | Nov 10 |
+| ↳ | **[Architectural Internship](https://jobright.ai/jobs/info/6af47b513a9a26aee709d8bb?utm_campaign=1049&utm_source=git)** | Sioux Falls, SD, United States | On Site | Nov 10 |
 | **[Haworth](http://www.haworth.com/)** | **[Technical Graphic Design Intern](https://jobright.ai/jobs/info/6af54a1a2278454e18c3bc83?utm_campaign=1049&utm_source=git)** | Holland, MI, United States | On Site | Nov 10 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship - Architecture](https://jobright.ai/jobs/info/6af37240f6053e296fc7ca10?utm_campaign=1049&utm_source=git)** | Valparaiso, IN, United States | On Site | Nov 10 |
 | **[Notion](https://www.notion.com)** | **[Product Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6af36c874ac248020e8d1007?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 10 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[DMS International](https://dmsinetwork.com)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6a8e068447679c68bf5e6490?utm_campaign=1049&utm_source=git)** | Silver Spring, MD, United States | Remote | Nov 10 |
 | **[Fox News Media](https://www.foxnews.com/)** | **[Summer 2027 FOX News Media Internship Program - Graphic Design - New York](https://jobright.ai/jobs/info/6aba1a18eeb00e733cc0276b?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 10 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6af31b864ac248020e8cdd74?utm_campaign=1049&utm_source=git)** | Niles, IL, United States | Hybrid | Nov 10 |
-| **[Thomas & Hutton](http://thomasandhutton.com)** | **[Landscape Architecture Internship](https://jobright.ai/jobs/info/6ac7af8551a1b3e4219edfb4?utm_campaign=1049&utm_source=git)** | Savannah, GA, United States | On Site | Nov 10 |
-| **[GAI Consultants, Inc.](http://gaiconsultants.com/)** | **[Landscape Designer Intern](https://jobright.ai/jobs/info/699c69a481476f6176b4f8a9?utm_campaign=1049&utm_source=git)** | Charleston, West Virginia, United States | Hybrid | Nov 10 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
