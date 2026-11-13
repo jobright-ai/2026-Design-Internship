@@ -57,10 +57,16 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[AOA](https://www.insideaoa.com/)** | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6af642aff10ae27369e18683?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| **[Ampact](https://join.readingandmath.org/careers-home)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ae40749d45dc30fb7d2e80f?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Nov 12 |
+| **[AOA](https://www.insideaoa.com/)** | **[Show Set Design Intern](https://jobright.ai/jobs/info/6af642af79862a378dcf284e?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6af642bd80054650a5e7dcca?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6af642aff10ae27369e18683?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af642be323c531f31e31b03?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Concept Design Intern- CA](https://jobright.ai/jobs/info/6af642aef10ae27369e18681?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | On Site | Nov 12 |
+| ↳ | **[Concept Design Intern- FL](https://jobright.ai/jobs/info/6af642b379862a378dcf2851?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | **[House Of Flavors Inc.](http://www.houseofflavors.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6af672268a9bd36b08993464?utm_campaign=1049&utm_source=git)** | Laurel, MD, United States | Hybrid | Nov 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aea4113440b469a1c0ac2ad?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
-| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6af63ab5323c531f31e3120b?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6af63ab5323c531f31e3120b?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
+| ↳ | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aea4113440b469a1c0ac2ad?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
 | **[Tampa Electric](http://www.tampaelectric.com)** | **[Spring 2027 Student Internship - Proj Mang/Interior Design Facility Svc](https://jobright.ai/jobs/info/6ab750b1d7fde2c08ec8b7cc?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 12 |
 | **[Dell Technologies](https://www.dell.com)** | **[User Experience (UX) Research Intern](https://jobright.ai/jobs/info/6af63a92a4a5218a07e8474b?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | On Site | Nov 12 |
 | **[AECOM](http://www.aecom.com/)** | **[Interior Design Intern - Hiring Event with AECOM - Arlington, VA](https://jobright.ai/jobs/info/6af4ce713a9a26aee70a09ac?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 12 |
@@ -79,11 +85,6 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern - Spring 2027](https://jobright.ai/jobs/info/6ae8e41303f4a1104b25777f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 12 |
 | **[Coinbase](https://www.coinbase.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6aa08bc03b5aa83237b09cdd?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 12 |
 | **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern - Summer 2027](https://jobright.ai/jobs/info/6af5cfd6f10ae27369e13c14?utm_campaign=1049&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 12 |
-| **[AOA](https://www.insideaoa.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6af642bd80054650a5e7dcca?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
-| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af642be323c531f31e31b03?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
-| ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/6af642af79862a378dcf284e?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
-| ↳ | **[Concept Design Intern- FL](https://jobright.ai/jobs/info/6af642b379862a378dcf2851?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
-| ↳ | **[Concept Design Intern- CA](https://jobright.ai/jobs/info/6af642aef10ae27369e18681?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | On Site | Nov 12 |
 | **[CPL](http://www.cplteam.com)** | **[Architecture Intern - Healthcare Practice](https://jobright.ai/jobs/info/6ae7f5b56c51033758f3e271?utm_campaign=1049&utm_source=git)** | Fairport, NY, United States | On Site | Nov 12 |
 | **[David Yurman](http://www.davidyurman.com)** | **[3D Design Intern](https://jobright.ai/jobs/info/6ad91c80e4b94611ab8531a0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 12 |
 | **[Fossil Group, Inc.](http://www.fossilgroup.com/)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6aa03f6f5b2d5633ef3bd61a?utm_campaign=1049&utm_source=git)** | Richardson, TX, United States | Hybrid | Nov 12 |
@@ -119,9 +120,9 @@ For a complete list, click the following sortable link below:
 | **[GPD Group](http://gpdgroup.com)** | **[Interior Design Intern/Co-op - Summer 2027](https://jobright.ai/jobs/info/6af506a21b2c5dcbbcd664b2?utm_campaign=1049&utm_source=git)** | Akron, OH, United States | On Site | Nov 11 |
 | **[The Revels Group](https://therevelsgroup.com)** | **[The Revels Group “Impact Player” Music Internship Program: Spring 2027- Apply now!](https://jobright.ai/jobs/info/6af503e92278454e18c3a61e?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 11 |
 | **[Retrofête](https://retrofete.com/)** | **[Social Media Intern](https://jobright.ai/jobs/info/6af65b4980054650a5e7e5a0?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 11 |
-| **[Bask Health](https://www.bask.bio/)** | **[UX Writing Intern](https://jobright.ai/jobs/info/6af648c3f10ae27369e18913?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
+| **[Bask Health](https://www.bask.bio/)** | **[Product Design Intern](https://jobright.ai/jobs/info/6af648c6323c531f31e31dd6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
+| ↳ | **[UX Writing Intern](https://jobright.ai/jobs/info/6af648c3f10ae27369e18913?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
 | ↳ | **[UX Research Intern](https://jobright.ai/jobs/info/6af648c180054650a5e7df60?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6af648c6323c531f31e31dd6?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 11 |
 | **[ASICS America Corporation](https://www.asicsamerica.com)** | **[Intern, Performance Color Design](https://jobright.ai/jobs/info/6af65cd880054650a5e7e690?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 11 |
 | **[ASICS](https://corp.asics.com/en/ventures)** | **[Intern, Performance Color Design](https://jobright.ai/jobs/info/6af65cea8cc703bba47b2425?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 11 |
 | **[Riot Games](http://www.riotgames.com)** | **[Rendering Technical Art Intern, League of Legends - Summer 2027](https://jobright.ai/jobs/info/6af4c05ccbd2ee75d155ccbb?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | On Site | Nov 11 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2c2692b2612ef0f8d820?utm_campaign=1049&utm_source=git)** | Frisco, TX, United States | On Site | Nov 11 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abd11850e027c0f3b393428?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 11 |
 | **[Garmin](https://www.garmin.com/en-US/)** | **[User Interface Designer Intern](https://jobright.ai/jobs/info/6ad79c783dc655658d8ee096?utm_campaign=1049&utm_source=git)** | Olathe, KS, United States | On Site | Nov 11 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30eecd45dc30fb7d27473?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 11 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
