@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Internship - Creative & Illustration Intern](https://jobright.ai/jobs/info/6af9ad3348f3528e5a72f9e0?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 15 |
+| ↳ | **[Summer 2027 Internship - Game Design Intern](https://jobright.ai/jobs/info/6af9ad30f015f35e7418dbf1?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 15 |
 | **[Bauer Entertainment Marketing](https://www.bauerentertainmentmarketing.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af9dd45a68705504beba837?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Progressive Companies](https://www.weareprogressive.com)** | **[Summer 2027 Urban Design Intern](https://jobright.ai/jobs/info/6abfbb71064da25272e05991?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | On Site | Nov 15 |
 | **[dataing](https://www.dataing.io/)** | **[TIk Tok Intern 💘💘💘](https://jobright.ai/jobs/info/6af9c8d248f3528e5a72fd2a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
@@ -64,8 +66,6 @@ For a complete list, click the following sortable link below:
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6af9ba555c0a9086f361534b?utm_campaign=1049&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 15 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[UX/UI Design Intern - Summer 2027](https://jobright.ai/jobs/info/6adcae850a4cc7090f977f49?utm_campaign=1049&utm_source=git)** | Valley City, OH, United States | On Site | Nov 15 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c73d96632d741ae65f?utm_campaign=1049&utm_source=git)** | Woodstock, GA, United States | On Site | Nov 15 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Internship - Creative & Illustration Intern](https://jobright.ai/jobs/info/6af9ad3348f3528e5a72f9e0?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 15 |
-| ↳ | **[Summer 2027 Internship - Game Design Intern](https://jobright.ai/jobs/info/6af9ad30f015f35e7418dbf1?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 15 |
 | **[Pennoni](http://www.pennoni.com)** | **[Landscape Architect Intern](https://jobright.ai/jobs/info/6af36de180020ca3a897596c?utm_campaign=1049&utm_source=git)** | Leesburg, Virginia, United States | On Site | Nov 15 |
 | **[VerdeGo](https://verdego.com)** | **[Landscape Internship](https://jobright.ai/jobs/info/6a640aa5e8d8d22e3292bcf1?utm_campaign=1049&utm_source=git)** | Bunnell, FL, United States | On Site | Nov 15 |
 | **[Pratt Industries](http://www.prattindustries.com)** | **[Design Intern](https://jobright.ai/jobs/info/6ac7d54044d6e65604a0492a?utm_campaign=1049&utm_source=git)** | Rockwall, TX, United States | On Site | Nov 15 |
@@ -156,5 +156,5 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Concept Design Intern- CA](https://jobright.ai/jobs/info/6af642aef10ae27369e18681?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | On Site | Nov 12 |
 | ↳ | **[Concept Design Intern- FL](https://jobright.ai/jobs/info/6af642b379862a378dcf2851?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | **[House Of Flavors Inc.](http://www.houseofflavors.com)** | **[Graphic Designer Intern](https://jobright.ai/jobs/info/6af672268a9bd36b08993464?utm_campaign=1049&utm_source=git)** | Laurel, MD, United States | Hybrid | Nov 12 |
-| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6af63ab5323c531f31e3120b?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 12 |
+| **[HDR](http://www.hdrinc.com)** | **[Architectural Design Intern](https://jobright.ai/jobs/info/6aea4113440b469a1c0ac2ad?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
