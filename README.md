@@ -96,7 +96,7 @@ For a complete list, click the following sortable link below:
 | **[Texell Credit Union](http://texell.org)** | **[Marketing Graphic Design Intern](https://jobright.ai/jobs/info/6af804aa86a9b19681af76a0?utm_campaign=1049&utm_source=git)** | Temple, TX, United States | On Site | Nov 13 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 13 |
 | **[Trihydro Corporation](https://www.trihydro.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6a74ce9c7b3417772ade1aa9?utm_campaign=1049&utm_source=git)** | Laramie, WY, United States | On Site | Nov 13 |
-| **[AECOM](http://www.aecom.com/)** | **[Landscape Architecture Design Intern](https://jobright.ai/jobs/info/6af77bdf8242286400645d58?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
+| **[AECOM](http://www.aecom.com/)** | **[Landscape Architecture Design Intern](https://jobright.ai/jobs/info/6af76878d0eefb7d11b8c1cf?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Automotive Design - Spring 2027](https://jobright.ai/jobs/info/6af7e9114ddfc50167b94c60?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 13 |
 | **[Zoox](https://www.zoox.com/)** | **[Industrial Design Intern [Summer 2027]](https://jobright.ai/jobs/info/6af7ccb234e2d29dcb751910?utm_campaign=1049&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 13 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 13 |
@@ -117,8 +117,8 @@ For a complete list, click the following sortable link below:
 | **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Spring - Design Intern](https://jobright.ai/jobs/info/6af7738ce3d8d612bf4237f0?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | ↳ | **[Summer - Design Intern](https://jobright.ai/jobs/info/6af771933ba46d7b6c166bd8?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | ↳ | **[Summer - Design Intern](https://jobright.ai/jobs/info/6af77079d0eefb7d11b8c66e?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Content - Photo Still Internship](https://jobright.ai/jobs/info/6af78b76e3d8d612bf4248f5?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| ↳ | **[Spring 2027 Content - Photo Internship](https://jobright.ai/jobs/info/6af77d62c7349029d709668c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Content - Photo Internship](https://jobright.ai/jobs/info/6af77d62c7349029d709668c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
+| ↳ | **[Spring 2027 Content - Photo Still Internship](https://jobright.ai/jobs/info/6af78b76e3d8d612bf4248f5?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Summer - Design Intern](https://jobright.ai/jobs/info/6af7693841166cab7564b342?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | **[The New York Times](https://www.nytco.com/)** | **[Editorial Design Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e9a2eab1f9673097e13a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 13 |
 | ↳ | **[Creative Development Intern, Wirecutter](https://jobright.ai/jobs/info/6ae4e146d7424a2a828e98e7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
@@ -152,8 +152,8 @@ For a complete list, click the following sortable link below:
 | **[Al-Terra](https://al-terra.com)** | **[Landscape Architect Student Intern](https://jobright.ai/jobs/info/6af760d98242286400644a17?utm_campaign=1049&utm_source=git)** | Edmonton, AB, Canada | On Site | Nov 12 |
 | **[Ampact](https://join.readingandmath.org/careers-home)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6ae40749d45dc30fb7d2e80f?utm_campaign=1049&utm_source=git)** | Minnesota, United States | On Site | Nov 12 |
 | **[Benco Dental](https://www.benco.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6aad7c000ebc8fb2313e9c33?utm_campaign=1049&utm_source=git)** | Pittston, PA, United States | Hybrid | Nov 12 |
-| **[AOA](https://www.insideaoa.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6af642bd80054650a5e7dcca?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
-| ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/6af642af79862a378dcf284e?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| **[AOA](https://www.insideaoa.com/)** | **[Show Set Design Intern](https://jobright.ai/jobs/info/6af642af79862a378dcf284e?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6af642bd80054650a5e7dcca?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | ↳ | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6af642aff10ae27369e18683?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af642be323c531f31e31b03?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | ↳ | **[Concept Design Intern- CA](https://jobright.ai/jobs/info/6af642aef10ae27369e18681?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | On Site | Nov 12 |
