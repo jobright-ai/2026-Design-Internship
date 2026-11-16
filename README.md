@@ -59,7 +59,6 @@ For a complete list, click the following sortable link below:
 | ----- | --------- |  --------- | ---- | ------- |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Winter Intern](https://jobright.ai/jobs/info/6afaa77a1b2ad3687b071da4?utm_campaign=1049&utm_source=git)** | Dayton, OH, United States | On Site | Nov 15 |
 | **[vineyard vines](http://www.vineyardvines.com)** | **[Spring 2027 Internship - Outlet Design](https://jobright.ai/jobs/info/6afa5faaa68705504bebba59?utm_campaign=1049&utm_source=git)** | Stamford, CT, United States | On Site | Nov 15 |
-| **[TWR Europe](www.twr.org/europe)** | **[Graphic Design Intern for TWR Colombia](https://jobright.ai/jobs/info/6afa175d5c0a9086f3615e0c?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 15 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af734f73ba46d7b6c164171?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[Filming, Photography Internship](https://jobright.ai/jobs/info/6af9f8255c0a9086f3615b57?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Ontario, Canada | Remote | Nov 15 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Photo and Video Marketing Production](https://jobright.ai/jobs/info/6aa457c91d92e2d05d1146d6?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 15 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[AOA](https://www.insideaoa.com/)** | **[Architecture Intern](https://jobright.ai/jobs/info/6af642bd80054650a5e7dcca?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | ↳ | **[Show Set Design Intern](https://jobright.ai/jobs/info/6af642af79862a378dcf284e?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 | ↳ | **[Visioning & Planning Intern](https://jobright.ai/jobs/info/6af642aff10ae27369e18683?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
+| ↳ | **[Interior Design Intern](https://jobright.ai/jobs/info/6af642be323c531f31e31b03?utm_campaign=1049&utm_source=git)** | Winter Park, FL, United States | On Site | Nov 12 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
