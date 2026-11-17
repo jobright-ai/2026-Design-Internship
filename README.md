@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Jacobs](http://www.jacobs.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6afbe36d40b855eb290c850c?utm_campaign=1049&utm_source=git)** | Portland, OR, United States | Hybrid | Nov 16 |
+| **[Clark Associates](http://clarkassociatesinc.biz)** | **[Product Design Intern - Marketing Sites (Remote)](https://jobright.ai/jobs/info/6afbe05540b855eb290c800f?utm_campaign=1049&utm_source=git)** | Alaska, United States | Remote | Nov 16 |
+| **[ToolBox Construction](https://www.toolboxsf.co)** | **[Design Internship](https://jobright.ai/jobs/info/6afbda0d40b855eb290c7d0c?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 16 |
 | **[Zoox](https://www.zoox.com/)** | **[UX Designer Intern [Summer 2027]](https://jobright.ai/jobs/info/6afbb944c5917ce34b5dd666?utm_campaign=1049&utm_source=git)** | Foster City, CA, United States | Hybrid | Nov 16 |
 | **[dataing](https://www.dataing.io/)** | **[TIk Tok Intern 💜💜](https://jobright.ai/jobs/info/6afbadc1b2e06df25797693c?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 16 |
 | **[Gensler](http://www.gensler.com)** | **[Student Internship - Winter/Spring 2026 - San Francisco](https://jobright.ai/jobs/info/6afbab92c5917ce34b5dd316?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 16 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fehr Graham Engineering & Environmental](https://www.fehrgraham.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6af78cc43ba46d7b6c167e4c?utm_campaign=1049&utm_source=git)** | Rockford, IL, United States | On Site | Nov 13 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Intern to Founder & CEO - Graphic Design](https://jobright.ai/jobs/info/6af77d6b3ba46d7b6c167665?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring 2027 Creative - Print Internship](https://jobright.ai/jobs/info/6af77d62d0eefb7d11b8d236?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Spring - Design Intern](https://jobright.ai/jobs/info/6af7738ce3d8d612bf4237f0?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| ↳ | **[Summer - Design Intern](https://jobright.ai/jobs/info/6af771933ba46d7b6c166bd8?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
-| ↳ | **[Summer - Design Intern](https://jobright.ai/jobs/info/6af77079d0eefb7d11b8c66e?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
