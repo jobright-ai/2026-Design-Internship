@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/6aea45c7897466e69e31d695?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6afb1668484fef921e04770a?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Creative & Digital Content (Corporate)](https://jobright.ai/jobs/info/6afb39737d1820d918c27cc4?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, UX Design](https://jobright.ai/jobs/info/6afb24c604af1c9f075c443b?utm_campaign=1049&utm_source=git)** | Fort Lauderdale, FL, United States | On Site | Nov 16 |
@@ -85,7 +86,7 @@ For a complete list, click the following sortable link below:
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Product Designer (UX/UI/HCI)](https://jobright.ai/jobs/info/6afb36e17f9ead6668e9fa91?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Creative & Digital Content (Corporate)](https://jobright.ai/jobs/info/6afb41167f9ead6668ea0154?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Product Design Intern - Marketing Sites (Remote)](https://jobright.ai/jobs/info/6afb3fc87d1820d918c2819d?utm_campaign=1049&utm_source=git)** | Alaska, United States | Remote | Nov 16 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2027 Architecture Intern](https://jobright.ai/jobs/info/6afafc21484fef921e046ca7?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 16 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2027 Architecture Intern](https://jobright.ai/jobs/info/6afaff5b7f9ead6668e9d7c0?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 16 |
 | **[KAT & Company](https://www.katandcompany.com/)** | **[Creative Agency Support Intern](https://jobright.ai/jobs/info/6afb3e96317abe715a262506?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb391b04af1c9f075c5617?utm_campaign=1049&utm_source=git)** | Holly Springs, NC, United States | On Site | Nov 16 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb334f7d1820d918c277cd?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Fehr Graham Engineering & Environmental](https://www.fehrgraham.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6af78cc43ba46d7b6c167e4c?utm_campaign=1049&utm_source=git)** | Rockford, IL, United States | On Site | Nov 13 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Intern to Founder & CEO - Graphic Design](https://jobright.ai/jobs/info/6af77d6b3ba46d7b6c167665?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 | ↳ | **[Spring 2027 Creative - Print Internship](https://jobright.ai/jobs/info/6af77d62d0eefb7d11b8d236?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
-| **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Spring - Design Intern](https://jobright.ai/jobs/info/6af7738ce3d8d612bf4237f0?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
