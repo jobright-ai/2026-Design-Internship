@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Electronic Arts (EA)](https://www.ea.com)** | **[Brand Design Intern - Summer 2027](https://jobright.ai/jobs/info/6af5c96aa4a5218a07e802a2?utm_campaign=1049&utm_source=git)** | Vancouver, BC, Canada | Hybrid | Nov 17 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/6aea45c7897466e69e31d695?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 16 |
 | **[Canyon Entertainment Group](https://canyonentertainmentgroup.com)** | **[2D Artist / Animation Intern](https://jobright.ai/jobs/info/6afc19b21e98d304ea7ef1fc?utm_campaign=1049&utm_source=git)** | Greater Toronto Area, Canada | Remote | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Digital Design](https://jobright.ai/jobs/info/6afb1668484fef921e04770a?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
@@ -77,8 +78,8 @@ For a complete list, click the following sortable link below:
 | **[Ideas Collide](http://www.ideascollide.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6afb6dabbe8589f0b74bdb0e?utm_campaign=1049&utm_source=git)** | Portland, OR, United States | On Site | Nov 16 |
 | **[Guidon](https://www.guidondesign.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6afb6b9fc96cba79575beaf4?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6af7ec424ddfc50167b95105?utm_campaign=1049&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4ea3484fef921e04a059?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
-| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4202484fef921e0496ed?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[CAD Designer Intern](https://jobright.ai/jobs/info/6afb35a35305ed998d91b1fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Nov 16 |
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - User Experience Intern](https://jobright.ai/jobs/info/6afb4bf37f9ead6668ea0858?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 16 |
 | **[International Justice Mission](http://www.ijm.org)** | **[Design Intern - Spring 2027](https://jobright.ai/jobs/info/6afb2d7e04af1c9f075c4af1?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Zoë Feldman Design](https://www.zoefeldmandesign.com)** | **[Spring - Design Intern](https://jobright.ai/jobs/info/6af78d0a824228640064674e?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 13 |
 | **[Blue Highway Records](http://www.bigmachinelabelgroup.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af78d083ba46d7b6c167e70?utm_campaign=1049&utm_source=git)** | Nashville, TN, United States | On Site | Nov 13 |
 | **[Fehr Graham Engineering & Environmental](https://www.fehrgraham.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6af78cc43ba46d7b6c167e4c?utm_campaign=1049&utm_source=git)** | Rockford, IL, United States | On Site | Nov 13 |
-| **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Intern to Founder & CEO - Graphic Design](https://jobright.ai/jobs/info/6af77d6b3ba46d7b6c167665?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 13 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
