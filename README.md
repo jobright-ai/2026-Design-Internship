@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Coinbase](https://www.coinbase.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6aa08bc03b5aa83237b09cdd?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 17 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship](https://jobright.ai/jobs/info/6a6d1f41ba7efe79c2f6892c?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Interior Design (CCL)](https://jobright.ai/jobs/info/6afcf91bd86c15318a390198?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 17 |
 | **[BMW Group](http://www.bmwgroup.com)** | **[Intern, Automotive Design - Spring 2027](https://jobright.ai/jobs/info/6af7e9114ddfc50167b94c60?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 17 |
@@ -65,8 +66,8 @@ For a complete list, click the following sortable link below:
 | **[D.C. United](http://dcunited.com)** | **[Graphic Design Intern - Spring 2027](https://jobright.ai/jobs/info/6afce3862ac165125e4cdccc?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[Zurich Canada](https://zurichcanada.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6afcdeb4d86c15318a38f3f9?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 17 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afcba0dd86c15318a38d84c?utm_campaign=1049&utm_source=git)** | Rogers, AR, United States | On Site | Nov 17 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Product Design Engineering Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6aac0d163d96632d741a8d6a?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 17 |
-| ↳ | **[Product Design Engineering Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6af4623f1b2c5dcbbcd60be3?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 17 |
+| **[SharkNinja](http://www.sharkninja.com)** | **[Product Design Engineering Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6af4623f1b2c5dcbbcd60be3?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 17 |
+| ↳ | **[Product Design Engineering Intern Summer Opportunities (May-Aug 2027)](https://jobright.ai/jobs/info/6aac0d163d96632d741a8d6a?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 17 |
 | **[Post Brothers](http://postrents.com)** | **[Design Intern](https://jobright.ai/jobs/info/6afcbd1ee8a9612f4e0db138?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 17 |
 | **[EduBud International Inc.](www.edubud.org)** | **[CREATIVE CONTENT CREATOR INTERN - UNPAID](https://jobright.ai/jobs/info/6afcd6f62ac165125e4cd406?utm_campaign=1049&utm_source=git)** | Atlanta metropolitan area, United States | Hybrid | Nov 17 |
 | **[Brilliant Agency](https://brilliantbabyproducts.com)** | **[Design & Presentations Internship / Fall 2026](https://jobright.ai/jobs/info/6a7f5258927c79391ad07d1b?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 17 |
@@ -126,15 +127,15 @@ For a complete list, click the following sortable link below:
 | **[Ideas Collide](http://www.ideascollide.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6afb6dabbe8589f0b74bdb0e?utm_campaign=1049&utm_source=git)** | Portland, OR, United States | On Site | Nov 16 |
 | **[Guidon](https://www.guidondesign.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6afb6b9fc96cba79575beaf4?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6af7ec424ddfc50167b95105?utm_campaign=1049&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4ea3484fef921e04a059?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
-| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4202484fef921e0496ed?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[CAD Designer Intern](https://jobright.ai/jobs/info/6afb35a35305ed998d91b1fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Creative, NY Hybrid)](https://jobright.ai/jobs/info/6afb2fff5305ed998d91ab99?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb43b204af1c9f075c5d69?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 16 |
 | **[Manulife](http://www.manulife.com/)** | **[Winter Co-op 2027 - Product Designer (UX/UI/HCI)](https://jobright.ai/jobs/info/6afb36e17f9ead6668e9fa91?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 16 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Creative & Digital Content (Corporate)](https://jobright.ai/jobs/info/6afb41167f9ead6668ea0154?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 16 |
 | **[WebstaurantStore](http://www.webstaurantstore.com/)** | **[Product Design Intern - Marketing Sites (Remote)](https://jobright.ai/jobs/info/6afb3fc87d1820d918c2819d?utm_campaign=1049&utm_source=git)** | Alaska, United States | Remote | Nov 16 |
-| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2027 Architecture Intern](https://jobright.ai/jobs/info/6afaff5b7f9ead6668e9d7c0?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 16 |
+| **[The Haskell Company](http://www.haskell.com)** | **[Summer 2027 Architecture Intern](https://jobright.ai/jobs/info/6afafc21484fef921e046ca7?utm_campaign=1049&utm_source=git)** | Jacksonville, FL, United States | On Site | Nov 16 |
 | **[KAT & Company](https://www.katandcompany.com/)** | **[Creative Agency Support Intern](https://jobright.ai/jobs/info/6afb3e96317abe715a262506?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb391b04af1c9f075c5617?utm_campaign=1049&utm_source=git)** | Holly Springs, NC, United States | On Site | Nov 16 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb334f7d1820d918c277cd?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[L.L.Bean](http://www.llbean.com/)** | **[Merchandising Graphic Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6afb36e5317abe715a261f74?utm_campaign=1049&utm_source=git)** | Freeport, ME, United States | On Site | Nov 15 |
 | **[Pacvue](https://www.pacvue.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6af734f73ba46d7b6c164171?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 15 |
 | **[QTS Data Centers](http://www.qtsdatacenters.com)** | **[Summer 2027 Internship: Photo and Video Marketing Production](https://jobright.ai/jobs/info/6aa457c91d92e2d05d1146d6?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 15 |
-| **[Fanatics](http://www.fanaticsinc.com)** | **[Summer 2027 Internship - Creative & Illustration Intern](https://jobright.ai/jobs/info/6af9ad3348f3528e5a72f9e0?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
