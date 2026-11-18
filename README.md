@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6afc9e0fd86c15318a38c600?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Nov 17 |
+| **[Freese and Nichols](http://www.freese.com)** | **[Summer 2027 Internship - Architecture](https://jobright.ai/jobs/info/6af3a4a74ac248020e8d389d?utm_campaign=1049&utm_source=git)** | Fort Worth, TX, United States | On Site | Nov 17 |
 | **[D.C. United](http://dcunited.com)** | **[Graphic Design Intern - Spring 2027](https://jobright.ai/jobs/info/6afce3862ac165125e4cdccc?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 17 |
 | **[Zurich Canada](https://zurichcanada.com)** | **[Graphic Design and Marketing Intern](https://jobright.ai/jobs/info/6afcdeb4d86c15318a38f3f9?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 17 |
 | **[The Bluebird Group](http://www.thebluebirdgrp.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afcba0dd86c15318a38d84c?utm_campaign=1049&utm_source=git)** | Rogers, AR, United States | On Site | Nov 17 |
@@ -79,7 +81,6 @@ For a complete list, click the following sortable link below:
 | **[HDR](http://www.hdrinc.com)** | **[Intern Model Builder](https://jobright.ai/jobs/info/6afc61b3755d7cdf65800139?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 17 |
 | ↳ | **[Architecture Intern](https://jobright.ai/jobs/info/6afc61b91e98d304ea7f0632?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 17 |
 | **[Pacific Seafood](https://www.pacificseafood.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afc9f62e0cdcfc91142dffb?utm_campaign=1049&utm_source=git)** | Portland, OR, United States | On Site | Nov 17 |
-| **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Winter/Spring 2027)](https://jobright.ai/jobs/info/6afc9e0fd86c15318a38c600?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Nov 17 |
 | **[Brennan Center for Justice](http://www.brennancenter.org/)** | **[Spring 2027 Graphic Design/Creative Undergraduate Internship](https://jobright.ai/jobs/info/6ac52a654ac55253f5d74ebe?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 17 |
 | **[Bravera](https://www.bravera.bank)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afc90fe1e98d304ea7f1ff2?utm_campaign=1049&utm_source=git)** | Bismarck, ND, United States | On Site | Nov 17 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, UI/UX](https://jobright.ai/jobs/info/6aeca8773a3fa7f03ea87c5b?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 17 |
@@ -121,8 +122,8 @@ For a complete list, click the following sortable link below:
 | **[Ideas Collide](http://www.ideascollide.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6afb6dabbe8589f0b74bdb0e?utm_campaign=1049&utm_source=git)** | Portland, OR, United States | On Site | Nov 16 |
 | **[Guidon](https://www.guidondesign.com)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6afb6b9fc96cba79575beaf4?utm_campaign=1049&utm_source=git)** | Indianapolis, IN, United States | Hybrid | Nov 16 |
 | **[Boehringer Ingelheim](https://www.boehringer-ingelheim.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6af7ec424ddfc50167b95105?utm_campaign=1049&utm_source=git)** | Ridgefield, CT, United States | Hybrid | Nov 16 |
-| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4ea3484fef921e04a059?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
-| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| **[HDR](http://www.hdrinc.com)** | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb50657f9ead6668ea0cfa?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
+| ↳ | **[Landscape Architectural Intern](https://jobright.ai/jobs/info/6afb4202484fef921e0496ed?utm_campaign=1049&utm_source=git)** | Pennington, NJ, United States | On Site | Nov 16 |
 | **[Dewberry](http://www.dewberry.com/)** | **[CAD Designer Intern](https://jobright.ai/jobs/info/6afb35a35305ed998d91b1fb?utm_campaign=1049&utm_source=git)** | Orlando, FL, United States | On Site | Nov 16 |
 | **[Burson](https://www.bursonglobal.com)** | **[Burson Summer 2027 HBSI (Creative, NY Hybrid)](https://jobright.ai/jobs/info/6afb2fff5305ed998d91ab99?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 16 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6afb43b204af1c9f075c5d69?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 16 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Lyft](https://www.lyft.com/)** | **[UX Research Intern (Summer 2027)](https://jobright.ai/jobs/info/6aa48db0f7baf881567cf22f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 15 |
 | **[VAA LLC](http://vaaeng.com)** | **[Architectural Intern – Summer](https://jobright.ai/jobs/info/6aa427ca422289703bd655cc?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 15 |
 | **[Stanley Black & Decker, Inc.](https://www.stanleyblackanddecker.com)** | **[UX/UI Design Intern - Summer 2027](https://jobright.ai/jobs/info/6adcae850a4cc7090f977f49?utm_campaign=1049&utm_source=git)** | Valley City, OH, United States | On Site | Nov 15 |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84c73d96632d741ae65f?utm_campaign=1049&utm_source=git)** | Woodstock, GA, United States | On Site | Nov 15 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
