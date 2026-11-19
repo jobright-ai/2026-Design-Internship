@@ -57,8 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Team Sports Product Artwork Intern](https://jobright.ai/jobs/info/6afe05280324c008a17e38c1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Sigma](https://www.sigmacomputing.com)** | **[Product Design Graduate Intern (Summer 2027)](https://jobright.ai/jobs/info/6afe4238f3e7976cc610d70a?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 18 |
+| **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[Team Sports Product Artwork Intern](https://jobright.ai/jobs/info/6afe05280324c008a17e38c1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
 | **[Episcopal Community Services](https://www.ecscalifornia.org)** | **[Graphic Design & Videography Intern](https://jobright.ai/jobs/info/6afe3f5c0cde47528ec13347?utm_campaign=1049&utm_source=git)** | National City, CA, United States | On Site | Nov 18 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Spring Video Production Intern](https://jobright.ai/jobs/info/6afe3ce70cde47528ec131e5?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Nov 18 |
 | **[Wilson Sporting Goods Co.](http://www.wilson.com)** | **[EvoShield Design Intern](https://jobright.ai/jobs/info/6afe051d758942b6422b68d1?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 18 |
@@ -68,7 +68,7 @@ For a complete list, click the following sortable link below:
 | **[Global Strategy Group](http://globalstrategygroup.com)** | **[Spring 2027, Design Intern](https://jobright.ai/jobs/info/6afdb3238cffea7c97c8c19a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 18 |
 | **[Princess Cruises](http://www.princess.com)** | **[Intern, Business Analyst / UX Analyst (CCL)](https://jobright.ai/jobs/info/6afe1f1b8cffea7c97c9057d?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
 | **[Carnival Corporation](http://carnivalcorp.com)** | **[Intern, Business Analyst / UX Analyst (CCL)](https://jobright.ai/jobs/info/6afe3859758942b6422b88ce?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 18 |
-| **[Vibrant Works](https://www.vibrantworks.org)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6aa5149a654b2a9424cf29ea?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 18 |
+| **[Vibrant Works](https://www.vibrantworks.org)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6aa4fe36654b2a9424cf21d2?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 18 |
 | **[Vervint](http://www.vervint.com)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6abd917e064da25272dfe796?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, United States | Hybrid | Nov 18 |
 | **[Foodbuy USA](http://www.foodbuy.com)** | **[Graphic Design Intern, Chartwells Higher Ed / University of Texas - Arlington](https://jobright.ai/jobs/info/6afdf617758942b6422b5fff?utm_campaign=1049&utm_source=git)** | Arlington, TX, United States | On Site | Nov 18 |
 | **[Free People](http://www.freepeople.com)** | **[Free People Temporary Apparel Intern - Winter 2027](https://jobright.ai/jobs/info/6afdf4db758942b6422b5efc?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 18 |
@@ -92,8 +92,8 @@ For a complete list, click the following sortable link below:
 | **[Freeman Company](https://freemancreacion.com)** | **[2027 TFC Summer Internship - Creative Services](https://jobright.ai/jobs/info/6ac8abd0fcdafb60c6a49093?utm_campaign=1049&utm_source=git)** | Philadelphia, PA, United States | On Site | Nov 18 |
 | **[IDEMIA](https://www.idemia.com/)** | **[Graphic Design Internship - Summer 2027](https://jobright.ai/jobs/info/6afd86cb52285bd9d8048dcc?utm_campaign=1049&utm_source=git)** | Reston, VA, United States | Hybrid | Nov 18 |
 | **[HDR](http://www.hdrinc.com)** | **[Summer 2027 Architectural Design Intern](https://jobright.ai/jobs/info/6aa81def2ed333b4ea5cd418?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 18 |
-| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Nov 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac4285d372c01f6cd7344f0?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Nov 18 |
+| ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ac40db80e027c0f3b3a9061?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | On Site | Nov 18 |
 | ↳ | **[NOMA HBCU Professional Development Career Fair (Fall 2025)](https://jobright.ai/jobs/info/6a9674c426613756de6d820f?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Nov 18 |
 | ↳ | **[Design Intern](https://jobright.ai/jobs/info/6ab603ac634ec6aa7c0d1dfa?utm_campaign=1049&utm_source=git)** | Arlington, VA, United States | On Site | Nov 18 |
 | **[Zurn Elkay Water Solutions](https://zurnelkay.com)** | **[Visual Communications Intern (Summer 2027)](https://jobright.ai/jobs/info/6ac422fc4ac55253f5d71187?utm_campaign=1049&utm_source=git)** | Milwaukee, WI, United States | On Site | Nov 18 |
