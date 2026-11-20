@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Bass Pro Shops](https://www.basspro.com)** | **[Apparel Design Intern Summer 2027](https://jobright.ai/jobs/info/6aaaae8940807b73bd39131f?utm_campaign=1049&utm_source=git)** | Springfield, MO, United States | On Site | Nov 20 |
+| **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Landscape Architecture & Planning (Summer 2027)](https://jobright.ai/jobs/info/6aab05e976707040fb083b5f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 20 |
+| **[Aptiv](http://www.aptiv.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6ac74101d9621c5b283ac1d6?utm_campaign=1049&utm_source=git)** | Troy, MI, United States | On Site | Nov 20 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6ae3960e77c09cb3bd4a7496?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, UI/UX](https://jobright.ai/jobs/info/6aff56d41c42ea8f6b9ff851?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 19 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6ab0cf07de327d3e210d8ea0?utm_campaign=1049&utm_source=git)** | Sleepy Eye, MN, United States | On Site | Nov 19 |
@@ -67,9 +70,9 @@ For a complete list, click the following sortable link below:
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | ↳ | **[Blizzard 2027 Summer Internships - Card Design](https://jobright.ai/jobs/info/6aff5905b88323bd981be0c8?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
 | **[MKG](http://thisismkg.com)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6aff6de8865dbcc3f26fc43e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: UX/UI Design Intern](https://jobright.ai/jobs/info/6a8c742a25fc4e7ae3db85b2?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | On Site | Nov 18 |
 | **[Force Factor](https://forcefactor.com/)** | **[Summer 2027 Digital Graphic Design Intern](https://jobright.ai/jobs/info/6aa1876f500b01124c77d159?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 18 |
 | **[Randa Apparel & Accessories](http://www.randa.net)** | **[Design Intern-Chicago](https://jobright.ai/jobs/info/6afed422b88323bd981ba076?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Nov 18 |
-| **[Amer Sports](https://www.amersports.com/)** | **[Sportswear Design Intern](https://jobright.ai/jobs/info/6afe25e68cffea7c97c9091c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 18 |
-| **[Brim Financial](https://brimfinancial.com/)** | **[Design Intern](https://jobright.ai/jobs/info/6afdb3cff3e7976cc6107f88?utm_campaign=1049&utm_source=git)** | California, United States | Remote | Nov 18 |
-| **[Hermès](https://www.hermes.com/us/en/)** | **[Windows Intern (2027 Semester 1) - Generation H](https://jobright.ai/jobs/info/6afdb3cd0cde47528ec0db4b?utm_campaign=1049&utm_source=git)** | Manhattan, NY, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
