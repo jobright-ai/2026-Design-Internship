@@ -57,7 +57,10 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Meta](https://www.meta.com)** | **[UX Research Intern, Quantitative (Summer 2027)](https://jobright.ai/jobs/info/6aff5681aea17e3f50eafb7d?utm_campaign=1049&utm_source=git)** | Menlo Park, CA, United States | On Site | Nov 20 |
+| **[PTC](https://www.ptc.com/en)** | **[UI/UX Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6ae39f57fb2cd420ace529f5?utm_campaign=1049&utm_source=git)** | San Mateo, CA, United States | On Site | Nov 20 |
 | **[Bass Pro Shops](https://www.basspro.com)** | **[Apparel Design Intern Summer 2027](https://jobright.ai/jobs/info/6aaaae8940807b73bd39131f?utm_campaign=1049&utm_source=git)** | Springfield, MO, United States | On Site | Nov 20 |
+| **[Kiss Beauty Group](https://www.kissusa.com)** | **[Brand/Visual Design Intern](https://jobright.ai/jobs/info/6a8f393ad7c91d0cf446e342?utm_campaign=1049&utm_source=git)** | Port Washington, NY, United States | On Site | Nov 20 |
 | **[Langan Engineering & Environmental Services](http://www.langan.com)** | **[Intern/Co-op - Landscape Architecture & Planning (Summer 2027)](https://jobright.ai/jobs/info/6aab05e976707040fb083b5f?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 20 |
 | **[Aptiv](http://www.aptiv.com)** | **[Multimedia Design Intern](https://jobright.ai/jobs/info/6ac74101d9621c5b283ac1d6?utm_campaign=1049&utm_source=git)** | Troy, MI, United States | On Site | Nov 20 |
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6ae3960e77c09cb3bd4a7496?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
@@ -69,8 +72,8 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | ↳ | **[Blizzard 2027 Summer Internships - Card Design](https://jobright.ai/jobs/info/6aff5905b88323bd981be0c8?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Prepress Technician Intern/Co-op (Fall Jun-Dec 2027)](https://jobright.ai/jobs/info/6afdcabcf170d82b3966ded5?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 18 |
 | ↳ | **[Graphic Prepress Technician Intern/Co-op (Spring Jan-Jun 2027)](https://jobright.ai/jobs/info/6afdca96758942b6422b3e61?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 18 |
 | ↳ | **[Graphic Prepress Technician Intern/Co-op (Summer May-Aug 2027)](https://jobright.ai/jobs/info/6afdcab3f170d82b3966dec0?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 18 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: UX/UI Design Intern](https://jobright.ai/jobs/info/6a8c742a25fc4e7ae3db85b2?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | On Site | Nov 18 |
-| **[Force Factor](https://forcefactor.com/)** | **[Summer 2027 Digital Graphic Design Intern](https://jobright.ai/jobs/info/6aa1876f500b01124c77d159?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 18 |
-| **[Randa Apparel & Accessories](http://www.randa.net)** | **[Design Intern-Chicago](https://jobright.ai/jobs/info/6afed422b88323bd981ba076?utm_campaign=1049&utm_source=git)** | Des Plaines, IL, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
