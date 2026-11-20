@@ -57,6 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Reingold, Inc.](http://reingold.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6adbbf49c5c64fa3d9cb0f6d?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
+| **[Wealth Warden Partners](https://www.wardenpartners.com)** | **[Graphic Design Marketing Intern(Unpaid)](https://jobright.ai/jobs/info/6b00b41389d8ca1e84958c28?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Social Media Graphic Design](https://jobright.ai/jobs/info/6b00a928d1fe3bc162e3dac9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Spring 2027 - Intern, Creative](https://jobright.ai/jobs/info/6b00a9203a9a0230ab02960e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[Method](https://www.method.com)** | **[Residency Internship Program - Design](https://jobright.ai/jobs/info/6b009e85d1fe3bc162e3d51b?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | Remote | Nov 20 |
@@ -103,10 +105,10 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | ↳ | **[Blizzard 2027 Summer Internships - Card Design](https://jobright.ai/jobs/info/6aff5905b88323bd981be0c8?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[TAIT](http://www.taittowers.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6b007f85d1fe3bc162e3c333?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bdf7119e56191cebef0?utm_campaign=1049&utm_source=git)** | Vero Beach, FL, United States | On Site | Nov 19 |
 | **[Design Observer](http://designobserver.com/)** | **[Industrial Designer (Junior to Senior)](https://jobright.ai/jobs/info/6afee11d72b9be368528d11f?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | Hybrid | Nov 19 |
 | **[Atlassian](https://www.atlassian.com)** | **[Product Design Intern, 2027 Summer U.S.](https://jobright.ai/jobs/info/6afedcca97dcc4fc8dca7462?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 19 |
-| **[Google](https://www.google.com)** | **[User Experience Research Intern, PhD, Summer 2027](https://jobright.ai/jobs/info/6aa80551654b2a9424cfa1eb?utm_campaign=1049&utm_source=git)** | Mountain View, CA, United States | On Site | Nov 19 |
-| **[Pattern](https://pattern.com)** | **[UX Design Intern - Summer 2027](https://jobright.ai/jobs/info/6aeb821582f0ac077443a76b?utm_campaign=1049&utm_source=git)** | Lehi, UT, United States | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
