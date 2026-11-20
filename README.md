@@ -61,10 +61,10 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | ↳ | **[Blizzard 2027 Summer Internships - Card Design](https://jobright.ai/jobs/info/6aff5905b88323bd981be0c8?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
 | **[MKG](http://thisismkg.com)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6aff6de8865dbcc3f26fc43e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
