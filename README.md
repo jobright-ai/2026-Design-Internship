@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[REEKON Tools](https://www.reekon.tools/)** | **[Design Intern](https://jobright.ai/jobs/info/6b0064cae0dc9619592808ae?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 20 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Game Design (Systems Design)](https://jobright.ai/jobs/info/6b0009f4e0dc96195927f137?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 20 |
 | **[Elevare Consulting](joinelevareconsulting.com)** | **[Video Editing and Motion Graphics Intern](https://jobright.ai/jobs/info/6b00528dd1fe3bc162e3abec?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae36dafc3139b475b5ace50?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Nov 20 |
@@ -77,9 +78,9 @@ For a complete list, click the following sortable link below:
 | **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 | ↳ | **[Blizzard 2027 Summer Internships - Card Design](https://jobright.ai/jobs/info/6aff5905b88323bd981be0c8?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
-| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
-| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
+| **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff57571c42ea8f6b9ff88a?utm_campaign=1049&utm_source=git)** | Herndon, VA, United States | On Site | Nov 19 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 19 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[AARP](http://www.aarp.org)** | **[Graphic Design and Creative Operations Intern](https://jobright.ai/jobs/info/6ac3f51f064da25272e10572?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | Hybrid | Nov 18 |
 | **[State Street](https://www.statestreet.com/)** | **[UX/UI Design Intern - Full-time Internship (Jan - June 2027)](https://jobright.ai/jobs/info/6afdde7e8cffea7c97c8daa7?utm_campaign=1049&utm_source=git)** | Burlington, MA, United States | On Site | Nov 18 |
 | **[FieldPulse](https://www.fieldpulse.com/)** | **[Graphic Design Internship](https://jobright.ai/jobs/info/6afdedb4f3e7976cc610a3cf?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 18 |
-| **[Winter4Kids](https://winter4kids.org)** | **[Content Creator Intern](https://jobright.ai/jobs/info/6afde5510324c008a17e253d?utm_campaign=1049&utm_source=git)** | Vernon, NJ, United States | On Site | Nov 18 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
