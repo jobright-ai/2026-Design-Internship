@@ -57,6 +57,13 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675b77c09cb3bd4ac4f3?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675977c09cb3bd4ac4f1?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84d22e757fcb5c8b8df3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ed9eab1f96730971e23?utm_campaign=1049&utm_source=git)** | Summerville, SC, United States | On Site | Nov 21 |
+| **[leManoosh](https://lemanoosh.com)** | **[EvoShield Design Intern](https://jobright.ai/jobs/info/6b019537505c87ccb3a2d645?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
+| **[Amazon](https://amazon.com)** | **[Design Technologist Intern FY2027 (Summer)](https://jobright.ai/jobs/info/6b00e182af6fea8c089b528a?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
+| **[Haggar Clothing Co.](http://www.haggar.com)** | **[Creative Services Intern- Dallas](https://jobright.ai/jobs/info/6aae34bc6956574eac8b86c1?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX, United States | On Site | Nov 21 |
 | **[Delta Air Lines](https://www.delta.com)** | **[Intern, Digital Service Designer (Summer 2027)](https://jobright.ai/jobs/info/6b016014df73191d2e6b1163?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[CAD Designer Intern (Part-Time Starting Fall 2026 Semester)](https://jobright.ai/jobs/info/6a8ef79da10ee661e24d5ab2?utm_campaign=1049&utm_source=git)** | Simpsonville, SC, United States | On Site | Nov 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ef577c09cb3bd4a3be1?utm_campaign=1049&utm_source=git)** | Fort Mill, SC, United States | On Site | Nov 21 |
@@ -75,7 +82,6 @@ For a complete list, click the following sortable link below:
 | **[Federal Reserve Bank of San Francisco](http://www.frbsf.org)** | **[2027 Summer Internship Program - User Experience Intern](https://jobright.ai/jobs/info/6afb4bf37f9ead6668ea0858?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 20 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff736cdd029d798066c2d5?utm_campaign=1049&utm_source=git)** | Warren, NJ, United States | On Site | Nov 20 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff73e3865dbcc3f26fc61e?utm_campaign=1049&utm_source=git)** | Chalfont, PA, United States | On Site | Nov 20 |
-| **[Amazon](https://amazon.com)** | **[Design Technologist Intern FY2027 (Summer)](https://jobright.ai/jobs/info/6b00e182af6fea8c089b528a?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
 | **[TAIT](http://www.taittowers.com)** | **[Motion Design Intern](https://jobright.ai/jobs/info/6b007f85d1fe3bc162e3c333?utm_campaign=1049&utm_source=git)** | Burbank, CA, United States | Hybrid | Nov 20 |
 | **[Rhode Island FC](https://www.rhodeislandfc.com)** | **[Creative Content Intern - Spring 2027](https://jobright.ai/jobs/info/6b00cd930ae14188d58c198f?utm_campaign=1049&utm_source=git)** | Pawtucket, RI, United States | On Site | Nov 20 |
 | **[Meyocks](http://www.meyocks.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6b00cd18f6ef85c61a50ccfa?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Remote | Nov 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6aff79be6f4ca73dfeb44945?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 | **[Tinder](http://www.tinder.com)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6aedf497c7498922fe0c5f7b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 | ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6aede5a0d20350c7a5075f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
-| **[Match](http://www.lifeatmatch.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6aedea76caf8e660b87d8623?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
-| ↳ | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
-| **[WSP](http://www.wsp.com/)** | **[3D Animation & Motion Graphics Intern - Summer 2027](https://jobright.ai/jobs/info/6ae2621205a39c3e2c719dd4?utm_campaign=1049&utm_source=git)** | Bend, OR, United States | On Site | Nov 19 |
-| **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Business Analyst / UX Analyst (CCL)](https://jobright.ai/jobs/info/6aff3d09b88323bd981bd0e3?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 19 |
-| **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Experience Management Intern](https://jobright.ai/jobs/info/6a8c86ddcde3717f9e9bdad6?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
