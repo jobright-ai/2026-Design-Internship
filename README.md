@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2027 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa36e0dc96195928301a?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | On Site | Nov 21 |
+| ↳ | **[Spring Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa363a9a0230ab029692?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | Hybrid | Nov 21 |
+| **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Interior Design - Summer 2027](https://jobright.ai/jobs/info/6a91b29cd18f756748279684?utm_campaign=1049&utm_source=git)** | Muscatine, IA, United States | On Site | Nov 21 |
 | **[Omnicom](https://www.omc.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ae4cfe8fb2cd420ace5a094?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Winter Intern](https://jobright.ai/jobs/info/6afd45f4c287c018be3aa684?utm_campaign=1049&utm_source=git)** | Dayton, OH, United States | On Site | Nov 21 |
 | **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[UX Research Intern - Summer of 2027](https://jobright.ai/jobs/info/6ac7e3eb44d6e65604a04f41?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 21 |
@@ -105,8 +108,6 @@ For a complete list, click the following sortable link below:
 | **[Behaviour Interactive](http://www.bhvr.com/)** | **[Product Graphic Designer – Internship Winter 2027](https://jobright.ai/jobs/info/6ae3f1f1d45dc30fb7d2dc33?utm_campaign=1049&utm_source=git)** | Montreal, QC, Canada | Hybrid | Nov 20 |
 | **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Game Design (Systems Design)](https://jobright.ai/jobs/info/6b0009f4e0dc96195927f137?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 20 |
 | **[Elevare Consulting](joinelevareconsulting.com)** | **[Video Editing and Motion Graphics Intern](https://jobright.ai/jobs/info/6b00528dd1fe3bc162e3abec?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 20 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa363a9a0230ab029692?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | Hybrid | Nov 20 |
-| ↳ | **[Spring 2027 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa36e0dc96195928301a?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | On Site | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae36dafc3139b475b5ace50?utm_campaign=1049&utm_source=git)** | Columbus, OH, United States | On Site | Nov 20 |
 | **[LSG](https://locuststreet.com)** | **[Intern - Graphic Design and Visual Communications](https://jobright.ai/jobs/info/6aea45c7897466e69e31d695?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 20 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84e20ebc8fb2313ea05a?utm_campaign=1049&utm_source=git)** | Houston, TX, United States | On Site | Nov 20 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern - Spring 2027](https://jobright.ai/jobs/info/6ae8e41303f4a1104b25777f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 19 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6aec8d7dab48a7079381c40a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 19 |
-| **[Systems Planning & Analysis](http://www.spa.com)** | **[UI/UX Software Intern - Summer 2027](https://jobright.ai/jobs/info/6ae29b08de23f466ec8c7cdb?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
