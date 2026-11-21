@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Omnicom](https://www.omc.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ae4cfe8fb2cd420ace5a094?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Winter Intern](https://jobright.ai/jobs/info/6afd45f4c287c018be3aa684?utm_campaign=1049&utm_source=git)** | Dayton, OH, United States | On Site | Nov 21 |
+| **[Jewelers Mutual Group](https://www.jewelersmutual.com/)** | **[UX Research Intern - Summer of 2027](https://jobright.ai/jobs/info/6ac7e3eb44d6e65604a04f41?utm_campaign=1049&utm_source=git)** | Raleigh, NC, United States | On Site | Nov 21 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Prepress Technician Intern/Co-op (Spring Jan-Jun 2027)](https://jobright.ai/jobs/info/6afdca96758942b6422b3e61?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 20 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Exterior Design, Sumer 2027](https://jobright.ai/jobs/info/6b00f8372ad6cde5ef25059e?utm_campaign=1049&utm_source=git)** | Newark, CA, United States | On Site | Nov 20 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Sample Intern](https://jobright.ai/jobs/info/6aee466fe0c9de7b05f8d40a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 19 |
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6aec8d7dab48a7079381c40a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 19 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[UI/UX Software Intern - Summer 2027](https://jobright.ai/jobs/info/6ae29b08de23f466ec8c7cdb?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 19 |
-| **[New York City Ballet](http://nycballet.com)** | **[Winter / Spring Intern - Social Media](https://jobright.ai/jobs/info/6aff2a0f1c42ea8f6b9fdc22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)](https://jobright.ai/jobs/info/6ae25600de23f466ec8c5366?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 19 |
-| **[CUBE 3](https://www.cube3.com/)** | **[Interior Design Intern -8 Months January-August 2027](https://jobright.ai/jobs/info/6aff2ebd97dcc4fc8dca9969?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
