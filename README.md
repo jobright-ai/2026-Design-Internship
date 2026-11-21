@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Nov 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ee0d7424a2a828dda79?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675b77c09cb3bd4ac4f3?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675977c09cb3bd4ac4f1?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
@@ -106,7 +107,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Visual Merchandiser Intern](https://jobright.ai/jobs/info/6b008b9489d8ca1e849571b6?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Children's Concept Design Intern](https://jobright.ai/jobs/info/6b008b920f536e0ba7274deb?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Leather Goods Design Intern](https://jobright.ai/jobs/info/6b008b660f536e0ba7274dc7?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
-| **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Nov 20 |
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Spring 2027 Graphic Design Intern](https://jobright.ai/jobs/info/6b00837589d8ca1e84956ce0?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Content - Photo Still Internship](https://jobright.ai/jobs/info/6af7f18786a9b19681af73f2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Spring Video Production Intern](https://jobright.ai/jobs/info/6b007d63e0dc961959281643?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Nov 20 |
