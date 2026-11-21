@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Delta Air Lines](https://www.delta.com)** | **[Intern, Digital Service Designer (Summer 2027)](https://jobright.ai/jobs/info/6b016014df73191d2e6b1163?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
+| **[Dodge Industrial](https://dodgeindustrial.com)** | **[CAD Designer Intern (Part-Time Starting Fall 2026 Semester)](https://jobright.ai/jobs/info/6a8ef79da10ee661e24d5ab2?utm_campaign=1049&utm_source=git)** | Simpsonville, SC, United States | On Site | Nov 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ef577c09cb3bd4a3be1?utm_campaign=1049&utm_source=git)** | Fort Mill, SC, United States | On Site | Nov 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bd33217d1d13329daf5?utm_campaign=1049&utm_source=git)** | Escondido, CA, United States | On Site | Nov 21 |
+| **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Concept Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4be77c09cb3bd4af478?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
 | **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2027 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa36e0dc96195928301a?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | On Site | Nov 21 |
 | ↳ | **[Spring Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa363a9a0230ab029692?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | Hybrid | Nov 21 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Interior Design - Summer 2027](https://jobright.ai/jobs/info/6a91b29cd18f756748279684?utm_campaign=1049&utm_source=git)** | Muscatine, IA, United States | On Site | Nov 21 |
@@ -98,6 +103,7 @@ For a complete list, click the following sortable link below:
 | **[Reproductive Freedom for All](http://blogforchoice.com/)** | **[Spring 2027 Graphic Design Intern](https://jobright.ai/jobs/info/6b00837589d8ca1e84956ce0?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Tarte Cosmetics](https://tartecosmetics.com/)** | **[Spring 2027 Content - Photo Still Internship](https://jobright.ai/jobs/info/6af7f18786a9b19681af73f2?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Forward Madison FC](https://www.forwardmadisonfc.com)** | **[Spring Video Production Intern](https://jobright.ai/jobs/info/6b007d63e0dc961959281643?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Nov 20 |
+| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 20 |
 | **[Twelve](https://twelvenyc.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6ae3cac8d45dc30fb7d2c982?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 20 |
 | **[Amazon](https://amazon.com)** | **[UX Researcher Intern – Summer 2027](https://jobright.ai/jobs/info/6ae3a85deab1f96730975fde?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
 | **[Dagne Dover](http://www.dagnedover.com)** | **[Technical Design Intern- Spring'26](https://jobright.ai/jobs/info/6b005844e0dc9619592802bc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
@@ -151,10 +157,4 @@ For a complete list, click the following sortable link below:
 | **[WSP](http://www.wsp.com/)** | **[3D Animation & Motion Graphics Intern - Summer 2027](https://jobright.ai/jobs/info/6ae2621205a39c3e2c719dd4?utm_campaign=1049&utm_source=git)** | Bend, OR, United States | On Site | Nov 19 |
 | **[Carnival Cruise Line](http://www.carnival.com)** | **[Intern, Business Analyst / UX Analyst (CCL)](https://jobright.ai/jobs/info/6aff3d09b88323bd981bd0e3?utm_campaign=1049&utm_source=git)** | Miami, FL, United States | On Site | Nov 19 |
 | **[Brunswick Corporation](http://www.brunswick.com)** | **[Mercury Marine: Experience Management Intern](https://jobright.ai/jobs/info/6a8c86ddcde3717f9e9bdad6?utm_campaign=1049&utm_source=git)** | Fond du Lac, WI, United States | Hybrid | Nov 19 |
-| **[Residex®](https://www.residex.ai)** | **[UX Design Intern](https://jobright.ai/jobs/info/6aff1e251c42ea8f6b9fd3b5?utm_campaign=1049&utm_source=git)** | Austin, TX, United States | Remote | Nov 19 |
-| **[SHM Architects](https://www.shmarchitects.com)** | **[Interior Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6aff8afa6f4ca73dfeb45659?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 19 |
-| **[iCapital](https://icapital.com)** | **[Brand and Communications - Summer 2027 Intern](https://jobright.ai/jobs/info/6aff02de97dcc4fc8dca7cfe?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
-| **[Golden Hippo®](http://goldenhippomedia.com)** | **[Visual Design Intern - Spring 2027](https://jobright.ai/jobs/info/6ae8e41303f4a1104b25777f?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
-| **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 19 |
-| **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6aec8d7dab48a7079381c40a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
