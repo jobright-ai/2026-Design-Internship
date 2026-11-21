@@ -57,7 +57,8 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
-| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675b77c09cb3bd4ac4f3?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ee0d7424a2a828dda79?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 21 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675b77c09cb3bd4ac4f3?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675977c09cb3bd4ac4f1?utm_campaign=1049&utm_source=git)** | Greenville, SC, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84d22e757fcb5c8b8df3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ed9eab1f96730971e23?utm_campaign=1049&utm_source=git)** | Summerville, SC, United States | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Wisconsin Aluminum Foundry](http://wafco.com)** | **[Graphic Design & Creative Intern](https://jobright.ai/jobs/info/6aff7c51dd029d798066cd48?utm_campaign=1049&utm_source=git)** | Manitowoc, WI, United States | On Site | Nov 19 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6aff79be6f4ca73dfeb44945?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 | **[Tinder](http://www.tinder.com)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6aedf497c7498922fe0c5f7b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
-| ↳ | **[Product Design Intern](https://jobright.ai/jobs/info/6aede5a0d20350c7a5075f74?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
