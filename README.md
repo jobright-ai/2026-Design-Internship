@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 21 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6aac1e0e3dbb1f8967ce8edc?utm_campaign=1049&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
 | **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Nov 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ee0d7424a2a828dda79?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Vibrant Works](https://www.vibrantworks.org)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6aff7d25b47661ae4a62d664?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 19 |
 | **[Wisconsin Aluminum Foundry](http://wafco.com)** | **[Graphic Design & Creative Intern](https://jobright.ai/jobs/info/6aff7c51dd029d798066cd48?utm_campaign=1049&utm_source=git)** | Manitowoc, WI, United States | On Site | Nov 19 |
 | **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6aff79be6f4ca73dfeb44945?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
-| **[Tinder](http://www.tinder.com)** | **[User Experience Research Intern](https://jobright.ai/jobs/info/6aedf497c7498922fe0c5f7b?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
