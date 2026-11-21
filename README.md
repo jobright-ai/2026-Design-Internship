@@ -57,6 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
+| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
+| **[Solvyr](https://solvyr.com)** | **[Video Editing and Motion Graphics Intern](https://jobright.ai/jobs/info/6b01f3b1b2c65d24f91eccd3?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 21 |
+| **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - CX](https://jobright.ai/jobs/info/6aac0e7595c707f49dfef2d6?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 21 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6aac1e0e3dbb1f8967ce8edc?utm_campaign=1049&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
 | **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Nov 21 |
@@ -152,9 +157,4 @@ For a complete list, click the following sortable link below:
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
 | **[Anna Maria of Aurora](https://www.annamariaofaurora.com)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/6aff7d8372b9be368529298d?utm_campaign=1049&utm_source=git)** | Aurora, OH, United States | On Site | Nov 19 |
 | **[Dimensional Innovations](https://www.dimin.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6aff7d6ab47661ae4a62d71e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 19 |
-| **[Community Food Co-op - Bozeman](https://www.bozo.coop)** | **[Co-op Design Intern](https://jobright.ai/jobs/info/6aff7d4bc1c02a9acd80cbcc?utm_campaign=1049&utm_source=git)** | Bozeman, MT, United States | On Site | Nov 19 |
-| **[Diamond Baseball Holdings](http://diamondbaseballholdings.com/)** | **[Intern, Video Production & Graphic Design (58261)](https://jobright.ai/jobs/info/6aff7d41b47661ae4a62d69b?utm_campaign=1049&utm_source=git)** | Reading, PA 19605, United States | On Site | Nov 19 |
-| **[Vibrant Works](https://www.vibrantworks.org)** | **[Asset Management Intern](https://jobright.ai/jobs/info/6aff7d25b47661ae4a62d664?utm_campaign=1049&utm_source=git)** | San Antonio, TX, United States | On Site | Nov 19 |
-| **[Wisconsin Aluminum Foundry](http://wafco.com)** | **[Graphic Design & Creative Intern](https://jobright.ai/jobs/info/6aff7c51dd029d798066cd48?utm_campaign=1049&utm_source=git)** | Manitowoc, WI, United States | On Site | Nov 19 |
-| **[Red Light Management](http://redlightmanagement.com/)** | **[Video/Creative Internship](https://jobright.ai/jobs/info/6aff79be6f4ca73dfeb44945?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
