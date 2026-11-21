@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Prepress Technician Intern/Co-op (Spring Jan-Jun 2027)](https://jobright.ai/jobs/info/6afdca96758942b6422b3e61?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 20 |
 | **[Lucid Motors](http://lucidmotors.com)** | **[Intern, Exterior Design, Sumer 2027](https://jobright.ai/jobs/info/6b00f8372ad6cde5ef25059e?utm_campaign=1049&utm_source=git)** | Newark, CA, United States | On Site | Nov 20 |
 | **[F. Schumacher & Co.](http://fschumacher.com)** | **[Hospitality Sample Intern](https://jobright.ai/jobs/info/6aee466fe0c9de7b05f8d40a?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Teradata](https://www.teradata.com)** | **[UX Design Intern (AI-Focused)](https://jobright.ai/jobs/info/6b00e859f6ef85c61a50d8c4?utm_campaign=1049&utm_source=git)** | San Diego, CA, United States | On Site | Nov 20 |
@@ -76,6 +77,7 @@ For a complete list, click the following sortable link below:
 | **[Wealth Warden Partners](https://www.wardenpartners.com)** | **[Graphic Design Marketing Intern(Unpaid)](https://jobright.ai/jobs/info/6b00b41389d8ca1e84958c28?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
 | **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Social Media Graphic Design](https://jobright.ai/jobs/info/6b00a928d1fe3bc162e3dac9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | ↳ | **[Spring 2027 - Intern, Creative](https://jobright.ai/jobs/info/6b00a9203a9a0230ab02960e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
+| **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacb1b50a4ce9becc77a51c?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Nov 20 |
 | **[Method](https://www.method.com)** | **[Residency Internship Program - Design](https://jobright.ai/jobs/info/6b009e85d1fe3bc162e3d51b?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | Remote | Nov 20 |
 | **[Dynamic Integrated Services](https://disconsulting.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afc854863fb67454cf7944e?utm_campaign=1049&utm_source=git)** | Contiguous United States, United States | Remote | Nov 20 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Nov 20 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[S&B USA Construction & Fay](https://shikunusa.com)** | **[Marketing/Graphic Design Intern](https://jobright.ai/jobs/info/6aec8d7dab48a7079381c40a?utm_campaign=1049&utm_source=git)** | Pittsburgh, PA, United States | On Site | Nov 19 |
 | **[Systems Planning & Analysis](http://www.spa.com)** | **[UI/UX Software Intern - Summer 2027](https://jobright.ai/jobs/info/6ae29b08de23f466ec8c7cdb?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 19 |
 | **[New York City Ballet](http://nycballet.com)** | **[Winter / Spring Intern - Social Media](https://jobright.ai/jobs/info/6aff2a0f1c42ea8f6b9fdc22?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 19 |
-| **[SharkNinja](http://www.sharkninja.com)** | **[Spring 2027: Product Design Engineering Co-op, Advanced Development (January to June)](https://jobright.ai/jobs/info/6ae25600de23f466ec8c5366?utm_campaign=1049&utm_source=git)** | Needham, MA, United States | On Site | Nov 19 |
-| **[CUBE 3](https://www.cube3.com/)** | **[Interior Design Intern -8 Months January-August 2027](https://jobright.ai/jobs/info/6aff2ebd97dcc4fc8dca9969?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
