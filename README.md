@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
@@ -121,7 +122,6 @@ For a complete list, click the following sortable link below:
 | **[Kensington](https://www.kensingtontours.com/)** | **[Intern - Design](https://jobright.ai/jobs/info/6ad8f01c950ef68d5184baff?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | Hybrid | Nov 20 |
 | **[Twelve](https://twelvenyc.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6ae3cac8d45dc30fb7d2c982?utm_campaign=1049&utm_source=git)** | Brooklyn, NY, United States | On Site | Nov 20 |
 | **[Amazon](https://amazon.com)** | **[UX Researcher Intern – Summer 2027](https://jobright.ai/jobs/info/6ae3a85deab1f96730975fde?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
-| **[Dagne Dover](http://www.dagnedover.com)** | **[Technical Design Intern- Spring'26](https://jobright.ai/jobs/info/6b005844e0dc9619592802bc?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 20 |
 | **[Ibotta](https://home.ibotta.com)** | **[Product Design Intern](https://jobright.ai/jobs/info/6aab0c47f6bd9d2d17c1b214?utm_campaign=1049&utm_source=git)** | Denver, CO, United States | Hybrid | Nov 20 |
 | **[Amazon](https://amazon.com)** | **[UX Designer Intern – Summer 2027](https://jobright.ai/jobs/info/6ae3a86ad7424a2a828e1bd9?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 20 |
 | **[REEKON Tools](https://www.reekon.tools/)** | **[Design Intern](https://jobright.ai/jobs/info/6b0064cae0dc9619592808ae?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 20 |
@@ -155,6 +155,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[External Art Intern, Characters [Spring 2027]](https://jobright.ai/jobs/info/6ada84db4c3adc437cecdf92?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 19 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 19 |
-| **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 19 |
 | **[Anna Maria of Aurora](https://www.annamariaofaurora.com)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/6aff7d8372b9be368529298d?utm_campaign=1049&utm_source=git)** | Aurora, OH, United States | On Site | Nov 19 |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6aff7d6ab47661ae4a62d71e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
