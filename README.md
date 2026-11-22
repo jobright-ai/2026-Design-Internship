@@ -57,6 +57,9 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 22 |
+| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
+| **[Spencer Magazine](http://www.spencer-magazine.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6b033d2af8aac3fb5bbe3f0f?utm_campaign=1049&utm_source=git)** | Toronto, ON, Canada | On Site | Nov 22 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Creative Services Internship - Summer 2027](https://jobright.ai/jobs/info/6aadc45b3dbb1f8967cef767?utm_campaign=1049&utm_source=git)** | Dover, DE, United States | Hybrid | Nov 22 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6b02d3c85cc15ec1b42bf5e2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 22 |
 | **[TechMore](https://www.linkedin.com/company/79056088)** | **[Video Editing & Motion Graphics Intern](https://jobright.ai/jobs/info/6b031debf4f339a8f62b3bc6?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 22 |
@@ -154,7 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Target](https://www.target.com)** | **[Target Creative Intern-Minneapolis, MN (Starting Summer 2027)](https://jobright.ai/jobs/info/6afe1a590cde47528ec11c80?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 19 |
 | **[Weave Robotics](https://www.weaverobots.com/)** | **[Industrial Designer, Intern](https://jobright.ai/jobs/info/6affc305865dbcc3f26fe9ea?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 19 |
 | **[Game Companies](https://gamecompanies.com/)** | **[Cinematic Presentation Design Intern [Spring 2027]](https://jobright.ai/jobs/info/6b02577fbf981a045822809d?utm_campaign=1049&utm_source=git)** | San Carlos, CA, United States | Remote | Nov 19 |
-| **[leManoosh](https://lemanoosh.com)** | **[Intern, Automotive Design - Spring 2027](https://jobright.ai/jobs/info/6affa01b865dbcc3f26fe1eb?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 19 |
-| **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
-| **[Blizzard Entertainment](http://blizzard.com)** | **[Blizzard 2027 Summer Internships - Character Art](https://jobright.ai/jobs/info/6aff314a97dcc4fc8dca9c04?utm_campaign=1049&utm_source=git)** | Irvine, California, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
