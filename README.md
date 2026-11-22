@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Steelcase](https://www.steelcase.com/)** | **[Year-Round Interior Design Intern](https://jobright.ai/jobs/info/6aac25d1636cddf7396f275b?utm_campaign=1049&utm_source=git)** | Grand Rapids, MI, United States | On Site | Nov 22 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b0235d1fbf556e62aa2b467?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 19 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 19 |
 | **[Anna Maria of Aurora](https://www.annamariaofaurora.com)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/6aff7d8372b9be368529298d?utm_campaign=1049&utm_source=git)** | Aurora, OH, United States | On Site | Nov 19 |
-| **[Dimensional Innovations](https://www.dimin.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6aff7d6ab47661ae4a62d71e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
