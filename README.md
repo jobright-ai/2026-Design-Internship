@@ -57,12 +57,14 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6b02e4a9d7d09d301fa86cda?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 22 |
+| **[7-Eleven](http://www.7-eleven.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6ac9718ad4a5a03707412635?utm_campaign=1049&utm_source=git)** | Irving, TX, United States | On Site | Nov 22 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6b02d3c85cc15ec1b42bf5e2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 22 |
 | **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6aad9633de327d3e210d3596?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Nov 22 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b0235d1fbf556e62aa2b467?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
-| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
+| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - CX](https://jobright.ai/jobs/info/6aac0e7595c707f49dfef2d6?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
 | **[Crystal Dynamics](http://crystald.com)** | **[External Art Intern, Environments [Spring 2027]](https://jobright.ai/jobs/info/6ada84db03d2da7528916493?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
 | ↳ | **[External Art Intern, Characters [Spring 2027]](https://jobright.ai/jobs/info/6ada84db4c3adc437cecdf92?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
-| **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 19 |
-| ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
