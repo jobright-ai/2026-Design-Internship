@@ -57,20 +57,23 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6b02f5c3f8aac3fb5bbe392c?utm_campaign=1049&utm_source=git)** | Cary, NC, United States | On Site | Nov 22 |
+| ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84da6956574eac8b62d7?utm_campaign=1049&utm_source=git)** | Phoenix, AZ, United States | On Site | Nov 22 |
 | **[leManoosh](https://lemanoosh.com)** | **[Industrial Design Intern](https://jobright.ai/jobs/info/6b02e4a9d7d09d301fa86cda?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 22 |
 | **[7-Eleven](http://www.7-eleven.com)** | **[Architectural Intern](https://jobright.ai/jobs/info/6ac9718ad4a5a03707412635?utm_campaign=1049&utm_source=git)** | Irving, TX, United States | On Site | Nov 22 |
 | **[CannonDesign](http://www.cannondesign.com/)** | **[Design Student Intern](https://jobright.ai/jobs/info/6b02d3c85cc15ec1b42bf5e2?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | On Site | Nov 22 |
 | **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6aad9633de327d3e210d3596?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Nov 22 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b0235d1fbf556e62aa2b467?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - CX](https://jobright.ai/jobs/info/6aac0e7595c707f49dfef2d6?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Menasha Corporation](http://www.menashacorporation.com/)** | **[Graphic Prepress Technician Intern/Co-op (Spring Jan-Jun 2027)](https://jobright.ai/jobs/info/6afdca96758942b6422b3e61?utm_campaign=1049&utm_source=git)** | Neenah, WI, United States | On Site | Nov 21 |
 | **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 21 |
 | **[Safran Defense & Space, Inc.](https://www.safran-dsi.com/)** | **[Graphic Design & Marketing Internship](https://jobright.ai/jobs/info/6aac1e0e3dbb1f8967ce8edc?utm_campaign=1049&utm_source=git)** | Bedford, NH, United States | On Site | Nov 21 |
+| **[Amazon](https://amazon.com)** | **[Design Technologist Intern FY2027 (Summer)](https://jobright.ai/jobs/info/6b00e182af6fea8c089b528a?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[Munich Re](https://www.munichre.com)** | **[Graphic Design Intern - Summer 2027](https://jobright.ai/jobs/info/6abbd09f92b2612ef0f8aeca?utm_campaign=1049&utm_source=git)** | Amelia, OH, United States | Hybrid | Nov 21 |
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ee0d7424a2a828dda79?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae4675b77c09cb3bd4ac4f3?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 21 |
@@ -78,7 +81,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aad84d22e757fcb5c8b8df3?utm_campaign=1049&utm_source=git)** | Scottsdale, AZ, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ed9eab1f96730971e23?utm_campaign=1049&utm_source=git)** | Summerville, SC, United States | On Site | Nov 21 |
 | **[leManoosh](https://lemanoosh.com)** | **[EvoShield Design Intern](https://jobright.ai/jobs/info/6b019537505c87ccb3a2d645?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| **[Amazon](https://amazon.com)** | **[Design Technologist Intern FY2027 (Summer)](https://jobright.ai/jobs/info/6b00e182af6fea8c089b528a?utm_campaign=1049&utm_source=git)** | Seattle, WA, United States | On Site | Nov 21 |
 | **[Haggar Clothing Co.](http://www.haggar.com)** | **[Creative Services Intern- Dallas](https://jobright.ai/jobs/info/6aae34bc6956574eac8b86c1?utm_campaign=1049&utm_source=git)** | Farmers Branch, TX, United States | On Site | Nov 21 |
 | **[Delta Air Lines](https://www.delta.com)** | **[Intern, Digital Service Designer (Summer 2027)](https://jobright.ai/jobs/info/6b016014df73191d2e6b1163?utm_campaign=1049&utm_source=git)** | Atlanta, GA, United States | On Site | Nov 21 |
 | **[Dodge Industrial](https://dodgeindustrial.com)** | **[CAD Designer Intern (Part-Time Starting Fall 2026 Semester)](https://jobright.ai/jobs/info/6a8ef79da10ee661e24d5ab2?utm_campaign=1049&utm_source=git)** | Simpsonville, SC, United States | On Site | Nov 21 |
@@ -155,6 +157,4 @@ For a complete list, click the following sortable link below:
 | **[MKG](http://thisismkg.com)** | **[Creative Strategist Intern](https://jobright.ai/jobs/info/6aff6de8865dbcc3f26fc43e?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 19 |
 | **[Bohler](https://bohlerengineering.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6aff5753b88323bd981bdff6?utm_campaign=1049&utm_source=git)** | Towson, MD, United States | On Site | Nov 19 |
 | **[Shive-Hattery](http://shive-hattery.com)** | **[Internship- Landscape Architecture](https://jobright.ai/jobs/info/6aff5b9aaea17e3f50eafde7?utm_campaign=1049&utm_source=git)** | West Des Moines, IA, United States | Hybrid | Nov 19 |
-| **[Crystal Dynamics](http://crystald.com)** | **[External Art Intern, Environments [Spring 2027]](https://jobright.ai/jobs/info/6ada84db03d2da7528916493?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
-| ↳ | **[External Art Intern, Characters [Spring 2027]](https://jobright.ai/jobs/info/6ada84db4c3adc437cecdf92?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
