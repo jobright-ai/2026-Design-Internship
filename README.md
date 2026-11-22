@@ -62,7 +62,6 @@ For a complete list, click the following sortable link below:
 | **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| **[Solvyr](https://solvyr.com)** | **[Video Editing and Motion Graphics Intern](https://jobright.ai/jobs/info/6b01f3b1b2c65d24f91eccd3?utm_campaign=1049&utm_source=git)** | Peachtree City, GA, United States | On Site | Nov 21 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - CX](https://jobright.ai/jobs/info/6aac0e7595c707f49dfef2d6?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[STV](http://www.stvinc.com/)** | **[Architecture Intern - Summer 2027](https://jobright.ai/jobs/info/6ae4a7ccd45dc30fb7d30e40?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | Hybrid | Nov 21 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 19 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 19 |
 | **[Anna Maria of Aurora](https://www.annamariaofaurora.com)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/6aff7d8372b9be368529298d?utm_campaign=1049&utm_source=git)** | Aurora, OH, United States | On Site | Nov 19 |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6aff7d6ab47661ae4a62d71e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
