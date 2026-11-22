@@ -104,7 +104,6 @@ For a complete list, click the following sortable link below:
 | ↳ | **[Cinematic Presentation Design Intern [Spring 2027]](https://jobright.ai/jobs/info/6b00c1a1e0dc96195928402a?utm_campaign=1049&utm_source=git)** | United States | Remote | Nov 20 |
 | **[Reingold, Inc.](http://reingold.com)** | **[UX/UI Design Intern](https://jobright.ai/jobs/info/6adbbf49c5c64fa3d9cb0f6d?utm_campaign=1049&utm_source=git)** | Alexandria, VA, United States | On Site | Nov 20 |
 | **[Wealth Warden Partners](https://www.wardenpartners.com)** | **[Graphic Design Marketing Intern(Unpaid)](https://jobright.ai/jobs/info/6b00b41389d8ca1e84958c28?utm_campaign=1049&utm_source=git)** | Tampa, FL, United States | On Site | Nov 20 |
-| **[Excel Sports Management](http://www.excelsm.com)** | **[Spring 2027 - Intern, Social Media Graphic Design](https://jobright.ai/jobs/info/6b00a928d1fe3bc162e3dac9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 20 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacb1b50a4ce9becc77a51c?utm_campaign=1049&utm_source=git)** | Madison, WI, United States | On Site | Nov 20 |
 | **[Method](https://www.method.com)** | **[Residency Internship Program - Design](https://jobright.ai/jobs/info/6b009e85d1fe3bc162e3d51b?utm_campaign=1049&utm_source=git)** | Charlotte, NC, United States | Remote | Nov 20 |
 | **[Dynamic Integrated Services](https://disconsulting.com)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6afc854863fb67454cf7944e?utm_campaign=1049&utm_source=git)** | Contiguous United States, United States | Remote | Nov 20 |
@@ -157,4 +156,5 @@ For a complete list, click the following sortable link below:
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 19 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 19 |
 | **[Anna Maria of Aurora](https://www.annamariaofaurora.com)** | **[Social Media and Graphic Design Intern](https://jobright.ai/jobs/info/6aff7d8372b9be368529298d?utm_campaign=1049&utm_source=git)** | Aurora, OH, United States | On Site | Nov 19 |
+| **[Dimensional Innovations](https://www.dimin.com/)** | **[UI/UX Design Intern](https://jobright.ai/jobs/info/6aff7d6ab47661ae4a62d71e?utm_campaign=1049&utm_source=git)** | Overland Park, KS, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
