@@ -57,14 +57,15 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Creative Office Resources](https://www.creativeofficeresources.com)** | **[Design Intern](https://jobright.ai/jobs/info/6b043d1b526905eb2bcf5988?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 23 |
+| **[Trinidad Benham](https://www.trinidadbenham.com/)** | **[Intern - UI/UX Design Intern](https://jobright.ai/jobs/info/6b0471a74c822a415e670e02?utm_campaign=1049&utm_source=git)** | Greenwood Village, CO, United States | Hybrid | Nov 23 |
 | **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Summer 2027 Graduate Intern, UX/UI Design](https://jobright.ai/jobs/info/6b04691621f0a1e0c849a9a3?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
 | **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6b0150fea512f514bbde2d0a?utm_campaign=1049&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/6a73810a8dc3d52d8ed9fd37?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
-| ↳ | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
+| ↳ | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6b044987566251ad7b86098c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
 | **[leManoosh](https://lemanoosh.com)** | **[Intern, Exterior Design, Summer 2027](https://jobright.ai/jobs/info/6b043d47a72582cade08c05d?utm_campaign=1049&utm_source=git)** | Newark, CA, United States | On Site | Nov 23 |
-| **[Creative Office Resources](https://www.creativeofficeresources.com)** | **[Design Intern](https://jobright.ai/jobs/info/6b043d1b526905eb2bcf5988?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 23 |
 | **[rednote](https://www.rednote.com)** | **[Creative Community Intern](https://jobright.ai/jobs/info/6b041cdf526905eb2bcf5362?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 22 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[The Beck Group](http://www.beckgroup.com)** | **[Architecture Intern](https://jobright.ai/jobs/info/6ae3960e77c09cb3bd4a7496?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 20 |
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, UI/UX](https://jobright.ai/jobs/info/6aff56d41c42ea8f6b9ff851?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 19 |
-| **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6ab0cf07de327d3e210d8ea0?utm_campaign=1049&utm_source=git)** | Sleepy Eye, MN, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
