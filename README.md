@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[rednote](https://www.rednote.com)** | **[Creative Community Intern](https://jobright.ai/jobs/info/6b041cdf526905eb2bcf5362?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
 | **[Palantir Technologies](http://www.palantir.com)** | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1f46ca1f9338466029db?utm_campaign=1049&utm_source=git)** | Washington, D.C., United States | On Site | Nov 22 |
 | ↳ | **[Product Designer, Internship - US Government](https://jobright.ai/jobs/info/6a6d1606acb0a61f9dbc8e04?utm_campaign=1049&utm_source=git)** | Palo Alto, CA, United States | On Site | Nov 22 |
 | **[Chesapeake Utilities Corporation](http://chpk.com)** | **[Creative Services Internship - Summer 2027](https://jobright.ai/jobs/info/6aadc45b3dbb1f8967cef767?utm_campaign=1049&utm_source=git)** | Dover, DE, United States | Hybrid | Nov 22 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[Weave Robotics](https://www.weaverobots.com/)** | **[Industrial Designer, Intern](https://jobright.ai/jobs/info/6affc305865dbcc3f26fe9ea?utm_campaign=1049&utm_source=git)** | San Francisco, CA, United States | On Site | Nov 19 |
 | **[Game Companies](https://gamecompanies.com/)** | **[Cinematic Presentation Design Intern [Spring 2027]](https://jobright.ai/jobs/info/6b02577fbf981a045822809d?utm_campaign=1049&utm_source=git)** | San Carlos, CA, United States | Remote | Nov 19 |
 | **[leManoosh](https://lemanoosh.com)** | **[Intern, Automotive Design - Spring 2027](https://jobright.ai/jobs/info/6affa01b865dbcc3f26fe1eb?utm_campaign=1049&utm_source=git)** | Santa Monica, CA, United States | Hybrid | Nov 19 |
-| **[Answers in Genesis](https://answersingenesis.org)** | **[Illustrator Embark Intern Summer 2027](https://jobright.ai/jobs/info/6aff98f81126e09fee091a2d?utm_campaign=1049&utm_source=git)** | Erlanger, KY, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
