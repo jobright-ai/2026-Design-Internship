@@ -57,9 +57,11 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Federal Reserve Board](https://www.federalreserve.gov/)** | **[Summer 2027 Graduate Intern, UX/UI Design](https://jobright.ai/jobs/info/6b04691621f0a1e0c849a9a3?utm_campaign=1049&utm_source=git)** | Washington, DC, United States | On Site | Nov 23 |
+| **[Constellation](https://www.constellationenergy.com)** | **[2027 Summer Graphic Design & Creative Media Intern (Baltimore, MD)](https://jobright.ai/jobs/info/6b0150fea512f514bbde2d0a?utm_campaign=1049&utm_source=git)** | Baltimore, MD, United States | Hybrid | Nov 23 |
 | **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/6a73810a8dc3d52d8ed9fd37?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
-| **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
-| ↳ | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
+| **[Corgan](http://www.corgan.com/)** | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
+| ↳ | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6b044987566251ad7b86098c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
 | **[leManoosh](https://lemanoosh.com)** | **[Intern, Exterior Design, Summer 2027](https://jobright.ai/jobs/info/6b043d47a72582cade08c05d?utm_campaign=1049&utm_source=git)** | Newark, CA, United States | On Site | Nov 23 |
 | **[Creative Office Resources](https://www.creativeofficeresources.com)** | **[Design Intern](https://jobright.ai/jobs/info/6b043d1b526905eb2bcf5988?utm_campaign=1049&utm_source=git)** | Boston, MA, United States | On Site | Nov 23 |
@@ -74,8 +76,8 @@ For a complete list, click the following sortable link below:
 | **[Vertiv](https://www.Vertiv.com)** | **[UX Design Intern (Summer 2027)](https://jobright.ai/jobs/info/6aad9633de327d3e210d3596?utm_campaign=1049&utm_source=git)** | Westerville, OH, United States | On Site | Nov 22 |
 | **[Ogilvy New York](https://www.ogilvy.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b0235d1fbf556e62aa2b467?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[EssilorLuxottica](https://www.essilorluxottica.com)** | **[New York Store Design Summer 2027 Intern](https://jobright.ai/jobs/info/6aff50ebc1c02a9acd80adaf?utm_campaign=1049&utm_source=git)** | New York, New York, United States | On Site | Nov 21 |
-| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
-| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| **[Ogilvy Health](https://ogilvyhealth.com/)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd22b2c65d24f91ecdf9?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
+| ↳ | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fd249378f7b150e11648?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Ogilvy](https://www.ogilvy.com)** | **[2027 Ogilvy Creative Summer Internship](https://jobright.ai/jobs/info/6b01fcc2b2c65d24f91ecde3?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
 | **[Epic](https://www.epic.com/)** | **[User Experience Design Intern](https://jobright.ai/jobs/info/6aacbef00a4ce9becc77a6af?utm_campaign=1049&utm_source=git)** | Verona, Wisconsin, United States | On Site | Nov 21 |
 | **[The Options Clearing Corporation (OCC)](https://www.theocc.com/)** | **[Year-Round Intern - CX](https://jobright.ai/jobs/info/6aac0e7595c707f49dfef2d6?utm_campaign=1049&utm_source=git)** | Chicago, IL, United States | Hybrid | Nov 21 |
@@ -97,8 +99,6 @@ For a complete list, click the following sortable link below:
 | **[Kimley-Horn](https://www.kimley-horn.com/)** | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6ae30ef577c09cb3bd4a3be1?utm_campaign=1049&utm_source=git)** | Fort Mill, SC, United States | On Site | Nov 21 |
 | ↳ | **[Landscape Architecture Intern](https://jobright.ai/jobs/info/6abc2bd33217d1d13329daf5?utm_campaign=1049&utm_source=git)** | Escondido, CA, United States | On Site | Nov 21 |
 | **[Obsidian Entertainment](http://www.obsidian.net/)** | **[Concept Artist - 2027 Summer Internship](https://jobright.ai/jobs/info/6ae4d4be77c09cb3bd4af478?utm_campaign=1049&utm_source=git)** | Irvine, CA, United States | On Site | Nov 21 |
-| **[U.S. Hunger](https://ushunger.org/)** | **[Spring 2027 Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa36e0dc96195928301a?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | On Site | Nov 21 |
-| ↳ | **[Spring Graphic Design & Print Production Intern](https://jobright.ai/jobs/info/6b00aa363a9a0230ab029692?utm_campaign=1049&utm_source=git)** | Longwood, FL, United States | Hybrid | Nov 21 |
 | **[HNI Corporation](http://www.hnicorp.com)** | **[Intern - Interior Design - Summer 2027](https://jobright.ai/jobs/info/6a91b29cd18f756748279684?utm_campaign=1049&utm_source=git)** | Muscatine, IA, United States | On Site | Nov 21 |
 | **[Omnicom](https://www.omc.com)** | **[Digital Intern](https://jobright.ai/jobs/info/6ae4cfe8fb2cd420ace5a094?utm_campaign=1049&utm_source=git)** | New York, NY, United States | Hybrid | Nov 21 |
 | **[The Reynolds and Reynolds Company](https://www.reyrey.com)** | **[Graphic Design Winter Intern](https://jobright.ai/jobs/info/6afd45f4c287c018be3aa684?utm_campaign=1049&utm_source=git)** | Dayton, OH, United States | On Site | Nov 21 |
