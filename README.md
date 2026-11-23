@@ -57,6 +57,7 @@ For a complete list, click the following sortable link below:
 
 | Company | Job Title | Location | Work Model | Date Posted |
 | ----- | --------- |  --------- | ---- | ------- |
+| **[Doing Things](https://www.doingthingsmedia.com/)** | **[Overheard Intern (Branded)](https://jobright.ai/jobs/info/6a73810a8dc3d52d8ed9fd37?utm_campaign=1049&utm_source=git)** | New York, NY, United States | On Site | Nov 23 |
 | **[Corgan](http://www.corgan.com/)** | **[Student Interior Design Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b3563138838706059726b?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
 | ↳ | **[Student Architectural Internship / Summer 2027](https://jobright.ai/jobs/info/6a9b4dcafe45b8490f607ef5?utm_campaign=1049&utm_source=git)** | Dallas, TX, United States | On Site | Nov 23 |
 | **[Playfly Sports](https://www.playfly.com/)** | **[Graphic Design Intern](https://jobright.ai/jobs/info/6b044987566251ad7b86098c?utm_campaign=1049&utm_source=git)** | Los Angeles, CA, United States | Hybrid | Nov 23 |
@@ -156,5 +157,4 @@ For a complete list, click the following sortable link below:
 | **[FIS](http://www.fisglobal.com)** | **[Intern, Digital Media / UX Design](https://jobright.ai/jobs/info/6aff6aa972b9be3685291944?utm_campaign=1049&utm_source=git)** | Canada | Remote | Nov 19 |
 | **[Ilitch Companies](https://www.ilitchholdings.com)** | **[Intern, UI/UX](https://jobright.ai/jobs/info/6aff56d41c42ea8f6b9ff851?utm_campaign=1049&utm_source=git)** | Detroit, MI, United States | Hybrid | Nov 19 |
 | **[Christensen Farms](https://www.christensenfarms.com)** | **[Communications Internship](https://jobright.ai/jobs/info/6ab0cf07de327d3e210d8ea0?utm_campaign=1049&utm_source=git)** | Sleepy Eye, MN, United States | On Site | Nov 19 |
-| **[Target](https://www.target.com)** | **[Target Creative Intern-Minneapolis, MN (Starting Summer 2027)](https://jobright.ai/jobs/info/6afe1a590cde47528ec11c80?utm_campaign=1049&utm_source=git)** | Minneapolis, MN, United States | On Site | Nov 19 |
 <!-- Please leave a one line gap between this and the table TABLE_END (DO NOT CHANGE THIS LINE) -->
